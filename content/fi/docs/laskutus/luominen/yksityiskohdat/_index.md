@@ -56,7 +56,7 @@ Tallenna pdf-tiedostoon
 Ei tulosteta
 : Lasku tallennetaan kirjanpitoon ilman että sitä tulostetaan.
 
-{{% alert color="info" %}}
+{{% alert color="primary" %}}
 Kaikki toimitustavat eivät välttämättä ole käytettävissä. Esimerkiksi verkkolaskutus edellyttää, että verkkolaskutuksen asetuksen on tehty ja asiakkaalle on määritelty verkkolaskuosoite.
 {{% /alert %}}
 
@@ -89,6 +89,10 @@ Toimituspäivämäärä
 Laskutusjakso
 : Täytä molemmat päivämäärät (esimerkiksi tilauksen tai vuokran laskutusjakso)
 
+### Otsikko
+
+Otsikko tulostetaan laskulle, ja se toimii myös tositteen otsikkona kirjanpidossa.
+
 ### Netto- tai bruttolaskenta
 
 ![B](brutto.png)-painikkeen ollessa valittuna laskulle merkitään verolliset rivisummat, muuten rivisummat ovat verottomia ja vero lisätään vasta verottoman välisumman jälkeen, mikä on tavanomainen käytäntö yritysten välisessä kaupassa. Oletuksena verolliset rivisummat näytetään kun asiakkaana on yksityishenkilö eli asiakkaalla ei ole Y-tunnusta.
@@ -96,3 +100,35 @@ Laskutusjakso
 ### Laskun rivit
 
 ![Laskun rivit](rivit.png)
+
+Tuoterekisterissä olevan tuotteen voit lisätä napsauttamalla listalla olevaa tuotetta. Voit myös kirjoittaa suoraan ruudukkoon nimikkeen ja muut rivin tiedot.
+
+Tuotteelle voi syöttää joko yksittäishinnan tai koko rivin yhteishinnan.
+
+{{% alert color="primary" %}}
+Käänteinen arvonlisävero on käytettävissä vain, kun asiakkaalle on määritelty Y-tunnus. Yhteisömyyntejä voi laskuttaa ainoastaan ei-kotimaiselta eurooppalaiselta asiakkaalta, jolla on alv-tunnus.
+{{% /alert %}}
+
+**Rivin lisätiedot**-painikkeella pääset syöttämään riville myös sellaisia tietoja, joita ei näytetä ruudukossa.
+
+![Rivin lisätietojen välilehti](rivilisatiedot.png)
+
+### Laskun lisätiedot
+
+![Laskun lisätietojen välilehti](lisatiedot.png)
+
+**Lisätiedot**-välilehdelle voit syöttää laskulle tulostuvia lisätietoja.
+
+### Laskun toistuminen
+
+![Toistuminen-välilehti](toistuminen.png)
+Lasku, jolla on toimitusjakso, voidaan määritellä toistumaan. Tällöin laskutuskauden päättyessä ohjelma luo automaattisesti uuden laskun. Nämä automaattisesti luodut laskut tulevat myyntilaskunäkymän _Lähtevät_-välilehdelle.
+
+- **Laskutusjakso** määritellee automaattisesti luotavan uuden laskun jakson pituuden
+- **Laskutus**-valinta määrittelee, kuinka monta päivää ennen tai jälkeen laskutusjakson päättymisen seuraavan laskutusjakson lasku luodaan.
+- **päättyy**-päivämäärän jälkeen ei luoda enää uusi laskuja
+- **Laskuta hinnaston mukaan** valinnalla tuoterekisterissä oleville tuotteille merkitään automaattisesti luotavalle laskulle luontihetkellä tuoterekisterissä oleva hinta.
+
+{{% alert title="Toistolaskujen lopettaminen tai muuttaminen" color="primary" %}}
+Voit muuttaa tositumisen asetuksia avaamalla laskun, jolle on määritelty toistuminen, muokattavaksi.
+{{% /alert %}}

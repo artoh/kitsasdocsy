@@ -1,0 +1,56 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Edellinen"
+
+[ui_pager_next]
+other = "Seuraava"
+
+[ui_read_more]
+other = "Lisää"
+
+[ui_search]
+other = "Hae sivulta…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = " "
+
+# Footer text
+[footer_all_rights_reserved]
+other = " "
+
+[footer_privacy_policy]
+other = "Käyttöehdot"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Tekijä"
+[post_created]
+other = "Luotu"
+[post_last_mod]
+other = "Muokattu"
+[post_edit_this]
+other = "Muokkaa sivua"
+[post_create_child_page]
+other = "Lisää alasivu"
+[post_create_issue]
+other = "Lisää ohjeisiin liittyvä tehtävä"
+[post_create_project_issue]
+other = "Lisää projektiin liittyvä tehtävä"
+[post_posts_in]
+other = "Kirjoitukset"
+
+# Print support
+[print_printable_section]
+other = "Tämä on monisivuinen tulostettava näkymä."
+[print_click_to_print]
+other = "Napsauta tästä tulostaaksesi"
+[print_show_regular]
+other = "Palaa tavalliseen näkymään"
+[print_entire_section]
+other = "Tulosta koko sivu"
+ 
