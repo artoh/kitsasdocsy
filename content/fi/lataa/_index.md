@@ -4,9 +4,11 @@ linkTitle: "Lataa"
 menu:
   main:
     weight: 10
+download:
+  linux: "https://github.com/artoh/kitupiikki/releases/download/v2.3/Kitsas-2.3-x86_64.AppImage"
 ---
 
-{{% blocks/lead color="dark" %}}
+{{% blocks/lead color="light" %}}
 
 # Lataa Kitsas 3.0
 
@@ -72,6 +74,18 @@ Lataa Kitsas maksutta tietokoneellesi
   </div>
 </div>
 {{% /blocks/section %}}
+
+{{% blocks/section color="light" height="min" %}}
+
+## Rekisteröidy ja kokeile kaikkia ominaisuuksia
+
+<p class="lead">Asennettuasi ohjelman voit luoda itsellesi ilmaisen käyttäjätunnuksen ja kokeilla 30 päivän ajan kaikkia ohjelman ominaisuuksia, myös kirjanpidon tallentamista pilveen. Myös sähköpostituki on käytettävissäsi kokeilujakson ajan. </p>
+
+Ellet tee kokeilujakson aikana tilausta, jatkat maksuttomana käyttäjänä ja voit yhä tallentaa rajattoman määrän kirjanpitoja omalle tietokoneellesi.
+Kitsasta voi käyttää myös rekisteröitymättä, mutta emme voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa.
+
+{{% /blocks/section %}}
+
 {{% blocks/section color="white" %}}
 {{% blocks/feature icon="fab fa-osi" title="Kitsas on avointa lähdekoodia" %}}
 

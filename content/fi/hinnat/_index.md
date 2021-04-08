@@ -7,32 +7,33 @@ menu:
     weight: 20
 ---
 
-{{%  blocks/lead color=dark %}}
+{{%  blocks/lead color=light %}}
 
 # Ilmainen vai halpa?
 
 Kitsasta voit käyttää täysin ilmaiseksi omalla koneellasi. Pienellä rahalla saat enemmän ominaisuuksia sekä mahdollisuuden tallentaa kirjanpitosi
 varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle. Samalla teet mahdolliseksi ohjelman kehitystyön jatkumisen.
 
-isen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
-
 {{% /blocks/lead %}}
+
 {{% blocks/section color="white" %}}
 
-Rekisteröitymisen ja tilaukset teet suoraan ohjelmasta. Edulliset tilaukset laskutetaan valintasi mukaan kuuden kuukauden tai vuoden jaksoissa.
+<p class="lead" style="text-align:center;">Rekisteröitymisen ja tilaukset teet suoraan ohjelmasta. Edulliset tilaukset laskutetaan valintasi mukaan kuuden kuukauden tai vuoden jaksoissa.
+<br/><button href="#" class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Näin rekisteröidyt ja tilaat</button></p>
 
-**Ilmaiseksi** ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.
+{{% pageinfo color="primary" %}}
 
-**Kitsas Kerho** sopii kaikki yhdistyksille (joilla ei ole arvonlisäverollista toimintaa). Lisäksi se sopii yrityksille, jotka tallentavat kirjanpidon omalle koneelleen, mutta haluavat hyödyntää tukipalveluita ja sähköistä laskutusta.
-
-**Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentam
-
-{{% alert title="<i class='fa fa-gift'></i> 30 päivän kokeilujakso" color="primary" %}}
+### <i class='fa fa-gift'></i> 30 päivän kokeilujakso
 
 Kun luot itsellesi käyttäjätunnuksen, saat 30 päivän ajan kokeilla Kitsaan kaikkia ominaisuuksia yhdessä kirjanpidossa.
 Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa odotuksiasi.
+{{% /pageinfo %}}
 
-{{% /alert %}}
+**Ilmaiseksi** ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.
+
+**Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa. Lisäksi se sopii yrityksille, jotka tallentavat kirjanpidon omalle koneelleen, mutta haluavat hyödyntää tukipalveluita ja sähköistä laskutusta.
+
+**Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
 
 <article class="hinnat">
 
@@ -45,7 +46,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
   <li>
     <button>Kerho</button>
   </li>
-  <li>
+  <li class="active">
     <button>Firma</button>
   </li>
 </ul>
@@ -85,31 +86,31 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td>Kirjanpitoja ja tositteita</td>
       <td>rajattomasti</td>
       <td>rajattomasti</td>
-      <td>rajattomasti</td>
+      <td class="default">rajattomasti</td>
     </tr>
     <tr>
       <td>Arvonlisäverollinen toiminta</td>
       <td><span class="tick">&#10004;</span></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
       <td>Tekstintunnistus skannatuista tositteista</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
       <td>Finvoice-verkkolaskut <sup>** </sup></td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
       <td>Kirjanpidon automaattinen varmuuskopiointi</td>
       <td></span></td>
       <td></td>
-      <td></td>
+      <td class="default"></td>
     </tr>
     <tr>
       <td colspan="4" class="sep"><i class="fa fa-cloud"></i> Kirjanpito pilvessä</td>
@@ -118,37 +119,43 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td>Käyttäjiä kirjanpitoa kohden</td>
       <td></td>
       <td>rajattomasti</td>
-      <td>rajattomasti</td>
+      <td class="default">rajattomasti</td>
     </tr>
     <tr>
       <td>Tositteita enintään pilvessä</td>
       <td></sup></td>
       <td>rajattomasti <sup>* </sup></td>
-      <td>rajattomasti <sup>* </sup></td>
+      <td class="default">rajattomasti <sup>* </sup></td>
     </tr>
     <tr>
       <td>Arvonlisäverollinen toiminta</td>
       <td></td>
       <td></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
       <td>Tekstintunnistus skannatuista tositteista</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
       <td>Finvoice-verkkolaskut <sup>** </sup></td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
+    <tr>
+      <td>Asiakas- ja huoneistokohtaiset laskut</td>
+      <td></td>
+      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
+    </tr>    
     <tr>
       <td>Kirjanpidon automaattinen varmuuskopiointi</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
       <td colspan="4" class="sep"><i class="fa fa-life-ring"></i> Tuki</td>
@@ -157,13 +164,13 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td>Kattavat käyttöohjeet netissä</td>
       <td><span class="tick">&#10004;</span></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
       <td>Neuvonta sähköpostilla</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
-      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
   </tbody>
 </table>
@@ -196,3 +203,5 @@ Myymme myös räätälöintiä, ohjelmointityötä sekä ohjelman koulutusta.
 </div>
 
 {{% /blocks/section %}}
+
+<script src="/js/hinnat.js" defer></script>

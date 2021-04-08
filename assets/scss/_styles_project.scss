@@ -1,0 +1,117 @@
+ 
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+body {
+  font-size: 20px;
+}
+
+a.btn {
+  font-size: 110%;
+}
+
+p {
+
+}
+
+/* DIRTY Responsive pricing table CSS */
+
+/* DIRTY Responsive pricing table CSS */
+
+/*
+- make mobile switch sticky
+*/
+article.hinnat {
+  width:100%;
+  max-width:1100px;
+  margin:0 auto;
+  position:relative;
+  font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size:18px;
+  padding:18px;
+}
+article.hinnat > ul {
+  display:flex;
+  top:0px;
+  z-index:10;
+  padding-bottom:14px;
+}
+article.hinnat > ul > li {
+  list-style:none;
+  flex:1;
+}
+article.hinnat > ul > li:last-child {
+  border-right:1px solid #DDD;
+}
+article.hinnat > ul > li > button {
+  width:100%;
+  border: 1px solid #DDD;
+  border-right:0;
+  border-top:0;
+  padding: 10px;
+  background:#FFF;
+  font-size:14px;
+  font-weight:bold;
+  height:60px;
+  color:#999
+}
+article.hinnat > ul > li.active button {
+  background: $light;
+  color:#000;
+}
+table { border-collapse:collapse; width:100%; }
+th { background:$light; display:none; }
+td, th {
+  height:53px
+}
+td,th { border:1px solid $dark; padding:10px; empty-cells:show; }
+td,th {
+  text-align:left;
+}
+td+td, th+th {
+  text-align:center;
+  display:none;
+}
+td.default {
+  display:table-cell;
+}
+.bg-purple {
+  border-top:3px solid #A32362;
+}
+.bg-blue {
+  border-top:3px solid #0097CF;
+}
+.sep {
+  background:$light;
+  font-weight:bold;
+}
+.txt-l { font-size:28px; font-weight:bold; }
+.txt-top { position:relative; top:-9px; left:-2px; }
+.tick { font-size:22px; color:#2CA01C; }
+.hide {
+  border:0;
+  background:none;
+}
+
+@media (min-width: 640px) {
+  article.hinnat > ul {
+    display:none;
+  }
+  td,th {
+    display:table-cell !important;
+  }
+  td,th {
+    width: 420px;
+  }
+  td+td, th+th {
+    width: auto;
+  }
+}
