@@ -18,7 +18,7 @@ Käsin kirjattaessa merkitse tiliotteen päivämäärä ja aikaväli. Paina ![Ki
 
 Kirjataksesi saapuvia maksuja valitse **Tilille / Saapuva maksu** ja maksamillesi laskuille **Tililtä / Maksettu lasku**.
 
-Valitse luettelolta maksettu lasku ja merkitse päivämäärä, jona lasku on tiliotteen mukaan maksettu. Paina ![Kirjaa](kirjaa.png). Kirjaa samalle tositteelle kaikki tällä tiliotteella näkyvät maksut.
+Valitse luettelolta maksettu lasku ja merkitse päivämäärä, jona lasku on tiliotteen mukaan maksettu. Paina ![Kirjaa](kirjaa.png). Kirjaa samalle tositteelle kaikki samalla tiliotteella näkyvät maksut.
 
 ![Tiliotenäkymä](tiliote.png)
 
