@@ -13,6 +13,15 @@ Uudella laskulla valitse ensin rekisterissä oleva asiakas (tai lisää asiakasr
 
 ![Ennakkolasku](ennakkolasku.png)
 
-Tuotteen toimittamisen yhteydessä laaditaan asiakkaalle varsinainen lasku tuotteineen. Kun asiakkaalle on laskutettuja ennakkoja, on ikkunan alalaidassa **Hyvitä ennakko-painike**. Painikkeesta pääset valitsemaan ennakkolaskun, jota tällä laskulla hyvitetään.
+Tuotteen toimittamisen yhteydessä laaditaan asiakkaalle varsinainen lasku tuotteineen. Kun asiakkaalla on laskutettuja ennakkoja, on ikkunan alalaidassa **Hyvitä ennakko-painike**. Painikkeesta pääset valitsemaan ennakkolaskun, jota tällä laskulla hyvitetään.
 
-**TÄHÄN KUVA**
+![Hyvityksen valitseminen](hyvita.png)
+
+Hyvitetty ennakkolasku näkyy varsinaisesta laskusta vähennettävänä rivinä. Lisää laskulle kaikki tuotteet, jotka asiakkaalle on toimitettu.
+
+![Hyvitetty lasku](hyvitetty.png)
+
+{{% alert color="primary" %}}
+Jos laadit asiakkaalle ennakkolaskun, on sinun laadittava myös varsinainen lasku siinä vaiheessa, kun tuotteet toimitetaan asiakkaalle. Ennakkolasku sopii käytettäväksi esimerkiksi silloin, kun asiakas maksaa osan hinnasta käsirahana tilauksen yhteydessä. Tilanteessa, jossa tuote toimitetaan asiakkaalle välittömästi sen jälkeen kun hän on maksanut laskun, voi yleensä käyttää tavallista laskua.
+
+{{% /alert %}}
