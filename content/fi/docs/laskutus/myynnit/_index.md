@@ -14,6 +14,6 @@ description: >
 - **Avoimet**-välilehdellä ovat maksamattomat laskut sekä laskut, joilla on ylisuorituksia
 - **Erääntyneet**-välilehdellä ovat laskut, joiden eräpäivä on jo mennyt. Tällaiselle laskulle voi laatia [maksumuistuksen]({{<relref "maksumuistutus">}}).
 
-{{% alert title="Laskujen muokkaamieen" color="primary" %}}
+{{% alert title="Laskujen muokkaaminen" color="primary" %}}
 Tässä näkymässä voit **muokata** laskua tai **poistaa** jo laaditun laskun. Laskua, joka on jo toimitettu asiakkaalle, ei kuitenkaan pitäisi muokata, koska laskun pitäisi olla samanlaisena sekä asiakkaan että toimittajan kirjanpidossa. Laskun muutoksista pitäisi mieluummin laatia [hyvityslasku]({{<relref "hyvityslasku">}}).
 {{% /alert %}}

@@ -1,6 +1,7 @@
 ---
 title: "Ryhmälasku"
 linkTitle: "Ryhmälasku"
+keywords: ["ryhmat"]
 weight: 30
 date: 2021-04-07
 description: >

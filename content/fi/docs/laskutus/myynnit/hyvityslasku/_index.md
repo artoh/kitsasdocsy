@@ -12,12 +12,12 @@ Aloita hyvityslaskun laatiminen valitsemalla hyvitettävä lasku myyntilaskujen 
 
 ![Hyvityslasku laskuikkunassa](ikkuna.png)
 
-Ohjelma luo oletuksena laskun, jolla alkuperäinen lasku hyvitetään kokonaisuudessaan. Muokkaa laskua tarvittaessa. Voit lisätä laskulle myös selvityksen hyvityksestä.
+Ohjelma luo oletuksena laskun, jolla alkuperäinen lasku hyvitetään kokonaisuudessaan. Jos laskusta hyvitetään vain osa, muokkaa laskun rivejä hyvityksen mukaisesti. Voit myös lisätä lisätietoihin selvityksen hyvityksestä.
 
 Asiakas kirjaa hyvityslaskun omaan kirjanpitoonsa ja maksaa määrän, josta hyvitys on vähennetty.
 
 {{% alert title="Maksun palauttaminen" color="primary" %}}
-**Tähän vielä ohjeet maksun palauttamisesta ja sellaisista laskuista**
+Jos asiakas on jo maksanut laskunsa ja joudut palauttamaan rahaa asiakkaalle, voit kirjata palautuksen maksetuksi vastaavalla tavalla kuin [ostolasku kirjataan maksetuksi]({{<relref "../../maksaminen">}}). Palautettavat laskut ovat välilehdelle **Tililtä / Maksettu lasku**.
 {{% /alert %}}
 
 #### Hyvityslaskun malli
