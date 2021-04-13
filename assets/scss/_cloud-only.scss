@@ -7,3 +7,13 @@ div.cloud-only {
   margin: 2rem;
   padding: 0.5rem;
 }
+
+div.cloud-only-print {
+  font-weight: $font-weight-medium;
+  background: none;
+  border: solid $light;
+  color: inherit;
+  border-radius: 0;
+  margin: 2rem;
+  padding: 0.5rem;
+}
