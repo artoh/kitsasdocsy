@@ -7,7 +7,7 @@ description: >
   Huoneistojen tietojen ylläpitäminen sekä vastikkeiden ja vuokrien laskuttaminen ja seuranta
 ---
 
-![Huoneistoluettelo](huoneistot.png)
+![Huoneistoluettelo](/img/fi/laskutus/huoneistot/huoneistot.png)
 
 Kitsaalla on mahdollista kohdistaa vuokra tai vastike huoneistoon. Tällöin ohjelma merkitsee maksun saapuessa aina vanhimmat maksamattomat huoneistoon kohdistuvat laskut maksetuiksi.
 

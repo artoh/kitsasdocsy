@@ -1,0 +1,16 @@
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ with $related }}
+<div class="section-index">
+  {{ range . }}
+    <hr class="panel-line">
+    <h4>{{ T "see_also"}}</h3>
+    <div class="entry">
+      <h5>
+        <a href="{{ .RelPermalink }}">{{- .Title -}}</a>
+      </h5>
+      <p>{{ .Description | markdownify }}</p>
+    </div>  
+  {{ end }}
+</div>
+{{ end }}
+
