@@ -35,7 +35,7 @@ Valitse maksumuistutus **Lähetettävät**-välilehdeltä ja paina **Muokkaa**.
 
 #### Toisen maksumuistuksen lähettäminen
 
-Voit lähettää toisen maksumuistuksen valitsemalla **Kirjanpidossa**-välilehdeltä aiemman maksumuistuksen ja painamalla ![**Maksumuistutus**](muistutusnappi.png)-nappia.
+Voit lähettää toisen maksumuistuksen valitsemalla aiemman maksumuistuksen ja painamalla ![**Maksumuistutus**](muistutusnappi.png)-nappia.
 
 #### Maksumuistuksen malli
 
