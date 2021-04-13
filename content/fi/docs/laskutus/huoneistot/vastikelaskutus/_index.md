@@ -2,6 +2,7 @@
 title: "Vastikkeiden tai vuokrien laskutus"
 linkTitle: "Vastikelaskutus"
 weight: 20
+cloud: true
 description: >
   Kuukausittaisten toistuvien huoneistokohtaisten laskujen luominen
 ---
@@ -10,7 +11,7 @@ description: >
 
 Lisää ensin vastike/vuokra, vesimaksu yms. laskutettavat maksut [tuoterekisteriin]({{<relref "../../tuotteet">}}).
 
-![Vastike tuoterekisterissa](tuote.png)
+![Vastike tuoterekisterissa](tuote.png">)
 
 #### Huoneistojen tiedot
 

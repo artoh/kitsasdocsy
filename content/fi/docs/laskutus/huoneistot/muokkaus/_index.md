@@ -2,6 +2,7 @@
 title: "Huoneiston tietojen muokkaaminen"
 linkTitle: "Muokkaaminen"
 weight: 10
+cloud: true
 date: 2021-04-08
 description: >
   Syötä ohjelmaan ensin perustiedot huoneistoista, asukkaasta sekä kuukausittaisista maksuista.

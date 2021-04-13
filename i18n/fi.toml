@@ -53,4 +53,7 @@ other = "Napsauta tästä tulostaaksesi"
 other = "Palaa tavalliseen näkymään"
 [print_entire_section]
 other = "Tulosta koko sivu"
+
+[cloud-only]
+other = "Ominaisuus on käytettävissä vain, kun kirjanpito tallennetaan Kitsaan pilveen"
  

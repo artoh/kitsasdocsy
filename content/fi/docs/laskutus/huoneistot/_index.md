@@ -2,13 +2,10 @@
 title: "Huoneistot"
 linkTitle: "Huoneistot"
 weight: 80
+cloud: true
 description: >
   Huoneistojen tietojen ylläpitäminen sekä vastikkeiden ja vuokrien laskuttaminen ja seuranta
 ---
-
-{{% pageinfo color="primary" %}}
-<i class="fas fa-cloud"></i> Huoneistot ovat käytettävissä vain, kun kirjanpito tallennetaan Kitsaan pilveen.
-{{% /pageinfo %}}
 
 ![Huoneistoluettelo](huoneistot.png)
 

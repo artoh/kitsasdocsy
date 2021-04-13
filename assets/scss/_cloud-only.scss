@@ -1,0 +1,9 @@
+div.cloud-only {
+  font-weight: $font-weight-medium;
+  background: rgba(red($light), green($light), blue($light), 0.25);
+
+  color: inherit;
+  border-radius: 0;
+  margin: 2rem;
+  padding: 0.5rem;
+}
