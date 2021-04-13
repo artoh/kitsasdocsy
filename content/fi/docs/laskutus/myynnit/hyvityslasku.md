@@ -8,18 +8,18 @@ description: >
   tuotteen palautuksen takia.
 ---
 
-Aloita hyvityslaskun laatiminen valitsemalla hyvitettävä lasku myyntilaskujen näkymässä ja painamalla ![**Hyvitys**](hyvitysnappi.png)-painiketta.
+Aloita hyvityslaskun laatiminen valitsemalla hyvitettävä lasku myyntilaskujen näkymässä ja painamalla ![**Hyvitys**](/img/fi/laskutus/hyvityslasku/hyvitysnappi.png)-painiketta.
 
-![Hyvityslasku laskuikkunassa](ikkuna.png)
+![Hyvityslasku laskuikkunassa](/img/fi/laskutus/hyvityslasku/ikkuna.png)
 
 Ohjelma luo oletuksena laskun, jolla alkuperäinen lasku hyvitetään kokonaisuudessaan. Jos laskusta hyvitetään vain osa, muokkaa laskun rivejä hyvityksen mukaisesti. Voit myös lisätä lisätietoihin selvityksen hyvityksestä.
 
 Asiakas kirjaa hyvityslaskun omaan kirjanpitoonsa ja maksaa määrän, josta hyvitys on vähennetty.
 
 {{% alert title="Maksun palauttaminen" color="primary" %}}
-Jos asiakas on jo maksanut laskunsa ja joudut palauttamaan rahaa asiakkaalle, voit kirjata palautuksen maksetuksi vastaavalla tavalla kuin [ostolasku kirjataan maksetuksi]({{<relref "../../maksaminen">}}). Palautettavat laskut ovat välilehdelle **Tililtä / Maksettu lasku**.
+Jos asiakas on jo maksanut laskunsa ja joudut palauttamaan rahaa asiakkaalle, voit kirjata palautuksen maksetuksi vastaavalla tavalla kuin [ostolasku kirjataan maksetuksi]({{<relref "../maksaminen">}}). Palautettavat laskut ovat välilehdelle **Tililtä / Maksettu lasku**.
 {{% /alert %}}
 
 #### Hyvityslaskun malli
 
-![Esimerkkilasku](malli.png)
+![Esimerkkilasku](/img/fi/laskutus/hyvityslasku/malli.png)

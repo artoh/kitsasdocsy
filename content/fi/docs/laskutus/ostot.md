@@ -6,7 +6,7 @@ description: >
   Ostoreskontrassa voit tarkastella ostolaskujen tilannetta
 ---
 
-![Ostolaskujen luettelo](ostot.png)
+![Ostolaskujen luettelo](/img/fi/laskutus/ostot.png)
 
 - **Kaikki**-välilehdellä ovat kaikki ostolaskut
 - **Avoimet**-välilehdellä ovat ostolaskut, joita ei ole maksettu
@@ -16,5 +16,5 @@ Ostolaskuja ohjelmaan lisätään kirjaamalla tositteita tositetyypillä **Meno*
 
 {{% alert title="Laskujen seuranta" color="primary" %}}
 
-Ostovelkoihin kirjattujen laskujen maksamista seurataan tase-erien perusteella. Jotta laskujen maksutilanne näkyisi oikein, kirjaa laskut aina maksetuiksi [ohjeiden mukaan]({{<relref "../maksaminen">}}).
+Ostovelkoihin kirjattujen laskujen maksamista seurataan tase-erien perusteella. Jotta laskujen maksutilanne näkyisi oikein, kirjaa laskut aina maksetuiksi [ohjeiden mukaan]({{<relref "maksaminen">}}).
 {{% /alert %}}

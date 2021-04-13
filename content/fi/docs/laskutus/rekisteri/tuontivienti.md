@@ -10,7 +10,7 @@ description: >
 
 **Tuo**-painikkeella voit tuoda rekisteriin tietoja csv-tiedostosta. Valittuasi tiedoston saat ikkunan, jossa määrittelet, mitä kenttiä tiedostosi sarakkeet vastaavat. **Ryhmät**-välilehdellä voit määrittää, mihin ryhmiin lisättävät henkilöt/yritykset lisätään ja **Oletukset**-välilehdellä oletuksen maalle, laskutuskielelle ja laskutustavalle.
 
-![](tuonti.png)
+![](/img/fi/laskutus/rekisteri/tuonti.png)
 
 ##### Esimerkki csv-tiedostosta
 

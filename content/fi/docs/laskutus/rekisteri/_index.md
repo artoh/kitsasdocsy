@@ -6,7 +6,7 @@ description: >
   Asiakkaiden ja toimittajien tietojen ylläpitäminen sekä myyntilaskujen tarkasteleminen asiakkaiden ja ostolaskujen tarkasteleminen toimittajien mukaisesti
 ---
 
-![Rekisterin näkymä](rekisteri.png)
+![Rekisterin näkymä](/img/fi/laskutus/rekisteri/rekisteri.png)
 
 - **Rekisteri**-välilehdellä voit hallinnoida kaikkien asiakas- ja toimittajarekisterissä olevien tietoja sekä muokata ryhmiä.
 - **Asiakkaat**-välilehdeltä näet kaikki asiakkaat, jotka on merkitty myyntilaskuihin, sekä heidän laskujensa tilanteen.
@@ -20,7 +20,7 @@ Voit luoda uuden asiakkaan tai toimittajan myös suoraan tositetta kirjatessasi 
 
 #### Asiakkaan/Toimittajan valitseminen
 
-![Toimittajan valitseminen](toimittajarivi.png)
+![Toimittajan valitseminen](/img/fi/laskutus/rekisteri/toimittajarivi.png)
 
 Ohjelman eri näkymissä voit valita asiakkaan tai toimittajan
 

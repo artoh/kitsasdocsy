@@ -6,7 +6,7 @@ description: >
   Asiakkaille ja toimittajille voidaan määritellä mm. yhteystiedot, laskutustapa ja ryhmien jäsenyys
 ---
 
-![Asiakkaan tiedot](jakke.png)
+![Asiakkaan tiedot](/img/fi/laskutus/rekisteri/jakke.png)
 
 Y-tunnus
 : Kun syötät Y-tunnuksen, hakee Kitsas automaattisesti osakeyhtiöille tiedot Yritystietojärjestelmästä. Muiden EU-maiden osalta syötetään arvonlisäverotunnus. Käänteinen arvonlisävero edellyttää, että yritykselle on syötetty Y-tunnus tai ALV-tunnus.
@@ -18,7 +18,7 @@ Maksuaika
 : Voit määritellä asiakaskohtaisesti maksuajan uusille laskuille
 
 Ryhmät
-: Voit määritellä [ryhmien]({{<relref "../ryhmat">}}) jäsenyyksiä ja lähettää niiden perusteella ryhmälaskuja
+: Voit määritellä [ryhmien]({{<relref "ryhmat">}}) jäsenyyksiä ja lähettää niiden perusteella ryhmälaskuja
 
 Verkkolasku
 : Kitsas tukee ainoastaa yhteisöjen Finvoice-verkkolaskuja. Yritykselle pitää olla syötettynä ensin Y-tunnus.

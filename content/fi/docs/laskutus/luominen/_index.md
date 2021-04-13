@@ -9,7 +9,7 @@ description: >
 
 Aloita uuden laskun luominen painamalla myyntilaskujen näkymässä **Uusi lasku**-painiketta.
 
-![Uusi lasku](uusilasku.png)
+![Uusi lasku](/img/fi/laskutus/luominen/uusilasku.png)
 
 - **Tallenna luonnoksena** tallentaa laskun keskeneräisenä. Voit palata muokkaamaan sitä myyntilaskujen näkymän _Luonnokset_-välilehdeltä.
 - **Tallenna valmiina** tallentaa laskun myyntilaskujen näkymän _Lähtevät_-välilehdelle. Laskua ei vielä lähetetä eikä viedä kirjanpitoon.

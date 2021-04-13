@@ -10,7 +10,7 @@ description: >
 
 Ryhmälaskun laatiminen aloitetaan myyntilaskujen näkymän **Ryhmälasku**-painikkeella.
 
-![Ryhmälasku](ryhmalasku.png)
+![Ryhmälasku](/img/fi/laskutus/luominen/ryhmalasku.png)
 
 Täytä **Rivit**-välilehdelle laskutettavien tuotteiden tiedot ja **Lisätiedot**-välilehdelle laskulle tulostuvat lisätiedot.
 

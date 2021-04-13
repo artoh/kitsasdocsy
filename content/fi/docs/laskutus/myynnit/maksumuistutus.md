@@ -11,11 +11,11 @@ description: >
 
 Jos eräpäivän vieressä on punainen kirjekuori, on laskusta jo muodostettu maksumuistutus.
 
-![Erääntyneiden lista](eraantyneet.png)
+![Erääntyneiden lista](/img/fi/laskutus/maksumuistutus/eraantyneet.png)
 
-Valitse yksi tai useampi lasku, joille haluat muodostaa maksumuistutuksen, ja paina ![**Maksumuistutus**](muistutusnappi.png)-nappia.
+Valitse yksi tai useampi lasku, joille haluat muodostaa maksumuistutuksen, ja paina ![**Maksumuistutus**](/img/fi/laskutus/maksumuistutus/muistutusnappi.png)-nappia.
 
-![Maksumuistutuksen muodostaminen](muodosta.png)
+![Maksumuistutuksen muodostaminen](/img/fi/laskutus/maksumuistutus/muodosta.png)
 
 Valitse maksumuistusten **eräpäivä** sekä maksumuistuksesta lisättävä **muistutusmaksu** ja mahdollisesti perittävä **viivästyskorko**.
 
@@ -31,12 +31,12 @@ Monesti maksumuistuksen lähettämistä tehokkaampaa ottaa yhteyttä esimerkiksi
 
 Valitse maksumuistutus **Lähetettävät**-välilehdeltä ja paina **Muokkaa**.
 
-![Maksumuistutuksen muokkaaminen](muokkaaminen.png)
+![Maksumuistutuksen muokkaaminen](/img/fi/laskutus/maksumuistutus/muokkaaminen.png)
 
 #### Toisen maksumuistuksen lähettäminen
 
-Voit lähettää toisen maksumuistuksen valitsemalla aiemman maksumuistuksen ja painamalla ![**Maksumuistutus**](muistutusnappi.png)-nappia.
+Voit lähettää toisen maksumuistuksen valitsemalla aiemman maksumuistuksen ja painamalla ![**Maksumuistutus**](/img/fi/laskutus/maksumuistutus/muistutusnappi.png)-nappia.
 
 #### Maksumuistuksen malli
 
-![Esimerkkimaksumuistutus](malli.png)
+![Esimerkkimaksumuistutus](/img/fi/laskutus/maksumuistutus/malli.png)

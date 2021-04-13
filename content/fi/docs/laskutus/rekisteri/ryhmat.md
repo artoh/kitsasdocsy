@@ -17,10 +17,10 @@ description: >
 
 Kun valitset luettelosta ryhmän, näytetään alemmassa luettossa vain tämän ryhmän jäsenet. Tällöin voit valita ryhmän jäsenet alemmasta luettelosta ja alemmalla **Tulosta**-painkkeella tulostaa jäsenluettelon tai **Vie**-painikkeella viedä tiedostoon mm. ryhmän osoitetiedot.
 
-![Rekisterin näkymä](../rekisteri.png)
+![Rekisterin näkymä](/img/fi/laskutus/rekisteri/rekisteri.png)
 
 #### Ryhmien jäsenyys
 
 Muokkaamalla yksittäisen asiakkaan tietoja voit **Ryhmät**-välilehdeltä määritellä ne ryhmät, joihin asiakas kuuluu.
 
-![Ryhmien valinnat](jakkeryhmat.png)
+![Ryhmien valinnat](/img/fi/laskutus/rekisteri/jakkeryhmat.png)

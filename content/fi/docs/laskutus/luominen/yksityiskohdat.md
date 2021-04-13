@@ -9,7 +9,7 @@ description: >
 
 ### Asiakkaan tiedot
 
-![Asiakkaan tiedot](asiakas.png)
+![Asiakkaan tiedot](/img/fi/laskutus/luominen/asiakas.png)
 
 - Voit valita asiakkaan, joka on jo asiakasrekisterissä
 - Asiakkaan nimen oikealla puolella olevalla painikkeella voit lisätä uuden asiakkaan asiakasrekisteriin
@@ -17,7 +17,7 @@ description: >
 
 ### Laskun tyyppi
 
-![Laskun tyyppi](laskutyyppi.png)
+![Laskun tyyppi](/img/fi/laskutus/luominen/laskutyyppi.png)
 
 Lasku
 : Tavallinen lasku, joka kirjataan kirjanpitoon laskun päivämäärällä
@@ -36,7 +36,7 @@ Kuukausittainen lasku
 
 ### Laskun toimitustapa
 
-![Toimitustapa](toimitustapa.png)
+![Toimitustapa](/img/fi/laskutus/luominen/toimitustapa.png)
 
 Tulosta lasku
 : Lasku tulostetaan
@@ -62,7 +62,7 @@ Kaikki toimitustavat eivät välttämättä ole käytettävissä. Esimerkiksi ve
 
 ### Valvonta
 
-![Valvonta](valvonta.png)
+![Valvonta](/img/fi/laskutus/luominen/valvonta.png)
 
 Yksittäinen lasku
 : Tavallinen lasku, jonka maksamista valvotaan viitenumerolla
@@ -81,7 +81,7 @@ Valvomaton
 
 ### Toimituspäivämäärä tai laskutusjakso
 
-![Toimituspäivämäärän valinta](toimituspvm.png)
+![Toimituspäivämäärän valinta](/img/fi/laskutus/luominen/toimituspvm.png)
 
 Toimituspäivämäärä
 : Täytä ainoastaan vasemmanpuoleinen päivämäärä
@@ -95,11 +95,11 @@ Otsikko tulostetaan laskulle, ja se toimii myös tositteen otsikkona kirjanpidos
 
 ### Netto- tai bruttolaskenta
 
-![B](brutto.png)-painikkeen ollessa valittuna laskulle merkitään verolliset rivisummat, muuten rivisummat ovat verottomia ja vero lisätään vasta verottoman välisumman jälkeen, mikä on tavanomainen käytäntö yritysten välisessä kaupassa. Oletuksena verolliset rivisummat näytetään kun asiakkaana on yksityishenkilö eli asiakkaalla ei ole Y-tunnusta.
+![B](/img/fi/napit/brutto.png)-painikkeen ollessa valittuna laskulle merkitään verolliset rivisummat, muuten rivisummat ovat verottomia ja vero lisätään vasta verottoman välisumman jälkeen, mikä on tavanomainen käytäntö yritysten välisessä kaupassa. Oletuksena verolliset rivisummat näytetään kun asiakkaana on yksityishenkilö eli asiakkaalla ei ole Y-tunnusta.
 
 ### Laskun rivit
 
-![Laskun rivit](rivit.png)
+![Laskun rivit](/img/fi/laskutus/luominen/rivit.png)
 
 Tuoterekisterissä olevan tuotteen voit lisätä napsauttamalla listalla olevaa tuotetta. Voit myös kirjoittaa suoraan ruudukkoon nimikkeen ja muut rivin tiedot.
 
@@ -111,17 +111,17 @@ Käänteinen arvonlisävero on käytettävissä vain, kun asiakkaalle on määri
 
 **Rivin lisätiedot**-painikkeella pääset syöttämään riville myös sellaisia tietoja, joita ei näytetä ruudukossa.
 
-![Rivin lisätietojen välilehti](rivilisatiedot.png)
+![Rivin lisätietojen välilehti](/img/fi/laskutus/luominen/rivilisatiedot.png)
 
 ### Laskun lisätiedot
 
-![Laskun lisätietojen välilehti](lisatiedot.png)
+![Laskun lisätietojen välilehti](/img/fi/laskutus/luominen/lisatiedot.png)
 
 **Lisätiedot**-välilehdelle voit syöttää laskulle tulostuvia lisätietoja.
 
 ### Laskun toistuminen
 
-![Toistuminen-välilehti](toistuminen.png)
+![Toistuminen-välilehti](/img/fi/laskutus/luominen/toistuminen.png)
 Lasku, jolla on toimitusjakso, voidaan määritellä toistumaan. Tällöin laskutuskauden päättyessä ohjelma luo automaattisesti uuden laskun. Nämä automaattisesti luodut laskut tulevat myyntilaskunäkymän _Lähtevät_-välilehdelle.
 
 - **Laskutusjakso** määritellee automaattisesti luotavan uuden laskun jakson pituuden
