@@ -40,7 +40,7 @@ Valitse, oletko
 
 <p>Otamme kiitollisuudella vastaan palautetta ohjelmasta osoitteessa <b class="primary">palaute@kitsas.fi</b></p>
 <p>Emme välttämättä pysty vastaamaan henkilökohtaisesti kaikkeen palautteeseen. <b class="primary">Palauteosoitteessa ei anneta neuvontaa.</b></p>
-<p>Iloitsemme siitä, että jo useampi tuhat käyttäjää on löytänyt Kitsaan ja toivomme, että ohjelmastamme on paljon hyötyä. Emme kuitenkaan pysty antamaan neuvontaa ilmaiskäyttäjillemme, vaan toivomme että tukea tarvitsevat käyttäjämme liittyisivät tilauksella maksullisen tuen piiriin.</p>
+<p>Iloitsemme siitä, että jo yli 2000 käyttäjää on löytänyt Kitsaan ja toivomme, että ohjelmastamme on paljon hyötyä. Emme kuitenkaan pysty antamaan neuvontaa ilmaiskäyttäjillemme, vaan toivomme että tukea tarvitsevat käyttäjämme liittyisivät tilauksella maksullisen tuen piiriin.</p>
 {{</blocks/feature>}}  
 {{% /blocks/section %}}
 
@@ -49,6 +49,13 @@ Valitse, oletko
 ## Tuki käytettävissä myös kokeilujakson ajan
 
 <p class="lead">Asennettuasi ohjelman voit luoda itsellesi ilmaisen käyttäjätunnuksen ja kokeilla 30 päivän ajan kaikkia ohjelman ominaisuuksia, myös kirjanpidon tallentamista pilveen. Myös sähköpostituki on käytettävissäsi kokeilujakson ajan. </p>
+
+<div style="margin-left: auto; margin-right: auto;">
+<a class="btn btn-lg btn-primary" href="{{< relref "/docs/aloittaminen/tilaus/tunnus">}}">
+Näin luot käyttäjätunnuksen
+</a>
+</div>
+
 {{% /blocks/section %}}
 
 {{% blocks/section color="white" height="min" %}}
@@ -60,19 +67,29 @@ Valitse, oletko
 </div>    
 <div id="vip" class="tabcontent">
 {{% blocks/section color="white" height="min" %}}
+  {{<blocks/feature icon="fas fa-book primary" title="Kitsaan ohjeet" url="../docs">}}
+    <p>Näiltä sivuilta löydät kattavat ohjeet Kitsaan käyttämiseen.</p>
+  {{</blocks/feature>}}
+  {{<blocks/feature icon="fab fa-youtube primary" title="Ohjevideot" url="../videot">}}
+    <p>Olemme tehneet lukuisia ohjevideoita Kitsaan keskeisistä toiminnoista.</p>
+    {{</blocks/feature>}}  
+  {{<blocks/feature icon="far fa-envelope primary" title="Palaute">}}
+  <p>Kehitämme Kitsasta entistä paremmaksi ja otamme kiitollisuudella vastaan palautetta ohjelmasta osoitteessa <b class="primary">palaute@kitsas.fi</b></p>
+
+{{</blocks/feature>}}
+
+{{% /blocks/section %}}
+{{% blocks/section color="white" height="min" %}}
+
 <div>
 <img src="/img/fi/tuki.png" style="float:right;">
-<h2>Tilaajien sähköpostineuvonta</h2>
-<p class="lead">Annamme tilaajillemme neuvontaa sähköpostilla osoitteessa <b class="primary">tuki@kitsas.fi</b></p>
-
-<p class="lead">Nopeuttaaksesi kysymyksesi käsittelyä liitä viestiisi tiedot, jotka löytyvät <b class="primary">Aloita</b>-sivun <b class="primary">Tuki</b>-välilehdeltä.</p>
+<h1 style="text-align: center"><i class="fas fa-envelope-open-text primary"></i></h1>
+<h3 style="text-align: center">Tilaajien sähköpostineuvonta</h3>
+<p class="lead">Annamme tilaajillemme neuvontaa sähköpostilla osoitteessa <b class="primary">tuki@kitsas.fi<br/></b>Nopeuttaaksesi kysymyksesi käsittelyä liitä viestiisi tiedot, jotka löytyvät <b class="primary">Aloita</b>-sivun <b class="primary">Tuki</b>-välilehdeltä.</p>
 <p>Näiden tietojen perusteella tarkastamme, että tilauksesi on voimassa. Mukana on myös tietoja käyttämästäsi ohjelmasta ja tilikartasta, jotka helpottavat meitä kysymykseesi vastaamisessa.</p>
 <p>Helpoiten liität nämä tiedot painamalla Kitsaassa <b>Kopioi leikepöydälle</b> ja valitsemalla sähköpostiohjelmassasi <b>Liitä</b>. Joissain ongelmatilanteissa meitä auttaa myös, jos pystyt liittämään sähköpostiviestiisi ne tiedot, jotka löydät <b>Virheenjäljitystiedot leikepöydälle</b>-painikkeesta.</p>
 <p>Sähköpostineuvonta on käytettävissä myös tutustumisjakson ajan.</p>
-<p>Kitsaan antama tuki rajoittuu ohjelman käyttämiseen. Kitsas ei anna kirjanpitoon tai verotukseen liittyvää neuvontaa eikä takaa, että Kitsaan tuen antama neuvonta olisi kirjanpidon kannalta riittävää.</p>
-
-<h2>Palaute</h2>
-<p class="lead">Haluamme kehittää Kitsasta entistäkin paremmaksi ja otamme mielellämme vastaan palautetta osoitteessa <b class="primary">palaute@kitsas.fi</b></p>
+<p>Kitsas Oy:n antama tuki rajoittuu ohjelman käyttämiseen. Kitsas ei anna kirjanpitoon tai verotukseen liittyvää neuvontaa eikä takaa, että Kitsaan tuen antama neuvonta olisi kirjanpidon kannalta riittävää.</p>
 
 </div>
 {{% /blocks/section %}}
