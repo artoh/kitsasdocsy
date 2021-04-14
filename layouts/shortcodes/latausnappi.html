@@ -1,0 +1,6 @@
+{{ $variable := $.Get 0 }} 
+<p>
+  <a href="{{ index .Site.Params.download $variable }}" class="btn btn-lg btn-primary">
+    <span class="fa fa-download"></span>&nbsp;{{ T "download_button" }}
+  </a>
+</p>

@@ -2,6 +2,7 @@
 title: "Laskun merkitseminen maksetuksi"
 linkTitle: "Maksetuksi merkitseminen"
 weight: 30
+keywords: ["laskunmaksu"]
 description: >
   Lasku merkitään maksetuksi joko tiliotteelta tai siirto-tositteelta
 ---

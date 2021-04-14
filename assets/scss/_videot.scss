@@ -1,0 +1,25 @@
+div.videot {
+  font-weight: $font-weight-medium;
+  background: rgba(red($light), green($light), blue($light), 0.25);  
+  color: inherit;
+  border-radius: 0;
+  margin: 2rem;
+  padding: 0.5rem;	
+  padding-bottom: 0;
+  border: solid 1px $primary;
+  border-radius: 5px;
+}
+
+ul.videot {
+
+}
+
+span.fa-youtube {
+	color: $primary;
+}
+
+h5.videot {
+  font-size: 100%;
+  font-weight: $font-weight-bold;
+  color: $primary;
+}

@@ -1,6 +1,7 @@
 ---
 title: "Yleistä kirjanpidosta"
 linkTitle: "Kirjanpidosta"
+keywords: ["maksutavat"]
 weight: 10
 description: >
   Yleistä tietoa kirjanpidosta ja linkkejä ohjeisiin

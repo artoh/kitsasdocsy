@@ -1,6 +1,7 @@
 ---
 title: "Ilmainen vai halpa?"
 linkTitle: "Hinnat"
+keywords: ["hinnat"]
 description: "Kitsaan hinnasto"
 menu:
   main:
@@ -19,7 +20,7 @@ varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle. Samalla teet mah
 {{% blocks/section color="white" %}}
 
 <p class="lead" style="text-align:center;">Rekisteröitymisen ja tilaukset teet suoraan ohjelmasta. Edulliset tilaukset laskutetaan valintasi mukaan kuuden kuukauden tai vuoden jaksoissa.
-<br/><button href="#" class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Näin rekisteröidyt ja tilaat</button></p>
+<br/><a href={{<relref "../docs/aloittaminen/tilaus">}} class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Näin rekisteröidyt ja tilaat</a></p>
 
 {{% pageinfo color="primary" %}}
 

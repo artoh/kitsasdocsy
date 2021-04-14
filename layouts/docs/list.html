@@ -6,6 +6,7 @@
             {{ partial "reading-time.html" . }}
         {{ end }}
 		{{ if .Params.cloud }} {{ partial "cloud-only" . }} {{ end }}
+		{{ partial "videot.html" . }}
 	{{ .Content }}
         {{ partial "section-index.html" . }}
 				{{ partial "related.html" . }}

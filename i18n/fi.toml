@@ -59,3 +59,9 @@ other = "Ominaisuus on käytettävissä vain, kun kirjanpito tallennetaan Kitsaa
  
 [see_also]
 other = "Katso myös"
+
+[download_button]
+other = "Lataa"
+
+[kitsas_youtube]
+other = "Kitsaan YouTube-kanavalla"

@@ -1,0 +1,14 @@
+{{ $videot := .Params.youtube }}
+{{ with $videot }}
+<div class="videot">	
+	<h5 class="videot">{{ T "kitsas_youtube" }}</h5>
+	<ul class="fa-ul videot">
+	{{ range . }}
+		<li>
+			<span class="fa-li fab fa-youtube"></span> <a href="https://youtu.be/{{.id}}">{{ .title }}</a><br/>
+			{{ .description }}
+		</li>
+	{{ end }}
+	</ul>
+</div>
+{{ end }}
