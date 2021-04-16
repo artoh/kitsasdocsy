@@ -25,6 +25,12 @@ Valitse luettelolta maksettu lasku ja merkitse päivämäärä, jona lasku on ti
 
 Tallenna lopuksi tiliote sulkemalla _Kirjaa tiliotteelle_-ikkuna ja painamalla kirjausnäkymässä ![Valmis](/img/fi/napit/valmis.png).
 
+{{% alert title="Kirjaaminen ennen kuin tiliote on käytettävissä" color="primary" %}}
+Usein on tarpeellista kirjata saapuneet maksut jo ennen kuin tiliote on käytettävissä.
+
+Tällöin kannattaa luoda kyseisen aikavälin tiliotetosite jo valmiiksi ja kirjata sille saapuneet maksut esimerkiksi verkkopainkin tilitapahtumanäkymän avulla. Täydennä tiliote myöhemmin valmiiksi, kun varsinainen tiliote on käytettävissä.
+{{% /alert %}}
+
 ### Siirto-tositteella
 
 Yksittäisen laskun voi merkitä maksetuksi Siirto-tositteella.

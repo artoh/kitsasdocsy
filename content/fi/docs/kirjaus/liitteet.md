@@ -1,6 +1,7 @@
 ---
 title: "Sähköiset tositteet"
 linkTitle: "Sähköiset tositteet"
+keywords: ["sahkoinen"]
 weight: 10
 description: >
   Kitsaalla koko kirjanpidon voi laatia sähköisesti. Aloita kirjaaminen lisäämällä sähköinen tosite.
