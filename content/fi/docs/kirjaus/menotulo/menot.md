@@ -10,6 +10,7 @@ description: >
 
 - **Meno**-tositetyypille kirjataan ostolaskut, suoritetut maksut, annetut avustukset jne.
 - **Kululaskuja** ovat työntekijän tai yhdistyksen jäsenen organisaation puolesta omista varoistaan suorittamat kulut, jotka hän sitten kululaskua ja tositteita vastaan perii maksettavaksi.
+- **Saapunut verkkolasku**-tositetyyppi on tarkoitettu ohjelmaan vastaanotetuille verkkolaskuille
 
 {{<alert title="Laskun maksaminen">}}
 

@@ -6,6 +6,8 @@ description: >
   Monimutkaisemmat kirjaukset voit tehdä suoraan tiliruudukolle muistiotositteella tai muu-tyypin tositteella.
 ---
 
+![](/img/fi/kirjaus/muu/myyntiraportti.png)
+
 Käytä tositetyyppiä **Muu** kirjataksesi tosite käsin tiliruudukkoa käyttäen.
 
 Tositetyyppiä tarvitset kun teet monimutkaisempia kirjauksia, joissa on useita vientejä, esimerkiksi
@@ -16,6 +18,8 @@ Tositetyyppiä tarvitset kun teet monimutkaisempia kirjauksia, joissa on useita 
 - useimmat yhtiön perustamiseen liittyvät kirjaukset
 
 Periaatteessa voisit tehdä kaikki kirjaukset tositetyypillä **Muu**, mutta todennäköisesti haluat kirjata useimmat tositteet tositteen tyypin mukaisella kirjausnäkymällä.
+
+Tavallisimmat viennit voit tehdä suoraan tiliruudukkoon kirjoittamalla. Kaikkiin viennin tietoihin (kuten tase-erään ja kaikkiin arvonlisäverovalintoihin) pääset **Muokkaa vientiä**-panikkeella.
 
 Muistiotositteet
 : Muistiotosite on tarkoitettu itse laadituille tositteille esimerkiksi tulojen jaksotusta, taseessa olevan omaisuuden arvostamista tai aiemman kirjauksen korjausta varten. Kirjaukseen liittyvä laskelma ja selvitys voidaan antaa joko itse allekirjoitettuna liitteenä tai Kommentit-kohdassa, jolloin laatijan nimi (tai nimikirjaimet) on syytä merkitä näkyviin.
