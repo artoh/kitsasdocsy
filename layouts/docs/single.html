@@ -13,11 +13,8 @@
   {{ partial "feedback.html" .Site.Params.ui.feedback }}
   <br />
   {{ end }}
-  <br />
-  {{ if (.Site.DisqusShortname) }}
-  <br />
-  {{ partial "disqus-comment.html" . }}
-  {{ end }}
+  <br />  
+  {{ partial "commento.html" . }}  
   <div class="text-muted mt-5 pt-3 border-top">{{ partial "page-meta-lastmod.html" . }}</div>
 </div>
 {{ end }}

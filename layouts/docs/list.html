@@ -14,10 +14,7 @@
 		{{ partial "feedback.html" .Site.Params.ui.feedback }}
 		<br />
 	{{ end }}
-	{{ if (and (.Site.DisqusShortname) (not .Params.hideDisqus) ) }}
-		<br />
-		{{ partial "disqus-comment.html" . }}
-	{{ end }}
+  {{ partial "commento.html" . }}
 	<div class="text-muted mt-5 pt-3 border-top">{{ partial "page-meta-lastmod.html" . }}</div>
 </div>
 {{ end }}

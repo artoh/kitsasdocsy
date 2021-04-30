@@ -3,7 +3,6 @@ title = "kitsas"
 
 enableRobotsTXT = true
 
-disqusShortname = "kitsas"
 navbar_logo = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
@@ -222,7 +221,7 @@ enable = false
 	name = "Developer mailing list"
 	url = "https://example.org/mail"
 	icon = "fa fa-envelope"
-        desc = "Discuss development issues around the project"
+	desc = "Discuss development issues around the project"
 
 [params.download]
 	versio = "3.0"
@@ -230,3 +229,7 @@ enable = false
 	mac = "https://github.com/petriaarnio/kitupiikki/releases/download/mac-v2.3/Kitsas-2.3.dmg"
 	windows = "https://github.com/artoh/kitupiikki/releases/download/v2.3/kitsas-2.3-asennus.exe"
 	portable = "https://github.com/artoh/kitupiikki/releases/download/v2.3/kitsas-2.3.exe"
+	
+[params.comments.commento]
+	host = "https://tukaani.liekkilisko.kitsas.fi"
+	js = "/js/commento.js"

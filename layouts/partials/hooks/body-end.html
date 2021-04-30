@@ -1,0 +1,7 @@
+{{ with .Site.Params.algolia_docsearch }}
+<!-- scripts for algolia docsearch -->
+{{ end }}
+
+{{ with .Site.Params.comments.commento }}
+<script defer src="{{ $.Site.Params.comments.commento.host }}{{ $.Site.Params.comments.commento.js }}"></script>
+{{ end }}

@@ -9,3 +9,5 @@ youtube:
     title: "Menojen ja tulojen kirjaaminen"
     description: "Erilaisia meno- ja tulotositteita yhdistyskirjanpidossa"
 ---
+
+![](/img/fi/kirjaus/myllykirjaus.png)

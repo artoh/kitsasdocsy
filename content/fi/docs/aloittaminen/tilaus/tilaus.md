@@ -17,6 +17,10 @@ Tilaukset ja muutokset voit halutessasi tehdä myös sähköpostilla, mutta tarv
 
 Kun olet kirjautuneena pilveen, näet **Pilvi**-välilehdellä tilauksesi tiedot. Pääset tekemään tilauksen **Tee tilaus**-painikkeella.
 
+{{<alert title="Kirjanpidon omistaja tekee tilauksen">}}
+Tilaus koskee aina niitä kirjanpitoja, jotka sinä olet luonut eli joissa olet omistajana.
+{{</alert>}}
+
 ![](/img/fi/aloitus/pilvi/tilaus2.png)
 
 Valitse haluamasi paketti ja mahdollisesti tarvitsemasi lisäkirjanpidot.
