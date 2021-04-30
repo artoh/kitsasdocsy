@@ -11,6 +11,10 @@ description: >
 
 ### Tekstintunnistus
 
+<div class="cloud-only">
+  <i class="fa fa-gem"></i> Ominaisuus on käytettävissä vain maksullisissa tilauksissa kun käyttäjä on kirjautuneena
+</div>
+
 Ottamalla teksintunnistuksen käyttöön Kitsas analysoi tositteiden liitteeksi tallennettavat kuvatiedostot ja pyrkii poimimaan niistä mm. laskun euromäärän, päivämäärän, eräpäivän ja toimittajan nimen.
 
 Ominaisuus on käytössä vain maksullisissa tilauksissa.
