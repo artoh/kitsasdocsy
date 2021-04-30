@@ -56,6 +56,9 @@ other = "Tulosta koko sivu"
 
 [cloud-only]
 other = "Ominaisuus on käytettävissä vain, kun kirjanpito tallennetaan Kitsaan pilveen"
+
+[premium-only]
+other = "Ominaisuus on käytettävissä vain maksullisissa tilauksissa kun käyttäjä on kirjautuneena"
  
 [see_also]
 other = "Katso myös"
