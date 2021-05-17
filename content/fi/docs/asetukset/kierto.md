@@ -5,6 +5,7 @@ weight: 140
 description: >
   Laskujen tarkastus- ja hyväksyntäkierron asetukset
 cloud: true
+keywords: ["kierto"]
 ---
 
 ![](/img/fi/asetukset/kierto.png)
@@ -39,7 +40,7 @@ Kierto voidaan määritellä myös vähemmille henkilöille. Kiertoon voidaan me
 
 {{<alert title="Sähköposti-ilmoitukset kerran päivässä">}}
 
-    Kitsaaan järjestelmä lähettää ilmoitukset kierrossa käsiteltävänä olevista laskuista kerran vuorokaudessa kaikille käyttäjille, joiden työlistalla on käsittelemättömiä laskuja ja joille on aktivoitu sähköposti-ilmoitukset.
+Kitsaaan järjestelmä lähettää ilmoitukset kierrossa käsiteltävänä olevista laskuista kerran vuorokaudessa kaikille käyttäjille, joiden työlistalla on käsittelemättömiä laskuja ja joille on aktivoitu sähköposti-ilmoitukset.
 
 {{</alert>}}
 
