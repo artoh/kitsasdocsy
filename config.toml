@@ -206,5 +206,5 @@ enable = false
 	portable = "https://github.com/artoh/kitupiikki/releases/download/v2.3/kitsas-2.3.exe"
 	
 [params.comments.remark]
-	remark = KITSAS_FI
+	remark = true
 	
