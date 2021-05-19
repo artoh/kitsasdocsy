@@ -1,559 +1,341 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Easy documentation with Docsy</title><link>/blog/2018/10/06/easy-documentation-with-docsy/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>/blog/2018/10/06/easy-documentation-with-docsy/</guid><description>
-&lt;img src="/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_2.png" width="640" height="253"/>
-&lt;p>&lt;strong>This is a typical blog post that includes images.&lt;/strong>&lt;/p>
-&lt;p>The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p>
-&lt;h2 id="including-images">Including images&lt;/h2>
-&lt;p>Here&amp;rsquo;s an image (&lt;code>featured-sunset-get.png&lt;/code>) that includes a byline and a caption.&lt;/p>
-&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png" width="600" height="300">
-&lt;div class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
-Fetch and scale an image in the upcoming Hugo 0.43.
-&lt;small class="text-muted">&lt;br/>Photo: Riona MacNamara / CC-BY-CA&lt;/small>&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;p>The front matter of this post specifies properties to be assigned to all image resources:&lt;/p>
-&lt;pre>&lt;code>resources:
-- src: &amp;quot;**.{png,jpg}&amp;quot;
-title: &amp;quot;Image #:counter&amp;quot;
-params:
-byline: &amp;quot;Photo: Riona MacNamara / CC-BY-CA&amp;quot;
-&lt;/code>&lt;/pre>&lt;p>To include the image in a page, specify its details like this:&lt;/p>
-&lt;pre>&lt;code>
-&lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png" width="600" height="300">
-&lt;div class="card-body px-0 pt-2 pb-0">
-&lt;p class="card-text">
-Fetch and scale an image in the upcoming Hugo 0.43.
-&lt;small class="text-muted">&lt;br/>Photo: Riona MacNamara / CC-BY-CA&lt;/small>&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/code>&lt;/pre>&lt;p>The image will be rendered at the size and byline specified in the front matter.&lt;/p></description></item><item><title>Blog: The second blog post</title><link>/blog/2018/10/06/the-second-blog-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>/blog/2018/10/06/the-second-blog-post/</guid><description>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header">First Header&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Lorem markdownum tuta hospes stabat; idem saxum facit quaterque repetito
-occumbere, oves novem gestit haerebat frena; qui. Respicit recurvam erat:
-pignora hinc reppulit nos &lt;strong>aut&lt;/strong>, aptos, ipsa.&lt;/p>
-&lt;p>Meae optatos &lt;em>passa est&lt;/em> Epiros utiliter &lt;em>Talibus niveis&lt;/em>, hoc lata, edidit.
-Dixi ad aestum.&lt;/p>
-&lt;h2 id="header-2">Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre>&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Pilvipalveluiden käyttökatko 1.5.</title><link>/blog/2021/04/26/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-1.5./</link><pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate><guid>/blog/2021/04/26/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-1.5./</guid><description>
+&lt;p>Päivitämme uudet versiot palvelinohjelmistoistamme, ja tämän takia &lt;strong>pilvipalveluissa on käyttökatko lauantaina 1.5. kello 6 - 12.&lt;/strong>&lt;/p>
+&lt;p>Päivityksessä saamme käyttöön version 3.0 uusia ominaisuuksia ja olemme valmiita Kitsas 3.0 Betan julkaisemiseen toukokuun alussa.&lt;/p>
+&lt;p>Mukavaa vappua!&lt;/p></description></item><item><title>Blog: Tulossa: Vastikelaskutus</title><link>/blog/2021/03/29/tulossa-vastikelaskutus/</link><pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate><guid>/blog/2021/03/29/tulossa-vastikelaskutus/</guid><description>
+&lt;h2 id="vastikelaskutus-kitsaassa">Vastikelaskutus Kitsaassa&lt;/h2>
+&lt;p>Kitsaan versioon 3.0 on tulossa vastikelaskutus, joka ainakin aluksi toimii ainoastaan pilveen tallennetuissa kirjanpidoissa.&lt;/p>
+&lt;p>Vastikkeet laskutetaan seuraavasti&lt;/p>
 &lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Salt-n-Pepa&lt;/li>
-&lt;li>Bel Biv DeVoe&lt;/li>
-&lt;li>Kid &amp;lsquo;N Play&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
-&lt;ol>
-&lt;li>Michael Jackson&lt;/li>
-&lt;li>Michael Bolton&lt;/li>
-&lt;li>Michael Bublé&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a sample markdown document&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Steal underpants&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Profit!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>Vastike, vesimaksu yms. maksut lisätään tuoterekisteriin
+&lt;img src="/img/screenshots/vastike_tuote.png" class="img-responsive"/>&lt;/p>
 &lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>Ohjelmaan lisätään huoneistot, joille määritellään asiakas ja vastikelaskuun kuuluvat tuotteet
+&lt;img src="/img/screenshots/vastike_huoneisto.png" class="img-responsive"/>&lt;/p>
 &lt;/li>
+&lt;li>
+&lt;p>Ohjelma muodostetaa laskut
+&lt;img src="/img/screenshots/vastike_laskuta.png" class="img-responsive"/>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;img src="/img/screenshots/vastike_lasku.png" class="img-responsive"/>
+&lt;p>Saapuneet maksut kohdistetaan asuntokohtaisen viitenumeron perusteella aina vanhimpaan kyseistä asuntoa koskevaan laskuun.&lt;/p>
+&lt;p>Seuraavana vuonna voit päivittää vastikkeen ja vesimaksun uuden hinnan tuoterekisteriin, ja muodostaa uudet vastikelaskut.&lt;/p></description></item><item><title>Blog: WebKitsas käytössä</title><link>/blog/2021/02/17/webkitsas-k%C3%A4yt%C3%B6ss%C3%A4/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>/blog/2021/02/17/webkitsas-k%C3%A4yt%C3%B6ss%C3%A4/</guid><description>
+&lt;h2 id="webkitsas-käytössä">WebKitsas käytössä&lt;/h2>
+&lt;p>Kitsaan pilveen tallennettuihin kirjanpitoihin pääsee nyt käsiksi myös yksinkertaisella web-liittymällä. WebKitsaaseen kirjaudutaan Kitsaan käyttäjätunnuksella osoitteessa &lt;a href="https://pilvi.kitsas.fi">pilvi.kitsas.fi&lt;/a>&lt;/p>
+&lt;p>WebKitsaalla voi&lt;/p>
+&lt;ul>
+&lt;li>katsoa tilien saldoja&lt;/li>
+&lt;li>selata tositteita ja vientejä&lt;/li>
+&lt;li>tarkastaa ja hyväksyä kierrossa olevia laskuja&lt;/li>
+&lt;li>kirjata yksinkertaisia meno- ja tulotositteita (ei arvonlisäveroa)&lt;/li>
+&lt;li>muokata yksinkertaisia meno- ja tulotositteita&lt;/li>
 &lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition terms are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre>&lt;code>foo := &amp;quot;bar&amp;quot;;
-bar := &amp;quot;foo&amp;quot;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-go" data-lang="go">&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/300/200/" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/1200/800/" alt="">&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note:&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-This is a warning!
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Warning!&lt;/h4>
-This is a warning with a title!
-&lt;/div>
+&lt;p>WebKitsas soveltuu erityisesti niille käyttäjille, joilla on kirjanpidossa ainoastaan selausoikeus tai oikeudet laskujen tarkastamiseen ja/tai hyväksymiseen.&lt;/p>
+&lt;p>Lue tarkemmin &lt;a href="https://ohjeet.kitsas.fi/webkitsas/">WebKitsaan ohjeista&lt;/a>&lt;/p>
+&lt;img src="https://ohjeet.kitsas.fi/webkitsas/login.png" class="img-responsive"/>
 &lt;/p>
-&lt;h2 id="sizing">Sizing&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="parameters-available">Parameters available&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-pixels">Using pixels&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-rem">Using rem&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h2 id="memory">Memory&lt;/h2>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="ram-to-use">RAM to use&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="more-is-better">More is better&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="used-ram">Used RAM&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Blog: Another Great Release</title><link>/blog/2018/01/04/another-great-release/</link><pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate><guid>/blog/2018/01/04/another-great-release/</guid><description>
-&lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
-&lt;blockquote>
-&lt;p>There should be no margin above this first sentence.&lt;/p>
-&lt;p>Blockquotes should be a lighter gray with a border along the left side in the secondary color.&lt;/p>
-&lt;p>There should be no margin below this final sentence.&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="first-header">First Header&lt;/h2>
-&lt;p>This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;p>On big screens, paragraphs and headings should not take up the full container width, but we want tables, code blocks and similar to take the full width.&lt;/p>
-&lt;p>Lorem markdownum tuta hospes stabat; idem saxum facit quaterque repetito
-occumbere, oves novem gestit haerebat frena; qui. Respicit recurvam erat:
-pignora hinc reppulit nos &lt;strong>aut&lt;/strong>, aptos, ipsa.&lt;/p>
-&lt;p>Meae optatos &lt;em>passa est&lt;/em> Epiros utiliter &lt;em>Talibus niveis&lt;/em>, hoc lata, edidit.
-Dixi ad aestum.&lt;/p>
-&lt;h2 id="header-2">Header 2&lt;/h2>
-&lt;blockquote>
-&lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre>&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>&lt;h4 id="header-4">Header 4&lt;/h4>
-&lt;ul>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;li>This is an unordered list following a header.&lt;/li>
-&lt;/ul>
-&lt;h5 id="header-5">Header 5&lt;/h5>
-&lt;ol>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;li>This is an ordered list following a header.&lt;/li>
-&lt;/ol>
-&lt;h6 id="header-6">Header 6&lt;/h6>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>What&lt;/th>
-&lt;th>Follows&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>A table&lt;/td>
-&lt;td>A header&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>There&amp;rsquo;s a horizontal rule above and below this.&lt;/p>
-&lt;hr>
-&lt;p>Here is an unordered list:&lt;/p>
-&lt;ul>
-&lt;li>Salt-n-Pepa&lt;/li>
-&lt;li>Bel Biv DeVoe&lt;/li>
-&lt;li>Kid &amp;lsquo;N Play&lt;/li>
-&lt;/ul>
-&lt;p>And an ordered list:&lt;/p>
-&lt;ol>
-&lt;li>Michael Jackson&lt;/li>
-&lt;li>Michael Bolton&lt;/li>
-&lt;li>Michael Bublé&lt;/li>
-&lt;/ol>
-&lt;p>And an unordered task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Create a sample markdown document&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Add task lists to it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Take a vacation&lt;/li>
-&lt;/ul>
-&lt;p>And a &amp;ldquo;mixed&amp;rdquo; task list:&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Steal underpants&lt;/li>
-&lt;li>?&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Profit!&lt;/li>
-&lt;/ul>
-&lt;p>And a nested list:&lt;/p>
-&lt;ul>
-&lt;li>Jackson 5
-&lt;ul>
-&lt;li>Michael&lt;/li>
-&lt;li>Tito&lt;/li>
-&lt;li>Jackie&lt;/li>
-&lt;li>Marlon&lt;/li>
-&lt;li>Jermaine&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>TMNT
-&lt;ul>
-&lt;li>Leonardo&lt;/li>
-&lt;li>Michelangelo&lt;/li>
-&lt;li>Donatello&lt;/li>
-&lt;li>Raphael&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Definition lists can be used with Markdown syntax. Definition terms are bold.&lt;/p>
-&lt;dl>
-&lt;dt>Name&lt;/dt>
-&lt;dd>Godzilla&lt;/dd>
-&lt;dt>Born&lt;/dt>
-&lt;dd>1952&lt;/dd>
-&lt;dt>Birthplace&lt;/dt>
-&lt;dd>Japan&lt;/dd>
-&lt;dt>Color&lt;/dt>
-&lt;dd>Green&lt;/dd>
-&lt;/dl>
-&lt;hr>
-&lt;p>Tables should have bold headings and alternating shaded rows.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>If a table is too wide, it should scroll horizontally.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Artist&lt;/th>
-&lt;th>Album&lt;/th>
-&lt;th>Year&lt;/th>
-&lt;th>Label&lt;/th>
-&lt;th>Awards&lt;/th>
-&lt;th>Songs&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Michael Jackson&lt;/td>
-&lt;td>Thriller&lt;/td>
-&lt;td>1982&lt;/td>
-&lt;td>Epic Records&lt;/td>
-&lt;td>Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td>
-&lt;td>Wanna Be Startin&amp;rsquo; Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Prince&lt;/td>
-&lt;td>Purple Rain&lt;/td>
-&lt;td>1984&lt;/td>
-&lt;td>Warner Brothers Records&lt;/td>
-&lt;td>Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal&lt;/td>
-&lt;td>Let&amp;rsquo;s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I&amp;rsquo;m a Star, Purple Rain&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Beastie Boys&lt;/td>
-&lt;td>License to Ill&lt;/td>
-&lt;td>1986&lt;/td>
-&lt;td>Mercury Records&lt;/td>
-&lt;td>noawardsbutthistablecelliswide&lt;/td>
-&lt;td>Rhymin &amp;amp; Stealin, The New Style, She&amp;rsquo;s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
-&lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
-&lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre>&lt;code>foo := &amp;quot;bar&amp;quot;;
-bar := &amp;quot;foo&amp;quot;;
-&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;div class="highlight">&lt;pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-go" data-lang="go">&lt;span style="color:#204a87;font-weight:bold">func&lt;/span> &lt;span style="color:#000">main&lt;/span>&lt;span style="color:#000;font-weight:bold">()&lt;/span> &lt;span style="color:#000;font-weight:bold">{&lt;/span>
-&lt;span style="color:#000">input&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#4e9a06">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
-&lt;span style="color:#000">lexer&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexers&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;javascript&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">_&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">lexer&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Tokenise&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#204a87;font-weight:bold">nil&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">input&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">style&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">styles&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Get&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;github&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">formatter&lt;/span> &lt;span style="color:#ce5c00;font-weight:bold">:=&lt;/span> &lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">New&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">html&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">WithLineNumbers&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;span style="color:#204a87;font-weight:bold">var&lt;/span> &lt;span style="color:#000">buff&lt;/span> &lt;span style="color:#000">bytes&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Buffer&lt;/span>
-&lt;span style="color:#000">formatter&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Format&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#ce5c00;font-weight:bold">&amp;amp;&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">style&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span> &lt;span style="color:#000">iterator&lt;/span>&lt;span style="color:#000;font-weight:bold">)&lt;/span>
-&lt;span style="color:#000">fmt&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">Println&lt;/span>&lt;span style="color:#000;font-weight:bold">(&lt;/span>&lt;span style="color:#000">buff&lt;/span>&lt;span style="color:#000;font-weight:bold">.&lt;/span>&lt;span style="color:#000">String&lt;/span>&lt;span style="color:#000;font-weight:bold">())&lt;/span>
-&lt;span style="color:#000;font-weight:bold">}&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Language&lt;/th>
-&lt;th>Code&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Javascript&lt;/td>
-&lt;td>&lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Ruby&lt;/td>
-&lt;td>&lt;code>foo = &amp;quot;bar&amp;quot;{&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/300/200/" alt="">&lt;/p>
-&lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://placekitten.com/g/1200/800/" alt="">&lt;/p>
-&lt;h2 id="components">Components&lt;/h2>
-&lt;h3 id="alerts">Alerts&lt;/h3>
-&lt;p>
-&lt;div class="alert alert-primary" role="alert">
-This is an alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Note:&lt;/h4>
-This is an alert with a title.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-This is a successful alert.
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-This is a warning!
-&lt;/div>
-&lt;div class="alert alert-primary" role="alert">
-&lt;h4 class="alert-heading">Warning!&lt;/h4>
-This is a warning with a title!
-&lt;/div>
+&lt;img src="https://ohjeet.kitsas.fi/webkitsas/tyolista.png" class="img-responsive"/>
 &lt;/p>
-&lt;h2 id="sizing">Sizing&lt;/h2>
-&lt;p>Add some sections here to see how the ToC looks like. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="parameters-available">Parameters available&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-pixels">Using pixels&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="using-rem">Using rem&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h2 id="memory">Memory&lt;/h2>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="ram-to-use">RAM to use&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="more-is-better">More is better&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;h3 id="used-ram">Used RAM&lt;/h3>
-&lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item></channel></rss>
+&lt;img src="https://ohjeet.kitsas.fi/webkitsas/kierto.png" class="img-responsive"/></description></item><item><title>Blog: Kitsas 2.3</title><link>/blog/2021/02/16/kitsas-2.3/</link><pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate><guid>/blog/2021/02/16/kitsas-2.3/</guid><description>
+&lt;h1 id="kitsas-23">Kitsas 2.3&lt;/h1>
+&lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille. Suosittelemme myös ohjelman päivittämisen jälkeen päivittämään tilikartat, jos ohjelma tarjoaa siihen mahdollisuutta.&lt;/p>
+&lt;p>Ohjelma on ladattavissa osoitteesta &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;h2 id="uusia-ominaisuuksia">Uusia ominaisuuksia&lt;/h2>
+&lt;h3 id="kirjanpitoaineiston-muodostamisen-valinnat">Kirjanpitoaineiston muodostamisen valinnat&lt;/h3>
+&lt;img src="/img/screenshots/aineistodlg.png" class="img-responsive"/>
+&lt;p>Kirjanpitoaineistoa muodostettaessa voit valita, mitä kaikkea aineistoon sisällytetään. Pääset myös säätämään tositteiden kuvanlaatua (parempi laatu tuottaa isomman tiedoston).&lt;/p>
+&lt;h3 id="tositekooste-sähköisistä-tositteista">Tositekooste sähköisistä tositteista&lt;/h3>
+&lt;img src="/img/screenshots/tositekooste.png" class="img-responsive"/>
+&lt;p>Kirjanpidosta voi tulostaa koosteen sähköisistä tositteista tietyltä aikaväliltä, kohdennukselta tai tililtä. Näin yhdistyksten on helppo poimia avustusselvitykseen kaikki tiettyä hanketta koskevat kuitit.&lt;/p>
+&lt;h3 id="poistetun-tositteen-palauttaminen">Poistetun tositteen palauttaminen&lt;/h3>
+&lt;img src="/img/screenshots/poistettuja.png" class="img-responsive"/>
+&lt;p>Ohjelmassa pääsee selaamaan myös poistettuja tositteita ja vahingossa poistetun tositteen voi palauttaa kirjanpitoon.&lt;/p>
+&lt;h3 id="huomiomerkin-asettaminen-tositteeseen">Huomiomerkin asettaminen tositteeseen&lt;/h3>
+&lt;img src="/img/screenshots/huomiomerkit.png" class="img-responsive"/>
+&lt;p>Tositteelle voi asettaa huomiomerkin muistuttamaan siitä, että tositteelle pitää vielä tehdä jotain. Selauksessa saa helposti poimittua kaikki huomiomerkillä merkityt tositteet.&lt;/p>
+&lt;h3 id="tositteiden-kommentointi-vain-pilvessä">Tositteiden kommentointi (vain pilvessä)&lt;/h3>
+&lt;img src="/img/screenshots/kommentti.png" class="img-responsive"/>
+&lt;p>Pilveen tallennettuihin tositteisiin voidaan lisätä kommentteja. Kommentin voi lisätä myös lukitulle tilikaudelle, jota ei muuten pääse muokkaamaan.&lt;/p>
+&lt;h3 id="mahdollisuus-kirjata-arvonlisävero-maksettava-arvonlisävero--tilin-kautta">Mahdollisuus kirjata arvonlisävero Maksettava arvonlisävero -tilin kautta&lt;/h3>
+&lt;p>Ohjelmaan on lisätty vaihtoehto, jossa arvonlisäveroilmoituksen yhteydessä alv kirjataan Maksettava arvonlisävero-tilille, josta käyttäjä kirjaa sen OmaVero-tilityksen yhteydessä verovelkojen tilille. Menetelmän avulla voi paremmin seuraa OmaVero-tilin saldoa kirjanpidossa.&lt;/p>
+&lt;h2 id="korjauksia-ohjelmaan">Korjauksia ohjelmaan&lt;/h2>
+&lt;ul>
+&lt;li>Tuloverojen kirjausdialogia on korjattu (Yle-vero)&lt;/li>
+&lt;li>Kitupiikistä tuominen toimii jälleen&lt;/li>
+&lt;li>Tiliotteen muokkaaminen säilyttää maksuperusteisen arvonlisäveron erityisviennit&lt;/li>
+&lt;li>Laskutuksessa marginaalimyynnin verotiedoissa kirjautuu myös oletusalv-prosentti&lt;/li>
+&lt;li>Alv-ilmoituksessa negatiivisten bruttokirjausten oikaisut näkyvät oikein&lt;/li>
+&lt;li>Alv:n alarajahuojennuksen kirjautuminen valitun alv-kirjaustavan mukaisesti&lt;/li>
+&lt;li>Y-tunnuksen muoto valvotaan tarkemmin&lt;/li>
+&lt;li>Maksumuistuksen lähettämisessä on korjattu tiliöintivirhe (koskee yhdistyskirjanpitoja)&lt;/li>
+&lt;/ul>
+&lt;p>Tarkemmat tiedot muutoksista löytyvät &lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.3">julkaisun tiedoista GitHubista&lt;/a>&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
+&lt;img src="/img/versions/23esikko.png">
+&lt;p>Version 2.3 tunnuskukkana on esikko, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.3 beta</title><link>/blog/2021/02/04/kitsas-2.3-beta/</link><pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate><guid>/blog/2021/02/04/kitsas-2.3-beta/</guid><description>
+&lt;h1 id="kitsas-23-esikko-beta-vaiheessa">Kitsas 2.3 &amp;ldquo;Esikko&amp;rdquo; BETA-vaiheessa&lt;/h1>
+&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
+&lt;p>Ohjelman päivittämisen jälkeen tilikartta on myös päivitettävä erikseen ohjelman antamien ohjeiden mukaisesti.&lt;/p>
+&lt;p>Beta-version uusia ominaisuuksia ei ole vielä päivitetty ohjelman ohjeisiin.&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.3-beta/kitsas-2.3-beta.exe">Kitsas 2.3 BETA Windows&lt;/a>&lt;br>
+Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
+&lt;h3 id="mac-versio">Mac-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-2.3-beta/Kitsas-2.3-beta.dmg">Kitsas 2.3 BETA Mac&lt;/a>&lt;br>
+Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.3-beta/Kitsas-2.3-beta-x86_64.AppImage">Kitsas 2.3 BETA Linux&lt;/a>&lt;br>
+Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
+&lt;h2 id="uusia-ominaisuuksia">Uusia ominaisuuksia&lt;/h2>
+&lt;h3 id="kirjanpitoaineiston-muodostamisen-valinnat">Kirjanpitoaineiston muodostamisen valinnat&lt;/h3>
+&lt;img src="/img/screenshots/aineistodlg.png" class="img-responsive"/>
+&lt;p>Kirjanpitoaineistoa muodostettaessa voit valita, mitä kaikkea aineistoon sisällytetään. Pääset myös säätämään tositteiden kuvanlaatua (parempi laatu tuottaa isomman tiedoston).&lt;/p>
+&lt;p>&lt;strong>Aiemmissa versioissa on havaittu ongelmia kirjanpitoaineiston muodostamisesta Maceillä ja toivomme erityisesti palautetta siitä, onko näistä ongelmista päästy tämän päivityksen myötä eroon.&lt;/strong>&lt;/p>
+&lt;h3 id="tositekooste-sähköisistä-tositteista">Tositekooste sähköisistä tositteista&lt;/h3>
+&lt;img src="/img/screenshots/tositekooste.png" class="img-responsive"/>
+&lt;p>Kirjanpidosta voi tulostaa koosteen sähköisistä tositteista tietyltä aikaväliltä, kohdennukselta tai tililtä. Näin yhdistyksten on helppo poimia avustusselvitykseen kaikki tiettyä hanketta koskevat kuitit.&lt;/p>
+&lt;h3 id="poistetun-tositteen-palauttaminen">Poistetun tositteen palauttaminen&lt;/h3>
+&lt;img src="/img/screenshots/poistettuja.png" class="img-responsive"/>
+&lt;p>Ohjelmassa pääsee selaamaan myös poistettuja tositteita ja vahingossa poistetun tositteen voi palauttaa kirjanpitoon.&lt;/p>
+&lt;h3 id="huomiomerkin-asettaminen-tositteeseen">Huomiomerkin asettaminen tositteeseen&lt;/h3>
+&lt;img src="/img/screenshots/huomiomerkit.png" class="img-responsive"/>
+&lt;p>Tositteelle voi asettaa huomiomerkin muistuttamaan siitä, että tositteelle pitää vielä tehdä jotain. Selauksessa saa helposti poimittua kaikki huomiomerkillä merkityt tositteet.&lt;/p>
+&lt;h3 id="tositteiden-kommentointi-vain-pilvessä">Tositteiden kommentointi (vain pilvessä)&lt;/h3>
+&lt;img src="/img/screenshots/kommentti.png" class="img-responsive"/>
+&lt;p>Pilveen tallennettuihin tositteisiin voidaan lisätä kommentteja. Kommentin voi lisätä myös lukitulle tilikaudelle, jota ei muuten pääse muokkaamaan.&lt;/p>
+&lt;h3 id="mahdollisuus-kirjata-arvonlisävero-maksettava-arvonlisävero--tilin-kautta">Mahdollisuus kirjata arvonlisävero Maksettava arvonlisävero -tilin kautta&lt;/h3>
+&lt;p>Ohjelmaan on lisätty vaihtoehto, jossa arvonlisäveroilmoituksen yhteydessä alv kirjataan Maksettava arvonlisävero-tilille, josta käyttäjä kirjaa sen OmaVero-tilityksen yhteydessä verovelkojen tilille. Menetelmän avulla voi paremmin seuraa OmaVero-tilin saldoa kirjanpidossa.&lt;/p>
+&lt;h2 id="korjauksia-ohjelmaan">Korjauksia ohjelmaan&lt;/h2>
+&lt;ul>
+&lt;li>Tuloverojen kirjausdialogia on korjattu (Yle-vero)&lt;/li>
+&lt;li>Kitupiikistä tuominen toimii jälleen&lt;/li>
+&lt;li>Tiliotteen muokkaaminen säilyttää maksuperusteisen arvonlisäveron erityisviennit&lt;/li>
+&lt;li>Laskutuksessa marginaalimyynnin verotiedoissa kirjautuu myös oletusalv-prosentti&lt;/li>
+&lt;li>Alv-ilmoituksessa negatiivisten bruttokirjausten oikaisut näkyvät oikein&lt;/li>
+&lt;li>Alv:n alarajahuojennuksen kirjautuminen valitun alv-kirjaustavan mukaisesti&lt;/li>
+&lt;li>Y-tunnuksen muoto valvotaan tarkemmin&lt;/li>
+&lt;/ul>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
+&lt;img src="/img/versions/23esikko.png">
+&lt;p>Version 2.3 tunnuskukkana on esikko, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.2 julkaistu</title><link>/blog/2021/01/18/kitsas-2.2-julkaistu/</link><pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate><guid>/blog/2021/01/18/kitsas-2.2-julkaistu/</guid><description>
+&lt;h1 id="kitsas-22">Kitsas 2.2&lt;/h1>
+&lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille. Suosittelemme myös ohjelman päivittämisen jälkeen päivittämään tilikartat, jos ohjelma tarjoaa siihen mahdollisuutta.&lt;/p>
+&lt;p>Ohjelma on ladattavissa osoitteesta &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;h3 id="företag--och-förningkontoplan-rapporter-och-bokslutet-även-på-svenska">Företag- och förningkontoplan, rapporter och bokslutet även på svenska&lt;/h3>
+&lt;p>Du kan göra företagets bokslut och skriva ut rapporter på svenska. Tack för översättningen till Holger Koroleff!&lt;/p>
+&lt;h3 id="käyttöliittymän-parannuksia">Käyttöliittymän parannuksia&lt;/h3>
+&lt;p>Selauksessa saat nopeasti valittua kuukauden tai koko tilikauden kirjaukset. Tallennettaessa ohjelma varoittaa, jos olet jo tallentanut täysin samanlaisen tositteen. Jos rekisteriin on sujahtanut sama asiakas usemanpaan kertaan, voit nyt yhdistää nämä. Pääset myös tilikausia muokkaamalla korjaamaan kirjanpitoa aloitettaessa väärin syötetyt tilikaudet.&lt;/p>
+&lt;h3 id="valmiina-uuteen-vuoteen">Valmiina uuteen vuoteen&lt;/h3>
+&lt;p>Ohjelma on valmiina laskemaan isommat alarajahuojennukset vuodesta 2021 alkaneille uusille tilikausille. Pystyt nyt täydentämään liitteillä myös niitä tositteita, joista on jo annettu alv-ilmoitus.&lt;/p>
+&lt;h3 id="korjauksia">Korjauksia&lt;/h3>
+&lt;p>Ohjelmassa ja tilikartoissa on tehty myös joukko korjauksia, liittyen mm. tositteiden kohdennukseen, merkkausten käyttöön ja tasaeräpoistoihin.&lt;/p>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.2">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Koneiden ja laitteiden korotetut poistot</title><link>/blog/2021/01/17/koneiden-ja-laitteiden-korotetut-poistot/</link><pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate><guid>/blog/2021/01/17/koneiden-ja-laitteiden-korotetut-poistot/</guid><description>
+&lt;p>&lt;a href="https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/82959/koneiden-ja-laitteiden-korotetut-poistot-verovuosina-2020-2023/">Verottajan ohjeessa&lt;/a> on kerrottu, kuinka koneista, kalustoista, laitteista ja niihin verrattavasta irtaimesta käyttöomaisuudesta voidaan verovuosina 2020-2023 tehdä normaalin verrattuna kaksinkertaiset poistot, eli poistaa enintään 50 % menojäännöksestä. Korotettua poistoa saa soveltaa ainoastaan tällä ajalla uutena hankittu ja tällä ajanjaksolla otettu käyttöön.&lt;/p>
+&lt;p>Näiden ehtojen takia Kitsas ei pysty käsittelemään automaattisesti korotettuja poistoja. Tee Kitsaalla ensin tavalliseen tapaan poistolaskelma, jolloin ohjelma laskee 25% menojäännöspoiston. Tee tämän jälkeen toinen tosite poiston korotusta varten, jolle kirjaat käsin 25 % poiston sille osalle menojäännöstä, jota korotetut poistot koskevat.&lt;/p>
+&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/mustangjoe-2162920/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1236578">MustangJoe&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1236578">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.2 beta</title><link>/blog/2020/12/29/kitsas-2.2-beta/</link><pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate><guid>/blog/2020/12/29/kitsas-2.2-beta/</guid><description>
+&lt;h1 id="kitsas-22-beta-vaiheessa">Kitsas 2.2 BETA-vaiheessa&lt;/h1>
+&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
+&lt;p>Ohjelman päivittämisen jälkeen tilikartta on myös päivitettävä erikseen ohjelman antamien ohjeiden mukaisesti&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.2-beta/kitsas-2.2-beta.exe">Kitsas 2.2 BETA Windows&lt;/a>&lt;br>
+Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
+&lt;h2 id="mac-versio">Mac-versio&lt;/h2>
+&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v2.2-beta/Kitsas-2.2-beta.dmg">Kitsas 2.1 BETA Mac&lt;/a>&lt;br>
+Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.2-beta/Kitsas-2.2-beta-x86_64.AppImage">Kitsas 2.1 BETA Linux&lt;/a>&lt;br>
+Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
+&lt;h2 id="muutamia-parannuksia-ohjelmaan">Muutamia parannuksia ohjelmaan&lt;/h2>
+&lt;ul>
+&lt;li>Selauksessa on nyt valittavissa kuukausittain ja tilikausittain selaus&lt;/li>
+&lt;li>Maksutapojen järjestys on valittavissa&lt;/li>
+&lt;li>Rekisterissä voidaan yhdistään tuplamerkintöjä&lt;/li>
+&lt;li>Raportin voi kopioida uuden pohjaksi&lt;/li>
+&lt;li>Tallennettaessa varotus, jos sama tosite vaikuttaa olevan tallennettu aiemmin&lt;/li>
+&lt;/ul>
+&lt;h2 id="företagkontoplan-rapporter-och-bokslut-även-på-svenska">Företagkontoplan, rapporter och bokslut även på svenska&lt;/h2>
+&lt;ul>
+&lt;li>Du kan göra företagets bokslut och skriva ut rapporter på svenska. Tack för översättningen till Holger Koroleff!&lt;/li>
+&lt;/ul>
+&lt;h2 id="korjauksia-ohjelmaan">Korjauksia ohjelmaan&lt;/h2>
+&lt;ul>
+&lt;li>Siirto-tositteiden kohdennuksen tallentuminen&lt;/li>
+&lt;li>Tilikauden päättymispäivän muokkaaminen&lt;/li>
+&lt;li>Laskun muuttaminen käteislaskuksi&lt;/li>
+&lt;li>Ääkköset lähtevän sähköpostin otsikossa&lt;/li>
+&lt;/ul>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.1.1 julkaistu</title><link>/blog/2020/11/24/kitsas-2.1.1-julkaistu/</link><pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate><guid>/blog/2020/11/24/kitsas-2.1.1-julkaistu/</guid><description>
+&lt;h1 id="kitsas-211">Kitsas 2.1.1&lt;/h1>
+&lt;p>Kitsas 2.1.1 on korjauspäivitys, joka korjaa joukon tilikartoissa ja raporteissa olleita puutteita ja virheellisyyksiä. Lisäksi muu-tositetyypin viennin muokkausnäkymässä on korjattu viennin lataamisesta näkymään.&lt;/p>
+&lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille. Suosittelemme myös ohjelman päivittämisen jälkeen päivittämään tilikartat, jos ohjelma tarjoaa siihen mahdollisuutta.&lt;/p>
+&lt;p>Ohjelma on ladattavissa osoitteesta &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Katso Kitsaan webinaarin 18.11. tallenne</title><link>/blog/2020/11/19/katso-kitsaan-webinaarin-18.11.-tallenne/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>/blog/2020/11/19/katso-kitsaan-webinaarin-18.11.-tallenne/</guid><description>
+&lt;h1 id="kitsaan-webinaari-18112020">Kitsaan webinaari 18.11.2020&lt;/h1>
+&lt;p>&lt;a href="https://drive.google.com/open?id=1LWOPhzcGFJj9RIBeNz0vFHevZsy7EBAc">Tallenne webinaarista&lt;/a>&lt;/p>
+&lt;p>Webinaarin sisältöä&lt;/p>
+&lt;ul>
+&lt;li>keskeisimmät muutokset Kitupiikistä&lt;/li>
+&lt;li>mallikirjauksia erilaisilla tositteilla&lt;/li>
+&lt;li>laskun laatiminen&lt;/li>
+&lt;li>alv-ilmoituksen laatiminen&lt;/li>
+&lt;li>tilinpäätöksen laatiminen&lt;/li>
+&lt;li>tutustuminen laskutusportaaliin&lt;/li>
+&lt;/ul>
+&lt;p>Webinaarissa pääsette myös näkemään, kuinka ohjelman kehittäjäkin välillä säheltää eri toimintoja etsiessään eli kyse on live-tilanteesta, kannattaa siis katsoa myös &lt;a href="https://ohjeet.kitsas.fi">varsinaiset ohjevideot&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Kiitos kaikille Webinaariin osallistuneille&lt;/strong>&lt;/p>
+&lt;h2 id="koottuja-kysymyksiä-ja-vastauksia">Koottuja kysymyksiä ja vastauksia&lt;/h2>
+&lt;h4 id="säilyykö-kitsaasta-aina-myös-maksuton-versio">Säilyykö Kitsaasta aina myös maksuton versio&lt;/h4>
+&lt;p>Kitsas on avointa lähdekoodia, ja itse ohjelma säilyy maksuttomana. Maksullisia ovat ne lisäpalvelut, jotka vaativat yhteyttä palvelimelle.&lt;/p>
+&lt;h4 id="tekeekö-sovellus-tilinpäätöskirjaukset-tappiontuloksen-osalta">Tekeekö sovellus tilinpäätöskirjaukset tappion/tuloksen osalta&lt;/h4>
+&lt;p>Sovellus muodostaa varsinaiset tilinpäätösviennit (ts. laskee tulokset/tappion). Sovellus osaa laskea myös suunnitelman mukaiset poistot, jaksotukset ja yksinkertaisessa tapauksessa osakeyhtiön tuloverot ja -jaksotukset. Esimerkiksi toimintavaraukset, varaston muutokset, yksityiskäyttö yms. viennit pitää kuitenkin tehdä itse.&lt;/p>
+&lt;h4 id="miten-kirjataan-omaisuutta-kirjanpitoon-esim-osakesijoitukset">Miten kirjataan omaisuutta kirjanpitoon (esim. osakesijoitukset)&lt;/h4>
+&lt;p>Yleensä Muu-tositetyypillä tehdään kirjaus kirjanpidon tavanomaisten periaatteiden mukaisesti&lt;/p>
+&lt;h4 id="onnistuuko-arvonlisäveron-maksuperusteinen-tilittäminen">Onnistuuko arvonlisäveron maksuperusteinen tilittäminen&lt;/h4>
+&lt;p>Onnistuu, katso &lt;a href="https://ohjeet.kitsas.fi/alv/maksuperusteinen/">ohjeet&lt;/a>&lt;/p>
+&lt;h4 id="voiko-kululaskujen-web-liittymää-hyödyntää-vaikka-ei-käyttäisi-verkkolaskuja">Voiko kululaskujen web-liittymää hyödyntää vaikka ei käyttäisi verkkolaskuja&lt;/h4>
+&lt;p>Kyllä voi.&lt;/p>
+&lt;h4 id="voiko-tositesarjan-muuttaa-jälkeenpäin">Voiko tositesarjan muuttaa jälkeenpäin?&lt;/h4>
+&lt;p>Yksittäisessä tositteessa voi muuttaa, mille tositesarjalle se on kirjattu. Tositesarjat &amp;ldquo;luodaan lennosta&amp;rdquo; eli voit merkitä minkä tahansa kirjanyhdisteen tositteelle tositesarjaksi.&lt;/p>
+&lt;h4 id="toimiiko-tiliote-myös-maksuperusteissa-kirjattaessa">Toimiiko tiliote myös maksuperusteissa kirjattaessa?&lt;/h4>
+&lt;p>Maksuperusteisesti laskut yms. kirjataan ennen tiliotetta niin, että päivämääränä on maksupäivä. Tiliotteella nämä rivit näkyvät harmaita, koska ne on jo tehty kirjanpitoon eikä niitä kirjata uudestaan.&lt;/p>
+&lt;p>Jos jokin kirjaus tehdään suoraan tiliotteelta, riittää täydentää tiliotenäkymään kirjaustili.&lt;/p>
+&lt;h4 id="voiko-myyntilaskun-päivämäärää-vaihtaa">Voiko myyntilaskun päivämäärää vaihtaa&lt;/h4>
+&lt;p>Laskulle tulostuva päivämäärä ja myös laskuperuisen laskutuksen päivämäärä on aina nykyinen päiväys. Valitsemalla Suoriteperusteinen lasku voidaan lasku kirjata toimituspäivämäärälle.&lt;/p>
+&lt;h4 id="mikä-on-isoin-tiedossa-oleva-liikevaihto-jota-pyöritetään-kitsaalla">Mikä on isoin tiedossa oleva liikevaihto jota pyöritetään Kitsaalla?&lt;/h4>
+&lt;p>Meille ei ole tästä tilastoja. Mitä isommasta ja monimutkaisemmasta kirjanpidosta on kyse, sitä enemmän kannattaa harkita ammattikirjanpitäjän palveluita (joista muutama toki käyttää Kitsasta). Kitsas on suunnattu pienille yhdistyksille, yrityksille ja asunto-osakeyhtiöille.&lt;/p>
+&lt;h4 id="voiko-kitsaalla-tehdä-vastikelaput-asuntokohtaisesti-niin-että-niillä-on-sama-viite-asuntokohtaisesti">Voiko Kitsaalla tehdä vastikelaput asuntokohtaisesti niin että niillä on sama viite asuntokohtaisesti?&lt;/h4>
+&lt;p>Tätä toimintoa ohjelmassa ei vielä ole. Pienellä asunto-osakeyhtiöllä voisi käyttää &lt;a href="https://ohjeet.kitsas.fi/laskutus/vakioviite/">vakioviitteitä&lt;/a> jolloin ohjelma kirjaa vientejä automaattisesti mutta ei huolehdi maksujen valvonnasta.&lt;/p>
+&lt;h4 id="pitääkö-pdf-tiliotteen-tuonnille-olla-pilvipalvelu">Pitääkö pdf-tiliotteen tuonnille olla pilvipalvelu?&lt;/h4>
+&lt;p>Ei tarvitse. Kuvamuotoisen (esim. jpg) tositteen tekstintunnistus on lisäpalvelu.&lt;/p>
+&lt;h4 id="tositteen-kirjauksessa-otsikon-ja-riviselitteen-ero">Tositteen kirjauksessa otsikon ja riviselitteen ero&lt;/h4>
+&lt;p>Jos tosittella on useampia rivejä, voidaan riviselitteellä antaa vienneilleä rivikohtainen selitys.&lt;/p>
+&lt;h4 id="pystyykö-asiakkaatjäsenet-tuomaan-toisesta-järjestelmästä">Pystyykö asiakkaat/jäsenet tuomaan toisesta järjestelmästä&lt;/h4>
+&lt;p>Csv-tiedostosta pystyy, katso &lt;a href="https://ohjeet.kitsas.fi/laskutus/rekisteri/#tietojen-tuominen">ohjeet&lt;/a>.&lt;/p>
+&lt;hr/>
+&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.1 julkaistu</title><link>/blog/2020/11/16/kitsas-2.1-julkaistu/</link><pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate><guid>/blog/2020/11/16/kitsas-2.1-julkaistu/</guid><description>
+&lt;h1 id="kitsas-21">Kitsas 2.1&lt;/h1>
+&lt;p>Kitsas 2.1 tuo ohjelmaan monia parannuksia. Lisäksi olemme saaneet korjattua joukon edellisessä versiossa olleita virheitä.&lt;/p>
+&lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille. Suosittelemme myös ohjelman päivittämisen jälkeen päivittämään tilikartat, jos ohjelma tarjoaa siihen mahdollisuutta.&lt;/p>
+&lt;p>Ohjelma on ladattavissa osoitteesta &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;h3 id="nopeampi-selaus">Nopeampi selaus&lt;/h3>
+&lt;p>Olemme saaneet nopeutettua tositteiden ja vientien selausnäkymää. Tähän liittyen ohjelma ei enää säädä sarakkeiden leveyttä automaattisesti, mutta muistaa käyttäjän valitseman sarakkeiden leveyden ja järjestyksen&lt;/p>
+&lt;h3 id="muu-tositetyypin-kirjaamista-uudistettu">Muu-tositetyypin kirjaamista uudistettu&lt;/h3>
+&lt;p>Ohjelma tekee automaattisesti arvonlisäveron vero- ja vähennysrivit myös Muu-tyypin tositteelle. Lisäksi kaikkia viennin määritteitä pystyy nyt muokkaamaan erillisessä muokkausikkunassa.&lt;/p>
+&lt;h3 id="parempi-tuki-tositesarjojen-käyttämiselle">Parempi tuki tositesarjojen käyttämiselle&lt;/h3>
+&lt;p>Jos käytät useampaa eri tositesarjaa, pääset valitsemaan selattavat tositteet myös tositesarjan mukaan. Tositesarjojen tunnusten tulostuminen eri raporteille on myös tarkastettu.&lt;/p>
+&lt;h3 id="mallipohjat">Mallipohjat&lt;/h3>
+&lt;p>Voit luoda usein käyttämästäsi tositteesta &lt;a href="https://ohjeet.kitsas.fi/kirjaus/mallipohja/">mallipohjan&lt;/a> jonka perusteella saat luotua nopeasti uusia tositteita&lt;/p>
+&lt;h3 id="suojattu-sähköposti">Suojattu sähköposti&lt;/h3>
+&lt;p>Sähköpostin lähettämisessä on mahdollista käyttää myös STARTTLS-suojausta.&lt;/p>
+&lt;h3 id="entistä-täydellisempi-kirjanpitoaineisto">Entistä täydellisempi kirjanpitoaineisto&lt;/h3>
+&lt;p>Aineisto-toiminnolla muodostettavaan pdf-muotoiseen kirjanpitoaineistoon sisältyy nyt myös muistiotositteet, tositteiden tiliöintejä ja käsittelymerkintöjä. Toiminnolla saat muodostettua helposti arkiston koko tilikauden kirjanpidosta ja sähköisistä tositteista.&lt;/p>
+&lt;h3 id="iso-joukko-korjauksia">Iso joukko korjauksia&lt;/h3>
+&lt;p>Ohjelmassa ja tilikartoissa on tehty myös iso joukko korjauksia, liittyen mm. maksumuistusten ja hyvityslaskujen muodostumiseen, tuloslaskelman muotoon ja raporttien käännöksiin.&lt;/p>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.1">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsaan webinaari 18.11.</title><link>/blog/2020/10/29/kitsaan-webinaari-18.11./</link><pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate><guid>/blog/2020/10/29/kitsaan-webinaari-18.11./</guid><description>
+&lt;h1 id="kitsaan-webinaari-18112020-klo-17">Kitsaan webinaari 18.11.2020 klo 17&lt;/h1>
+&lt;p class="lead">Ilmainen webinaari Kitsaan käytön aloittamisesta. &lt;br/>Webinaari on suunnattu erityisesti Kitupiikin käyttäjille.&lt;/p>
+&lt;p>&lt;strong>keskiviikkona 18.11.2020 klo 17 - 18&lt;/strong>&lt;/p>
+&lt;p>Webinaarissa kerrotaan, miten siirryt Kitsaan käyttäjäksi sekä mitä uudistuksia ohjelmassa on.&lt;/p>
+&lt;p>Osallistujien kiinnostuksen mukaan kerromme myös ohjelman edistyksellisimmistä ominaisuuksista sekä ohjelmaan liittyvistä lisäpalveluista. Erityisesti kiinnitämme huomiota uudistuneeseen kirjaamistoimintoon, joka saattaa aluksi jopa hämmentää Kitupiikin käyttäjiä.&lt;/p>
+&lt;p>Webinaari on ilmainen.&lt;br>
+Webinaari kestää noin tunnin, jonka jälkeen on vielä mahdollisuus esittää kysymyksiä.&lt;/p>
+&lt;p>Kitsasta esittelee ohjelman kehittäjä.&lt;/p>
+&lt;h2 id="ilmoittautuminen">Ilmoittautuminen&lt;/h2>
+&lt;p>&lt;strong>Ilmoittaudu webinaariin viimeistään edellisenä päivänä 17.11. alla olevalla lomakkeella.&lt;/strong>&lt;/p>
+&lt;p>Lähetämme webinaaripäivän aamun sähköpostiisi linkin, jolla voit osallistua webinaariin.
+Webinaari toteutetaan Google Meets-palvelun avulla.&lt;/p>
+&lt;p>Tiedustelut &lt;a href="mailto:kitsas@kitsas.fi">kitsas@kitsas.fi&lt;/a>&lt;/p>
+&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLScwvVS1B4a-Adq_tCAt6JYZsgyXXONRcyZ7HOskW9pinXVqMQ/viewform?embedded=true" width="640" height="2008" frameborder="0" marginheight="0" marginwidth="0">Ladataan…&lt;/iframe>
+&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.1 beta</title><link>/blog/2020/10/20/kitsas-2.1-beta/</link><pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate><guid>/blog/2020/10/20/kitsas-2.1-beta/</guid><description>
+&lt;h1 id="kitsas-21-beta-vaiheessa">Kitsas 2.1 BETA-vaiheessa&lt;/h1>
+&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.1-beta.1/kitsas-2.1-beta.1.exe">Kitsas 2.1 BETA.1 Windows&lt;/a>&lt;br>
+Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
+&lt;h2 id="mac-versio">Mac-versio&lt;/h2>
+&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v2.1-beta.1/Kitsas-2.1-beta.1.dmg">Kitsas 2.1 BETA Mac&lt;/a>&lt;br>
+Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.1-beta.1/Kitsas-2.1-beta.1-x86_64.AppImage">Kitsas 2.1 BETA.1 Linux&lt;/a>&lt;br>
+Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
+&lt;h2 id="runsaasti-uusia-ja-parannettuja-ominaisuuksia">Runsaasti uusia ja parannettuja ominaisuuksia&lt;/h2>
+&lt;ul>
+&lt;li>Versiossa 2.0 saattoi isojen kirjanpitojen selaaminen olla hyvinkin hidasta -nyt selausta on saatu nopeutettua merkittävästi.&lt;/li>
+&lt;li>Ohjelmassa on parempi tuki eri tositesarjojen käyttöön, esimerkiksi selauksessa voit valita selattavan tositesarjan.&lt;/li>
+&lt;li>Sähköpostia lähetettäessä voi käyttää myös STARTTLS-suojausta, joten sähköpostin lähettäminen toimii paremmin eri palveluiden kanssa.&lt;/li>
+&lt;li>Kirjanpitoaineiston muotoa on parannettu niin, että tositteesta näkee paremmin myös tiliöinnin. Muistiinpanoinan tallennetut huomautukset tulostuvat nyt myös aineistoon.&lt;/li>
+&lt;li>Toistuvia tositteita varten on mahdollista nyt tallentaa mallipohjia. Valinta löytyy uutta kirjausta tehtäessä lisävalintapainikkeen takaa.&lt;/li>
+&lt;/ul>
+&lt;p>Lisäksi mukana on joukko pienempiä lisäyksiä sekä joukko etenkin yritystilikartan käyttöä parantavien virheiden korjauksia.&lt;br>
+&lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.1-beta">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas julkaistu!</title><link>/blog/2020/09/14/kitsas-julkaistu/</link><pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate><guid>/blog/2020/09/14/kitsas-julkaistu/</guid><description>
+&lt;h1 id="kitsas-20-julkaistu">Kitsas 2.0 julkaistu&lt;/h1>
+&lt;p>Puolentoista vuoden tiiviin kehitystyön jälkeen Kitsas on vihdoinkin valmiina. Ohjelma on ladattavissa osoitteessa &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>&lt;/p>
+&lt;h2 id="ilmainen-vai-halpa">Ilmainen vai halpa?&lt;/h2>
+&lt;p>Ohjelmaa voi edelleen käyttää täysin maksutta, kun kirjanpito tallennetaan omalle koneelle. Kitsas Oy tarjoaa edullisesti ohjelmaan tukipakettia, joka sisältää mm. kirjanpidon tallentamisen suomalaiselle palvelimelle, Finvoice-verkkolaskutuksen käyttöönoton ja sähköpostineuvonnan.&lt;/p></description></item><item><title>Blog: Kitupiikin tuki päättyy 2021</title><link>/blog/2020/09/10/kitupiikin-tuki-p%C3%A4%C3%A4ttyy-2021/</link><pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate><guid>/blog/2020/09/10/kitupiikin-tuki-p%C3%A4%C3%A4ttyy-2021/</guid><description>
+&lt;h1 id="kitupiikin-tuki-päättyy-2021">Kitupiikin tuki päättyy 2021&lt;/h1>
+&lt;p>Kitsaan julkaisun myötä ohjelman aiemman version Kitupiikin tuki päättyy.&lt;/p>
+&lt;p>Kitupiikille ei enää julkaista uusia päivityksiä. Kitupiikin tukikanavat poistuvat käytöstä vuoden 2021 aikana.&lt;/p>
+&lt;p>Kitupiikin käyttöä voi kuitenkin jatkaa yhä edelleen. Pitkällä aikavälillä on kuitenkin hyvä ottaa huomioon, ettei esimerkiksi verottajan suunnittelemaan arvonlisäveron ilmoittamisen uudistusta vuoden 2022 jälkeen toteuteta Kitupiikille.&lt;/p>
+&lt;h2 id="helppo-siirtyminen-kitsaaseen">Helppo siirtyminen Kitsaaseen&lt;/h2>
+&lt;p>Ohjelman tiedostomuoto on muuttunut, eli Kitupiikin kirjanpidot pitää erikseen kopioida Kitsaaseen. Toiminto löytyy ohjelman Aloitus-välilehdeltä.&lt;/p>
+&lt;p>Aivan ensimmäisillä Kitupiikin versioilla aloitettuja kirjanpitoja ei kuitenkaan pysty tuomaan Kitsaaseen tällä toiminnolla.&lt;/p>
+&lt;h2 id="siirtyminen-tilikauden-vaihtuessa">Siirtyminen tilikauden vaihtuessa&lt;/h2>
+&lt;p>Voit myös aloittaa Kitsaalla uuden kirjanpidon tilikauden vaihtuessa ja tehdä tavallisen tilinavauksen.&lt;/p>
+&lt;h2 id="tutustu-uuteen-versioon">Tutustu uuteen versioon&lt;/h2>
+&lt;p>Ohjelma on uudistettu kokonaisuudessaan. Kitsaaseen siirtymistä ei tarvitse kiirehtiä, vaan voit ensin kaikessa rauhassa tutustua uuteen versioon ja ottaa sen käyttöön, kun siihen on hyvää aikaa.&lt;/p>
+&lt;p>Kitsas asentuu tietokoneelle Kitupiikin rinnalle.&lt;/p></description></item><item><title>Blog: Kitsas 2.0 julkaistaan syyskuussa</title><link>/blog/2020/08/19/kitsas-2.0-julkaistaan-syyskuussa/</link><pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate><guid>/blog/2020/08/19/kitsas-2.0-julkaistaan-syyskuussa/</guid><description>
+&lt;h2 id="kitsas-20-julkaistaan-syyskuussa">Kitsas 2.0 julkaistaan syyskuussa&lt;/h2>
+&lt;p>Kitsas on vihdoinkin tulossa julkaisuus. Menneiden kuukausien aikana olemme ennättäneet kehittää ja testata ohjelmaa niin, että ilmestyessään se on käyttövalmis ja luotettava.&lt;/p>
+&lt;p>&lt;a href="https://kitsas.fi/lataa">Ohjelman melkein valmis julkaisuehdokas-versio on jo ladattavissa Windowsille, Macille ja Linuxille.&lt;/a>&lt;/p>
+&lt;p>Testausvaiheen aikana olemme saaneet runsaasti palautetta, joista suurin osa on saatu huomioitua jo tässä versiossa.&lt;/p>
+&lt;p>Ohjelma on jo nyt tuotantokäytössä useammalla yhdistyksellä ja yrityksellä.&lt;/p>
+&lt;h2 id="kitsaan-pilvi">Kitsaan pilvi&lt;/h2>
+&lt;p>Nyt käytössä on myös Kitsaan pilven. Kirjanpito on siis mahdollista tallentaan suomalaiselle, varmuuskopioidulle palvelimelle. Pilvessä olevaa kirjanpitoa voi käyttää turvallisesti monta käyttäjää samanaikaisesti.&lt;/p>
+&lt;p>Tavallisesti uudet käyttäjät saavat 30 päivän maksuttoman kokeilujakson. Ennen varsinaista julkaisua aloitettuja kokeilujaksoja pitkitetään kuitenkin niin, että kokeilujaksot päättyvät vasta 30 päivän kuluttua ohjelman julkaisusta.&lt;/p>
+&lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
+&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.0 RC 3</title><link>/blog/2020/07/12/kitsas-2.0-rc-3/</link><pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate><guid>/blog/2020/07/12/kitsas-2.0-rc-3/</guid><description>
+&lt;h2 id="versio-20-rc-3-julkaistu">Versio 2.0 RC 3 julkaistu&lt;/h2>
+&lt;p>&lt;a href="https://kitsas.fi/lataa">&lt;strong>Päivitys on nyt ladattavissa Windowsille, Macille ja Linuxille.&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>Kitsaan neljäs julkaisuehdokas on valmiina. Tässä versiossa on korjauksia koskien arvonlisäveroilmoituksen tallentumista, arvonlisäveron alarajahuojennuksen laskemista sekä tositteen kopioimista uuden pohjaksi.&lt;/p>
+&lt;p>Tässä versiossa kaikki ominaisuudet ovat jo mukana. Ohjelma on jo nyt tuotantokäytössä useammalla yhdistyksellä ja yrityksellä.&lt;/p>
+&lt;h2 id="kitsaan-pilvi-kokeilukäytössä">Kitsaan pilvi kokeilukäytössä&lt;/h2>
+&lt;p>RC:n myötä avaamme kokeilukäyttöön myös Kitsaan pilven. Kirjanpito on siis mahdollista tallentaan suomalaiselle, varmuuskopioidulle palvelimelle. Pilvessä olevaa kirjanpitoa voi käyttää turvallisesti monta käyttäjää samanaikaisesti.&lt;/p>
+&lt;p>Tavallisesti uudet käyttäjät saavat 30 päivän maksuttoman kokeilujakson. Heinäkuussa aloitetut kokeilujaksot ovat kuitenkin voimassa vähintäänkin elokuun loppuun saakka.&lt;/p>
+&lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
+&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: RC 1 -päivitys</title><link>/blog/2020/05/19/rc-1-p%C3%A4ivitys/</link><pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate><guid>/blog/2020/05/19/rc-1-p%C3%A4ivitys/</guid><description>
+&lt;h2 id="versio-20-rc1-julkaistu-windowsille-ja-linuxille">Versio 2.0 RC.1 julkaistu Windowsille ja Linuxille&lt;/h2>
+&lt;p>Kitsaaseen on tehty lukuisia korjauksia ja muutama lisäys saadun palautteen perusteella. Varsinkin kirjanpidon tuomisessa Kitupiikistä on lukuisia parannuksia.&lt;/p>
+&lt;h2 id="asunto-osakeyhtiön-tilikartta">Asunto-osakeyhtiön tilikartta&lt;/h2>
+&lt;p>Päivitys tuo mukanaan asunto-osakeyhtiön tilikartan. Tilikartta on yhteensopiva Kitupiikin asunto-osakeyhtiön tilikartan kanssa.&lt;/p>
+&lt;p>Maventan asiakkailla on mahdollisuus hakea verkkolaskuosoitteita suoraan ohjelmasta. Kitupiikistä tunnetut toiminnot Kopioi pohjaksi &lt;kbd>Ctrl&lt;/kbd>+&lt;kbd>T&lt;/kbd> ja Siirry tositteeseen tunnisteella &lt;kbd>Ctrl&lt;/kbd>+&lt;kbd>G&lt;/kbd> ovat jälleen käytössä.&lt;/p>
+&lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
+&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.0 RC</title><link>/blog/2020/04/20/kitsas-2.0-rc/</link><pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate><guid>/blog/2020/04/20/kitsas-2.0-rc/</guid><description>
+&lt;h2 id="versio-20-rc-julkaistu">Versio 2.0 RC julkaistu&lt;/h2>
+&lt;p>Tässä versiossa kaikki ominaisuudet ovat jo mukana. Nyt ohjelma kaipaa mahdollisimman laajaa testaamista, jotta ohjelman monet omaisuudet toimisivat luotettavasti kun vakaa versio julkaistaan.&lt;/p>
+&lt;h2 id="kitsaan-pilvi-kokeilukäytössä">Kitsaan pilvi kokeilukäytössä&lt;/h2>
+&lt;p>RC:n myötä avaamme kokeilukäyttöön myös Kitsaan pilven. Kirjanpito on siis mahdollista tallentaan suomalaiselle, varmuuskopioidulle palvelimelle. Pilvessä olevaa kirjanpitoa voi käyttää turvallisesti monta käyttäjää samanaikaisesti.&lt;/p>
+&lt;p>Samoin kokeilukäyttöön on avattu verkkolaskutus sekä jpg-muodossa olevien kuittien tekstintunnistus. Huomaathan, että teksintunnistus vaatii hyvänlaatuisen kuvan ja kestää tavallisesti 5-10 sekuntia yhtä kuvaa kohden.&lt;/p>
+&lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
+&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Verkkolasku käyttöön</title><link>/blog/2020/03/04/verkkolasku-k%C3%A4ytt%C3%B6%C3%B6n/</link><pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate><guid>/blog/2020/03/04/verkkolasku-k%C3%A4ytt%C3%B6%C3%B6n/</guid><description>
+&lt;h2 id="verkkolaskulaki-tulee">Verkkolaskulaki tulee&lt;/h2>
+&lt;p>1.4.2020 alkaen kaikkien yli 10 000 euron liikevaihdon yritysten pitää toimittaaa ja vastaanottaa laskunsa verkkolaskuina, jos vastapuoli sitä pyytää.&lt;/p>
+&lt;p>Kitsaaseen verkkolaskuominaisuus on toteutettu osittain palvelimella, joten se on käytössä ainoastaan maksullisen tilauksen yhteydessä.&lt;/p>
+&lt;img src="/img/banners/verkkolasku.png" class="img-responsive"/>
+&lt;h2 id="paikallinen-muodostaminen">Paikallinen muodostaminen&lt;/h2>
+&lt;p>Kitsas voidaan määritellä muodostamaan luotavat verkkolaskut tietokoneella olevaan kansioon, jolloin käyttäjä huolehtii xml-muodossa olevien laskujen toimittamisesta verkkolaskuoperaattorille.&lt;/p>
+&lt;p>Vastaavasti Kitsaan tositteeseen voidaan lisätä verkkolasku raahaamalla xml-tiedosto tositteelle.&lt;/p>
+&lt;h2 id="integrointi-maventan-verkkolaskuihin">Integrointi Maventan verkkolaskuihin&lt;/h2>
+&lt;p>Maventan asiakkaat voivat lähettää Kitsaasta verkkolaskuja suoraan nappia painamalla. Kitsas osaa myös hakea Maventan palveluun saapuvat verkkolaskut.&lt;/p>
+&lt;p>Maventa laskuttaa verkkolaskujen lähettämisestä ja vastaanottamisesta oman hinnastonsa mukaisesti.&lt;/p></description></item></channel></rss>
