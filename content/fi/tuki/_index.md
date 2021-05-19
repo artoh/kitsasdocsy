@@ -21,19 +21,19 @@ Valitse, oletko
   <button onclick="openTab(event,'vip')">
     <i class="fas fa-gem"></i> Tilaaja</a>
   </button>
-</ul>
+</div>
 
 {{% /blocks/lead %}}
 
 <div id="free" class="tabcontent">
 {{% blocks/section color="white" height="min" %}}
-  {{<blocks/feature icon="fas fa-book primary" title="Kitsaan ohjeet">}}
-    <p>Näiltä sivuilta löydät kattavat ohjeet Kitsaan käyttämiseen sekä lukuisia ohjevideoita Kitsaan käytöstä.</p>
-  {{</blocks/feature>}}    
-  {{<blocks/feature icon="far fa-comments primary" title="Kysy ja kommentoi">}}
-    <p>Lähes jokaisen ohjesivun alalaidassa on keskustelualue, jolla voit kysyä, kommentoida ja tehdä ehdotuksia Kitsaan ominaisuuksista.</p>
-    <p>Kysymyksiin sivustolla voivat vastata kaikki Kitsaan käyttäjät. Myös ohjelman kehittäjät seuraavat sivuilla käytävää keskustelua ja osallistuvat siihen mahdollisuuksiensa mukaisesti.</p>
-    <p>Kirjoita kysymyksesi kommenttina sille sivulle, jossa käsitellään sinua askarruttavaa asiaa.</p>
+{{<blocks/feature icon="fas fa-book primary" title="Kitsaan ohjeet">}}
+  <p>Näiltä sivuilta löydät kattavat ohjeet Kitsaan käyttämiseen sekä lukuisia ohjevideoita Kitsaan käytöstä.</p>
+{{</blocks/feature>}}    
+{{<blocks/feature icon="far fa-comments primary" title="Kysy ja kommentoi">}}
+  <p>Lähes jokaisen ohjesivun alalaidassa on keskustelualue, jolla voit kysyä, kommentoida ja tehdä ehdotuksia Kitsaan ominaisuuksista.</p>
+  <p>Kysymyksiin sivustolla voivat vastata kaikki Kitsaan käyttäjät. Myös ohjelman kehittäjät seuraavat sivuilla käytävää keskustelua ja osallistuvat siihen mahdollisuuksiensa mukaisesti.</p>
+  <p>Kirjoita kysymyksesi kommenttina sille sivulle, jossa käsitellään sinua askarruttavaa asiaa.</p>
 
 {{</blocks/feature>}}
 {{<blocks/feature icon="far fa-envelope primary" title="Palaute">}}
@@ -55,12 +55,6 @@ Valitse, oletko
 Näin luot käyttäjätunnuksen
 </a>
 </div>
-
-{{% /blocks/section %}}
-
-{{% blocks/section color="white" height="min" %}}
-
- <iframe width="540" height="450" src="https://1c6e51a2.sibforms.com/serve/MUIEAOnkVq4mTA6N08WymW3S6eTovCpHEXXGJH2avZMG4L6eJRS_OHxbRq1EwUzBd_V2uHhoocL_EqQWUm69cTAfWGpEc41xyEWUTgIgRJkArXJuUPMGaKijAcLsJ3mbMFeHpJB7UwGAZ54CPbbAxmi8pBT5jmEMJk7V6HTIB1qmjra7nPQECPmVF-X7DsFXuXP0-PNpIfeskaoe" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
 {{% /blocks/section %}}
 
@@ -93,12 +87,10 @@ Näin luot käyttäjätunnuksen
 
 </div>
 {{% /blocks/section %}}
-{{% blocks/section color="white" height="min" %}}
-
- <iframe width="540" height="450" src="https://1c6e51a2.sibforms.com/serve/MUIEAOnkVq4mTA6N08WymW3S6eTovCpHEXXGJH2avZMG4L6eJRS_OHxbRq1EwUzBd_V2uHhoocL_EqQWUm69cTAfWGpEc41xyEWUTgIgRJkArXJuUPMGaKijAcLsJ3mbMFeHpJB7UwGAZ54CPbbAxmi8pBT5jmEMJk7V6HTIB1qmjra7nPQECPmVF-X7DsFXuXP0-PNpIfeskaoe" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
-
-{{% /blocks/section %}}
 
 </div>
+{{% blocks/section color="white" height="min" %}}
+{{<uutiskirje>}}
+{{% /blocks/section %}}
 
 <script src="/js/tabs.js" defer></script>

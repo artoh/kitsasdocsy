@@ -1,0 +1,64 @@
+/* DIRTY Responsive pricing table CSS */
+
+/* DIRTY Responsive pricing table CSS */
+
+/*
+- make mobile switch sticky
+*/
+
+article.hinnat {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  position: relative;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  padding: 18px;
+}
+article.hinnat > ul {
+  display: flex;
+  top: 0px;
+  z-index: 10;
+  padding-bottom: 14px;
+}
+article.hinnat > ul > li {
+  list-style: none;
+  flex: 1;
+}
+article.hinnat > ul > li:last-child {
+  border-right: 1px solid #ddd;
+}
+article.hinnat > ul > li > button {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-right: 0;
+  border-top: 0;
+  padding: 10px;
+  background: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  height: 60px;
+  color: #999;
+}
+article.hinnat > ul > li.active button {
+  background: $light;
+  color: #000;
+}
+
+@media (min-width: 640px) {
+  article.hinnat > ul {
+    display: none;
+  }
+  td,
+  th {
+    display: table-cell !important;
+  }
+  td,
+  th {
+    width: 420px;
+  }
+  td + td,
+  th + th {
+    width: auto;
+  }
+}

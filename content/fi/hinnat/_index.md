@@ -54,7 +54,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 
 <table style="margin-bottom: 2ex;">
   <thead>
-    <tr>
+    <tr class="text-white">
       <th class=""></th>
       <th>Ilmainen</th>
       <th>Kerho</th>
@@ -151,7 +151,19 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
-    </tr>    
+    </tr>   
+    <tr>
+      <td>Laskutusportaali</td>
+      <td></td>
+      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
+    </tr>
+    <tr>
+      <td>WebKitsas</td>
+      <td></td>
+      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
+    </tr>       
     <tr>
       <td>Kirjanpidon automaattinen varmuuskopiointi</td>
       <td></td>
