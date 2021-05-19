@@ -38,16 +38,6 @@ a.btn-primary {
   color: white !important;
 }
 
-.commento-root .commento-markdown-button {
-  display: none;
-}
-
-.commento-root
-  .commento-sort-policy-buttons-container
-  .commento-sort-policy-buttons {
-  display: none;
-}
-
 table {
   border-collapse: collapse;
   width: 100%;
@@ -104,4 +94,8 @@ td.default {
 .hide {
   border: 0;
   background: none;
+}
+
+.oauth-module__button_0d123 {
+  font-size: 80%;
 }

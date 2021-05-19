@@ -6,6 +6,7 @@ hideDisqus: true
 menu:
   main:
     weight: 20
+comments: false
 ---
 
 ![Läppäri](/img/fi/kannettava.png)

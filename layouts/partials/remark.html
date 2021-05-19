@@ -1,10 +1,12 @@
 {{ with .Site.Params.comments.remark }} 
-<section id="comments-section-js" class="e-section">
+{{ if not ( eq $.Params.comments false) }}
+<section>
   <hr />
-  <h5 class="e-section-headline">Kysymykset ja kommentit</h5>
+  <h5>Kysymykset ja kommentit</h5>
   <p>Näihin kysymyksiin voivat vastata kaikki Kitsaan käyttäjät.</p>
-  <div class="content__tile content__tile-content">
+  <div>
     <div id="remark42"></div>
   </div>
 </section>
+{{ end }}
 {{ end }}

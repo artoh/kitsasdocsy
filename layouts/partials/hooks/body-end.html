@@ -2,14 +2,9 @@
 <!-- scripts for algolia docsearch -->
 {{ end }}
 
-{{ with .Site.Params.comments.commento }}
-<script defer src="{{ $.Site.Params.comments.commento.host }}{{ $.Site.Params.comments.commento.js }}"></script>
-{{ end }}
-
-
 <script>
   var remark_config = {
-    host: "https://tukaani.liekkilisko.kitsas.fi", // hostname of remark server, same as REMARK_URL in backend config, e.g. "https://demo.remark42.com"
+    host: "https://tukaani.liekkilisko.kitsas.fi", 
     site_id: 'KITSAS_FI',
     components: ['embed'],
     locale: 'fi'
