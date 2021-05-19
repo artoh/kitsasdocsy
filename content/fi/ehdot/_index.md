@@ -6,9 +6,10 @@ description: "Kitsaan palveluiden käyttöehdot"
 
 {{%  blocks/lead color=light %}}
 
-<h1>Käyttöehdot</p>
+<h1>Käyttöehdot</h1>
 <p class="lead">Nämä käyttöehdot koskevat Kitsas Oy:n tarjoamia maksullisia ja maksuttomia verkkopalveluita Kitsas -kirjanpito-ohjelmistoon liittyen.
 </p>
+<p><a href={{<relref "../docs/lisenssi/">}} class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Kitsas-ohjelmiston lisenssi</a></p>
 {{% /blocks/lead %}}
 {{% blocks/section color="white" %}}
 

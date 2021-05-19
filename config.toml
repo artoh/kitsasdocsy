@@ -121,9 +121,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/artoh/kitsasdocsy"
+# github_repo = "https://github.com/artoh/kitsasdocsy"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/arto/kitupiikki"
+# github_project_repo = "https://github.com/arto/kitupiikki"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -205,6 +205,6 @@ enable = false
 	windows = "https://github.com/artoh/kitupiikki/releases/download/v2.3/kitsas-2.3-asennus.exe"
 	portable = "https://github.com/artoh/kitupiikki/releases/download/v2.3/kitsas-2.3.exe"
 	
-[params.comments.commento]
-	host = "https://tukaani.liekkilisko.kitsas.fi"
-	js = "/js/commento.js"
+[params.comments.remark]
+	remark = KITSAS_FI
+	
