@@ -1,6 +1,7 @@
 ---
 title: "Budjetti"
 linkTitle: "Budjetti"
+keywords: ["budjetti"]
 weight: 60
 description: >
   Tilikauden budjetin laatiminen ja budjetin toteutumisen seuraaminen

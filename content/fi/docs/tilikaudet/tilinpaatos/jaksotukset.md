@@ -4,6 +4,7 @@ linkTitle: "Jaksotukset"
 weight: 20
 description: >
   Jaksotus-toiminnolla voit automatisoida siirtovelkojen ja siirtosaamisten kirjaamista, kun kirjaus kohdistuu toiselle tilikaudelle.
+keywords: ["jaksotus"]
 ---
 
 Tilikauden aikana lasku- ja maksuperusteisesti tehdyt kirjaukset on oikaistava ennen tilinpäätöksen laatimista suoriteperusteisiksi.

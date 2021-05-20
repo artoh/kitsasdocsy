@@ -4,6 +4,7 @@ linkTitle: "Yksityiskohtaiset ohjeet"
 weight: 90
 description: >
   Menojen ja tulokirjausten näkymän kentät yksityiskohtaisemmin selostettuina
+keywords: ["kohdennus", "jaksotus"]
 ---
 
 #### Asiakas / Toimittaja
@@ -29,7 +30,7 @@ Voit valita tilin kirjoittamalla tilin numeron (tai osan siitä). Vaihtoehtoises
 
 ![](/img/fi/kirjaus/menotulo/alv.png)
 
-Käytössä olevat alv-lajit on esitelty kappaleessa [Arvonlisäverolajit](../../alv/#arvonlisaverolajit)
+Käytössä olevat alv-lajit on esitelty kappaleessa [Arvonlisäverolajit]({{<relref "../../alv/alvlajit">}})
 Verollisessa kirjauksessa voit syöttää kokonaismäärän (brutto) tai verottoman määrän (netto).
 
 #### Jaksotus
@@ -40,7 +41,7 @@ Jaksotuksella voit tehdä kirjauksia, jotka kuuluu jaksottaa tilinpäätöksen y
 
 Jaksotustoiminnolla jaksotetaan vain veroton tulo tai meno, ei arvonlisäveron osuutta.
 
-!!! note "Esimerkkitilanteita, kun tilikausi on kalenterivuosi" - Jäsen maksaa vuoden 2020 jäsenmaksun 10.11.2019. - Yhdistykselle on myönnetty avustusta 1.11.2019 järjestettyyn tapahtumaan. Avustus maksetaan 7.1.2020. - Ohjelmistoyritys laskuttaa 15.9.2019 ohjelmiston ylläpitomaksun kaudelle 1.7.2019 - 30.6.2020. - Kirjausesimerkkejä jaksotuksesta [Tilinpäätös-osan jaksotusohjeessa](../../tilinpaatos/jaksotukset)
+!!! note "Esimerkkitilanteita, kun tilikausi on kalenterivuosi" - Jäsen maksaa vuoden 2020 jäsenmaksun 10.11.2019. - Yhdistykselle on myönnetty avustusta 1.11.2019 järjestettyyn tapahtumaan. Avustus maksetaan 7.1.2020. - Ohjelmistoyritys laskuttaa 15.9.2019 ohjelmiston ylläpitomaksun kaudelle 1.7.2019 - 30.6.2020. - Kirjausesimerkkejä jaksotuksesta [Tilinpäätös-osan jaksotusohjeessa]({{<relref "../../tilikaudet/tilinpaatos/jaksotukset">}})
 
 #### Kohdennukset
 

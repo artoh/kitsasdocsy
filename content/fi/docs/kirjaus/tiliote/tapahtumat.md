@@ -4,6 +4,7 @@ linkTitle: "Tilitapahtumien lisääminen"
 weight: 40
 description: >
   Kirjaa tilitapahtumia joko kirjaustoiminnolla tai suoraan ruudukkoon kirjoittamalla. Tilitapahtumat voivat olla laskujen maksuja, tuloja, menoja, siirtoja tai hyvityksiä.
+keywords: ["laskunmaksu"]
 ---
 
 **Kirjaa tilitapahtumia**-painikkeella pääset tilitapahtumien kirjausikkunaan. Voit kirjata peräkkäin useampia tilitapahtumia painamalla jokaisen tapahtuman jälkeen **Kirjaa**-nappia. **Sulje** lopuksi kirjausikkuna, tarkasta tiliotteen kirjaukset ja tallenna tiliote.

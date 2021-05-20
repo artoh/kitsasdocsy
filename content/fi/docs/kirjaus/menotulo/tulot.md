@@ -1,5 +1,5 @@
 ---
-title: "Tulokirjausten maksutavat"
+title: "Tulojen kirjaaminen"
 linkTitle: "Tulot"
 keywords: ["maksutavat"]
 weight: 20
@@ -7,6 +7,8 @@ keywords:
 description: >
   Maksutavalla määrittelet, miten saatte maksun tulosta.
 ---
+
+![Menojen kirjausnäkymä](/img/fi/kirjaus/menotulo/tuloosa.png)
 
 - **Tulo**-tositteella kirjataan myynnit, saadut avustukset, jäsenmaksut yms.
 - Jos laadit laskun Kitsaalla, kirjataan lasku automaattisesti kirjanpitoon ja siitä muodostuu **myyntilasku**.
@@ -31,3 +33,7 @@ Maksutapavalinta määrittelee, mitä vastatiliä kirjauksessa käytetään. Ain
 | Hyvityslasku      | Aiemmasta laskusta kirjattava hyvitys. Valitse kohdassa **Tase-erä** aiemman laskut tiedot ja kirjaa hyvitys miinusmerkkisenä. |  Hyvityslaskun päivämäärä           |
 | Siirtosaaminen    | Käytetään, kun tulo jää tilinpäätöksessä siirtovelkoihin.                                                                      | Toimituspäivä                       |
 | Kaikki vastatilit | Valitse vastatili ja tarvittaessa erä kaikkien tilien luettelosta.                                                             |
+
+#### Tulotili
+
+Tulotiliksi valitaan aiheenmukainen kirjanpitotili, esimerkiksi Myynti, Jäsenmaksutulot tai Saadut avustukset.

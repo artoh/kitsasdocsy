@@ -2,6 +2,7 @@
 title: "Pääkirja"
 linkTitle: "Pääkirja"
 weight: 20
+keywords: ["tasmaytys"]
 description: >
   Pääkirjassa viennit on esitetty tileittäin aikajärjestyksessä.
 ---

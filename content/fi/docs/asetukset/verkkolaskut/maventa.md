@@ -5,6 +5,7 @@ weight: 20
 description: >
   Maventan verkkolaskut voi lähettää ja ottaa vastaan suoraan ohjelmasta
 premium: true
+keywords: ["maventa"]
 ---
 
 Kitsaassa on integroitu yhteys [Maventan](https://maventa.com) verkkolaskutukseen. Kun Maventa-verkkolasku on otettu käyttöön, laskuttaa Maventa sekä lähetetyistä että vastaanotetuista verkkolaskuista hinnastonsa mukaisesti.

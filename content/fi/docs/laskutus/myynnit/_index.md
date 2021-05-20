@@ -6,7 +6,7 @@ description: >
   Myyntireskontrassa voit tarkastella myyntilaskujen tilannetta, luoda uusia laskuja sekä hyvityslaskuja ja maksumuistutuksia
 ---
 
-![Myyntilaskujen näkymä](myynti.png)
+![Myyntilaskujen näkymä](/img/fi/laskutus/myynti.png)
 
 - **Luonnokset**-välilehdeltä löydät laskut, joiden laatiminen on vielä kesken
 - **Lähetettävät**-välilehdellä on laskut, jotka ovat valmiina lähetettäviksi. Ne on vielä lähetettävä valitsemalla lähetettävät laskut ja painamalla **Lähetä**.

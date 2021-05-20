@@ -2,6 +2,7 @@
 title: "Kirjaamisnäkymän yksityiskohtaisemmat ohjeet"
 linkTitle: "Yksityiskohtaisemmat ohjeet"
 weight: 100
+keywords: ["numerointi"]
 description: >
   Kirjausnäkymän valinnat yksityiskohtaisemmin selostettuina
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Verojen maksu"
 linkTitle: "Verojen maksu"
+keywords: ["alvkirjaaminen"]
 weight: 170
 description: >
   Arvonlisäveron kirjaamiseen sekä verojen maksun automaattiseen tiliöimiseen liittyvät määritykset
@@ -10,4 +11,4 @@ description: >
 
 **Tuloverojen viite** on OmaVero-palvelusta näkyvä viitenumero, jolla yritys maksaa tuloverojaan (esim. ennakkoverot). Vastaavasti **Oma-aloittesten verojen viite** on viitenumero, jolla maksetaan esimerkiksi arvonlisäverot. Kitsas käyttää näitä viitenumeroita tiliotetietojen automaattiseen kohdistamiseen.
 
-**Kirjaa arvonlisäverojen palautus verosaatavien tilille** -valinnalla arvonlisäveroilmoitusta laadittaessa mahdollinen palautus kirjataan verosaatavien tilille. Ilman tätä valintaa palautukset kirjataan negatiivisena arvonlisäverovelkana.
+**Arvonlisäveron kirjauksen** vaihtoehdot on esitetty [Arvonlisäveron ohjeissa]({{<relref "../alv/ilmoitus/kirjanpidossa">}})

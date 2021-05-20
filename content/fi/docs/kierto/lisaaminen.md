@@ -3,6 +3,7 @@ title: "Laskujen lisääminen kiertoon"
 linkTitle: "Laskujen lisääminen"
 weight: 20
 cloud: true
+keywords: ["maventa"]
 description: >
   Lasku voidaan lisätä kiertoon Uusi tosite -toiminnolla. Lisäksi laskuja voidaan lisätä kiertoon Laskutusportaalilla, WebKitsaalla sekä verkkolaskujen saapuessa.
 ---

@@ -4,6 +4,7 @@ linkTitle: "Kohdennukset"
 weight: 70
 description: >
   Tulojen ja menojen kohdentaminen kustannuspaikkojen, projektien ja merkkausten avulla
+keywords: ["uusi", "kohdennus"]
 ---
 
 ![](/img/fi/asetukset/kohdennukset.png)

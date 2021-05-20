@@ -1,7 +1,7 @@
 ---
 title: "Vientien muokkaamien"
 linkTitle: "Vientien muokkaaminen"
-keywords: ["tase-erat"]
+keywords: ["tase-erat", "alvkirjaus"]
 weight: 10
 description: >
   Muu-tositteen **Muokkaa vientiä**-painikkeella pääset muokkaamaan kaikkia vientiin liittyviä tietoja

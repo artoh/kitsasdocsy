@@ -1,5 +1,5 @@
 ---
-title: "Menokirjausten maksutavat"
+title: "Menojen kirjaaminen"
 linkTitle: "Menot"
 keywords: ["maksutavat"]
 weight: 10
@@ -7,6 +7,8 @@ keywords:
 description: >
   Maksutavalla määrittelet, miten meno on maksettu.
 ---
+
+![Menojen kirjausnäkymä](/img/fi/kirjaus/menotulo/menoosa.png)
 
 - **Meno**-tositetyypille kirjataan ostolaskut, suoritetut maksut, annetut avustukset jne.
 - **Kululaskuja** ovat työntekijän tai yhdistyksen jäsenen organisaation puolesta omista varoistaan suorittamat kulut, jotka hän sitten kululaskua ja tositteita vastaan perii maksettavaksi.
@@ -33,3 +35,7 @@ Maksutapavalinta määrittelee, mitä vastatiliä kirjauksessa käytetään. Ain
 | Hyvityslasku      | Aiemmasta laskusta kirjattava hyvitys. Valitse kohdassa **Tase-erä** aiemman laskut tiedot ja kirjaa hyvitys miinusmerkkisenä. |  Hyvityslaskun päivämäärä           |
 | Siirtovelka       | Käytetään, kun meno jää tilinpäätöksessä siirtovelkoihin.                                                                      | Toimituspäivä                       |
 | Kaikki vastatilit | Valitse vastatili ja tarvittaessa erä kaikkien tilien luettelosta.                                                             |
+
+#### Menotili
+
+Menotiliksi valitaan aiheenmukainen kirjanpitotili, esimerkiksi Ostot, Rahaliikenteen kulut tai Korkomenot.

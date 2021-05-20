@@ -1,6 +1,7 @@
 ---
 title: "Tase-erittely"
 linkTitle: "Tase-erittely"
+keywords: ["tase-erat"]
 weight: 70
 description: >
   Tase-erittely esittää, mistä tase koostuu.

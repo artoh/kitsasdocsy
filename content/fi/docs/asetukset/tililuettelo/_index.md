@@ -7,6 +7,7 @@ description: >
 youtube:
   - id: R7vJiC3HjRQ
     title: Kirjanpidon asetukset ja tilikartan muokkaaminen (Yhdistys)
+keywords: ["uusi", "tililuettelo"]
 ---
 
 ![](/img/fi/asetukset/tililuettelo/tilikartta1.png)

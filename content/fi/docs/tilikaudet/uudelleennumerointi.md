@@ -1,6 +1,7 @@
 ---
 title: "Tositteiden uudelleennumerointi"
 linkTitle: "Uudelleennumerointi"
+keywords: ["numerointi"]
 weight: 30
 description: >
   Voit uudelleennumeroida haluamasi aikavälin tositteet aikajärjestykseen

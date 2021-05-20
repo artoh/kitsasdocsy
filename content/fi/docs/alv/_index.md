@@ -2,6 +2,7 @@
 title: "Arvonlisävero"
 linkTitle: "Arvonlisävero"
 weight: 80
+keywords: ["alv"]
 description: >
   Arvonlisäveron kirjaaminen ja ilmoittaminen
 youtube:

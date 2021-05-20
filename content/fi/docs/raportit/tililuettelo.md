@@ -2,6 +2,7 @@
 title: "Tililuettelo"
 linkTitle: "Tililuettelo"
 weight: 80
+keywords: ["tililuettelo"]
 description: >
   Tililuettelossa on numerojärjestyksessä käytettävissä olevat kirjanpitotilit.
 ---

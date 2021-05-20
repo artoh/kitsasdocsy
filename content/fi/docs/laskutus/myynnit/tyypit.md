@@ -23,7 +23,7 @@ description: >
 
 #### Muut tulot
 
-Myyntireskontrassa näytetään myös muut Kitsaalla kirjatut tulot, ellei ![](laskukuvake.png)-painikkeella erikseen valita, että ohjelma näyttää vain Kitsaalla laaditut laskut.
+Myyntireskontrassa näytetään myös muut Kitsaalla kirjatut tulot, ellei ![](/img/icons/laskukuvake.png)-painikkeella erikseen valita, että ohjelma näyttää vain Kitsaalla laaditut laskut.
 
 | Tunnus                      | Nimi       | Selitys                                                                  |
 | --------------------------- | ---------- | ------------------------------------------------------------------------ |

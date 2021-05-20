@@ -93,9 +93,18 @@ Laskutusjakso
 
 Otsikko tulostetaan laskulle, ja se toimii myös tositteen otsikkona kirjanpidossa.
 
-### Netto- tai bruttolaskenta
+### Arvonlisäveron merkitseminen
 
-![B](/img/fi/napit/brutto.png)-painikkeen ollessa valittuna laskulle merkitään verolliset rivisummat, muuten rivisummat ovat verottomia ja vero lisätään vasta verottoman välisumman jälkeen, mikä on tavanomainen käytäntö yritysten välisessä kaupassa. Oletuksena verolliset rivisummat näytetään kun asiakkaana on yksityishenkilö eli asiakkaalla ei ole Y-tunnusta.
+![](/img/fi/laskutus/luominen/verorivit.png)
+
+Verottomat rivit
+: Rivien summat ilmoitetaan verottomina, ja vero lisätään vasta kokonaissummaan. Yleinen laskentatapa yritysten välisessä laskutuksessa.
+
+Verolliset rivit
+: Rivien summat ilmoitetaan verollisina. Yleinen tapa laskutettaessa yksityishenkilöitä ja yhdistyksiä, jotka eivät vähennä arvonlisäveroa
+
+Pitkät rivit
+: Jokaiselle riville merkitään sekä veroton että verollinen rivisumma.
 
 ### Laskun rivit
 

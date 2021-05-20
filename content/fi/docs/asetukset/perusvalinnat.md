@@ -4,6 +4,7 @@ linkTitle: "Perusvalinnat"
 weight: 20
 description: >
   Yrityksen perustiedot, tilikartan valinnat, logo ja ALV-velvollisuus
+keywords: ["uusi"]
 ---
 
 ![](/img/fi/asetukset/perusvalinnat.png)

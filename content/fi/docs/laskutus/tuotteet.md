@@ -1,6 +1,7 @@
 ---
 title: "Tuoterekisteri"
 linkTitle: "Tuotteet"
+keywords: ["tuotteet"]
 weight: 60
 description: >
   Tuotteiden tietojen ylläpitäminen

@@ -1,6 +1,7 @@
 ---
 title: "Myyntien ja ostojen kirjaaminen"
 linkTitle: "Kirjaaminen"
+keywords: ["alvkirjaus"]
 weight: 20
 description: >
   Arvonlisäverollisten myyntien ja ostojen kirjaaminen

@@ -40,4 +40,4 @@ Otetaan pankista uusi laina, joka nostetaan pankkitilille.
 
 ![Lainan lyhentäminen](/img/fi/kirjaus/siirto/lainanlyhennys.png)
 
-Lyhennetään äsken otettua lainaa. Huomaa, että lyhennys kohdistetaan kyseiselle tase-erälle. Korkon maksaminen kirjataan erikseen menoksi.
+Lyhennetään äsken otettua lainaa. Huomaa, että lyhennys kohdistetaan kyseiselle tase-erälle. Koron maksaminen kirjataan erikseen menoksi.

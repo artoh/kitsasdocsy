@@ -2,7 +2,9 @@
 title: "Tuloslaskelma"
 linkTitle: "Tuloslaskelma"
 weight: 60
+keywords: ["budjetti"]
 description: >
+  Tuloslaskelma esittää tilikaudet tulot ja menot, joista muodostuu tilikauden tulos.
 ---
 
 ![](/img/fi/raportit/tuloslaskelmadlg.png)

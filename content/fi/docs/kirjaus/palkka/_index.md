@@ -4,6 +4,7 @@ linkTitle: "Palkka"
 weight: 50
 description: >
   Palkanmaksuun liittyvät kirjaukset, suunniteltu erityisesti käytettäväksi yhdessä palkka.fi-palvelun kanssa.
+keywords: ["palkka"]
 ---
 
 ![](/img/fi/kirjaus/palkka/palkka.png)
