@@ -1,4 +1,47 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Pilvipalveluiden käyttökatko 1.5.</title><link>/blog/2021/04/26/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-1.5./</link><pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate><guid>/blog/2021/04/26/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-1.5./</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.0 beta</title><link>/blog/2021/05/30/kitsas-3.0-beta/</link><pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate><guid>/blog/2021/05/30/kitsas-3.0-beta/</guid><description>
+&lt;p>Kolmosversiossa on uudistettu laskutusta ja tiliotteen kirjausta. Käyttöliittymän kieleksi voi valita myös ruotsin.&lt;/p>
+&lt;h1 id="kitsas-30-orvokki-beta-vaiheessa">Kitsas 3.0 &amp;ldquo;Orvokki&amp;rdquo; BETA-vaiheessa&lt;/h1>
+&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
+&lt;p>Tätä versiota jo testattu varsin kattavasti, mutta toivomme ohjelmasta mahdollisimman laajaa palautetta vielä ennen sen varsinaista julkistamista.&lt;/p>
+&lt;p>Ohjelman päivittämisen jälkeen tilikartta kannattaa päivitettävä ohjelman antamien ohjeiden mukaisesti.&lt;/p>
+&lt;p>Beta-vaiheen ajan uutta versiota koskevat ohjeet löytyvät osoitteesta &lt;a href="https://docsy.kitsas.fi">docsy.kitsas.fi&lt;/a>&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v3.0-beta/kitsas-3.0-beta.exe">Kitsas 3.0 BETA Windows&lt;/a>&lt;br>
+Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
+&lt;h3 id="mac-versio">Mac-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.0-beta/Kitsas-3.0-beta.dmg">Kitsas 3.0 BETA Mac&lt;/a>&lt;br>
+Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v3.0-beta/Kitsas-3.0-beta-x86_64.AppImage">Kitsas 3.0 BETA Linux&lt;/a>&lt;br>
+Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
+&lt;h2 id="uusia-ominaisuuksia">Uusia ominaisuuksia&lt;/h2>
+&lt;h3 id="användargrässnittet-på-svenska">Användargrässnittet på svenska&lt;/h3>
+&lt;p>Nu kan du också välja svenska som språk för användargränssnittet. Tack för den svenska översättningen till Holger Koroleff!&lt;/p>
+&lt;h3 id="uudistuksia-laskutuksessa">Uudistuksia laskutuksessa&lt;/h3>
+&lt;ul>
+&lt;li>Laskun päivämäärä on valittavissa&lt;/li>
+&lt;li>Lisätietokentät tilaajalle, myyjälle, tilausnumerolle ja sopimusnumerolle&lt;/li>
+&lt;li>Laskun uusi ulkoasu&lt;/li>
+&lt;li>Rivikohtaiset lisätiedot&lt;/li>
+&lt;/ul>
+&lt;p>Lisäksi pilveen tallennetussa kirjanpidossa&lt;/p>
+&lt;ul>
+&lt;li>Asiakas- ja huoneistokohtaiset laskut&lt;/li>
+&lt;li>Vastikelaskutus, jossa koko vuoden vastikkeista voidaan tehdä yksi lasku&lt;/li>
+&lt;li>Toimitusjakson päättyessä automaattisesti uudistettavat laskut&lt;/li>
+&lt;/ul>
+&lt;h3 id="uudistuksia-tiliotteita-korjattaessa">Uudistuksia tiliotteita korjattaessa&lt;/h3>
+&lt;ul>
+&lt;li>Mahdollisuus tehdä tiliotteen rivistä oma tositteensa&lt;/li>
+&lt;li>Hyvityksen kirjaaminen tiliotteelta&lt;/li>
+&lt;li>Danske Bankin pdf-tiliotteiden tuonti&lt;/li>
+&lt;/ul>
+&lt;h3 id="yksittäisen-laskun-kirjatuksi-merkitseminen">Yksittäisen laskun kirjatuksi merkitseminen&lt;/h3>
+&lt;p>Siirto-tositteelta pääsee nyt suoraan valitsemaan yksittäisen laskun ja merkitä sen kirjattavaksi.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
+&lt;img src="/img/versions/30orvokki.png">
+&lt;p>Version 3.0 tunnuskukkana on orvokki, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Pilvipalveluiden käyttökatko 1.5.</title><link>/blog/2021/04/26/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-1.5./</link><pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate><guid>/blog/2021/04/26/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-1.5./</guid><description>
 &lt;p>Päivitämme uudet versiot palvelinohjelmistoistamme, ja tämän takia &lt;strong>pilvipalveluissa on käyttökatko lauantaina 1.5. kello 6 - 12.&lt;/strong>&lt;/p>
 &lt;p>Päivityksessä saamme käyttöön version 3.0 uusia ominaisuuksia ja olemme valmiita Kitsas 3.0 Betan julkaisemiseen toukokuun alussa.&lt;/p>
 &lt;p>Mukavaa vappua!&lt;/p></description></item><item><title>Blog: Tulossa: Vastikelaskutus</title><link>/blog/2021/03/29/tulossa-vastikelaskutus/</link><pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate><guid>/blog/2021/03/29/tulossa-vastikelaskutus/</guid><description>
