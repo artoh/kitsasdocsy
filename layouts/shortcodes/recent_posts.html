@@ -21,7 +21,8 @@
                             {{ with .Params.author }}
                             {{ T "authorBy" }} <a href="#">{{ . }}</a>
                             {{ end }}
-                            {{ T "publishedOn" }} {{ .Date.Format "02.01.2006" }}
+                            {{ T "publishedOn" }}                               
+                            {{ .Date.Format "02.01.2006" }}                            
                             </p>
                             <p class="intro">{{ .Summary }}</p>
                             <p class="read-more">

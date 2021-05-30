@@ -128,7 +128,24 @@ div.linebefore {
 }
 
 a.btn-more {
-  color: $primary;
+  color: $blue;
   border: 2px solid $blue;
-  border-radius: 50% auto;
+  border-radius: 15pt 15pt;
+  padding: 5px;
+}
+
+.media-body > h5 {
+  font-size: 150%;
+}
+
+figure.bloglist {
+  margin-right: 5pt;
+  float: left;  
+  max-width: 250px;
+}
+
+img.bloglist {
+  max-width: 250px;
+  width: auto;
+  height: 125px;    
 }
