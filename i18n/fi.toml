@@ -9,7 +9,7 @@ other = "Edellinen"
 other = "Seuraava"
 
 [ui_read_more]
-other = "Lisää"
+other = "Lue enemmän"
 
 [ui_search]
 other = "Hae sivulta…"
@@ -68,3 +68,9 @@ other = "Lataa"
 
 [kitsas_youtube]
 other = "Kitsaan YouTube-kanavalla"
+
+[authorBy]
+other = "Kirjoittanut"
+
+[publishedOn]
+other = "Julkaistu"

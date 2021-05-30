@@ -1,13 +1,40 @@
-{{- range ( where site.RegularPages "Section" "blog" | first 3 ) }}
-<li class="media mb-4">
-    <div class="media-body">
-        <h5 class="mt-0 mb-1"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h5>
-        <p class="mb-2 mb-md-3"><small class="text-muted">{{ .Date.Format (.Param "time_format_blog") }} {{ T "ui_in"}}
-                {{ .CurrentSection.LinkTitle }}</small></p>
-        {{ partial "featured-image.html" (dict "p" . "w" 250 "h" 125 "class" "float-left mr-3 pt-1 d-none d-md-block")
-        }}
-        <p class="pt-0 mt-0">{{ .Plain | safeHTML | truncate 250 }}</p>
-        <p class="pt-0"><a href="{{ .RelPermalink }}">{{ T "ui_read_more"}}</a></p>
-    </div>
-</li>
-{{ end }}
+            <!-- *** BLOG HOMEPAGE *** -->
+
+            <div class="row linebefore">
+                {{- range ( where site.RegularPages "Section" "blog" | first 4 ) }}
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image-recent" style="overflow:hidden">
+                                {{ if isset .Params "banner" }}
+                                <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="" >
+                                {{ else }}
+                                <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                {{ end }}
+                            </div>
+                            <div class="bg"></div>
+                        </div>
+                        
+                        <div class="recent-content">
+                            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                            <p class="author-category">
+                            {{ with .Params.author }}
+                            {{ T "authorBy" }} <a href="#">{{ . }}</a>
+                            {{ end }}
+                            {{ T "publishedOn" }} {{ .Date.Format "02.01.2006" }}
+                            </p>
+                            <p class="intro">{{ .Summary }}</p>
+                            <p class="read-more">
+                              <a href="{{ .Permalink }}" class="btn btn-more">{{ T "ui_read_more" }}</a>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- /.box-image-text -->
+
+                </div>
+                {{ end }}
+
+            </div>
+            <!-- /.row -->
+
+            <!-- *** BLOG HOMEPAGE END *** -->

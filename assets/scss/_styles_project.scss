@@ -103,3 +103,32 @@ td.default {
 a.nav-link {
   color: white;
 }
+
+div.recent-content {
+  margin-top: 1em;
+}
+
+.recent-content > h4 > a {
+  font-size: 140%;  
+}
+
+.image-recent {
+  height: 15em;
+  width: 100%;  
+}
+
+.img-responsive {  
+  max-width: 100%;   
+  max-height: 100%;
+  height: auto;
+}   
+
+div.linebefore {
+  margin-top: 2em;
+}
+
+a.btn-more {
+  color: $primary;
+  border: 2px solid $blue;
+  border-radius: 50% auto;
+}
