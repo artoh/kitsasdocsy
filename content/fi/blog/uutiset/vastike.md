@@ -5,7 +5,7 @@ tags = ["taloyhtiö"]
 categories = ["tulossa"]
 description = "Kolmosversiossa vastikkeiden ja vuokrien laskuttaminen on helppoa"
 author = "Arto"
-banner = "/img/screenshots/vastike_lasku.png"
+banner = "img/screenshots/vastike_lasku.png"
 +++
 
 ## Vastikelaskutus Kitsaassa

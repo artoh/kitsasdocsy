@@ -1,5 +1,6 @@
 .nosto {
-  padding: 20px 40px 40px;
+  padding-top: 1em;
+  padding-bottom: 1em;
   //  max-width: 640px;
   &__image {
     display: inline-block;
@@ -10,12 +11,18 @@
   &__text {
     display: inline-block;
     width: 46%;
+    font-size: 120%;    
     @media (max-width: 620px) {
       width: 100%;
-    }
+    }   
   }
 }
 
 .nosto__text > h2 {
   font-variant-caps: all-small-caps;
+  font-size: 160%;
+  color: $primary;
+  font-weight: bold;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
 }
