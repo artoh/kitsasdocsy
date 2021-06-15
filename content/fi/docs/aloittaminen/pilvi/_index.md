@@ -16,6 +16,13 @@ Pilveen tallennetut kirjanpidot, joihin sinulla on käyttöoikeus, löytyvät **
 
 Voit vaihtaa kirjanpitoa napsauttamlla haluamasi kirjanpidon nimeä.
 
+
+### Kirjanpidon kopioiminen pilveen
+
+Omalle tietokoneelle tallennetun kirjanpidon voi kopioida pilveen **Aloita**-sivun **Pilvi**-välilehdellä olevalla **Kopioi kirjanpito pilveen** -painikkeella. Painike on näkyvissä, kun käytössä on paikallinen kirjanpito ja käyttäjä on kirjautuneena pilvipalveluun. 
+
+Kopiointi ei poista omalle tietokoneelle tallennettua kirjanpitoa. Pilveen tehdyt muutokset eivät vaikuta omalle tietokoneelle tallennettuun kirjanpitoon, eivätkä omalle tietokoneelle tallennettuun kirjanpitoon tehdyt muutokset vaikuta pilveen tallennettuun kirjanpitoon. 
+
 ### Kirjanpidon poistaminen
 
 Voit poistaa tarpeettoman kirjanpitosi **Poista kirjanpito**-painikkeella. Ellei kirjanpito ole harjoituskirjanpito, pitää se muuttaa esin harjoituskirjanpidoksi **Asetukset**-sivun kohdasta **Perusvalinnat**.
