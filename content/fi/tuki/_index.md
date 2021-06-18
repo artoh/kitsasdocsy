@@ -38,8 +38,11 @@ Valitse, oletko
 {{</blocks/feature>}}
 {{<blocks/feature icon="far fa-envelope primary" title="Palaute">}}
 
-<p>Otamme kiitollisuudella vastaan palautetta ohjelmasta osoitteessa <b class="primary">palaute@kitsas.fi</b></p>
-<p>Emme välttämättä pysty vastaamaan henkilökohtaisesti kaikkeen palautteeseen. <b class="primary">Palauteosoitteessa ei anneta neuvontaa.</b></p>
+<p>Otamme kiitollisuudella vastaan palautetta ohjelmasta palautesivumme kautta</p>
+<p><a class="btn btn-lg btn-primary" href="https://kitsas.atlassian.net/servicedesk/customer/portal/6">
+Anna palautetta</a></p>
+
+<p>Emme välttämättä pysty vastaamaan henkilökohtaisesti kaikkeen palautteeseen.</p>
 <p>Iloitsemme siitä, että jo yli 2000 käyttäjää on löytänyt Kitsaan ja toivomme, että ohjelmastamme on paljon hyötyä. Emme kuitenkaan pysty antamaan neuvontaa ilmaiskäyttäjillemme, vaan toivomme että tukea tarvitsevat käyttäjämme liittyisivät tilauksella maksullisen tuen piiriin.</p>
 {{</blocks/feature>}}  
 {{% /blocks/section %}}
@@ -57,40 +60,56 @@ Näin luot käyttäjätunnuksen
 </div>
 
 {{% /blocks/section %}}
-
+{{% blocks/section color="white" height="min" %}}
+{{<uutiskirje>}}
+{{% /blocks/section %}}
 </div>    
 <div id="vip" class="tabcontent">
+
 {{% blocks/section color="white" height="min" %}}
-  {{<blocks/feature icon="fas fa-book primary" title="Kitsaan ohjeet" url="../docs">}}
-    <p>Näiltä sivuilta löydät kattavat ohjeet Kitsaan käyttämiseen.</p>
-  {{</blocks/feature>}}
-  {{<blocks/feature icon="fab fa-youtube primary" title="Ohjevideot" url="../videot">}}
-    <p>Olemme tehneet lukuisia ohjevideoita Kitsaan keskeisistä toiminnoista.</p>
-    {{</blocks/feature>}}  
-  {{<blocks/feature icon="far fa-envelope primary" title="Palaute">}}
-  <p>Kehitämme Kitsasta entistä paremmaksi ja otamme kiitollisuudella vastaan palautetta ohjelmasta osoitteessa <b class="primary">palaute@kitsas.fi</b></p>
-
-{{</blocks/feature>}}
-
+<div style="width:100%">
+<h1 style="text-align: center"><i class="fas fa-book primary"></i></h1>
+<h2 style="text-align: center">Kitsaan ohjeet</h3>
+<p class="lead" style="text-align:center">Näiltä sivuilta löydät kattavaat ohjeet Kitsaan käyttämiseen.<br>
+<a class="btn btn-lg btn-primary" style="margin-top: 1em; margin-bottom: 1em;" href="{{< relref "/docs/">}}">
+Lue ohjeita
+</a>
+</p>
+</div>
 {{% /blocks/section %}}
-{{% blocks/section color="white" height="min" %}}
 
+
+{{% blocks/section color="white" height="min" %}}
 <div>
-<img src="/img/fi/tuki.png" style="float:right;">
 <h1 style="text-align: center"><i class="fas fa-envelope-open-text primary"></i></h1>
-<h3 style="text-align: center">Tilaajien sähköpostineuvonta</h3>
-<p class="lead">Annamme tilaajillemme neuvontaa sähköpostilla osoitteessa <b class="primary">tuki@kitsas.fi<br/></b>Nopeuttaaksesi kysymyksesi käsittelyä liitä viestiisi tiedot, jotka löytyvät <b class="primary">Aloita</b>-sivun <b class="primary">Tuki</b>-välilehdeltä.</p>
-<p>Näiden tietojen perusteella tarkastamme, että tilauksesi on voimassa. Mukana on myös tietoja käyttämästäsi ohjelmasta ja tilikartasta, jotka helpottavat meitä kysymykseesi vastaamisessa.</p>
-<p>Helpoiten liität nämä tiedot painamalla Kitsaassa <b>Kopioi leikepöydälle</b> ja valitsemalla sähköpostiohjelmassasi <b>Liitä</b>. Joissain ongelmatilanteissa meitä auttaa myös, jos pystyt liittämään sähköpostiviestiisi ne tiedot, jotka löydät <b>Virheenjäljitystiedot leikepöydälle</b>-painikkeesta.</p>
-<p>Sähköpostineuvonta on käytettävissä myös tutustumisjakson ajan.</p>
+<h2 style="text-align: center">Tilaajien sähköpostineuvonta ja palaute</h3>
+<p class="lead" style="text-align:center; margin-bottom: 1em;">Sähköpostineuvonta on käytettävissä myös tutustumisjakson ajan.</p>
+
+<img src="/img/fi/tuki.png" style="float:right;">
+<p>Nopeiten jätät tukipyynnön suoraan Kitsas-ohjelmasta
+  <ul>
+    <li>Ellet ole kirjautuneena käyttäjätunnuksellasi ohjelmaan, kirjaudu <b>Aloita</b>-sivun <b>Pilvi</b>-välilehdellä</b></li>
+    <li>Paina <b>Tuki</b>-välilehdellä <b>Jätä tukipyyntö</b></li>
+    <li>Valitse sopivin tukilomake ja täytä se</li>
+    <li>Nopeuta käsittelyä lisäämällä <b>Tukitiedot</b> kohtaan ohjelman Tuki-välilehdellä näkyvät tiedot. Tämä onnistuu yleensä painamalla tukitietojen tekstialuetta hiiren oikealla napilla ja valitsemalla <b>Liitä</b>
+    <li>Pyrimme vastaamaan tukipyyntöösi viimeistään seuraavana työpäivänä</li>
+  </ul>
+</p>
+
+<p style="text-align: center; margin-top: 2em; padding-bottom: 1em;"> 
+Voit jättää tukipyynnön myös alla olevalla painikkeella tai ottaa yhteyttä  sähköpostilla <b class="primary">tuki@kitsas.fi</b> tai <b class="primary">palaute@kitsas.fi</b></br>
+<a class="btn btn-lg btn-primary" style="margin-top: 1em; margin-bottom: 1em;" href="https://kitsas.atlassian.net/servicedesk/customer/portal/5">
+Jätä tukipyyntö tai anna palautetta </a><br>
+Toivomme, että nopeutat tukiviestisi käsittelyä liittämällä siihen ohjelmassa <b>Aloita</b>-sivun <b>Tuki</b>-välilehdellä olevat tiedot. <br>Helpoiten teet sen painamalla <b>Kopioi leikepöydälle</b>-painiketta ja valitsemalla viestiä kirjoittaessasi <b>Liitä</b>.</p>
+
 <p>Kitsas Oy:n antama tuki rajoittuu ohjelman käyttämiseen. Kitsas ei anna kirjanpitoon tai verotukseen liittyvää neuvontaa eikä takaa, että Kitsaan tuen antama neuvonta olisi kirjanpidon kannalta riittävää.</p>
 
 </div>
 {{% /blocks/section %}}
-
-</div>
 {{% blocks/section color="white" height="min" %}}
 {{<uutiskirje>}}
 {{% /blocks/section %}}
+</div>
+
 
 <script src="/js/tabs.js" defer></script>
