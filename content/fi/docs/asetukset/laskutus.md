@@ -17,6 +17,9 @@ Saatavatili
 Käteistili
 : tili, jos maksu kirjataan käteislaskuna (yleensä Käteisvarat)
 
+Korttimaksutili
+: tili, jos maksu kirjataan korttimaksuna (yleensä Korttimaksusaamiset)
+
 Maksumuistutustili
 : tili, jolle kirjataan maksumuistutusten muistutusmaksut
 
@@ -30,7 +33,7 @@ Maksuaika
 : laskujen oletusmaksuaika
 
 Huomautusaika
-: laskuille tulostettava huomautusaika
+: laskuille tulostettava huomautusaika. Jos huomautusaika on 0, ei huomautusaikaa tulosteta.
 
 Peruskorko
 : korko, jonka perusteella viivästyskorko määritellään. [Suomen Pankki](https://www.suomenpankki.fi/fi/Tilastot/korot/kuviot/korot_kuviot/viitekorko_chrt_fi/) julkaisee koron puolen vuoden jaksoille.
@@ -57,6 +60,15 @@ QR-koodi
 
 Virtuaaliviivakoodi
 : Tekstimuodossa tulostettavat viivakoodin tiedot, joilla maksutiedot voidaan syöttää esim. verkkopankkiin
+
+Kehyksen väri
+: Laskua tulostettaessa kehyksissä käytettävä väri
+
+Varjostus
+: Laskua tulostettaessa varjostukseen käytettävä väri
+
+Logon korkeus
+: Laskulle tulostettavan logon korkeus. Logo ja sen sijainti määritellään [Perusvalinnat]{{<relref "perusvalinnat">}}-lehdellä
 
 #### Ikkunakuoret
 

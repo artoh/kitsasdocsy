@@ -25,6 +25,9 @@ Lasku
 Käteinen
 : Kuitti käteismyynnistä, joka kirjataan suoraan käteiskassaan
 
+Korttimaksu
+: Kuitti korttimaksusta, joka kirjataan korttisaatavien tilille.
+
 Ennakkolasku
 : Lasku ennakkosuorituksesta, jolloin arvonlisävero suoritetaan kun lasku maksetaan.
 
