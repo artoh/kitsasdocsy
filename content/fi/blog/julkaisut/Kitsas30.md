@@ -8,8 +8,6 @@ author = "Arto"
 banner = "img/banners/30orvokki.png"
 +++
 
-Kolmosversiossa on uudistettu laskutusta ja tiliotteen kirjausta. Käyttöliittymän kieleksi voi valita myös ruotsin.
-
 # Kitsas 3.0 on nyt julkaistu
 
 Koko kesän jatkuneen intensiivisen testaamisen jälkeen Kitsas 3.0 on nyt julkaistu, ja ladattavissa Kitsaan uusituilta kotisivuilta kitsas.fi
