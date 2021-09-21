@@ -4,7 +4,7 @@ date = "2021-09-21"
 description = "Voit muodostaa Kitsaan arvonlisäveroilmoituksesta Ilmoitin-aineiston"
 author = "Arto"
 tags = ["Arvonlisävero"]
-banner = "/img/banners/ilmoitin.png"
+banner = "img/banners/ilmoitin.png"
 +++
 
 ## Alv-ilmoitin Ilmoittimella
