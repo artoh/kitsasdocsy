@@ -29,4 +29,6 @@ Valitse nyt **Aineiston lähetys**.
 
 Paina **Valitse tiedostot**-nappia, ja valitse Kitsaan muodostama tiedosto. Kun tiedosto on tarkastettu, voit lähettää sen **Lähetä**-napilla.
 
-Ilmoittimen kautta lähetetty ilmoitus näkyy OmaVero-palvelussa vasta kun verottaja on käsitellyt sen, yleensä noin kolmen arkipäivän kuluttua. Maksa verot OmaVero-palvelussa tai verottajan antamalla viitenumerolla.
+Ilmoittimen kautta lähetetty ilmoitus näkyy OmaVero-palvelussa vasta kun verottaja on käsitellyt sen, yleensä noin kolmen arkipäivän kuluttua. 
+
+Maksa verot OmaVero-palvelussa tai verottajan antamalla viitenumerolla.
