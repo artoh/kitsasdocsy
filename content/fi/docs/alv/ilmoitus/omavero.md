@@ -1,12 +1,12 @@
 ---
-title: "Ilmoittaminen OmaVerossa ja veron maksaminen"
+title: "Ilmoittaminen OmaVerossa"
 linkTitle: "Ilmoittaminen OmaVerossa"
 weight: 10
 description: >
-  Kitsaan alv-ilmoituksen tietojen perusteella anna verottajalla alv-ilmoitus OmaVerossa ja maksa vero viimeistään eräpäivänä.
+  Anna verottajalle alv-ilmoitus OmaVerossa Kitsaan alv-ilmoituksen tietojen perusteella ja maksa vero viimeistään eräpäivänä.
 ---
 
-Kitsaassa ei ole koneellista tietojen siirtoa verottajalla. Tarkista Kitsaan laatima verolaskelma ja tee ilmoitus [OmaVero](https://omavero.fi/)-palvelussa.
+Tarkista Kitsaan laatima verolaskelma ja tee ilmoitus [OmaVero](https://omavero.fi/)-palvelussa.
 
 ![](/img/fi/alv/omavero.png)
 

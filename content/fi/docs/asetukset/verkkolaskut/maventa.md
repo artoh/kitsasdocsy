@@ -18,8 +18,9 @@ Kitsaan verkkolaskuasetusten **Määritä**-painikkeella pääset syöttämään
 
 ### Verkkolaskujen lähettäminen
 
-!!! note "Kirjautuminen vaaditaan"
+{{<alert title="Kirjautuminen vaaditaan">}}
 Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
+{{</alert>}}
 
 Kun laskutuksessa lähetät verkkolaskun, lähetetään se välittömästi Maventan kautta eteenpäin.
 
