@@ -1,57 +1,39 @@
 +++
-title = "Kitsas 3.0"
-date = "2021-09-04"
-description = "Kitsas 3.0 on julkaistu"
+title = "Kitsas 3.1"
+date = "2021-09-27"
+description = "Kitsaaseen on julkaistu päivitysversio 3.1"
 tags = []
 categories = ["julkaisu"]
 author = "Arto"
-banner = "img/banners/30orvokki.png"
+banner = "img/banners/kitsas.png"
 +++
 
-# Kitsas 3.0 on nyt julkaistu
+# Kitsas päivittyy
 
-Koko kesän jatkuneen intensiivisen testaamisen jälkeen Kitsas 3.0 on nyt julkaistu, ja ladattavissa Kitsaan uusituilta kotisivuilta kitsas.fi
-
-Myös kotisivuilla olevat ohjeet on päivitetty uusimman version mukaisiksi.
-
-Ohjelman päivittämisen jälkeen tilikartta kannattaa päivitettävä ohjelman antamien ohjeiden mukaisesti.
+Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta kitsas.fi
 
 ## Päivitystä suositellaan kaikille käyttäjille
 
-Päivitys tuo mukanaan suuren joukon uusia ominaisuuksia, sekä korjaa joukon aiempia virhetoimintoja. Päivitystä suositellaan kaikille Kitsaan käyttäjille. Päivityksen jälkeen kannattaa tarkastaa laskutukseen liittyvät uudet valinnat ja omainaisuudet. 
+Päivitys korjaa joukon versioon 3.0 jääneitä virheellisyyksiä.
 
+Aiempien Kitsaan versioiden käyttäjille päivitys  tuo mukanaan suuren joukon uusia ominaisuuksia. Päivitystä suositellaan kaikille Kitsaan käyttäjille. Päivityksen jälkeen kannattaa tarkastaa laskutukseen liittyvät uudet valinnat ja omainaisuudet. 
 
-## Uusia ominaisuuksia
+Kitsaan kolmosversiossa asiakkaiden osoitteet tallennetaan rakenteellisessa muodossa (lähiosoite, postinumero, postitoimipaikka ja maa ovat kaikki omissa kentissään). Tämä parantaa verkkolaskutuksen toimivuutta. Joissain tapauksissa asiakkaan tiedot joutuu tarkastamaan siinä vaiheessa, kun asiakkaalle lähettää ensimmäistä laskua ohjelman uudella versiolla.
 
-### Användargrässnittet på svenska
+## Käyttöoikeuksien myöntämistä parannettu
 
-Nu kan du också välja svenska som språk för användargränssnittet. Tack för den svenska översättningen till Holger Koroleff!
+Kutsuttaessa kirjanpitoon uusi käyttäjä, pystyy hävinneen tai vanhentuneen kutsun uusimaan lähettämällä uuden kutsun
 
-### Uudistuksia laskutuksessa
+## Korjauksia laskutukseen
 
-- Laskun päivämäärä on valittavissa
-- Lisätietokentät tilaajalle, myyjälle, tilausnumerolle ja sopimusnumerolle
-- Laskun uusi ulkoasu
-- Rivikohtaiset lisätiedot
+Laskun kopioiminen on korjattu niin, että kopioitu lasku saa kuitenkin oman viitenumeronsa yms. tiedot.
 
-Lisäksi pilveen tallennetussa kirjanpidossa
-- Asiakas- ja huoneistokohtaiset laskut 
-- Vastikelaskutus, jossa koko vuoden vastikkeista voidaan tehdä yksi lasku
-- Toimitusjakson päättyessä automaattisesti uudistettavat laskut
+Verkkolaskutuksessa näytetään asiakkaan kaikki verkkolaskuosoitteet, joista pääsee valitsemaan haluamansa. Aiemmalla versiolla ongelmana oli tilanne, jossa asiakkaalla oli monta verkkolaskuosoitetta ja myös välittäjää.
 
-### Uudistuksia tiliotteita korjattaessa
+## Korjauksia tositteiden käsittelyyn
 
-- Mahdollisuus tehdä tiliotteen rivistä oma tositteensa
-- Hyvityksen kirjaaminen tiliotteelta
-- Danske Bankin pdf-tiliotteiden tuonti
+Muu-tositteilla on täsmennetty arvonlisäveron pyöristymistä kun syötetään verollinen summa. Samoin on tehty korjauksia alv-tiedon lataamiseen tietyissä tilanteissa, järjestelmätositteiden tositesarjan valintaan sekä maksutapojen muokkaamiseen.
 
-### Yksittäisen laskun kirjatuksi merkitseminen
-
-Siirto-tositteelta pääsee nyt suoraan valitsemaan yksittäisen laskun ja merkitä sen kirjattavaksi.
-
-### Palveluostot EU:n ulkopuolelta
-
-EU:n ulkopuolelta ostetuille palveluille, joista on maksettava arvonlisävero Suomeen, on nyt oma arvonlisäverolajinsa.
 
 ## Palaute tervetullutta
 
