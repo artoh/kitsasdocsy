@@ -1,46 +1,27 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Ilmoitin-aineiston muodostaminen</title><link>/blog/2021/09/21/ilmoitin-aineiston-muodostaminen/</link><pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate><guid>/blog/2021/09/21/ilmoitin-aineiston-muodostaminen/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.1</title><link>/blog/2021/09/27/kitsas-3.1/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>/blog/2021/09/27/kitsas-3.1/</guid><description>
+&lt;h1 id="kitsas-päivittyy">Kitsas päivittyy&lt;/h1>
+&lt;p>Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta kitsas.fi&lt;/p>
+&lt;h2 id="päivitystä-suositellaan-kaikille-käyttäjille">Päivitystä suositellaan kaikille käyttäjille&lt;/h2>
+&lt;p>Päivitys korjaa joukon versioon 3.0 jääneitä virheellisyyksiä.&lt;/p>
+&lt;p>Aiempien Kitsaan versioiden käyttäjille päivitys tuo mukanaan suuren joukon uusia ominaisuuksia. Päivitystä suositellaan kaikille Kitsaan käyttäjille. Päivityksen jälkeen kannattaa tarkastaa laskutukseen liittyvät uudet valinnat ja omainaisuudet.&lt;/p>
+&lt;p>Kitsaan kolmosversiossa asiakkaiden osoitteet tallennetaan rakenteellisessa muodossa (lähiosoite, postinumero, postitoimipaikka ja maa ovat kaikki omissa kentissään). Tämä parantaa verkkolaskutuksen toimivuutta. Joissain tapauksissa asiakkaan tiedot joutuu tarkastamaan siinä vaiheessa, kun asiakkaalle lähettää ensimmäistä laskua ohjelman uudella versiolla.&lt;/p>
+&lt;h2 id="käyttöoikeuksien-myöntämistä-parannettu">Käyttöoikeuksien myöntämistä parannettu&lt;/h2>
+&lt;p>Kutsuttaessa kirjanpitoon uusi käyttäjä, pystyy hävinneen tai vanhentuneen kutsun uusimaan lähettämällä uuden kutsun&lt;/p>
+&lt;h2 id="korjauksia-laskutukseen">Korjauksia laskutukseen&lt;/h2>
+&lt;p>Laskun kopioiminen on korjattu niin, että kopioitu lasku saa kuitenkin oman viitenumeronsa yms. tiedot.&lt;/p>
+&lt;p>Verkkolaskutuksessa näytetään asiakkaan kaikki verkkolaskuosoitteet, joista pääsee valitsemaan haluamansa. Aiemmalla versiolla ongelmana oli tilanne, jossa asiakkaalla oli monta verkkolaskuosoitetta ja myös välittäjää.&lt;/p>
+&lt;h2 id="korjauksia-tositteiden-käsittelyyn">Korjauksia tositteiden käsittelyyn&lt;/h2>
+&lt;p>Muu-tositteilla on täsmennetty arvonlisäveron pyöristymistä kun syötetään verollinen summa. Samoin on tehty korjauksia alv-tiedon lataamiseen tietyissä tilanteissa, järjestelmätositteiden tositesarjan valintaan sekä maksutapojen muokkaamiseen.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
+&lt;img src="/img/versions/30orvokki.png">
+&lt;p>Version 3.0 tunnuskukkana on orvokki, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Ilmoitin-aineiston muodostaminen</title><link>/blog/2021/09/21/ilmoitin-aineiston-muodostaminen/</link><pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate><guid>/blog/2021/09/21/ilmoitin-aineiston-muodostaminen/</guid><description>
 &lt;h2 id="alv-ilmoitin-ilmoittimella">Alv-ilmoitin Ilmoittimella&lt;/h2>
 &lt;p>Kitsaan versiosta 3.0 lähtien voivat tilaajat muodostaa ohjelmalla alv-ilmoituksesta koneellisesti luettavan tiedoston, joka lähetetään verottajalle &lt;a href="https://ilmoitin.fi">Ilmoitin-palvelussa&lt;/a>. Koneellisesti muodostetulla aineistolla vältät näppäilyvirheet ja säästät aikaa.&lt;/p>
 &lt;p>Kun olet muodostanut ohjelmalla alv-ilmoituksen, valitse ilmoitettava kausi &lt;strong>Alv&lt;/strong>-välilehdelle ja paina &lt;strong>Ilmoitinaineisto&lt;/strong>. Aineisto tallennetaan haluamaasi tiedostoon.&lt;/p>
 &lt;p>Nyt voit kirjautua Ilmoitin-palveluus ja lähettää tiedoston verottajalle. Ilmoittimen kautta lähetetty alv-ilmoitus näkyy OmaVero-palvelussa noin kolmen arkipäivän kuluttua. Muista myös maksaa verosi OmaVero-palvelussa tai suoraan tilisiirrolla verottajan ilmoittamaa viitettä käyttäen.&lt;/p>
 &lt;p>&lt;img src="/img/fi/alv/ilmoitin3.png" alt="">&lt;/p>
-&lt;p>&lt;a href="/docs/alv/ilmoitus/ilmoitin/">Katso ohjeet&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 3.0</title><link>/blog/2021/09/04/kitsas-3.0/</link><pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate><guid>/blog/2021/09/04/kitsas-3.0/</guid><description>
-&lt;h1 id="kitsas-30-on-nyt-julkaistu">Kitsas 3.0 on nyt julkaistu&lt;/h1>
-&lt;p>Koko kesän jatkuneen intensiivisen testaamisen jälkeen Kitsas 3.0 on nyt julkaistu, ja ladattavissa Kitsaan uusituilta kotisivuilta kitsas.fi&lt;/p>
-&lt;p>Myös kotisivuilla olevat ohjeet on päivitetty uusimman version mukaisiksi.&lt;/p>
-&lt;p>Ohjelman päivittämisen jälkeen tilikartta kannattaa päivitettävä ohjelman antamien ohjeiden mukaisesti.&lt;/p>
-&lt;h2 id="päivitystä-suositellaan-kaikille-käyttäjille">Päivitystä suositellaan kaikille käyttäjille&lt;/h2>
-&lt;p>Päivitys tuo mukanaan suuren joukon uusia ominaisuuksia, sekä korjaa joukon aiempia virhetoimintoja. Päivitystä suositellaan kaikille Kitsaan käyttäjille. Päivityksen jälkeen kannattaa tarkastaa laskutukseen liittyvät uudet valinnat ja omainaisuudet.&lt;/p>
-&lt;h2 id="uusia-ominaisuuksia">Uusia ominaisuuksia&lt;/h2>
-&lt;h3 id="användargrässnittet-på-svenska">Användargrässnittet på svenska&lt;/h3>
-&lt;p>Nu kan du också välja svenska som språk för användargränssnittet. Tack för den svenska översättningen till Holger Koroleff!&lt;/p>
-&lt;h3 id="uudistuksia-laskutuksessa">Uudistuksia laskutuksessa&lt;/h3>
-&lt;ul>
-&lt;li>Laskun päivämäärä on valittavissa&lt;/li>
-&lt;li>Lisätietokentät tilaajalle, myyjälle, tilausnumerolle ja sopimusnumerolle&lt;/li>
-&lt;li>Laskun uusi ulkoasu&lt;/li>
-&lt;li>Rivikohtaiset lisätiedot&lt;/li>
-&lt;/ul>
-&lt;p>Lisäksi pilveen tallennetussa kirjanpidossa&lt;/p>
-&lt;ul>
-&lt;li>Asiakas- ja huoneistokohtaiset laskut&lt;/li>
-&lt;li>Vastikelaskutus, jossa koko vuoden vastikkeista voidaan tehdä yksi lasku&lt;/li>
-&lt;li>Toimitusjakson päättyessä automaattisesti uudistettavat laskut&lt;/li>
-&lt;/ul>
-&lt;h3 id="uudistuksia-tiliotteita-korjattaessa">Uudistuksia tiliotteita korjattaessa&lt;/h3>
-&lt;ul>
-&lt;li>Mahdollisuus tehdä tiliotteen rivistä oma tositteensa&lt;/li>
-&lt;li>Hyvityksen kirjaaminen tiliotteelta&lt;/li>
-&lt;li>Danske Bankin pdf-tiliotteiden tuonti&lt;/li>
-&lt;/ul>
-&lt;h3 id="yksittäisen-laskun-kirjatuksi-merkitseminen">Yksittäisen laskun kirjatuksi merkitseminen&lt;/h3>
-&lt;p>Siirto-tositteelta pääsee nyt suoraan valitsemaan yksittäisen laskun ja merkitä sen kirjattavaksi.&lt;/p>
-&lt;h3 id="palveluostot-eun-ulkopuolelta">Palveluostot EU:n ulkopuolelta&lt;/h3>
-&lt;p>EU:n ulkopuolelta ostetuille palveluille, joista on maksettava arvonlisävero Suomeen, on nyt oma arvonlisäverolajinsa.&lt;/p>
-&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
-&lt;img src="/img/versions/30orvokki.png">
-&lt;p>Version 3.0 tunnuskukkana on orvokki, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 3.0 beta</title><link>/blog/2021/05/30/kitsas-3.0-beta/</link><pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate><guid>/blog/2021/05/30/kitsas-3.0-beta/</guid><description>
+&lt;p>&lt;a href="/docs/alv/ilmoitus/ilmoitin/">Katso ohjeet&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 3.0 beta</title><link>/blog/2021/05/30/kitsas-3.0-beta/</link><pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate><guid>/blog/2021/05/30/kitsas-3.0-beta/</guid><description>
 &lt;p>Kolmosversiossa on uudistettu laskutusta ja tiliotteen kirjausta. Käyttöliittymän kieleksi voi valita myös ruotsin.&lt;/p>
 &lt;h1 id="kitsas-30-orvokki-beta-vaiheessa">Kitsas 3.0 &amp;ldquo;Orvokki&amp;rdquo; BETA-vaiheessa&lt;/h1>
 &lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
