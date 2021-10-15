@@ -1,4 +1,14 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.1</title><link>/blog/2021/09/27/kitsas-3.1/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>/blog/2021/09/27/kitsas-3.1/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.1.1</title><link>/blog/2021/10/15/kitsas-3.1.1/</link><pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate><guid>/blog/2021/10/15/kitsas-3.1.1/</guid><description>
+&lt;h1 id="kitsas-päivittyy">Kitsas päivittyy&lt;/h1>
+&lt;p>Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta kitsas.fi&lt;/p>
+&lt;h2 id="päivitystä-suositellaan-kaikille-käyttäjille">Päivitystä suositellaan kaikille käyttäjille&lt;/h2>
+&lt;p>Päivityksessä on korjauksia mm. laskujen kopioinnissa, verkkolaskutuksessa ja raporttien välisummien laskemisessa.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Tase ja tuloslaskelma myös WebKitsaassa</title><link>/blog/2021/10/15/tase-ja-tuloslaskelma-my%C3%B6s-webkitsaassa/</link><pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate><guid>/blog/2021/10/15/tase-ja-tuloslaskelma-my%C3%B6s-webkitsaassa/</guid><description>
+&lt;p>Selaimella toimiva Kitsaan web-liittymä &lt;a href="https://pilvi.kitsas.fi">WebKitsas&lt;/a> sisältyy kaikkiin Kitsaan pilvikirjanpitoihin.&lt;/p>
+&lt;p>Nyt WebKitsaassa on näkyvillä myös tilikauden tase ja tuloslaskelma, halutessasi kirjanpitotileittäin eriteltyinä tai ainoastaan tietyllä kohdennuksella poimittuna.&lt;/p>
+&lt;p>WebKitsaalla pääsee selaamaan kirjanpito ilman ohjelmiston asentamista omalle tietokoneelle. Lisäksi WebKitsaalla voi tarkastaa ja hyväksyä kierrossa olevia laskuja sekä kirjata yksinkertaisia meno- ja tulotositteita.&lt;/p>
+&lt;p>&lt;img src="/img/screenshots/webtuloslaskelma.png" alt="">&lt;/p></description></item><item><title>Blog: Kitsas 3.1</title><link>/blog/2021/09/27/kitsas-3.1/</link><pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate><guid>/blog/2021/09/27/kitsas-3.1/</guid><description>
 &lt;h1 id="kitsas-päivittyy">Kitsas päivittyy&lt;/h1>
 &lt;p>Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta kitsas.fi&lt;/p>
 &lt;h2 id="päivitystä-suositellaan-kaikille-käyttäjille">Päivitystä suositellaan kaikille käyttäjille&lt;/h2>
