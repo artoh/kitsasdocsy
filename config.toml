@@ -199,11 +199,11 @@ enable = false
   desc = "Ohjelman lähdekoodi ja tehtävät"
 
 [params.download]
-	versio = "3.1"
-	linux = "https://github.com/artoh/kitupiikki/releases/download/v3.1/Kitsas-3.1-x86_64.AppImage"
-	mac = "https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.1/Kitsas-3.1.dmg"
-	windows = "https://github.com/artoh/kitupiikki/releases/download/v3.1/kitsas-3.1-asennus.exe"
-	portable = "https://github.com/artoh/kitupiikki/releases/download/v3.1/kitsas-3.1.exe"
+	versio = "3.1.1"
+	linux = "https://github.com/artoh/kitupiikki/releases/download/v3.1.1/Kitsas-3.1.1-x86_64.AppImage"
+	mac = "https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.1.1/Kitsas-3.1.1.dmg"
+	windows = "https://github.com/artoh/kitupiikki/releases/download/v3.1.1/kitsas-3.1.1-asennus.exe"
+	portable = "https://github.com/artoh/kitupiikki/releases/download/v3.1.1/kitsas-3.1.1.exe"
 	
 [params.comments.remark]
 	remark = true
