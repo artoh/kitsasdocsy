@@ -23,6 +23,13 @@ Hyväksy seuraavaksi palvelun [käyttöehdot](https://kitsas.fi/ehdot).
 
 Anna nimesi ja sähköpostiosoitteesi
 
+{{<alert title="Mikä sähköpostiosoite?">}}
+Kun kirjanpito tallennetaan pilveen, tulee kirjanpidon aloittajasta sen omistaja.
+
+Jos tarkoituksena on tehdä yhdistyksen kirjanpitoa ja yhdistyksellä on käytössä yhteinen sähköpostiosoite (esim. toimisto@yhdistys.fi), voi olla hyvä ajatus luoda käyttäjätunnus tällä osoitteella. Tällöin rahastonhoitajan vaihtuessa ei tarvitse erikseen pyytää kirjanpidon siirtämistä käyttäjätunnukselta toiselle.
+
+{{</alert>}}
+
 ![](/img/fi/aloitus/pilvi/luotunnus4.png)
 
 Saat hetken kuluttua sähköpostiisi viestin, jossa olevalla linkillä pääset viimeistelemään käyttäjätunnuksesi ja asettamaan itsellesi salasanan.

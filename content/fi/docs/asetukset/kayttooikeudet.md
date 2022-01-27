@@ -22,7 +22,7 @@ Näet nyt alempana käyttäjän nimen ja sähköpostiosoitteen. Valitse käyttä
 Käyttäjä näkee tämän kirjanpidon **Pilvi**-välilehdellään, kun hän seuraavan kerran kirjautuu ohjelmalla Kitsaan pilveen.
 
 !!! note "Käyttöoikeuksien päivittyminen"
-Käyttöoikeudet päivittyvät vasta käyttäjän kirjautuessa seuraavan kerran.
+    Käyttöoikeudet päivittyvät vasta käyttäjän kirjautuessa seuraavan kerran.
 
 ### Käyttöoikeuksien muuttaminen
 
