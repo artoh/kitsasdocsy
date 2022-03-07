@@ -2,7 +2,7 @@
 title = "Kitsas 3.2 beta"
 date = "2022-03-07"
 description = "Kitsas 3.2 BETA on ladattavissa"
-tags = ["beta]
+tags = ["beta"]
 categories = ["julkaisu"]
 author = "Arto"
 banner = "img/banners/kitsas.png"
