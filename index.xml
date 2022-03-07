@@ -1,4 +1,42 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.1.1</title><link>/blog/2021/10/15/kitsas-3.1.1/</link><pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate><guid>/blog/2021/10/15/kitsas-3.1.1/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.2 beta</title><link>/blog/2022/03/07/kitsas-3.2-beta/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>/blog/2022/03/07/kitsas-3.2-beta/</guid><description>
+&lt;p>Tässä versiossa on lukuisia pieniä parannuksia ja korjauksia.&lt;/p>
+&lt;h1 id="kitsas-32-beta-vaiheessa">Kitsas 3.2 BETA-vaiheessa&lt;/h1>
+&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
+&lt;p>Tätä versiota jo testattu varsin kattavasti, mutta toivomme ohjelmasta mahdollisimman laajaa palautetta vielä ennen sen varsinaista julkistamista.&lt;/p>
+&lt;p>Ohjelman päivittämisen jälkeen tilikartta kannattaa päivitettävä ohjelman antamien ohjeiden mukaisesti.&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v3.2-beta/kitsas-3.2-beta.exe">Kitsas 3.2 BETA Windows&lt;/a>&lt;br>
+Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
+&lt;h3 id="mac-versio">Mac-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.2-beta/Kitsas-3.2-beta.dmg">Kitsas 3.2 BETA Mac&lt;/a>&lt;br>
+Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v3.2-beta/Kitsas-3.2-beta-x86_64.AppImage">Kitsas 3.2 BETA Linux&lt;/a>&lt;br>
+Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
+&lt;h2 id="uusia-ominaisuuksia">Uusia ominaisuuksia&lt;/h2>
+&lt;h3 id="raporttien-päivittäminen">Raporttien päivittäminen&lt;/h3>
+&lt;img src="/img/screenshots/vastike_lasku.png" class="img-responsive"/>
+&lt;p>Raportit voidaan nyt päivittää nykyisillä valinnoillaan. Raporttien valinnat myös säilyvät suurimmalta osalta siirryttäessä raportista toiseen.&lt;/p>
+&lt;h3 id="parannuksia-tuloverojen-kirjaamisessa">Parannuksia tuloverojen kirjaamisessa&lt;/h3>
+&lt;p>Tuloverojen kirjaamisessa on paikka myös ennakkoon maksetuille Yle-veroille.&lt;/p>
+&lt;h3 id="muita-parannuksia">Muita parannuksia&lt;/h3>
+&lt;ul>
+&lt;li>Pienyritykselle voi laatia myös bruttotuloslaskelman&lt;/li>
+&lt;li>Useamman liitteen lisääminen samalle tositteelle on helpompaa&lt;/li>
+&lt;li>Tase-erittelyssä on näkyvillä tilien IBAN-numerot&lt;/li>
+&lt;li>Laskuun lisätty yksiköitä, kuten metri ja senttimetri&lt;/li>
+&lt;li>Tasaeräpoisteettavat erät voi syöttäää tilinavauksessa poistoaikoineen&lt;/li>
+&lt;li>Tiliotteiden ja csv-tiedostojen tuonnin parannuksia&lt;/li>
+&lt;/ul>
+&lt;h3 id="korjauksia">Korjauksia&lt;/h3>
+&lt;ul>
+&lt;li>Kitupiikistä tuotaessa tase-eriten säilyminen&lt;/li>
+&lt;li>Muokatut yksiköt laskuissa&lt;/li>
+&lt;li>Tasaeräpoistojen laskeminen paikallisessa kirjanpidossa&lt;/li>
+&lt;li>Aputoiminimen tulostuminen laskulle&lt;/li>
+&lt;/ul>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 3.1.1</title><link>/blog/2021/10/15/kitsas-3.1.1/</link><pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate><guid>/blog/2021/10/15/kitsas-3.1.1/</guid><description>
 &lt;h1 id="kitsas-päivittyy">Kitsas päivittyy&lt;/h1>
 &lt;p>Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta kitsas.fi&lt;/p>
 &lt;h2 id="päivitystä-suositellaan-kaikille-käyttäjille">Päivitystä suositellaan kaikille käyttäjille&lt;/h2>
