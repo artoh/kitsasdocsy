@@ -5,8 +5,6 @@ keywords: ["lataus"]
 menu:
   main:
     weight: 10
-download:
-  linux: "https://github.com/artoh/kitupiikki/releases/download/v2.3/Kitsas-2.3-x86_64.AppImage"
 ---
 
 {{% blocks/lead color="light" %}}
@@ -61,7 +59,7 @@ Lataa Kitsas maksutta tietokoneellesi
     </div>
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
        <h1><i class="fab fa-linux"></i></h1>
-      <h4>Linux</h4> 
+      <h4>Linux</h4>
       {{<latausnappi "linux">}}            
       64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 18.04 ja uudemmat
       <p>Kitsaan Linux-versio toimitetaan AppImage-tiedostona, jota ei varsinaisesti edes tarvitse asentaa. Et tarvitse ylläpitäjän oikeuksia.</p>
