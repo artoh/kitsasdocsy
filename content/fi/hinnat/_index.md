@@ -189,7 +189,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 </table>
 
 <p><sup>* </sup> Olemme varanneet kirjanpitoa kohden tallennustilaa 2,5 Gt. Tämä riittää tavanomaisesti noin 10 000 sähköisen tositteen tallentamiseen. Lisätilasta perimme <b>10 €</b>/Gt/vuosi.</p>
-<p><sup>** </sup> Verkkolaskuoperaattori perii verkkolaskujen lähettämisestä ja vastaanottamisesta oman hinnastonsa mukaisesti.</p>
+<p><sup>** </sup> Verkkolaskuoperaattori perii verkkolaskujen lähettämisestä ja vastaanottamisesta oman hinnastonsa mukaisesti. Kitsaassa on suora integraatio Maventan verkkolaskuihin, muiden operaattoreiden kanssa laskutiedoja voidaan joutua siirtämään osittain käsityönä.</p>
 
 </article>
 <div>
