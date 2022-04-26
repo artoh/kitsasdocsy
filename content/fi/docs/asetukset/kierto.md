@@ -34,7 +34,7 @@ Kiertoon lisätään osallistuja valitsemalla nimi, kierron vaihe sekä se, läh
 | Tarkastettu | Käyttäjä näkee tarkastetut laskut. Oikeuksiensa puitteissa hän voi _tarkastaa_ laskun tai _siirtää laskun kirjanpitoon_.                     |
 | Hyväksytty  | Käyttäjä näkee tarkastetut laskut, ja voi siirtää ne kirjanpitoon.                                                                           |
 
-Kuvan esimerkkikierrossa _Lennu Lepakko_ on kerhotoimintavastaava, joka tarkastaa ensin, että lähetetty kululasku kuuluu yhdistyksen kerhotoimintaan. _Masa Majava_ on puheenjohtaja, joka tarkastaa laskut ja _Tikke Tiikeri_ rahastonhoitaja, joka laittaa laskun maksuun ja tallentaa tositteen kirjanpitoon.
+Kuvan esimerkkikierrossa _Lennu Lepakko_ on kerhotoimintavastaava, joka tarkastaa ensin, että lähetetty kululasku kuuluu yhdistyksen kerhotoimintaan. _Masa Majava_ on puheenjohtaja, joka hyväksyy laskut ja _Tikke Tiikeri_ rahastonhoitaja, joka laittaa laskun maksuun ja tallentaa tositteen kirjanpitoon.
 
 Kierto voidaan määritellä myös vähemmille henkilöille. Kiertoon voidaan merkitä samaan vaiheeseen myös useampi henkilö, joista kuka tahansa voi siirtää laskua eteenpäin kierrossa.
 
