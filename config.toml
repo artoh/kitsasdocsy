@@ -203,7 +203,7 @@ enable = false
 	linux = "https://github.com/artoh/kitupiikki/releases/download/v3.2/Kitsas-3.2-x86_64.AppImage"
 	mac = "https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.2/Kitsas-3.2.dmg"
 	windows = "https://github.com/artoh/kitupiikki/releases/download/v3.2/kitsas-3.2-asennus.exe"
-	portable = "https://github.com/artoh/kitupiikki/releases/download/v3.2/kitsas-3.2-asennus.exe"
+	portable = "https://github.com/artoh/kitupiikki/releases/download/v3.2/kitsas-3.2.exe"
 
 [params.comments.remark]
 	remark = true
