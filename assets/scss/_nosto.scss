@@ -11,10 +11,12 @@
   &__text {
     display: inline-block;
     width: 46%;
-    font-size: 120%;    
+    font-size: 120%;
     @media (max-width: 620px) {
       width: 100%;
-    }   
+    }
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -25,4 +27,5 @@
   font-weight: bold;
   padding-top: 1em;
   padding-bottom: 0.5em;
+  margin-top: 3em;
 }

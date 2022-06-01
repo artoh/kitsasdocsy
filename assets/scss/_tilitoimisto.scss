@@ -1,0 +1,44 @@
+.tilitoimisto {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 4em;
+
+  &__text  {
+    display: inline-block;
+    font-size: 120%;
+  }
+}
+
+.tilitoimisto__text > h2 {
+  color: $primary;
+  font-weight: normal;
+}
+
+.tilitoimisto__text > p > a {
+  color: $primary;
+}
+
+span.fa {
+  color: $primary;
+  margin-right: 1el;
+}
+
+.yhteys > h3 {
+  color: $primary;
+  font-size: 100%;
+}
+
+.listainfo {
+  margin-top: 4em;
+}
+
+.tilitoimistot {
+  width: 70%;
+  @media (max-width: 620px) {
+    width: 100%;
+  }
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -4em;
+
+}

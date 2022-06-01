@@ -18,7 +18,7 @@ varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle. Samalla teet mah
 {{% /blocks/lead %}}
 
 {{% blocks/section color="white" %}}
-
+<div>
 <p class="lead" style="text-align:center;">Rekisteröitymisen ja tilaukset teet suoraan ohjelmasta. Edulliset tilaukset laskutetaan valintasi mukaan kuuden kuukauden tai vuoden jaksoissa.
 <br/><a href={{<relref "../docs/aloittaminen/tilaus">}} class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Näin rekisteröidyt ja tilaat</a></p>
 
@@ -35,6 +35,8 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 **Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa. Lisäksi se sopii yrityksille, jotka tallentavat kirjanpidon omalle koneelleen, mutta haluavat hyödyntää tukipalveluita ja sähköistä laskutusta.
 
 **Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
+
+</div>
 
 <article class="hinnat">
 
@@ -192,7 +194,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 <p><sup>** </sup> Verkkolaskuoperaattori perii verkkolaskujen lähettämisestä ja vastaanottamisesta oman hinnastonsa mukaisesti. Kitsaassa on suora integraatio Maventan verkkolaskuihin, muiden operaattoreiden kanssa laskutiedoja voidaan joutua siirtämään osittain käsityönä.</p>
 
 </article>
-<div>
+<div class="hintaloppuinfo">
 
 ### Lisäkirjanpito
 
