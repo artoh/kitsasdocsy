@@ -9,6 +9,8 @@ description: >
 
 ![Verojen maksu](/img/fi/asetukset/veronmaksu.png)
 
-**Tuloverojen viite** on OmaVero-palvelusta näkyvä viitenumero, jolla yritys maksaa tuloverojaan (esim. ennakkoverot). Vastaavasti **Oma-aloittesten verojen viite** on viitenumero, jolla maksetaan esimerkiksi arvonlisäverot. Kitsas käyttää näitä viitenumeroita tiliotetietojen automaattiseen kohdistamiseen.
+**Tuloverojen viite** on OmaVero-palvelusta näkyvä viitenumero, jolla yritys maksaa tuloverojaan (esim. ennakkoverot). Vastaavasti **Oma-aloitteisten verojen viite** on viitenumero, jolla maksetaan esimerkiksi arvonlisäverot. Kitsas käyttää näitä viitenumeroita tiliotetietojen automaattiseen kohdistamiseen.
 
 **Arvonlisäveron kirjauksen** vaihtoehdot on esitetty [Arvonlisäveron ohjeissa]({{<relref "../alv/ilmoitus/kirjanpidossa">}})
+
+**Yhteyspuhelinnumero veroja ilmoitettaessa** välitetään muodostettaessa arvonlisäveroilmoituksesta [Ilmoitin-aineisto]({{<relref "../alv/ilmoitus/ilmoitin/">}}).

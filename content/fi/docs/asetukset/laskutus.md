@@ -2,7 +2,7 @@
 title: "Laskutuksen asetukset"
 linkTitle: "Laskutus"
 weight: 90
-keywords: ["laskutus"]
+keywords: ["laskutus", "aputoiminimi"]
 description: >
   Laskutuksen tilien ja laskujen ulkoasun asetukset
 ---
@@ -38,13 +38,16 @@ Huomautusaika
 Peruskorko
 : korko, jonka perusteella viivästyskorko määritellään. [Suomen Pankki](https://www.suomenpankki.fi/fi/Tilastot/korot/kuviot/korot_kuviot/viitekorko_chrt_fi/) julkaisee koron puolen vuoden jaksoille.
 
+Laskurivit
+: tulostetaanko laskurivit arvonlisäverottomilla hinnoilla (**Verottomat rivit**), arvonlisäverollisilla hinnoilla (**Verolliset rivit**) vai molemmilla (**Pitkät rivit**). Valinnan voi tehdä laskua muokattaessa myös yksittäiselle laskulle.
+
+Desimaaleja yksikköhinnassa
+: kuinka monen desimaalin tarkkuudella tuotteiden yksikköhinnat määritellään. Rivin ja laskun kokonaishinta lasketaan aina sentin tarkkuudella.
+
 #### Tulosta laskuille
 
 Tilinumerot
 : Tilinumerot pitää ensin määritellä [tilin tiedoissa]({{<relref "tililuettelo">}}).
-
-Aputoiminimi
-: Käytettäessä aputoiminimeä tulostetaan se yrityksen nimen sijaan
 
 Tilisiirto
 : Perinteinen tilisiirtolomake laskun alalaidassa
@@ -61,15 +64,6 @@ QR-koodi
 Virtuaaliviivakoodi
 : Tekstimuodossa tulostettavat viivakoodin tiedot, joilla maksutiedot voidaan syöttää esim. verkkopankkiin
 
-Kehyksen väri
-: Laskua tulostettaessa kehyksissä käytettävä väri
-
-Varjostus
-: Laskua tulostettaessa varjostukseen käytettävä väri
-
-Logon korkeus
-: Laskulle tulostettavan logon korkeus. Logo ja sen sijainti määritellään [Perusvalinnat]{{<relref "perusvalinnat">}}-lehdellä
-
 #### Ikkunakuoret
 
 Jos laskut on tarkoitus postittaa **ikkunakuoressa**, määrittele kirjekuoren osoiteikkunan koko sekä sijainti. Isoikkunakuoressa (ikkunan korkeus yli 5,5 cm) ikkunan kohdalle tulostetaan sekä lähettäjän että vastaanottajan tiedot.
@@ -82,3 +76,9 @@ Suositellut ikkunakuoret
 | C5 isoikkuna  | 90 mm          | 60 mm           | 18 mm               | 10 mm             |
 | E65           | 90 mm          | 30 mm           | 18 mm               | 40 mm             |
 | E65 isoikkuna | 90 mm          | 60 mm           | 18 mm               | 10 mm             |
+
+{{<alert title="Aputoiminimi, logo ja tehostevärit">}}
+
+Aputoiminimet sekä logoon ja tehosteväreihin liittyvät valinnat määritellään [Yhteystiedot ja toiminimet]({{<relref "yhteystiedot">}}) -välilehdellä.
+
+{{</alert>}}

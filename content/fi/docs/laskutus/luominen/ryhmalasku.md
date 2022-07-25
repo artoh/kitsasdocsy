@@ -18,6 +18,8 @@ Valitse laskun saajat **Laskutettavat**-välilehdeltä. Voit lisätä rekisteris
 
 Näytöllä olevasta luettelosta voit vaihtaa yksittäisen laskun saajan kielen ja laskun lähetystavan.
 
+**Lähetystapa**-painikkeella voit vaihtaa kaikkien laskujen lähetystavan - jos esimerkiksi haluat tulostaa laskut niillekin vastaanottajille, joiden laskutustapana on tavallisesti sähköpostilasku.
+
 Kun painat **Tallenna valmiina**, luo ohjelma jokaiselle laskun saajalle erillisen laskun. Valitsemalla laskun _Lähetettävät_-välilehdeltä voit vielä muokata yksittäisiä laskuja ennen niiden lähettämistä.
 
 {{% alert title="Muista lähettää laskut" color="primary" %}}

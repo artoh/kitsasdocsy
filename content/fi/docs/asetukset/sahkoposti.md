@@ -10,7 +10,25 @@ description: >
 
 Kitsaalla on mahdollista lähettää laskut suoraan sähköpostiin. Jos tätä toimintoa haluaa käyttää, on ohjelmassa määritettävä sähköpostin asetukset.
 
-Jos valitset asetusten tallentamisen **tietokoneen asetuksiin**, sähköpostitilin asetukset ovat tietokonekohtaisia (samoja asetuksia käytetään kaikilla kirjanpidoilla). Jos valitset tallentamisen **kirjanpitokohtaisesti**, syötetään sähköpostiasetukset erikseen jokaiseen kirjanpitoon. Jos kirjanpidolla on useampi käyttäjä, käyttävät he samoja asetuksia.
+### Sähköpostiasetusten tallennus
+
+#### Tietokoneen asetuksiin
+
+Sähköpostipalvelimen asetukset ovat tietokonekohtaisia, eli samoja asetuksia käytetään kaikilla kirjanpidoilla.
+
+#### Kirjanpitokohtaisesti
+
+Sähköpostipalvelimen asetukset ovat kirjanpitokohtaisia. Jos kirjanpidolla on useampia käyttäjiä, käyttävät he kaikki samoja asetuksia.
+
+#### Lähetä Kitsaan palvelimen kautta
+
+<div class="cloud-only">
+  <i class="fa fa-cloud"></i> Ominaisuus on käytettävissä vain, kun kirjanpito on tallennettu Kitsaan pilveen
+</div>
+
+Sähköpostit lähetetään Kitsaan palvelimen kautta. Sinun ei tarvitse määritellä itse palvelimen asetuksia.
+
+### Smtp-palvelin
 
 - **Palvelin**: Lähtevän sähköpostin palvelimen osoite, löytyy sähköpostin tai internetyhteyden ohjeista.
 - **Portti**: Lähtevän sähköpostin portti palvelimella
@@ -20,12 +38,13 @@ Jos valitset asetusten tallentamisen **tietokoneen asetuksiin**, sähköpostitil
 - **Käyttäjänimi**: Käyttäjänimi palvelimella palveluntarjoajan vaatimassa muodossa
 - **Salasana**: Sähköpostin salasana. Jos Gmailissa käytetään kaksivaiheista varmennusta, tähän syötetään [sovellussalasana](https://myaccount.google.com/apppasswords).
 
-- **Viestin lähettäjän nimi ja osoite**: Viesteissä näkyvät tiedot. Jotkut sähköpostipalvelut vaativat kyseisen palvelun sähköpostiosoitteen käyttämistä.
-
 Kun olet syöttänyt asetukset, paina **Kokeile**-painiketta, joka yrittää lähettää sähköpostin omaan osoitteeseesi. Jos lähetys epäonnistuu, saat siitä ilmoituksen
 
 ![](/img/fi/asetukset/emailvirhe.png)
 
 Tässä tapauksessa käyttäjätunnus tai salasana on väärin.
 
-**Sähköpostilaskun viesti** -kohdassa syötät saateviestin, jonka liitteeksi lasku lähetetään. Voit myös valita, lisätäänkö viestin loppuun **maksutiedot** eli laskun summa, viitenumero, tilinumero sekä virtuaaliviivakoodi.
+### Viestin lähettäjä
+
+- **Viestin lähettäjän nimi ja osoite**: Viesteissä näkyvät tiedot. Jotkut sähköpostipalvelut vaativat kyseisen palvelun sähköpostiosoitteen käyttämistä.
+- **Laskukopiot osoitteeseen**: Kaikista lähetettävistä laskuista lähetetään kopio myös määrittelemääsi osoitteeseen.

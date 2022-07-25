@@ -82,6 +82,26 @@ Vakioviite
 Valvomaton
 : Laskua ei kirjata myyntisaataviin eikä sen maksamista valvota. Voi käyttää sellaisten laskujen tulostamiseen, jotka kirjataan vasta maksuperusteisesti.
 
+### Arvonlisäveron merkitseminen
+
+![](/img/fi/laskutus/luominen/verorivit.png)
+
+Verottomat rivit
+: Rivien summat ilmoitetaan verottomina, ja vero lisätään vasta kokonaissummaan. Yleinen laskentatapa yritysten välisessä laskutuksessa.
+
+Verolliset rivit
+: Rivien summat ilmoitetaan verollisina. Yleinen tapa laskutettaessa yksityishenkilöitä ja yhdistyksiä, jotka eivät vähennä arvonlisäveroa
+
+Pitkät rivit
+: Jokaiselle riville merkitään sekä veroton että verollinen rivisumma.
+
+### Aputoiminimi
+
+![Toiminimi](/img/fi/laskutus/luominen/toiminimi.png)
+
+Jos asetuksissa on määritelty aputoiminimiä, voit valita tästä laskulle tulostuvan toiminimen (päätoiminimi tai jokin aputoiminimistä)
+
+
 ### Toimituspäivämäärä tai laskutusjakso
 
 ![Toimituspäivämäärän valinta](/img/fi/laskutus/luominen/toimituspvm.png)
@@ -95,19 +115,6 @@ Laskutusjakso
 ### Otsikko
 
 Otsikko tulostetaan laskulle, ja se toimii myös tositteen otsikkona kirjanpidossa.
-
-### Arvonlisäveron merkitseminen
-
-![](/img/fi/laskutus/luominen/verorivit.png)
-
-Verottomat rivit
-: Rivien summat ilmoitetaan verottomina, ja vero lisätään vasta kokonaissummaan. Yleinen laskentatapa yritysten välisessä laskutuksessa.
-
-Verolliset rivit
-: Rivien summat ilmoitetaan verollisina. Yleinen tapa laskutettaessa yksityishenkilöitä ja yhdistyksiä, jotka eivät vähennä arvonlisäveroa
-
-Pitkät rivit
-: Jokaiselle riville merkitään sekä veroton että verollinen rivisumma.
 
 ### Laskun rivit
 
@@ -144,3 +151,11 @@ Lasku, jolla on toimitusjakso, voidaan määritellä toistumaan. Tällöin lasku
 {{% alert title="Toistolaskujen lopettaminen tai muuttaminen" color="primary" %}}
 Voit muuttaa tositumisen asetuksia avaamalla laskun, jolle on määritelty toistuminen, muokattavaksi.
 {{% /alert %}}
+
+### Saateviesti
+
+Kun lasku lähetetään sähköpostilla, sähköpostiviestin otsikko ja teksti. Pdf-muotoinen lasku lähetetään sähköpostiviestin liitteenä.
+
+### Liitteet
+
+Voit lisätä liitetiedostoja, jotka lähetetään sähköposti- ja verkolaskuissa liitetiedostoina. Verkkolaskun liitetiedostojen on oltava pdf-muodossa.
