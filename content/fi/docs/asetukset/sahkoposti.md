@@ -28,6 +28,8 @@ Sähköpostipalvelimen asetukset ovat kirjanpitokohtaisia. Jos kirjanpidolla on 
 
 Sähköpostit lähetetään Kitsaan palvelimen kautta. Sinun ei tarvitse määritellä itse palvelimen asetuksia.
 
+Kitsaan palvelimelta lähetettäessä lähettäjän osoitteena on aina **laskutus@kitsas.fi**. Saateviestissä on hyvä kertoa, keneltä lähetetty lasku on ja antaa myös yhteystiedot.
+
 ### Smtp-palvelin
 
 - **Palvelin**: Lähtevän sähköpostin palvelimen osoite, löytyy sähköpostin tai internetyhteyden ohjeista.
