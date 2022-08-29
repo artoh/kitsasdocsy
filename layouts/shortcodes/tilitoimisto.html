@@ -1,0 +1,9 @@
+<div class="tilitoimisto">
+  <div class="tilitoimisto__text">
+   <h2>{{ .Get "nimi" | markdownify}} </h2>
+   <p><span class="fa fa-globe"></span>
+     <a href=https://{{.Get "web"}}>{{.Get "web"}}</a> </p>
+
+   <p>{{.Inner}}</p>
+  </div>
+</div>

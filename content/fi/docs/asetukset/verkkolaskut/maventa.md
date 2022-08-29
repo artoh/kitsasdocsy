@@ -12,7 +12,7 @@ Kitsaassa on integroitu yhteys [Maventan](https://maventa.com) verkkolaskutuksee
 
 Luo ensin [Maventa-tili](https://secure.maventa.com/registrations).
 
-Kitsaan verkkolaskuasetusten **Määritä**-painikkeella pääset syöttämään API-avaimen ja yrityksen UUID-tunnukset, jotka löydät Maventan asetuksista.
+Kitsaan verkkolaskuasetusten **Määritä**-painikkeella pääset syöttämään API-avaimen ja yrityksen UUID-tunnukset, jotka löydät Maventan asetuksista. Jos verkkolaskuja lähettää useampi käyttäjä, jokaisen on tallennettava omat määrityksensä. 
 
 ![](/img/fi/asetukset/verkkolaskut/maventaruutu.png)
 

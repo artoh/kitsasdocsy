@@ -14,6 +14,10 @@ article.hinnat {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 18px;
   padding: 18px;
+  clear: left;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 article.hinnat > ul {
   display: flex;
@@ -61,4 +65,16 @@ article.hinnat > ul > li.active button {
   th + th {
     width: auto;
   }
+}
+
+div.hintaloppuinfo {
+  width: 100%;
+  max-width: 1100px;
+  clear: both;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;       
+    @media (max-width: 620px) {
+      width: 100%;
+    }  
 }

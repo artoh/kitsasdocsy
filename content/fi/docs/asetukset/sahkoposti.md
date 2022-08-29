@@ -38,7 +38,7 @@ Kitsaan palvelimelta lähetettäessä lähettäjän osoitteena on aina **laskutu
   - **Salattu yhteys (SSL)**: Viestisi salataan. Portti yleensä 465.
   - **Suojattu yhteys (STARTTLS)**: Lähtevään sähköpostipalvelimeen muodostetaan suojattu yhteys. Portti yleensä 587. Suositellaan aina mikäli käytettävissä.
 - **Käyttäjänimi**: Käyttäjänimi palvelimella palveluntarjoajan vaatimassa muodossa
-- **Salasana**: Sähköpostin salasana. Jos Gmailissa käytetään kaksivaiheista varmennusta, tähän syötetään [sovellussalasana](https://myaccount.google.com/apppasswords).
+- **Salasana**: Sähköpostin salasana. Gmail-osoitetta käytettäessä tähän syötetään [sovellussalasana](https://myaccount.google.com/apppasswords).
 
 Kun olet syöttänyt asetukset, paina **Kokeile**-painiketta, joka yrittää lähettää sähköpostin omaan osoitteeseesi. Jos lähetys epäonnistuu, saat siitä ilmoituksen
 

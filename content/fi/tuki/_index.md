@@ -43,7 +43,7 @@ Valitse, oletko
 Anna palautetta</a></p>
 
 <p>Emme välttämättä pysty vastaamaan henkilökohtaisesti kaikkeen palautteeseen.</p>
-<p>Iloitsemme siitä, että jo yli 2000 käyttäjää on löytänyt Kitsaan ja toivomme, että ohjelmastamme on paljon hyötyä. Emme kuitenkaan pysty antamaan neuvontaa ilmaiskäyttäjillemme, vaan toivomme että tukea tarvitsevat käyttäjämme liittyisivät tilauksella maksullisen tuen piiriin.</p>
+<p>Iloitsemme siitä, että jo yli 2500 käyttäjää on löytänyt Kitsaan ja toivomme, että ohjelmastamme on paljon hyötyä. Emme kuitenkaan pysty antamaan neuvontaa ilmaiskäyttäjillemme, vaan toivomme että tukea tarvitsevat käyttäjämme liittyisivät tilauksella maksullisen tuen piiriin.</p>
 {{</blocks/feature>}}  
 {{% /blocks/section %}}
 
@@ -102,7 +102,7 @@ Voit jättää tukipyynnön myös alla olevalla painikkeella tai ottaa yhteyttä
 Jätä tukipyyntö tai anna palautetta </a><br>
 Toivomme, että nopeutat tukiviestisi käsittelyä liittämällä siihen ohjelmassa <b>Aloita</b>-sivun <b>Tuki</b>-välilehdellä olevat tiedot. <br>Helpoiten teet sen painamalla <b>Kopioi leikepöydälle</b>-painiketta ja valitsemalla viestiä kirjoittaessasi <b>Liitä</b>.</p>
 
-<p>Kitsas Oy:n antama tuki rajoittuu ohjelman käyttämiseen. Kitsas ei anna kirjanpitoon tai verotukseen liittyvää neuvontaa eikä takaa, että Kitsaan tuen antama neuvonta olisi kirjanpidon kannalta riittävää.</p>
+<p>Kitsas Oy:n antama tuki rajoittuu ohjelman käyttämiseen. Kitsas ei anna kirjanpitoon tai verotukseen liittyvää neuvontaa eikä takaa, että Kitsaan tuen antama neuvonta olisi kirjanpidon kannalta riittävää. Käänny tarvittaessa <a href="/tilitoimistoja">tilitoimiston</a> puoleen.</p>
 
 </div>
 {{% /blocks/section %}}

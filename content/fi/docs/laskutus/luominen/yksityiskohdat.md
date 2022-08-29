@@ -141,7 +141,7 @@ Käänteinen arvonlisävero on käytettävissä vain, kun asiakkaalle on määri
 ### Laskun toistuminen
 
 ![Toistuminen-välilehti](/img/fi/laskutus/luominen/toistuminen.png)
-Lasku, jolla on toimitusjakso, voidaan määritellä toistumaan. Tällöin laskutuskauden päättyessä ohjelma luo automaattisesti uuden laskun. Nämä automaattisesti luodut laskut tulevat myyntilaskunäkymän _Lähtevät_-välilehdelle.
+Lasku, jolla on toimitusjakso, voidaan määritellä toistumaan. Tällöin laskutuskauden päättyessä ohjelma luo automaattisesti uuden laskun. Nämä automaattisesti luodut laskut tulevat myyntilaskunäkymän _Lähtevät_-välilehdelle. Tämä ominaisuus on käytettävissä vain Kitsaan pilveen tallennetuissa kirjanpidoissa.
 
 - **Laskutusjakso** määritellee automaattisesti luotavan uuden laskun jakson pituuden
 - **Laskutus**-valinta määrittelee, kuinka monta päivää ennen tai jälkeen laskutusjakson päättymisen seuraavan laskutusjakson lasku luodaan.
