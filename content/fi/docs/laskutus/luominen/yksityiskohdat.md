@@ -116,6 +116,10 @@ Laskutusjakso
 
 Otsikko tulostetaan laskulle, ja se toimii myös tositteen otsikkona kirjanpidossa.
 
+### Banneri
+
+Jos [bannereita]({{<relref "../../asetukset/bannerit">}}) eli laskulle tulostuvia leveitä markkinointikuvia on käytettävissä, pääset valitsemaan valintalistasta laskulle tulostettavan bannerin.
+
 ### Laskun rivit
 
 ![Laskun rivit](/img/fi/laskutus/luominen/rivit.png)

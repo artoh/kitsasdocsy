@@ -42,6 +42,8 @@ Saatetekstissä olisi hyvä antaa myös yhteystiedot asiakkaalle laskua koskevia
 
 ## Muita parannuksia tässä versiossa
 
+- [Tilitiedot voidaan noutaa pankista pilveen tallennettuun kirjanpitoon](/docs/asetukset/tilitapahtumat/)
+- [Laskulle voidaan tulostaa bannerikuva](/docs/asetukset/bannerit/)
 - Maventan verkkolaskutuksen kautta lähetettäviin verkkolaskuihin liitetään nyt Kitsaalla luotu laskun kuva. Laskuihin voi lisätä nyt myös liitetiedostoja, jotka välitetään sähköpostin tai Maventan verkkolaskun liitteinä.
 - Laskun voi lähettää sähköpostilla useampaan osoitteeseen erottelemalla ne pilkulla.
 - Pilveen tallennetuissa kirjanpidoissa voidaan laskujen lähettämiseen käyttää Kitsaan palvelinta, jolloin ei tarvitse enää tietää oman smtp-palvelimen asetuksia.

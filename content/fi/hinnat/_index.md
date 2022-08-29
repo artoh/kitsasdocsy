@@ -32,7 +32,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 
 **Ilmaiseksi** ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.
 
-**Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa. Lisäksi se sopii yrityksille, jotka tallentavat kirjanpidon omalle koneelleen, mutta haluavat hyödyntää tukipalveluita ja sähköistä laskutusta.
+**Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa. 
 
 **Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
 
@@ -167,6 +167,12 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>       
     <tr>
+      <td>Sähköpostin lähettäminen Kitsaan palvelimen kautta</td>
+      <td></td>
+      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
+    </tr>     
+    <tr>
       <td>Kirjanpidon automaattinen varmuuskopiointi</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
@@ -187,23 +193,30 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
+    <tr>
+      <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>
+    </tr>
+    <tr>
+      <td>Lisäkirjanpito tallennettuna Kitsaan pilveen (sis. alv)</td>
+      <td> </td>
+      <td><span class="txt-l">3,72</span> <span class="txt-top">&euro;/kk</span></td>
+      <td class="default"><span class="txt-l">3,72</span> <span class="txt-top">&euro;/kk</span></td>
+    </tr>    
+    <tr>
+      <td>Tilitietojen noutaminen pankista (sis. alv), kirjanpitokohtainen</td>
+      <td> </td>
+      <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
+      <td class="default"><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
+    </tr>        
   </tbody>
 </table>
-
-<p><sup>* </sup> Olemme varanneet kirjanpitoa kohden tallennustilaa 2,5 Gt. Tämä riittää tavanomaisesti noin 10 000 sähköisen tositteen tallentamiseen. Lisätilasta perimme <b>10 €</b>/Gt/vuosi.</p>
+<p>Lisämaksulliset palvelut veloitetaan jälkikäteen 1 - 12 kuukauden jaksoissa niin, että pienin veloitettava summa kesken vuotta on 20 euroa.</p>
+<p><sup>* </sup> Olemme varanneet kirjanpitoa kohden tallennustilaa 2,5 Gt. Tämä riittää tavanomaisesti noin 10 000 sähköisen tositteen tallentamiseen. Lisätilasta perimme <b>1 €</b>/Gt/kk.</p>
 <p><sup>** </sup> Verkkolaskuoperaattori perii verkkolaskujen lähettämisestä ja vastaanottamisesta oman hinnastonsa mukaisesti. Kitsaassa on suora integraatio Maventan verkkolaskuihin, muiden operaattoreiden kanssa laskutiedoja voidaan joutua siirtämään osittain käsityönä.</p>
 
 </article>
 <div class="hintaloppuinfo">
 
-### Lisäkirjanpito
-
-Samalla laskulla laskutettava lisäkirjanpito <b>40</b> €/vuosi (32,26 € + alv 24 %)
-
-### Tilitoimistopaketti
-
-Kymmenen verkkoon tallennettavaa kirjanpitoa kaikilla toiminnoilla <b>372</b> € / vuosi (300 € + alv 24 %).  
-Tilitoimistopaketissa voit luoda kirjanpitoja joustavasti. Lisäkirjanpidot maksavat <b>2,48 €/kk</b> (2,00 € + alv 24%), ja ne veloitetaan jälkikäteen 1&ndash;2 kertaa vuodessa.
 
 ### Tuntityöveloitus
 
