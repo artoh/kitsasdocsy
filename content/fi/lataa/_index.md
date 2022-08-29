@@ -34,7 +34,7 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-win" role="tabpanel" aria-labelledby="pills-home-tab" style="text-align: center;">      
       <h1><i class="fab fa-windows"></i></h1>
       <h4>Windows</h4>
-      Tuetut versiot: Windows 7, 8 ja 10
+      Windows 7, 8, 10, 11<br>
       <h4 style="margin-top: 2ex;">Asennettava ohjelma</h4>
       {{< latausnappi "windows" >}}
       <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. Tarvitset pääkäyttäjän oikeudet.</p>
