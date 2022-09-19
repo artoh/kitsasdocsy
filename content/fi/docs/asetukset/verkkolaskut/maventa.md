@@ -8,18 +8,45 @@ premium: true
 keywords: ["maventa"]
 ---
 
-Kitsaassa on integroitu yhteys [Maventan](https://maventa.com) verkkolaskutukseen. Kun Maventa-verkkolasku on otettu käyttöön, laskuttaa Maventa sekä lähetetyistä että vastaanotetuista verkkolaskuista hinnastonsa mukaisesti.
+![](/img/fi/asetukset/verkkolaskut/valmiina.png)
 
-Luo ensin [Maventa-tili](https://secure.maventa.com/registrations).
+Kitsaassa on integroitu yhteys [Maventan](https://maventa.com) verkkolaskutukseen. Kun Maventan verkkolaskutus on valittuna, pääset muuttamaan **Asetukset**-painikkeella verkkolaskutuksen valintoja.
 
-Kitsaan verkkolaskuasetusten **Määritä**-painikkeella pääset syöttämään API-avaimen ja yrityksen UUID-tunnukset, jotka löydät Maventan asetuksista. Jos verkkolaskuja lähettää useampi käyttäjä, jokaisen on tallennettava omat määrityksensä. 
+### Avaimet ja laskutus
+
+![](/img/fi/asetukset/verkkolaskut/maventa1.png)
+
+**API-avain** ja **Yrityksen UUID** löytyvät Maventan asetuksista. Jos olet ottanut verkkolaskutuksen käyttöön Kitsaan kautta, on nämä avaimet haettu automaattisesti eikä niitä voi muuttaa. Voit tarvita avaimia, jos otat myöhemmin verkkolaskutuksen käyttöön jossain toisessa sovelluksessa.
 
 ![](/img/fi/asetukset/verkkolaskut/maventaruutu.png)
+
+Sekä lähetetyistä että vastaanotetuista verkkolaskuista veloitetaan kappalemäärän mukaisesti. Jos olet syöttänyt avaimet itse ohjelmistoon, noudatetaan oletuksena Maventan hinnastoa ja Maventa myös lähettää suoraan laskut verkkolaskupalvelun käyttämisestä.
+
+**Nouda saapuneet verkkolaskut automaattisesti** noutaa pilveen tallennetuissa kirjanpidoissa verkkolaskut välittömästi niiden saapuessa. Paikallisessa kirjanpidossa laskut noudetaan, kun kirjanpito on avattu.
+
+Jos haluat lopettaa verkkolaskujen vastaanoton Kitsaaseen, poista tämä valinta.
+
+### Sähköposti-ilmoitukset
+
+![](/img/fi/asetukset/verkkolaskut/maventa2.png)
+
+Valitse, haluatko sähköposti-ilmoitukset saapuneista laskuista sekä mahdollisista laskujen lähetyksessä sattuneista virheellisyyksistä. Jos olet määritellyt Saapuneiden verkkolaskujen [kiertoon]({{<relref "../kierto">}}) sähköposti-ilmoituksia, lähettää Kitsas ne joka tapauksessa tästä valinnasta riippumatta.
+
+
+### Paperilaskujen postitus
+
+![](/img/fi/asetukset/verkkolaskut/maventa3.png)
+
+Postitettavien laskujen tulostuspalvelussa huolehtii verkkolaskuoperaattori niiden laskujen tulostamisesta ja postittamisesta, joiden toimitustavaksi valitaan **Postitus**. Palvelusta veloitetaan hinnaston mukaiset maksut.
+
+Toiminto on käytössä vain, jos sekä **Tulostus- ja postituspalvelu käytössä** että **Toimita postitettavaksi valitut laskut postituspalvelua käyttäen** ovat valittuina. Voit valita kirjeiden postitusluokan sekä värillisyyden.
+
+Jos **Liitä oma laskunkuva** ei ole valittuna, postitetaan laskut Maventan laskupohjalla. Kun käytät omaa, Kitsaan muodostamaa laskun kuvaa, lisätään osoitteen tulostamista varten ylimääräinen, lisämaksullinen sivu.
 
 ### Verkkolaskujen lähettäminen
 
 {{<alert title="Kirjautuminen vaaditaan">}}
-Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi
+Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kirjautuneena Kitsaaseen käyttäjätunnuksillasi.
 {{</alert>}}
 
 Kun laskutuksessa lähetät verkkolaskun, lähetetään se välittömästi Maventan kautta eteenpäin.
@@ -33,9 +60,3 @@ Omalle koneelle tallennetuissa kirjanpidoissa saapuneet laskut haetaan ohjelman 
 Pilveen tallennetussa kirjanpidossa saapuneet laskut saapuvat kirjanpitoon automaattisesti. Laskuluettelossa näet kuvakkeen muuttumisesta myös sen, kun lasku on lähetetty tai kun laskun toimittaminen on epäonnistunut.
 
 Kitsaassa ei toistaiseksi ole suoraa pankkiyhteyttä, vaan sinun on huolehdittava saapuneiden laskujen maksusta esimerkiksi verkkopankkia käyttäen.
-
-### Laskujen postituspalvelu
-
-Kun **Paperilaskujen postitus Maventan kautta** on valittuna, toimitetaan laskuja lähetettäessä ne laskut, joiden toimitustapana on **Postitus**, Maventan tulostuspalveluun. Maventa veloittaa laskujen tulostamisesta oman hinnastonsa mukaan.
-
-Kitsaan toteutuksesta johtuen voit toistaiseksi lähettää postutuspalvelulla laskuja vain kotimaisiin osoitteisiin.

@@ -1,7 +1,7 @@
 ---
 title: "Verkkolaskujen paikallinen muodostaminen"
 linkTitle: "Paikallinen muodostaminen"
-weight: 10
+weight: 30
 description: >
   Kun verkkolaskut muodostetaan paikallisesti, voit käyttää mitä tahansa verkkolaskuoperaattoria
 premium: true
