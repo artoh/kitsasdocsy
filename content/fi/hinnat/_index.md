@@ -200,11 +200,6 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 
 Samalla laskulla laskutettava lisäkirjanpito <b>40</b> €/vuosi (32,26 € + alv 24 %)
 
-### Tilitoimistopaketti
-
-Kymmenen verkkoon tallennettavaa kirjanpitoa kaikilla toiminnoilla <b>372</b> € / vuosi (300 € + alv 24 %).  
-Tilitoimistopaketissa voit luoda kirjanpitoja joustavasti. Lisäkirjanpidot maksavat <b>2,48 €/kk</b> (2,00 € + alv 24%), ja ne veloitetaan jälkikäteen 1&ndash;2 kertaa vuodessa.
-
 ### Tuntityöveloitus
 
 Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> €/tunti (sis. alv)
