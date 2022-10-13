@@ -288,13 +288,13 @@ Tämä tilastotieto on täysin anonyymia, eikä sisällä henkilötietoja.
 
 **Rekisterin tietosisältö**: Asiakkaan sähköpostiosoite ja nimi, asiakkaan tekemät tilaukset ja niistä laaditut laskut, asiakkaan laskutusyhteystiedot sekä tiedot asiakkaan kirjautumisesta sekä asiakkaan sähköpostiosoitteeseen kohdistuneista epäonnistuneista kirjautumisyrityksistä, salakirjoitetussa muodossa olevat asiakkaan kirjautumisvarmenteet.
 
-**Säännönmukaiset tietolähteet**: Asiakas syöttää itse tietonsa järjestelmään rekisteröityessään tai tehdessään tilauksen.
+**Säännönmukaiset tietolähteet**: Asiakas syöttää itse tietonsa järjestelmään rekisteröityessään tai tehdessään tilauksen. Kitsaan ja Taloushallinnon Ohjelmistopalvelut Finlandin henkilöstö lisää asiakkaan itse toimittamia tietoja. Asiakkaan kutsuessa toisen henkilön käyttäjäksi, kutsuja syöttää kutsuttavan sähköpostiosoitteen. Järjestelmä kerää tiedot onnistuneista ja epäonnistuneista kirjautumisista automaattisesti kirjautumisyritysten yhteydessä.     
 
 **Tietojen säännönmukaiset luovutukset**: Tietoja ei luovuteta kolmansille osapuolillle. Käyttäjärekisterin tietoja siirretään laskutuksen yhteydessä Kitsas Oy:n omaan asiakasrekisteriin sekä kirjanpitoon.
 
 **Tietojen siirto EU tai ETA-alueen ulkopuolelle**: Tietoja ei luovuteta EU tai ETA-alueen ulkopuolelle.
 
-**Rekisterin suojauksen periaatteet**: Rekisteriin pääsy on rajattu henkilökohtaisilla käyttäjätunnuksille vain Kitsas Oy:n henkilöstölle sekä käyttäjätuen henkilöstölle.
+**Rekisterin suojauksen periaatteet**: Rekisteriin pääsy on rajattu henkilökohtaisilla käyttäjätunnuksille vain Kitsas Oy:n henkilöstölle ja käyttäjätuen henkilöstölle sekä omien asiakkaidensa osalta jälleenmyyjän myyntihenkilöstölle.
 
 **Tarkastusoikeus**: Rekisteröity voi tarkastaa häntä koskevat tiedot pyytämällä niitä ylempänä mainitulta yhteyshenkilöltä.
 
@@ -374,7 +374,7 @@ Kitsas Oy käyttää virtuaalipalvelimensa osalta alihankkijana Tentacle Oy:tä.
 
 #### Alihankkija sänköpostipalveluissa
 
-Kitsas Oy käyttää lähtevän sähköpostin palveluun Twillion SendGrid -palvelua. Palvelu ilmoittaa noudattavansa GDPR-säännöstöä.
+Kitsas Oy käyttää lähtevän sähköpostin palveluun Twilion SendGrid -palvelua. Palvelu ilmoittaa noudattavansa GDPR-säännöstöä.
 
 #### Alihankkija tilitietojen noutamisessa
 
