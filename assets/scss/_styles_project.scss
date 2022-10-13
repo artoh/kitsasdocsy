@@ -83,6 +83,12 @@ td.default {
   font-size: 28px;
   font-weight: bold;
 }
+
+.txt-muh {
+  font-weight: bold;
+  color: $dark;
+}
+
 .txt-top {
   position: relative;
   top: -9px;
@@ -110,19 +116,19 @@ div.recent-content {
 }
 
 .recent-content > h4 > a {
-  font-size: 140%;  
+  font-size: 140%;
 }
 
 .image-recent {
   height: 15em;
-  width: 100%;  
+  width: 100%;
 }
 
-.img-responsive {  
-  max-width: 100%;   
+.img-responsive {
+  max-width: 100%;
   max-height: 100%;
   height: auto;
-}   
+}
 
 div.linebefore {
   margin-top: 2em;
@@ -141,12 +147,12 @@ a.btn-more {
 
 figure.bloglist {
   margin-right: 5pt;
-  float: left;  
+  float: left;
   max-width: 250px;
 }
 
 img.bloglist {
   max-width: 250px;
   width: auto;
-  height: 125px;    
+  height: 125px;
 }

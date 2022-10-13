@@ -13,7 +13,7 @@ menu:
 
 Haluaisitko käyttää Kitsasta, mutta tarvitset apua kirjanpitosi hoitamiseen? Tältä sivulta löydät tilitoimistoja, jotka tarjoavat palveluja Kitsasta käyttäville.
 
-Jokainen tilitoimisto hinnoittelee palvelunsa itsenäisesti. Kitsas Oy:llä ei ole sidonnaisuuksia tilitoimistojen kanssa, eikä Kitsas Oy tarjoa kirjanpitoa tai muita tilitoimistopalveluita.
+Jokainen tilitoimisto hinnoittelee palvelunsa itsenäisesti. 
 
 {{% /blocks/lead %}}
 

@@ -13,7 +13,7 @@ menu:
 # Ilmainen vai halpa?
 
 Kitsasta voit käyttää täysin ilmaiseksi omalla koneellasi. Pienellä rahalla saat enemmän ominaisuuksia sekä mahdollisuuden tallentaa kirjanpitosi
-varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle. Samalla teet mahdolliseksi ohjelman kehitystyön jatkumisen.
+varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle.
 
 {{% /blocks/lead %}}
 
@@ -32,7 +32,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 
 **Ilmaiseksi** ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.
 
-**Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa. 
+**Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa.
 
 **Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
 
@@ -64,23 +64,35 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Hinta vuosittain maksettaessa (sis. alv)</td>
+   <tr>
+     <td>Vuosihinta (sis. alv)</td>
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
       <td><span class="txt-l">62</span> <span class="txt-top">&euro;/vuosi</span></td>
-      <td class="default"><span class="txt-l">124</span> <span class="txt-top">&euro;/vuosi</span></td>
-    </tr>
+      <td class="default">
+        <span class="txt-l">124</span> <span class="txt-top">&euro;/vuosi</span>
+        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+        <span class="txt-l">155</span> <span class="txt-top">&euro;/vuosi</span>
+      </td>
+    </tr>  
     <tr>
-      <td>Hinta maksettaessa puolivuosittain (sis. alv)</td>
-      <td><span class="txt-l">0</span> <span class="txt-top">&euro;/6 kk</span></td>
-      <td><span class="txt-l">31</span> <span class="txt-top">&euro;/6 kk</span></td>
-      <td class="default"><span class="txt-l">62</span> <span class="txt-top">&euro;/6 kk</span></td>
+      <td>Vuosihinta (ilman arvonlisäveroa)</td>
+      <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
+      <td><span class="txt-l">50</span> <span class="txt-top">&euro;/vuosi</span></td>
+      <td class="default">
+        <span class="txt-l">100</span> <span class="txt-top">&euro;/vuosi</span>
+        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+        <span class="txt-l">125</span> <span class="txt-top">&euro;/vuosi</span>
+      </td>
     </tr>
     <tr>
       <td>Vertailuhinta ilman arvolisäveroa</td>
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/kk</span></td>
       <td><span class="txt-l">4,17</span> <span class="txt-top">&euro;/kk</span></td>
-      <td class="default"><span class="txt-l">8,33</span> <span class="txt-top">&euro;/kk</span></td>
+      <td class="default">
+        <span class="txt-l">8,33</span> <span class="txt-top">&euro;/kk</span>
+        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+        <span class="txt-l">10,42</span> <span class="txt-top">&euro;/kk</span>
+      </td>
     </tr>
     <tr>
       <td colspan="4" class="sep"><i class="fa fa-laptop"></i> Kirjanpito omalle koneelle tallennettuna</td>
@@ -143,7 +155,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
-      <td>Finvoice-verkkolaskut <sup>** </sup></td>
+      <td>Finvoice-verkkolaskut </td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
@@ -194,13 +206,19 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
     <tr>
+      <td>Neuvonta puhelimella</td>
+      <td></td>
+      <td><span class="txt-muh">9.1.2023 alkaen</span><br/><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="txt-muh">9.1.2023 alkaen</span><br/><span class="tick">&#10004;</span></td>
+    </tr>    
+    <tr>
       <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>
     </tr>
     <tr>
       <td>Lisäkirjanpito tallennettuna Kitsaan pilveen (sis. alv)</td>
       <td> </td>
-      <td><span class="txt-l">3,72</span> <span class="txt-top">&euro;/kk</span></td>
-      <td class="default"><span class="txt-l">3,72</span> <span class="txt-top">&euro;/kk</span></td>
+      <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
+      <td class="default"><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
     </tr>    
     <tr>
       <td>Tilitietojen noutaminen pankista (sis. alv), kirjanpitokohtainen</td>
@@ -211,12 +229,71 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
   </tbody>
 </table>
 <p>Lisämaksulliset palvelut veloitetaan jälkikäteen 1 - 12 kuukauden jaksoissa niin, että pienin veloitettava summa kesken vuotta on 20 euroa.</p>
-<p><sup>* </sup> Olemme varanneet kirjanpitoa kohden tallennustilaa 2,5 Gt. Tämä riittää tavanomaisesti noin 10 000 sähköisen tositteen tallentamiseen. Lisätilasta perimme <b>1 €</b>/Gt/kk.</p>
-<p><sup>** </sup> Verkkolaskuoperaattori perii verkkolaskujen lähettämisestä ja vastaanottamisesta oman hinnastonsa mukaisesti. Kitsaassa on suora integraatio Maventan verkkolaskuihin, muiden operaattoreiden kanssa laskutiedoja voidaan joutua siirtämään osittain käsityönä.</p>
+<p><sup>* </sup> Olemme varanneet kirjanpitoa kohden tallennustilaa 2 Gt. Tämä riittää tavanomaisesti noin 10 000 sähköisen tositteen tallentamiseen. Lisätilasta perimme <b>1 €</b>/Gt/kk.</p>
+
 
 </article>
 <div class="hintaloppuinfo">
 
+### Verkkolaskut
+
+Kitsaassa on mahdollista käyttää myös omaa verkkolaskutussopimusta suoraan verkkolaskuoperaattorin kanssa. Tällöin verkkolaskutusoperaattori laskuttaa suoraan käyttäjää oman hinnastonsa mukaisesti. Oman operaattorin käyttämistä ei ole integroitu yhtä hyvin kuin ohjelmiston kautta käyttöön otettua Kitsaan verkkolaskutusta. Katso tarkemmin [verkkolaskutuksen ohjeista](docs/asetukset/verkkolaskut/).
+
+Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kautta ja käytetään Kitsaan hinnoittelua
+
+<article class="hinnat">
+<ul>
+  <li class="active">
+    <button>Veroton hinta</button>
+  </li>
+</ul>
+
+<table style="margin-bottom: 2ex;">
+  <thead>
+    <tr class="text-white">
+      <th class=""><i class="fa fa-bolt"></i> Verkkolasku</th>
+      <th>Veroton hinta</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+     <td>Verkkolaskun lähettäminen ja vastaanottaminen</td>
+      <td><span class="txt-l">0,50</span> <span class="txt-top">&euro;/kpl</span></td>
+    </tr>  
+    <tr>
+      <td colspan="2" class="sep"><i class="fa fa-envelope"></i> Postittaminen kirjeenä</td>
+    </tr>   
+    <tr>
+      <td>Kotimaa, Priority</td>
+       <td><span class="txt-l">2,38</span> <span class="txt-top">&euro;/kpl</span></td>
+     </tr>  
+     <tr>
+       <td>Kotimaa, Economy</td>
+        <td><span class="txt-l">1,87</span> <span class="txt-top">&euro;/kpl</span></td>
+      </tr>  
+      <tr>
+        <td>Kotimaa, lisäsivu</td>
+         <td><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
+       </tr>  
+       <tr>
+         <td>Väritulostelisä</td>
+        <td><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
+      </tr>  
+      <tr>
+        <td>Eurooppa</td>
+         <td><span class="txt-l">2,22</span> <span class="txt-top">&euro;/kpl</span></td>
+       </tr>         
+      <tr>
+        <td>Muu maailma</td>
+       <td><span class="txt-l">2,42</span> <span class="txt-top">&euro;/kpl</span></td>
+     </tr>  
+     <tr>
+       <td>Eurooppa ja muu maailma, lisäsivu</td>
+       <td><span class="txt-l">0,31</span> <span class="txt-top">&euro;/sivu</span></td>
+    </tr>              
+  </tbody>
+</table>
+</article>
 
 ### Tuntityöveloitus
 
