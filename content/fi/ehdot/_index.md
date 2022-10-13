@@ -158,7 +158,7 @@ Kitsas Oy ilmoittaa hinnastonsa muutoksesta asiakkaille vähintään 30 vuorokau
 
 ### 3. Palvelun käytön lopettaminen
 
-Asiakkaalla on koska tahansa oikeus muuttaa tilauksensa sisältöä Kitsas Oy:n tarkoamien vaihtoehtojen mukaisesti tai luopua kokonaan palvelun käytöstä. Asiakkaalle ei kuitenkaan palauteta hänen jo maksamiaan tilausmaksuja.
+Asiakkaalla on koska tahansa oikeus muuttaa tilauksensa sisältöä Kitsas Oy:n tarjoamien vaihtoehtojen mukaisesti tai luopua kokonaan palvelun käytöstä. Asiakkaalle ei kuitenkaan palauteta hänen jo maksamiaan tilausmaksuja.
 
 Kitsas Oy voi estää palvelun käyttämisen, mikäli asiakkaalla on mitä tahansa erääntyneitä maksuja Kitsas Oy:lle. Palvelun käyttö voidaan estää myös, mikäli palvelua on käytetty lain vastaisesti taikka mikäli asiakas on pyrkinyt kiertämään maksuttomaan kokeilujaksoon liittyviä rajoituksia.
 
@@ -194,7 +194,7 @@ Kitsas Oy voi siirtää kirjanpidon omistajuuden toiselle käyttäjälle, mikäl
 
 Asiakas päättää itse tallentamiensa tietojen luovuttamisesta.
 
-Kitsas Oy luovuttaa asiakkaan talletamia tietoja viranomaisille vain silloin, kun viranomaisella on nimenomainen lakiin perustuva oikeus tiedon saamiseen Kitsas Oy:ltä.
+Kitsas Oy luovuttaa asiakkaan tallettamia tietoja viranomaisille vain silloin, kun viranomaisella on nimenomainen lakiin perustuva oikeus tiedon saamiseen Kitsas Oy:ltä.
 
 #### 4f. Alihankkijat tietojen käsittelyssä
 
@@ -230,7 +230,7 @@ Palvelua ja siihen liittyviä ohjelmistoja kehitetään jatkuvasti. Kitsas Oy vo
 
 ### 7. Käyttäjätuki
 
-Maksulliseen tilaukseen liittyy Kitsaan määrittelmillä tukikanavilla annettava ohjelmistoa sekä palvelua koskeva käyttäjätuki. Kitsas Oy ei anna takuuta käyttäjätuen saatavuudesta eikä anna takuuta siitä, että käyttäjätuen antamat vastaukset olisivat riittäviä tai täydellisiä. Kitsas Oy:n käyttäjätuki ei sisällä kirjanpitoa koskevaa lainopillista neuvontaa.
+Maksulliseen tilaukseen liittyy Kitsaan määrittelemillä tukikanavilla annettava ohjelmistoa sekä palvelua koskeva käyttäjätuki. Kitsas Oy ei anna takuuta käyttäjätuen saatavuudesta eikä anna takuuta siitä, että käyttäjätuen antamat vastaukset olisivat riittäviä tai täydellisiä. Kitsas Oy:n käyttäjätuki ei sisällä kirjanpitoa koskevaa lainopillista neuvontaa.
 
 ### 8. Vastuu kirjanpidosta
 
@@ -280,13 +280,13 @@ Tämä tilastotieto on täysin anonyymia, eikä sisällä henkilötietoja.
 
 **Rekisterin pitäjä**: Kitsas Oy
 
-**Yhteyshenkilö rekisteriä koskevissa asioissa**: Toimitusjohtaja Heli Hyvättinen, heli@kitsas.fi
+**Yhteyshenkilö rekisteriä koskevissa asioissa**: Toimitusjohtaja Heli Hyvättinen, heli.hyvattinen@kitsas.fi
 
 **Rekisterin nimi**: Kitsaan käyttäjärekisteri
 
 **Henkilötietojen käsittelyn tarkoitus**: Henkilötietojen käsittelyn tarkoituksena on asiakassuhteen hoitaminen, laskutus, käyttäjien tuen järjestäminen sekä tietojärjestelmän käyttäjäoikeuksien hallinta
 
-**Rekisterin tietosisältö**: Asiakkaan sähköpostiosoite ja nimi, asiakkaan tekemät tilaukset ja niistä laaditut laskut, asiakkaan laskutusyhteystiedot sekä tiedot asiakkaan kirjautumisesta sekä asiakkaan sähköpostiosoitteeseen kohdistuneista epäonnistuneista kirjautumisyrityksistä, salakirjoitetussa muodossa oleva asiakkaan kirjautumisvarmenteet.
+**Rekisterin tietosisältö**: Asiakkaan sähköpostiosoite ja nimi, asiakkaan tekemät tilaukset ja niistä laaditut laskut, asiakkaan laskutusyhteystiedot sekä tiedot asiakkaan kirjautumisesta sekä asiakkaan sähköpostiosoitteeseen kohdistuneista epäonnistuneista kirjautumisyrityksistä, salakirjoitetussa muodossa olevat asiakkaan kirjautumisvarmenteet.
 
 **Säännönmukaiset tietolähteet**: Asiakas syöttää itse tietonsa järjestelmään rekisteröityessään tai tehdessään tilauksen.
 
