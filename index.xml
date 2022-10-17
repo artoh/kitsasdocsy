@@ -1,4 +1,54 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.2</title><link>/blog/2022/04/26/kitsas-3.2/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>/blog/2022/04/26/kitsas-3.2/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 3.3 beta</title><link>/blog/2022/10/16/kitsas-3.3-beta/</link><pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate><guid>/blog/2022/10/16/kitsas-3.3-beta/</guid><description>
+&lt;p>Tässä versiossa on huomattavia uudistuksia etenkin verkkolaskutukseen. Voit myös ottaa jo nyt käyttöön tilitietojen suoran noutamisen pankista.&lt;/p>
+&lt;p>Päivitämme uuden version mukaiset ohjeet verkkosivuillemme marraskuun alkuun mennessä, siihen saakka ohjelman ohje-nappi saattaa viitata ohjesivuille, joita ei vielä ole olemassa.&lt;/p>
+&lt;h1 id="kitsas-33-beta-vaiheessa">Kitsas 3.3 BETA-vaiheessa&lt;/h1>
+&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
+&lt;p>Tätä versiota jo testattu varsin kattavasti, mutta toivomme ohjelmasta mahdollisimman laajaa palautetta vielä ennen sen varsinaista julkistamista.&lt;/p>
+&lt;p>Ohjelman päivittämisen jälkeen tilikartta kannattaa päivitettävä ohjelman antamien ohjeiden mukaisesti.&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v3.3-beta/kitsas-3.3-beta.exe">Kitsas 3.3 BETA Windows&lt;/a>&lt;br>
+Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
+&lt;h3 id="mac-versio">Mac-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.3-beta/Kitsas-3.3-beta.dmg">Kitsas 3.2 BETA Mac&lt;/a>&lt;br>
+Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v3.3-beta/Kitsas-3.3-beta-x86_64.AppImage">Kitsas 3.3 BETA Linux&lt;/a>&lt;br>
+Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
+&lt;h2 id="uusia-ominaisuuksia">Uusia ominaisuuksia&lt;/h2>
+&lt;ul>
+&lt;li>Lähteviin verkkolaskuihin liitetään ohjelman luoma &lt;strong>laskun kuva&lt;/strong>&lt;/li>
+&lt;li>Lähteviin verkkolaskuihin sekä sähköpostilla lähteviin laskuihin voi liittää &lt;strong>liitetiedoston&lt;/strong>&lt;/li>
+&lt;li>Määriteltävissä useampia &lt;strong>aputoiminimiä&lt;/strong>, joilla oma logo ja yhteystiedot. Käytettävä aputoiminimi valitaan laskukohtaisesti.&lt;/li>
+&lt;li>&lt;strong>Markkinointibannerit&lt;/strong> eli laskuun sisällytettävät kuvat&lt;/li>
+&lt;/ul>
+&lt;h2 id="uusia-ominaisuuksia-vain-pilveen-tallennettassa">Uusia ominaisuuksia (vain pilveen tallennettassa)&lt;/h2>
+&lt;ul>
+&lt;li>Mahdollisuus lähettää &lt;strong>sähköpostia Kitsaan palvelimelta&lt;/strong> ilman omien sähköpostiasetusten määrittämistä&lt;/li>
+&lt;li>&lt;strong>Tilitapahtumien hakeminen pankista&lt;/strong> PSD2-yhteydellä. Ominaisuus tulee olemaan maksullinen hintaan 4,96 €/kk, beta-vaiheessa ominaisuuden saa käyttöön 90 päivän kokeiluajalla (normaalisti 30 päivää)&lt;/li>
+&lt;li>Mahdollisuus &lt;strong>ottaa verkkolaskutus käyttöön&lt;/strong> suoraan ohjelmasta. Tällöin Kitsas Oy veloittaa lähetetyistä ja vastaanotetuista verkkolaskuista 0,50 € / kpl&lt;/li>
+&lt;/ul>
+&lt;h2 id="parannuksia">Parannuksia&lt;/h2>
+&lt;ul>
+&lt;li>Laskun voi lähettää useampaan pilkulla erotettuun sähköpostiosoitteeseen&lt;/li>
+&lt;li>Arvonlisäverottoman toisitteen muokkaaminen ja poistaminen alv-ilmoituksen antamisen jälkeen&lt;/li>
+&lt;li>Tilien muokkaaminen varoittaa jos tilin muokkaaminen vaikuttaa järjestelmään&lt;/li>
+&lt;li>Aloitussivun ilmoitusten ulkoasu&lt;/li>
+&lt;li>Varoitukset puutteellisesta tiliöinnistä&lt;/li>
+&lt;li>Laskuihin lisättävä lisätieto&lt;/li>
+&lt;li>Sähköpostilaskujen viestien ja otsikkojen muokkaaminen&lt;/li>
+&lt;li>Laskuihin yksiköksi hehtaari&lt;/li>
+&lt;li>Kirjaamisnäkymän lisätiedot valittavissa&lt;/li>
+&lt;li>Laskujen yksikköhinnassa voi olla 2 - 5 desimaalia&lt;/li>
+&lt;li>Etusivun selkeyttäminen tilejä ryhmittelemällä&lt;/li>
+&lt;/ul>
+&lt;h2 id="korjauksia">Korjauksia&lt;/h2>
+&lt;ul>
+&lt;li>Tase-erien säilyminen siirtotositteissa niitä muokattaessa&lt;/li>
+&lt;li>Kuukausittain toistuvan laskun kausi eri mittaisilla kuukausilla&lt;/li>
+&lt;li>Paikallisen kirjanpidon tase-erittelyt&lt;/li>
+&lt;/ul>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 3.2</title><link>/blog/2022/04/26/kitsas-3.2/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>/blog/2022/04/26/kitsas-3.2/</guid><description>
 &lt;h1 id="kitsaan-päivitys-tuo-lukuisia-pieniä-parannuksia">Kitsaan päivitys tuo lukuisia pieniä parannuksia&lt;/h1>
 &lt;p>Kitsaan uusin versio on ladattavissa maksutta kotisivulta kitsas.fi&lt;/p>
 &lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille.&lt;/p>
