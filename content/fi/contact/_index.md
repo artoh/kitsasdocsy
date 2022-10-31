@@ -55,12 +55,22 @@ Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa
 	<li> <i class="fa fa-check"></i> <b>Käyttäjäystävällisyys</b>  Lähdemme käyttäjän tarpeista</li>
 	<li><i class="fa fa-check"></i> <b>Kohtuullisuus</b> Myymme halvalla ja annamme ilmaiseksi</li>
 	<li><i class="fa fa-check"></i> <b>Kestävyyys</b> otamme ympäristön huomioon tekemällä softaa, joka ei vaadi koneelta liikoja</li>
-	<li><i class="fa fa-check"></i> <b>Kivuus</b> haluamme tehdä ohjelmia, joita on kiva käyttää</li>	
+	<li><i class="fa fa-check"></i> <b>Kivuus</b> haluamme tehdä ohjelmia, joita on kiva käyttää</li>
 </ul>
 </div>
 
 {{< /blocks/section >}}
 {{< blocks/section color="white">}}
+
+
+{{< card title="Heli Hyvättinen" subtitle="Toimitusjohtaja" footer="heli@kitsas.fi">>}}
+Kuva tähän
+{{< /card >}}
+
+
+{{< /blocks/section >}}
+{{< blocks/section color="white">}}
+
 
 {{% blocks/feature icon="fa-at" title="Sähköposti" %}}
 **Kitsas Oy**<br/>

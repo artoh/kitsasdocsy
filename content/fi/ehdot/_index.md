@@ -37,6 +37,8 @@ Mikäli Kitsas Oy lopettaa palvelun toimittamisen, ilmoitetaan siitä asiakkaill
 
 Kitsas Oy:llä ei ole velvollisuutta säilyttää asiakkaan tallentamia tietoja tai niiden varmuuskopioita sen jälkeen, kun asiakkaan tilaus on päättynyt tai asiakkaan kokeilujakso on päättynyt ilman, että asiakas on tehnyt maksullista tilausta.
 
+Kitsas Oy poistaa tietosuojaselosteen mukaisesti käyttämättömiä käyttäjätunnuksia.
+
 ### 4. Asiakkaan tallentamat tiedot
 
 Asiakas omistaa kaiken kirjanpitoaineiston ja muut tiedot, jotka hän tallentaa palveluun.
@@ -288,9 +290,9 @@ Tämä tilastotieto on täysin anonyymia, eikä sisällä henkilötietoja.
 
 **Rekisterin tietosisältö**: Asiakkaan sähköpostiosoite ja nimi, asiakkaan tekemät tilaukset ja niistä laaditut laskut, asiakkaan laskutusyhteystiedot sekä tiedot asiakkaan kirjautumisesta sekä asiakkaan sähköpostiosoitteeseen kohdistuneista epäonnistuneista kirjautumisyrityksistä, salakirjoitetussa muodossa olevat asiakkaan kirjautumisvarmenteet.
 
-**Säännönmukaiset tietolähteet**: Asiakas syöttää itse tietonsa järjestelmään rekisteröityessään tai tehdessään tilauksen. Kitsaan ja Taloushallinnon Ohjelmistopalvelut Finlandin henkilöstö lisää asiakkaan itse toimittamia tietoja. Asiakkaan kutsuessa toisen henkilön käyttäjäksi, kutsuja syöttää kutsuttavan sähköpostiosoitteen. Järjestelmä kerää tiedot onnistuneista ja epäonnistuneista kirjautumisista automaattisesti kirjautumisyritysten yhteydessä.     
+**Säännönmukaiset tietolähteet**: Asiakas syöttää itse tietonsa järjestelmään rekisteröityessään tai tehdessään tilauksen. Kitsaan ja jälleenmuujän henkilöstö lisää asiakkaan itse toimittamia tietoja. Asiakkaan kutsuessa toisen henkilön käyttäjäksi, kutsuja syöttää kutsuttavan sähköpostiosoitteen. Järjestelmä kerää tiedot onnistuneista ja epäonnistuneista kirjautumisista automaattisesti kirjautumisyritysten yhteydessä.     
 
-**Tietojen säännönmukaiset luovutukset**: Tietoja ei luovuteta kolmansille osapuolillle. Käyttäjärekisterin tietoja siirretään laskutuksen yhteydessä Kitsas Oy:n omaan asiakasrekisteriin sekä kirjanpitoon.
+**Tietojen säännönmukaiset luovutukset**: Käyttäjärekisterin tietoja siirretään laskutuksen yhteydessä Kitsas Oy:n omaan asiakasrekisteriin sekä kirjanpitoon. Jäälleenmyyjän myymien tilausten osalta laskutuksessa tarpeellisia käyttötietoja luovutetaan jälleenmyyjälle laskutusta varten.
 
 **Tietojen siirto EU tai ETA-alueen ulkopuolelle**: Tietoja ei luovuteta EU tai ETA-alueen ulkopuolelle.
 
@@ -299,6 +301,8 @@ Tämä tilastotieto on täysin anonyymia, eikä sisällä henkilötietoja.
 **Tarkastusoikeus**: Rekisteröity voi tarkastaa häntä koskevat tiedot pyytämällä niitä ylempänä mainitulta yhteyshenkilöltä.
 
 **Oikeus vaatia tietojen korjaamista**: Rekisteröidyllä on oikeus vaatia tietojensa korjaamista. Pyynnön virheellisen tai vanhentuneen tiedon korjaamisesta voi välittää ylempänä mainitulle yhteyshenkilölle.
+
+**Tarpeettomien henkilötietojen automaattinen poistaminen**: Käyttäjätunnukset, joihin ei liity voimassa olevaa tilausta tai käyttöoikeutta kirjanpitoon, poistetaan 18 kuukauden kuluttua viimeisimmästä kirjautumisesta.
 
 **Muut henkilötietojen käsittelyyn liittyvät oikeudet**: Rekisteröidyllä on oikeus vaatia henkilöiden yhteystietojen poistamista rekisteristä EU:n tietosuoja-asetuksen mukaisesti ja tiedot poistetaan pyynnön jälkeen. Mahdollisista rekisteröidyn tietoihin kohdistuneista tietoturvaloukkauksista ilmoitetaan rekisteröidylle ja viranomaiselle säännösten mukaisesti.
 
