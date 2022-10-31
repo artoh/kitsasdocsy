@@ -108,25 +108,19 @@ Kitsasta voi käyttää myös rekisteröitymättä, mutta emme voi tarjota ilmai
 {{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
-{{% blocks/feature icon="fab fa-osi" title="Kitsas on avointa lähdekoodia" %}}
-
+{{< blocks/feature icon="fab fa-osi" title="Kitsas on avointa lähdekoodia" >}}
 Kitsaan työpöytäohjelmaa saa kopioida, jakaa ja käyttää täysin maksutta [GNU General Public Licence 3](https://ohjeet.kitsas.fi/lisenssi/) -ehtojen mukaisesti. Ohjelman lähdekoodi on saatavissa [GitHub](https://github.com/artoh/kitupiikki)-palvelusta.
 
 Kitsas Oy kehittää ohjelmistoa avoimen lähdekoodin yhteisön kanssa. Kuka tahansa voi osallistua ohjelman kehittämiseen GitHub-palvelun kautta.
-
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fas fa-exclamation" title="Ohjelmalla ei ole mitään takuuta" %}}
+{{< /blocks/feature >}}
+{{< blocks/feature icon="fas fa-exclamation" title="Ohjelmalla ei ole mitään takuuta" >}}
 
 Ohjelmalla tai sen soveltuvuudella käyttöön ei ole mitään takuuta.
 
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="far fa-life-ring" title="Tuki ja lisäpalvelut" %}}
-
+{{< /blocks/feature >}}
+{{< blocks/feature icon="far fa-life-ring" title="Tuki ja lisäpalvelut" >}}
 Kitsas Oy myy ohjelmalle tukipalveluita sekä lisäpalveluita, joiden toteuttamisessa ohjelma ottaa yhteyttä Kitsas Oy:n palvelimelle.
-
-{{% /blocks/feature %}}
+{{< /blocks/feature >}}
 
 {{% /blocks/section %}}
 

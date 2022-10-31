@@ -11,11 +11,11 @@ menu:
 
 {{% /blocks/lead %}}
 
-{{< blocks/cover image_anchor="top" height="max" color="dark" >}}
+{{% blocks/cover image_anchor="top" height="max" color="dark" %}}
 
-{{< /blocks/cover >}}
+{{% /blocks/cover %}}
 
-{{< blocks/section color="white">}}
+{{% blocks/section color="white" %}}
 
 <div class="col">
 
@@ -43,6 +43,7 @@ Kitsas julkaistiin syyskuussa 2020.
 
 Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa voi edelleen käyttää täysin ilmaiseksi. Lisäksi ylläpidämme palvelinta, joka mahdollistaa kirjanpidon tallentamisen turvallisesti pilveen ja suoran verkkolaskutusyhteyden. Jokainen tilaaja on osaaltaan turvaamassa Kitsaan jatkokehitystä entistäkin paremmaksi.
 
+
 </div>
 
 {{< /blocks/section >}}
@@ -62,11 +63,13 @@ Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa
 {{< /blocks/section >}}
 {{< blocks/section color="white">}}
 
-
-{{< card title="Heli Hyvättinen" subtitle="Toimitusjohtaja" footer="heli@kitsas.fi">>}}
-Kuva tähän
+{{< card header="Toimitusjohtaja" footer="Heli Hyvättinen<br/>heli@kitsas.fi" >}}
+<img src="heli.png" class="parsta"><br/>
 {{< /card >}}
-
+&nbsp;
+{{< card header="Ohjelmistokehittäjä" footer="Arto Hyvättinen<br/>arto@kitsas.fi" >}}
+<img src="arto.png" class="parsta"><br/>
+{{< /card >}}
 
 {{< /blocks/section >}}
 {{< blocks/section color="white">}}
@@ -84,11 +87,13 @@ palaute@kitsas.fi
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="far fa-life-ring" title="Teknininen tuki" url="/tuki" %}}
+{{% blocks/feature icon="far fa-life-ring" title="Tekninen tuki" url="/tuki" %}}
+
 Sähköpostituki kuuluu kaikkiin Kitsaan maksullisiin tilauksiin
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa fa-envelope" title="Postiosoite"%}}
+
 Kitsas Oy<br/>
 Ruohotie 11<br/>
 45360 Valkeala
