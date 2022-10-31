@@ -48,7 +48,37 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;li>Paikallisen kirjanpidon tase-erittelyt&lt;/li>
 &lt;/ul>
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 3.2</title><link>/blog/2022/04/26/kitsas-3.2/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>/blog/2022/04/26/kitsas-3.2/</guid><description>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Versioon 3.3 siirtyminen</title><link>/blog/2022/08/01/versioon-3.3-siirtyminen/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>/blog/2022/08/01/versioon-3.3-siirtyminen/</guid><description>
+&lt;p>Kitsaan versiossa 3.3 on parannettu erityisesti aputoiminimiä ja sähköpostiviesteihin liittyviä saatteita.&lt;/p>
+&lt;p>Päivityksen jälkeen on siksi syytä tarkastaa muutamia ohjelman asetuksia.&lt;/p>
+&lt;h2 id="päivitä-tilikartat">Päivitä tilikartat&lt;/h2>
+&lt;img src="/img/screenshots/paivita.png" class="img-responsive"/>
+&lt;p>Ohjelma ilmoittaa aloitusnäytöllä, että tilikarttaan on saatavilla päivitys.&lt;/p>
+&lt;p>Klikkaa &lt;strong>Päivitä tilikartta&lt;/strong> -tekstiä ja vielä avautuvalla näkymällä &lt;strong>Päivitä tilikartta&lt;/strong> -nappia.&lt;/p>
+&lt;h2 id="tarkista-toiminimien-asetukset">Tarkista toiminimien asetukset&lt;/h2>
+&lt;p>Aputoiminimien tiedot, mutta myös logon ja laskun ulkoasun määritykset on siirretty asetuksissa &lt;strong>Yhteystiedot ja toiminimet&lt;/strong> -välilehdelle.&lt;/p>
+&lt;img src="/img/fi/asetukset/yhteystiedot.png" class="img-responsive"/>
+&lt;p>Tarkista yrityksesi tiedot, myös laskun tehostevärin asetukset.&lt;/p>
+&lt;p>Jos haluat käyttää aputoiminimiä, lisää aputoiminimet. Nyt voit käyttää useampaa aputoiminimeä ja valita laskukohtaisesti laskulle tulostuvan aputoiminimen. Aputoiminimeen voi liittyä myös erillinen logo ja laskun värin asetukset.&lt;/p>
+&lt;p>Katso tarkemmin &lt;a href="/docs/asetukset/yhteystiedot/">ohjeesta&lt;/a>&lt;/p>
+&lt;h2 id="kirjoita-laskujen-saatetekstit">Kirjoita laskujen saatetekstit&lt;/h2>
+&lt;p>Sähköpostilla lähetettävän laskun otsikko sekä saateviesti kannattaa käydä muokkaamassa asetuksen kohdassa &lt;strong>Laskujen tekstit&lt;/strong>. Näitä tekstejä pääsee toki muokkaamaan myös laskukohtaisesti yksittäistä laskua muokattaessa.&lt;/p>
+&lt;img src="/img/fi/asetukset/yhteystiedot.png" class="img-responsive"/>
+&lt;p>Saatetekstissä olisi hyvä antaa myös yhteystiedot asiakkaalle laskua koskevia kyselyitä varten.&lt;/p>
+&lt;h2 id="muita-parannuksia-tässä-versiossa">Muita parannuksia tässä versiossa&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="/docs/asetukset/tilitapahtumat/">Tilitiedot voidaan noutaa pankista pilveen tallennettuun kirjanpitoon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/docs/asetukset/bannerit/">Laskulle voidaan tulostaa bannerikuva&lt;/a>&lt;/li>
+&lt;li>Maventan verkkolaskutuksen kautta lähetettäviin verkkolaskuihin liitetään nyt Kitsaalla luotu laskun kuva. Laskuihin voi lisätä nyt myös liitetiedostoja, jotka välitetään sähköpostin tai Maventan verkkolaskun liitteinä.&lt;/li>
+&lt;li>&lt;a href="/docs/asetukset/verkkolaskut/">Verkkolaskutuksen voi ottaa käyttöön suoraan ohjelmistosta käsin&lt;/a>&lt;/li>
+&lt;li>Laskun voi lähettää sähköpostilla useampaan osoitteeseen erottelemalla ne pilkulla.&lt;/li>
+&lt;li>Pilveen tallennetuissa kirjanpidoissa voidaan laskujen lähettämiseen käyttää Kitsaan palvelinta, jolloin ei tarvitse enää tietää oman smtp-palvelimen asetuksia.&lt;/li>
+&lt;li>Tuotteen yksikköhinnassa voi olla enintään viisi desimaalia.&lt;/li>
+&lt;li>Laskun yksikköihin on lisätty hehtaari.&lt;/li>
+&lt;li>Laskun lisätietojen (kuten eräpäivä ja laskun numero) näkyminen laskua kirjattaessa voidaan valita erilaisille maksutavoille.&lt;/li>
+&lt;li>Pääkirjan ja päiväkirjan selkiyttäminen silloin, kun valittuna on kaikki sarakkeet&lt;/li>
+&lt;li>Tilikartan muokkaaminen varoittaa, jos muokataan tilityyppiä, jolla on erityinen vaikutus ohjelman toimintaan.&lt;/li>
+&lt;/ul></description></item><item><title>Blog: Kitsas 3.2</title><link>/blog/2022/04/26/kitsas-3.2/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>/blog/2022/04/26/kitsas-3.2/</guid><description>
 &lt;h1 id="kitsaan-päivitys-tuo-lukuisia-pieniä-parannuksia">Kitsaan päivitys tuo lukuisia pieniä parannuksia&lt;/h1>
 &lt;p>Kitsaan uusin versio on ladattavissa maksutta kotisivulta kitsas.fi&lt;/p>
 &lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille.&lt;/p>
