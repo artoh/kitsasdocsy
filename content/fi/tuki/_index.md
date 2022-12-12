@@ -30,12 +30,7 @@ Valitse, oletko
 {{<blocks/feature icon="fas fa-book primary" title="Kitsaan ohjeet">}}
   <p>Näiltä sivuilta löydät kattavat ohjeet Kitsaan käyttämiseen sekä lukuisia ohjevideoita Kitsaan käytöstä.</p>
 {{</blocks/feature>}}    
-{{<blocks/feature icon="far fa-comments primary" title="Kysy ja kommentoi">}}
-  <p>Lähes jokaisen ohjesivun alalaidassa on keskustelualue, jolla voit kysyä, kommentoida ja tehdä ehdotuksia Kitsaan ominaisuuksista.</p>
-  <p>Kysymyksiin sivustolla voivat vastata kaikki Kitsaan käyttäjät. Myös ohjelman kehittäjät seuraavat sivuilla käytävää keskustelua ja osallistuvat siihen mahdollisuuksiensa mukaisesti.</p>
-  <p>Kirjoita kysymyksesi kommenttina sille sivulle, jossa käsitellään sinua askarruttavaa asiaa.</p>
 
-{{</blocks/feature>}}
 {{<blocks/feature icon="far fa-envelope primary" title="Palaute">}}
 
 <p>Otamme kiitollisuudella vastaan palautetta ohjelmasta palautesivumme kautta</p>
@@ -96,7 +91,7 @@ Lue ohjeita
   </ul>
 </p>
 
-<p style="text-align: center; margin-top: 2em; padding-bottom: 1em;"> 
+<p style="text-align: center; margin-top: 2em; padding-bottom: 1em;">
 Voit jättää tukipyynnön myös alla olevalla painikkeella tai ottaa yhteyttä  sähköpostilla <b class="primary">tuki@kitsas.fi</b> tai <b class="primary">palaute@kitsas.fi</b></br>
 <a class="btn btn-lg btn-primary" style="margin-top: 1em; margin-bottom: 1em;" href="https://kitsas.atlassian.net/servicedesk/customer/portal/5">
 Jätä tukipyyntö tai anna palautetta </a><br>
