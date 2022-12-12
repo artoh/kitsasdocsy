@@ -204,6 +204,3 @@ enable = false
 	mac = "https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.2.1/Kitsas-3.2.1.dmg"
 	windows = "https://github.com/artoh/kitupiikki/releases/download/v3.2.1/kitsas-3.2.1-asennus.exe"
 	portable = "https://github.com/artoh/kitupiikki/releases/download/v3.2.1/kitsas-3.2.1.exe"
-
-[params.comments.remark]
-	remark = false

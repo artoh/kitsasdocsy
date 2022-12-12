@@ -265,11 +265,15 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     </tr>   
     <tr>
       <td>Kotimaa, Priority</td>
-       <td><span class="txt-l">2,38</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td><span class="txt-l">2,38</span> <span class="txt-top">&euro;/kpl</span>
+       <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+       <span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span></td>
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
-        <td><span class="txt-l">1,87</span> <span class="txt-top">&euro;/kpl</span></td>
+        <td><span class="txt-l">1,87</span> <span class="txt-top">&euro;/kpl</span><
+        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+        <span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span></td>
       </tr>  
       <tr>
         <td>Kotimaa, lisäsivu</td>
@@ -281,15 +285,21 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       </tr>  
       <tr>
         <td>Eurooppa</td>
-         <td><span class="txt-l">2,22</span> <span class="txt-top">&euro;/kpl</span></td>
+         <td><span class="txt-l">2,22</span> <span class="txt-top">&euro;/kpl</span>
+         <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+         <span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
        </tr>         
       <tr>
         <td>Muu maailma</td>
-       <td><span class="txt-l">2,42</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td><span class="txt-l">2,42</span> <span class="txt-top">&euro;/kpl</span>
+       <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+       <span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
-       <td><span class="txt-l">0,31</span> <span class="txt-top">&euro;/sivu</span></td>
+       <td><span class="txt-l">0,31</span> <span class="txt-top">&euro;/sivu</span>
+       <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
+       <span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
     </tr>              
   </tbody>
 </table>
