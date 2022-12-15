@@ -9,7 +9,7 @@ menu:
 
 {{% blocks/lead color="light" %}}
 
-# Lataa Kitsas {{<latausversio>}}
+# Lataa Kitsas
 
 Lataa Kitsas maksutta tietokoneellesi
 
@@ -33,17 +33,18 @@ Lataa Kitsas maksutta tietokoneellesi
   <div  id="pills-tabContent" class="tab-content">
     <div class="tab-pane fade" id="pills-win" role="tabpanel" aria-labelledby="pills-home-tab" style="text-align: center;">      
       <h1><i class="fab fa-windows"></i></h1>
-      <h4>Windows</h4>
+      <h4>Windows</h4>      
       Windows 7, 8, 10, 11
+      <p>Kitsas 3.3
       <h4 style="margin-top: 2ex;">Asennettava ohjelma</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.2.1/kitsas-3.2.1-asennus.exe" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/kitsas-3.3-asennus.exe" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>            
       <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. Tarvitset pääkäyttäjän oikeudet.</p>
       <h4 style="margin-top: 2ex;">Kitsas Portable</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.2.1/kitsas-3.2.1.exe" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/kitsas-3.3.exe" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>            
       <p style="margin-top: 1ex;">Ohjelmaa ei tarvitse asentaa, vaan se käynnistyy suoraan. Et tarvitse pääkäyttäjän oikeuksia.</p>
@@ -51,6 +52,7 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-mac" role="tabpanel" aria-labelledby="pills-profile-tab" style="text-align: center;">      
       <h1><i class="fab fa-apple"></i></h1>
       <h4>Mac</h4>
+      <h4>Kitsas 3.2.1</h2>
       <p>
         <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v3.2.1/Kitsas-3.2.1.dmg" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
@@ -69,8 +71,9 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
        <h1><i class="fab fa-linux"></i></h1>
       <h4>Linux</h4>
+      <h4>Kitsas 3.3</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.2.1/Kitsas-3.2.1-x86_64.AppImage" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/Kitsas-3.3-x86_64.AppImage" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>           
       64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 18.04 ja uudemmat
