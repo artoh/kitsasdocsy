@@ -67,8 +67,6 @@ Lataa Kitsas maksutta tietokoneellesi
       <p align="left">Lisäksi ohjelman käyttö on ehkä vielä sallittava erikseen: <b>Järjestelmän asetukset > Suojaus ja yksityisyys > Yleinen: Apin "Kitsas" käynnistäminen estettiin > Avaa kuitenkin</b><br/>
       </p>
       <p>Macintosh-julkaisua ylläpitää Petri Aarnio</p>
-      <h3>Haluatko kokeilla uusimpia ominaisuuksia?</h3>
-      <p>Kitsaan <a href="/blog/2022/10/16/kitsas-3.3-beta/">beta-versiossa</a> pääset käyttämään uusimpia ominaisuuksia, kuten laskuun sisällytettäviä kuvia ja tilitietojen hakemista suoraan pankista. Tätä versiota ei ole vielä testattu yhtä kattavasti kuin virallisesti julkaistua versiota, joten siinä saattaa vielä olla joitain puutteita.</p>
     </div>
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
        <h1><i class="fab fa-linux"></i></h1>
