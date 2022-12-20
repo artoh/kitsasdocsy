@@ -5,7 +5,7 @@ description = "Kitsas 3.3 julkaistu"
 tags = ["beta"]
 categories = ["julkaisu"]
 author = "Arto"
-banner = "/img/fi/asetukset/mallibanneri.png"
+banner = "img/fi/asetukset/mallibanneri.png"
 +++
 
 Kitsas 3.3 on nyt julkaistu Windowsille ja Linuxille.
