@@ -10,6 +10,8 @@ menu:
 
 {{%  blocks/lead color=light %}}
 
+
+
 # Ilmainen vai halpa?
 
 Kitsasta voit käyttää täysin ilmaiseksi omalla koneellasi. Pienellä rahalla saat enemmän ominaisuuksia sekä mahdollisuuden tallentaa kirjanpitosi
@@ -17,30 +19,34 @@ varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle.
 
 {{% /blocks/lead %}}
 
+{{< blocks/cover image_anchor="top" height="min" color="dark" >}}
+{{< /blocks/cover >}}
+
+{{% blocks/section color="primary" %}}
+<div class="col">
+<h3>30 päivän kokeilujakso</h3>
+
+<p>Kun luot itsellesi käyttäjätunnuksen, saat 30 päivän ajan kokeilla Kitsaan kaikkia ominaisuuksia yhdessä kirjanpidossa.
+Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa odotuksiasi.</p>
+
+<p>Rekisteröitymisen ja tilaukset teet suoraan ohjelmasta. Edulliset tilaukset laskutetaan valintasi mukaan kuuden kuukauden tai vuoden jaksoissa.</p>
+<p class="text-center"><a href={{<relref "../docs/aloittaminen/tilaus">}} class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Näin rekisteröidyt ja tilaat</a></p>
+
+</div>
+{{% /blocks/section %}}
+
+
 {{% blocks/section color="white" %}}
-<div>
-<p class="lead" style="text-align:center;">Rekisteröitymisen ja tilaukset teet suoraan ohjelmasta. Edulliset tilaukset laskutetaan valintasi mukaan kuuden kuukauden tai vuoden jaksoissa.
-<br/><a href={{<relref "../docs/aloittaminen/tilaus">}} class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Näin rekisteröidyt ja tilaat</a></p>
 
-{{% pageinfo color="primary" %}}
 
-### <i class='fa fa-gift'></i> 30 päivän kokeilujakso
 
-Kun luot itsellesi käyttäjätunnuksen, saat 30 päivän ajan kokeilla Kitsaan kaikkia ominaisuuksia yhdessä kirjanpidossa.
-Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa odotuksiasi.
-{{% /pageinfo %}}
+<article class="hinnat">
 
 **Ilmaiseksi** ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.
 
 **Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa.
 
 **Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
-
-</div>
-
-<article class="hinnat">
-
-<h3>Kitsaan palvelupaketit</h3>
 
 <ul>
   <li>

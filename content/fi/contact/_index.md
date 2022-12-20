@@ -17,9 +17,9 @@ menu:
 
 {{% blocks/section color="white" %}}
 
-<div class="col">
+<div class="col-md-8 col-12">
 
-## Kitsaan tarina
+# Kitsaan tarina
 
 ### Kitupiikki näkee päivänvalon
 
@@ -46,11 +46,8 @@ Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa
 
 </div>
 
-{{< /blocks/section >}}
-
-{{< blocks/section color="primary" >}}
-
-<div class="mx-auto">
+<div class="col-md-4 col-12">
+<div class="loota">
 <h2>Arvomme</h2>
 <ul class="list-unstyled">
 	<li> <i class="fa fa-check"></i> <b>Käyttäjäystävällisyys</b>  Lähdemme käyttäjän tarpeista</li>
@@ -59,9 +56,11 @@ Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa
 	<li><i class="fa fa-check"></i> <b>Kivuus</b> haluamme tehdä ohjelmia, joita on kiva käyttää</li>
 </ul>
 </div>
+</div>
 
 {{< /blocks/section >}}
 {{< blocks/section color="white">}}
+<div class="row">
 
 {{< card header="Toimitusjohtaja" footer="Heli Hyvättinen<br/>heli@kitsas.fi" >}}
 <img src="heli.png" class="parsta"><br/>
@@ -71,11 +70,13 @@ Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa
 <img src="arto.png" class="parsta"><br/>
 {{< /card >}}
 
+
+</div>
 {{< /blocks/section >}}
 {{< blocks/section color="white">}}
 
 
-{{% blocks/feature icon="fa-at" title="Sähköposti" %}}
+{{% blocks/huomio icon="fa fa-at" title="Sähköposti" %}}
 **Kitsas Oy**<br/>
 kitsas@kitsas.fi
 
@@ -85,20 +86,20 @@ myynti@kitsas.fi
 **Palaute** <br/>
 palaute@kitsas.fi
 
-{{% /blocks/feature %}}
+{{% /blocks/huomio %}}
 
-{{% blocks/feature icon="far fa-life-ring" title="Tekninen tuki" url="/tuki" %}}
+{{% blocks/huomio icon="fa fa-life-ring" title="Tekninen tuki" url="/tuki" %}}
 
 Sähköpostituki kuuluu kaikkiin Kitsaan maksullisiin tilauksiin
-{{% /blocks/feature %}}
+{{% /blocks/huomio %}}
 
-{{% blocks/feature icon="fa fa-envelope" title="Postiosoite"%}}
+{{% blocks/huomio icon="fa fa-envelope" title="Postiosoite"%}}
 
 Kitsas Oy<br/>
 Ruohotie 11<br/>
 45360 Valkeala
 
 <b>Y-tunnus</b> 3093902-7
-{{% /blocks/feature %}}
+{{% /blocks/huomio %}}
 
 {{< /blocks/section >}}

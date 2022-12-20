@@ -1,0 +1,12 @@
+{{ $icon := .Get "icon" | default "fa-lightbulb" }}
+<div class="col-lg-4 mb-4 mb-lg-0 text-center huomio">
+  <div class="mb-4 huomio__icon">
+    <i class="{{ $icon }}"></i>
+  </div>
+  <h3>
+    {{ .Get "title"  }}
+  </h3>
+  <p class="mb-0">
+      {{ .Inner  }}
+  </p>
+</div>

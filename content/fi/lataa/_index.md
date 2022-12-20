@@ -90,31 +90,34 @@ Lataa Kitsas maksutta tietokoneellesi
 </div>
 {{% /blocks/section %}}
 
+{{< blocks/cover  image_anchor="top" height="min" color="dark" >}}
+{{< /blocks/cover >}}
 {{% blocks/section color="light" height="min" %}}
 
 ## Rekisteröidy ja kokeile kaikkia ominaisuuksia
 
-<p class="lead">Asennettuasi ohjelman voit luoda itsellesi ilmaisen käyttäjätunnuksen ja kokeilla 30 päivän ajan kaikkia ohjelman ominaisuuksia, myös kirjanpidon tallentamista pilveen. Myös sähköpostituki on käytettävissäsi kokeilujakson ajan. </p>
+Asennettuasi ohjelman voit luoda itsellesi ilmaisen käyttäjätunnuksen ja kokeilla 30 päivän ajan kaikkia ohjelman ominaisuuksia, myös kirjanpidon tallentamista pilveen. Myös sähköpostituki on käytettävissäsi kokeilujakson ajan
 
 Ellet tee kokeilujakson aikana tilausta, jatkat maksuttomana käyttäjänä ja voit yhä tallentaa rajattoman määrän kirjanpitoja omalle tietokoneellesi.
-Kitsasta voi käyttää myös rekisteröitymättä, mutta emme voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa.
+
+Kitsasta voi käyttää myös rekisteröitymättä, mutta emme voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa. Olethan huolellinen varmuuskopioinnissa, jos tallennat kirjanpitosi omalle tietokoneellesi!
 
 {{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
-{{< blocks/feature icon="fab fa-osi" title="Kitsas on avointa lähdekoodia" >}}
+{{< blocks/huomio icon="fab fa-osi" title="Kitsas on avointa lähdekoodia" >}}
 Kitsaan työpöytäohjelmaa saa kopioida, jakaa ja käyttää täysin maksutta [GNU General Public Licence 3](https://ohjeet.kitsas.fi/lisenssi/) -ehtojen mukaisesti. Ohjelman lähdekoodi on saatavissa [GitHub](https://github.com/artoh/kitupiikki)-palvelusta.
 
 Kitsas Oy kehittää ohjelmistoa avoimen lähdekoodin yhteisön kanssa. Kuka tahansa voi osallistua ohjelman kehittämiseen GitHub-palvelun kautta.
-{{< /blocks/feature >}}
-{{< blocks/feature icon="fas fa-exclamation" title="Ohjelmalla ei ole mitään takuuta" >}}
+{{< /blocks/huomio >}}
+{{< blocks/huomio icon="fas fa-exclamation" title="Ohjelmalla ei ole mitään takuuta" >}}
 
 Ohjelmalla tai sen soveltuvuudella käyttöön ei ole mitään takuuta.
 
-{{< /blocks/feature >}}
-{{< blocks/feature icon="far fa-life-ring" title="Tuki ja lisäpalvelut" >}}
+{{< /blocks/huomio >}}
+{{< blocks/huomio icon="fa fa-life-ring" title="Tuki ja lisäpalvelut" >}}
 Kitsas Oy myy ohjelmalle tukipalveluita sekä lisäpalveluita, joiden toteuttamisessa ohjelma ottaa yhteyttä Kitsas Oy:n palvelimelle.
-{{< /blocks/feature >}}
+{{< /blocks/huomio >}}
 
 {{% /blocks/section %}}
 

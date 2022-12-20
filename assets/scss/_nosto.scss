@@ -49,7 +49,7 @@
 
 .nostot {
   margin-top: 1em;
-  width: 100%;  
+  width: 100%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -114,4 +114,50 @@
 .etusivu {
   color: $primary;
   font-weight: bold;
+}
+
+.huomio {
+
+  &__icon {
+    font-size: 250%;
+    color: $primary;
+  }
+
+}
+
+.huomio > h3 {
+  color: $primary;
+  font-weight: bold;
+}
+
+.card {
+  background-color: white;
+  border: 1px solid $primary;
+}
+
+.card-header {
+  background-color: white;
+  border: none;
+  font-weight: bold;
+  color: $primary;
+}
+
+.card-body {
+  border: none;
+}
+
+.card-footer {
+  border: none;
+  background-color: white;
+}
+
+.loota {
+  background-color: $light;
+  padding: 2.5em 1.5em 1.5em 1.5em;
+  border-radius: 5%;
+}
+
+.loota > h2 {
+  font-weight: bold;
+  margin-bottom: 1em;
 }
