@@ -14,17 +14,13 @@
                             </div>
                             <div class="bg"></div>
                         </div>
-                        
+
                         <div class="recent-content">
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                             <p class="author-category">
-                            {{ with .Params.author }}
-                            {{ T "authorBy" }} <a href="#">{{ . }}</a>
-                            {{ end }}
-                            {{ T "publishedOn" }}                               
-                            {{ .Date.Format "02.01.2006" }}                            
+                            {{ .Date.Format "02.01.2006" }}
                             </p>
-                            <p class="intro">{{ .Summary }}</p>
+                            <p class="intro">{{ .Description }}</p>
                             <p class="read-more">
                               <a href="{{ .Permalink }}" class="btn btn-more">{{ T "ui_read_more" }}</a>
                             </p>

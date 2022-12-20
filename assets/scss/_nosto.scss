@@ -1,31 +1,117 @@
 .nosto {
-  padding-top: 1em;
-  padding-bottom: 1em;
+
+  margin-bottom: 1em;
+
   //  max-width: 640px;
+  &__content {
+    margin: 0.5em 0.5em 0.5em 0.5em;
+
+    border: 1px solid $primary;
+    padding-bottom: 1em;
+
+    width: 100%;
+    height: 100%;
+  }
+
+
+  &__caption {
+    background-color: $primary;
+
+    color: white;
+    padding-bottom: 0.5em;
+    text-align: center;
+  }
+
   &__image {
     display: inline-block;
     vertical-align: top;
-    width: 46%;
-    margin: 20px 30px 0 0;
+    margin: 10px 10px 0 0;
+    max-height: 360px;
+    max-width: 100%;
+    z-index: 1;
   }
   &__text {
     display: inline-block;
-    width: 46%;
-    font-size: 120%;
+    padding-left: 1em;
+    padding-right: 1em;
+
     @media (max-width: 620px) {
       width: 100%;
     }
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 
-.nosto__text > h2 {
+.nosto__caption > h2 {
   font-variant-caps: all-small-caps;
   font-size: 160%;
+}
+
+
+.nostot {
+  margin-top: 1em;
+  width: 100%;  
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nostot > h2 {
+  text-align: center;
+  width: 100%;
   color: $primary;
   font-weight: bold;
-  padding-top: 1em;
-  padding-bottom: 0.5em;
-  margin-top: 3em;
+}
+
+.nostot > p {
+  margin-top: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.hinnat {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+
+.hinta {
+  &__content {
+    background-color: white;
+    color: black;
+    border-radius: 5%;
+    padding: 1em 1em 0.5em 0.5em;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    height: 100%;
+    text-align: center;
+  }
+
+  &__caption {
+
+  }
+
+  &__euro {
+    font-size: 200%;
+    font-weight: bold;
+    color: $primary;
+    margin: 0px 0px 0px 0px;
+  }
+
+  &__kk {
+    font-size: 95%;
+  }
+
+  &__intro {
+    color: $primary;
+    font-size: 95%;
+  }
+}
+
+.hinta__caption > h3 {
+  font-weight: bold;
+}
+
+
+.etusivu {
+  color: $primary;
+  font-weight: bold;
 }

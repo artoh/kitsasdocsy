@@ -1,9 +1,11 @@
-<div class="col-12 nosto">
-  <div class="container">
-    <img class="nosto__image" src="/img/{{ .Site.Language.Lang }}/nosto/{{ .Get "image" }}.png">
-	<div class=" nosto__text">
-    <h2>{{ .Get "title" | markdownify }} </h2>
-    <p>{{ .Inner }}</p>
+<div class="col-12 col-md-6 col-lg-4 col-xl-3 nosto">
+  <div class="nosto__content">
+    <div class="nosto__caption">
+      <h2>{{ .Get "title" | markdownify }}</h2>
+    </div>
+      <img class="nosto__image" src="/img/{{ .Site.Language.Lang }}/nosto/{{ .Get "image" }}.png">
+  	<div class=" nosto__text">
+      <p>{{ .Inner }}</p>
+    </div>
   </div>
-</div>
 </div>
