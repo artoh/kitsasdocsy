@@ -13,7 +13,7 @@ menu:
 
 Haluaisitko käyttää Kitsasta, mutta tarvitset apua kirjanpitosi hoitamiseen? Tältä sivulta löydät tilitoimistoja, jotka tarjoavat palveluja Kitsasta käyttäville.
 
-Jokainen tilitoimisto hinnoittelee palvelunsa itsenäisesti. 
+Jokainen tilitoimisto hinnoittelee palvelunsa itsenäisesti.
 
 {{% /blocks/lead %}}
 
@@ -49,11 +49,4 @@ Tarjoaa palveluja elinkeinonharjoittajille, osakeyhtiöille ja yhdistyksille. Ei
 {{<yhteys puhelin="040 35 90 401" email="kirjanpito@tuloslaskelmalapinlisa.fi">}}
 {{</yhteys>}}
 
-</div>
-
-<div class="listainfo">
-<hr/>
-<div>
-Tälle listalle ovat tervetulleita kaikki Kitsaan käyttäjiä palvelevat tilitoimistot koosta ja sijainnista riippumatta. Listalla mukanaolo on täysin maksutonta. Jos haluat oman tilitoimistosi mukaan tälle listalle ota yhteyttä kitsas@kitsas.fi   
-</div>
 </div>
