@@ -7,6 +7,7 @@
         {{ end }}
 		{{ if .Params.cloud }} {{ partial "cloud-only" . }} {{ end }}
 		{{ if .Params.premium }} {{ partial "premium-only" . }} {{ end }}
+		{{ if .Params.pro }} {{ partial "pro-only" . }} {{ end }}
 		{{ partial "videot.html" . }}
 	{{ .Content }}
         {{ partial "section-index.html" . }}
@@ -14,7 +15,7 @@
 	{{ if (and (not .Params.hide_feedback) (.Site.Params.ui.feedback.enable) (.Site.GoogleAnalytics)) }}
 		{{ partial "feedback.html" .Site.Params.ui.feedback }}
 		<br />
-	{{ end }}  
+	{{ end }}
 	<div class="text-muted mt-5 pt-3 border-top">{{ partial "page-meta-lastmod.html" . }}</div>
 </div>
 {{ end }}

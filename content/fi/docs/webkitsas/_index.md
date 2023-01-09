@@ -1,7 +1,7 @@
 ---
 title: "WebKitsas"
 linkTitle: "WebKitsas"
-weight: 120
+weight: 200
 cloud: true
 description: >
   Pilveen tallennettuja kirjanpitoja pääsee käyttämään myös web-liittymällä.

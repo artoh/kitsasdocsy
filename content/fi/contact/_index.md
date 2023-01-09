@@ -39,6 +39,11 @@ Ohjelman kehittämisen turvaamiseksi perustimme lokakuussa 2019 Kitsas Oy:n. Sam
 
 Kitsas julkaistiin syyskuussa 2020.
 
+### Kitsas ammattilaisille
+
+Syksyllä 2022 solmimme yhteistyösopimuksen Talouden Ohjelmistopalveluiden kanssa Kitsaan Pro-version kehittämisestä tilitoimistoille ja tilitoimistojen asiakkaille. Vuoden 2023 alussa avattiin Kitsas Helpdesk, jonka auttaa käyttäjiä sähköpostin lisäksi myös puhelintuella.
+
+
 ### Kehitystyö jatkuu
 
 Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa voi edelleen käyttää täysin ilmaiseksi. Lisäksi ylläpidämme palvelinta, joka mahdollistaa kirjanpidon tallentamisen turvallisesti pilveen ja suoran verkkolaskutusyhteyden. Jokainen tilaaja on osaaltaan turvaamassa Kitsaan jatkokehitystä entistäkin paremmaksi.
@@ -88,9 +93,13 @@ palaute@kitsas.fi
 
 {{% /blocks/huomio %}}
 
+
 {{% blocks/huomio icon="fa fa-life-ring" title="Tekninen tuki" url="/tuki" %}}
 
-Sähköpostituki kuuluu kaikkiin Kitsaan maksullisiin tilauksiin
+<p>Talouden Ohjelmistopalveluiden Kitsas Helpdesk</p>
+<span class="fa fa-envelope"></span> helpdesk.kitsas@taopa.fi <br/>
+<span class="fa fa-phone"></span> 044 333 5019<br/>   
+
 {{% /blocks/huomio %}}
 
 {{% blocks/huomio icon="fa fa-envelope" title="Postiosoite"%}}

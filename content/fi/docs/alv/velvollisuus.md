@@ -3,7 +3,7 @@ title: "Arvonlisäverovelvollisuus"
 linkTitle: "Alv-velvollisuus"
 weight: 10
 description: >
-  Arvonlisäveron käyttöön ottaminen ja arvonlisäverokauden pituus
+  Arvonlisäveron käyttöön ottaminen
 ---
 
 ### Arvonlisäverovelvollisuus
@@ -16,6 +16,4 @@ Arvonlisäverovelvolliseksi on hakeuduttava, jos tilikauden liikevaihto voi ylit
 
 ### Verokauden pituus
 
-Verokauden pituus määritellään **ALV**-sivulla.
-
-Verokausi on pääasiallisesti kuukausi. [Verohallinnon ohje](https://www.vero.fi/yritykset-ja-yhteisot/ilmoittaminen-ja-maksaminen/omaaloitteiset-verot/hakeutuminen_valinnaiseen_verokautee/) selvittää, milloin ja miten yritys voi hakeutus neljännesvuoden tai vuoden verokauteen.
+Verokauden pituus määritellään [Verojen asetuksista]({{<relref "../asetukset/veronmaksu">}})

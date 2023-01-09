@@ -123,10 +123,10 @@ Kaikki valinnat on tehty ja Kitsas on valmis luomaan uuden kirjanpidon.
 Ennen kuin aloitat kirjausten tekemisen, kannattaa vielä tarkistaa joukko
 määrityksiä. Ne kaikki on selostettu Asetukset-luvussa.
 
-1. Lisää **perusmäärityksiin** logo, puhelinnumero yms. tietoja
-2. Yleensä kaikki tarpeelliset tilit löytyvät **tilikartasta**, mutta tarvittaessa voit muokata tilikarttaa.
-3. Jos haluat käyttää **kohdennuksia** (kustannuspaikat ja projektit), lisää ne asetuksista
-4. Syötä **tilinavaus** edellisen tilinpäätöksen perusteella
+1. Yleensä kaikki tarpeelliset tilit löytyvät **tilikartasta**, mutta tarvittaessa voit muokata tilikarttaa.
+2. Jos haluat käyttää **kohdennuksia** (kustannuspaikat ja projektit), lisää ne asetuksista
+3. Syötä **tilinavaus** edellisen tilinpäätöksen perusteella.
+4. Lisää halutessasi yhteystiedoihin **logo** tehdäksesi tulosteista tyylikkäämmät.
 
 ## Harjoittelutila
 

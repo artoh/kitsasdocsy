@@ -1,6 +1,7 @@
 ---
 title: "Maksuperusteinen arvonlisävero"
 linkTitle: "Maksuperusteinen ALV"
+keywords: ["maksualv"]
 weight: 60
 description: >
   Pienet yritykset voivat tilittää arvonlisäverot maksuperusteisesti.
@@ -28,7 +29,7 @@ Maksuperusteinen arvonlisävero edellyttää erityiskäsittelyä siinä vaiheess
 Maksuperusteisen arvonlisäveron käyttäminen rajoittaa käytössäsi olevia Kitsaan toimintoja, koska kaikkia ominaisuuksia ei ole toteutettu maksuperusteisen arvonlisäveron mukaisesti.
 {{</alert>}}
 
-Maksuperusteinen arvonlisävero otetaan käyttöön Arvonlisäveron määrityksistä **Maksuperusteinen alv**-rivillä olevasta rataspainikkeesta, josta aukeaa valintaikkuna:
+Maksuperusteinen arvonlisävero otetaan käyttöön [verotuksen asetuksista]({{<relref "../asetukset/veronmaksu">}}) **Maksuperusteinen alv**-rivillä olevasta rataspainikkeesta, josta aukeaa valintaikkuna:
 
 ![](/img/fi/alv/malvikkuna.png)
 

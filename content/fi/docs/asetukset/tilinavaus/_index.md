@@ -2,7 +2,7 @@
 title: "Tilinavaus"
 linkTitle: "Tilinavaus"
 weight: 80
-keywords: ["uusi"]
+keywords: ["uusi","tilinavaus"]
 description: >
   Avaavien saldojen syöttäminen uutta kirjanpitoa aloitettaessa
 youtube:
@@ -48,6 +48,13 @@ Syöttämällä siirtosaamiset ja myyntisaamiset eriteltynä pääset kirjanpido
 ![](/img/fi/asetukset/tilinavaus/kohdennukset.png)
 
 Syöttämällä tulot ja menot kohdennettuina saat kustannuspaikkojen tuloslaskelmalle vertailutiedot edelliseltä vuodelta.
+
+### Kuukausittaiset tiedot
+
+Kitsas mahdollistaa myös edellisen tilikauden kuukausittaisten vertailutietojen syöttämisen. Kun **tiedot kuukausittain** on valittuna, ovat kuukaudet erittelyn ensimmäisenä tasona, josta pääsee tarvittaessa etenemään tase-erien ja kohdennusten syöttämiseen.
+
+Työläyden takia kuukausittaisten tietojen syöttäminen on mielekästä lähinnä [tuotaessa tietoja tiedostona]({{<relref "tuonti">}}) aiemmasta kirjanpito-ohjelmasta.
+
 
 ### Kirjanpidon aloittaminen kesken tilikauden
 

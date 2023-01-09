@@ -48,6 +48,8 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 
 **Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
 
+**Kitsas Pro** on tehokas työkalu tilitoimistoille, jossa kirjanpitoja ja käyttäjiä pääsee hallinnoimaan keskitetysti. Myynti ja tuki [Talouden ohjelmistopalvelut](https://www.taloudenohjelmistopalvelut.fi/kitsas)
+
 <ul>
   <li>
     <button>Ilmainen</button>
@@ -75,8 +77,6 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
       <td><span class="txt-l">62</span> <span class="txt-top">&euro;/vuosi</span></td>
       <td class="default">
-        <span class="txt-l">124</span> <span class="txt-top">&euro;/vuosi</span>
-        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
         <span class="txt-l">155</span> <span class="txt-top">&euro;/vuosi</span>
       </td>
     </tr>  
@@ -85,8 +85,6 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
       <td><span class="txt-l">50</span> <span class="txt-top">&euro;/vuosi</span></td>
       <td class="default">
-        <span class="txt-l">100</span> <span class="txt-top">&euro;/vuosi</span>
-        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
         <span class="txt-l">125</span> <span class="txt-top">&euro;/vuosi</span>
       </td>
     </tr>
@@ -95,8 +93,6 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/kk</span></td>
       <td><span class="txt-l">4,17</span> <span class="txt-top">&euro;/kk</span></td>
       <td class="default">
-        <span class="txt-l">8,33</span> <span class="txt-top">&euro;/kk</span>
-        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
         <span class="txt-l">10,42</span> <span class="txt-top">&euro;/kk</span>
       </td>
     </tr>
@@ -214,8 +210,8 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
     <tr>
       <td>Neuvonta puhelimella</td>
       <td></td>
-      <td><span class="txt-muh">9.1.2023 alkaen</span><br/><span class="tick">&#10004;</span></td>
-      <td class="default"><span class="txt-muh">9.1.2023 alkaen</span><br/><span class="tick">&#10004;</span></td>
+      <td><span class="tick">&#10004;</span></td>
+      <td class="default"><span class="tick">&#10004;</span></td>
     </tr>    
     <tr>
       <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>
@@ -271,15 +267,11 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     </tr>   
     <tr>
       <td>Kotimaa, Priority</td>
-       <td><span class="txt-l">2,38</span> <span class="txt-top">&euro;/kpl</span>
-       <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
-       <span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span></td>
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
-        <td><span class="txt-l">1,87</span> <span class="txt-top">&euro;/kpl</span><
-        <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
-        <span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span></td>
+        <td><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span></td>
       </tr>  
       <tr>
         <td>Kotimaa, lisäsivu</td>
@@ -291,21 +283,15 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       </tr>  
       <tr>
         <td>Eurooppa</td>
-         <td><span class="txt-l">2,22</span> <span class="txt-top">&euro;/kpl</span>
-         <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
-         <span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
+         <td><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
        </tr>         
       <tr>
         <td>Muu maailma</td>
-       <td><span class="txt-l">2,42</span> <span class="txt-top">&euro;/kpl</span>
-       <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
-       <span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
-       <td><span class="txt-l">0,31</span> <span class="txt-top">&euro;/sivu</span>
-       <br/><span class="txt-muh">1.1.2023 alkaen</span><br/>
-       <span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
+       <td><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
     </tr>              
   </tbody>
 </table>

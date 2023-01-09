@@ -36,13 +36,13 @@ Lataa Kitsas maksutta tietokoneellesi
       <h4>Windows</h4>      
       Windows 7, 8, 10, 11
       <p>Kitsas 3.3
-      <h4 style="margin-top: 2ex;">Asennettava ohjelma</h4>
+      <h4 class="variaatio" style="margin-top: 2ex;">Asennettava ohjelma</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/kitsas-3.3-asennus.exe" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/kitsas-3.3-asennus.exe" class="btn btn-lg btn-primary latausnappi">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>            
       <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. Tarvitset pääkäyttäjän oikeudet.</p>
-      <h4 style="margin-top: 2ex;">Kitsas Portable</h4>
+      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas Portable</h4>
       <p>
         <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/kitsas-3.3.exe" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>

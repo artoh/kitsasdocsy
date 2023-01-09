@@ -7,6 +7,7 @@
   {{ end }}
   {{ if .Params.cloud }} {{ partial "cloud-only" . }} {{ end }}
   {{ if .Params.premium }} {{ partial "premium-only" . }} {{ end }}
+  {{ if .Params.pro }} {{ partial "pro-only" . }} {{ end }}
   {{ partial "videot.html" . }}
   {{ .Content }}
     {{ partial "related.html" . }}

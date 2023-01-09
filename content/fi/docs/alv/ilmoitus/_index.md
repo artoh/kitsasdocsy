@@ -10,8 +10,15 @@ Ohjelma muistuttaa aloitussivulla, kun arvonlisäveroilmoituksen eräpäivä lä
 
 ![](/img/fi/alv/ilmonappi.png)
 
+
 Kun kaikki tälle ilmoituskaudelle tehdyt verolliset kirjaukset on tehty, paina **ALV**-sivulla **Tee alv-tilitys**-nappia.
 
 ![](/img/fi/alv/alvlaskelma.png)
 
 Kitsas esittää Alv-laskelman, jossa on kausiveroilmoituksessa arvolisäveron osalta tarvittavat tiedot. Vahvista laskelma painamalla **OK**.
+
+{{<alert title="Ilmoitus suoraan verottajalle">}}
+
+Kun verottajan varmenne on käytettävissä, voi alv-ilmoituksen lähettää ohjelmasta suoraan verottajalle.
+
+{{</alert>}}
