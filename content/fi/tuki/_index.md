@@ -32,7 +32,7 @@ Lue ohjeita
 
 <p>Kitsaan tilauksiin kuuluva tuki ei sisällä lainopillista neuvontaa. Helpdesk ohjaa tarvittaessa maksullisiin konsultaatiopalveluihin tai kirjanpitopalveluita tarjoavan tilitoimiston asiakkaaksi.</p>
 
-<span class="fa fa-envelope"></span> helpdesk.kitsas@taopa.fi <br/>
+<span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>
 <span class="fa fa-phone"></span> 044 333 5019<br/>    
 Helpdesk palvelee arkisin klo 9-14
 

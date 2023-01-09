@@ -97,7 +97,7 @@ palaute@kitsas.fi
 {{% blocks/huomio icon="fa fa-life-ring" title="Tekninen tuki" url="/tuki" %}}
 
 <p>Talouden Ohjelmistopalveluiden Kitsas Helpdesk</p>
-<span class="fa fa-envelope"></span> helpdesk.kitsas@taopa.fi <br/>
+<span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>
 <span class="fa fa-phone"></span> 044 333 5019<br/>   
 
 {{% /blocks/huomio %}}
