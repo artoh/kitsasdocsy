@@ -10,8 +10,6 @@ menu:
 
 {{%  blocks/lead color=light %}}
 
-
-
 # Ilmainen vai halpa?
 
 Kitsasta voit käyttää täysin ilmaiseksi omalla koneellasi. Pienellä rahalla saat enemmän ominaisuuksia sekä mahdollisuuden tallentaa kirjanpitosi
@@ -22,34 +20,29 @@ varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle.
 {{< blocks/cover image_anchor="top" height="min" color="dark" >}}
 {{< /blocks/cover >}}
 
+{{% blocks/section color="white" %}}
+<div class="col">
+<p><span class="plan">Ilmaiseksi</span> ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.</p>
+<p><span class="plan">Kitsas Kerho</span> sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa.</p>
+<p><span class="plan">Kitsas Firma</span> tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
+<p><span class="plan">Kitsas Pro</span> on tehokas työkalu tilitoimistoille, jossa kirjanpitoja ja käyttäjiä pääsee hallinnoimaan keskitetysti. Myynti ja tuki <a href="https://www.taloudenohjelmistopalvelut.fi/kitsas">Talouden ohjelmistopalvelut</a> <span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <span class="fa fa-phone"></span> 050 400 9130</p>
+</div>
+{{% /blocks/section %}}
 {{% blocks/section color="primary" %}}
 <div class="col">
 <h3>30 päivän kokeilujakso</h3>
-
 <p>Kun luot itsellesi käyttäjätunnuksen, saat 30 päivän ajan kokeilla Kitsaan kaikkia ominaisuuksia yhdessä kirjanpidossa.
 Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa odotuksiasi.</p>
-
 <p>Rekisteröitymisen ja tilaukset teet suoraan ohjelmasta. Edulliset tilaukset laskutetaan valintasi mukaan kuuden kuukauden tai vuoden jaksoissa.</p>
 <p class="text-center"><a href={{<relref "../docs/aloittaminen/tilaus">}} class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Näin rekisteröidyt ja tilaat</a></p>
-
 </div>
 {{% /blocks/section %}}
-
-
 {{% blocks/section color="white" %}}
 
 
 
-<article class="hinnat">
-
-**Ilmaiseksi** ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.
-
-**Kitsas Kerho** sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa.
-
-**Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
-
-**Kitsas Pro** on tehokas työkalu tilitoimistoille, jossa kirjanpitoja ja käyttäjiä pääsee hallinnoimaan keskitetysti. Myynti ja tuki [Talouden ohjelmistopalvelut](https://www.taloudenohjelmistopalvelut.fi/kitsas) <span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <span class="fa fa-phone"></span> 050 400 9130
-
+<article class="hinnasto">
+<h3>Kitsaan palvelupaketit</h3>
 <ul>
   <li>
     <button>Ilmainen</button>
@@ -233,82 +226,59 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 <p>Lisämaksulliset palvelut veloitetaan jälkikäteen 1 - 12 kuukauden jaksoissa niin, että pienin veloitettava summa kesken vuotta on 20 euroa.</p>
 <p><sup>* </sup> Olemme varanneet kirjanpitoa kohden tallennustilaa 2 Gt. Tämä riittää tavanomaisesti noin 10 000 sähköisen tositteen tallentamiseen. Lisätilasta perimme <b>1 €</b>/Gt/kk.</p>
 
-
-</article>
-<div class="hintaloppuinfo">
-
-### Verkkolaskut
+<h3>Verkkolaskut</h3>
 
 Kitsaassa on mahdollista käyttää myös omaa verkkolaskutussopimusta suoraan verkkolaskuoperaattorin kanssa. Tällöin verkkolaskutusoperaattori laskuttaa suoraan käyttäjää oman hinnastonsa mukaisesti. Oman operaattorin käyttämistä ei ole integroitu yhtä hyvin kuin ohjelmiston kautta käyttöön otettua Kitsaan verkkolaskutusta. Katso tarkemmin [verkkolaskutuksen ohjeista](docs/asetukset/verkkolaskut/).
 
 Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kautta ja käytetään Kitsaan hinnoittelua
 
-<article class="hinnat">
-<ul>
-  <li class="active">
-    <button>Veroton hinta</button>
-  </li>
-</ul>
-
 <table style="margin-bottom: 2ex;">
-  <thead>
-    <tr class="text-white">
-      <th class=""><i class="fa fa-bolt"></i> Verkkolasku</th>
-      <th>Veroton hinta</th>
-    </tr>
-  </thead>
   <tbody>
+  <tr class="text-white">
+    <th class=""><i class="fa fa-bolt"></i> Verkkolasku</th>
+    <th>Veroton hinta</th>
+  </tr>  
    <tr>
      <td>Verkkolaskun lähettäminen ja vastaanottaminen</td>
-      <td><span class="txt-l">0,50</span> <span class="txt-top">&euro;/kpl</span></td>
+      <td class="default"><span class="txt-l">0,50</span> <span class="txt-top">&euro;/kpl</span></td>
     </tr>  
     <tr>
       <td colspan="2" class="sep"><i class="fa fa-envelope"></i> Postittaminen kirjeenä</td>
     </tr>   
     <tr>
       <td>Kotimaa, Priority</td>
-       <td><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td class="default"><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span></td>
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
-        <td><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span></td>
+        <td class="default"><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span></td>
       </tr>  
       <tr>
         <td>Kotimaa, lisäsivu</td>
-         <td><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
+         <td class="default"><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
        </tr>  
        <tr>
          <td>Väritulostelisä</td>
-        <td><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
+        <td class="default"><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
       </tr>  
       <tr>
         <td>Eurooppa</td>
-         <td><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
+         <td class="default"><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
        </tr>         
       <tr>
         <td>Muu maailma</td>
-       <td><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td class="default"><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
-       <td><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
+       <td class="default"><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
     </tr>              
   </tbody>
 </table>
-</article>
-
-### Tuntityöveloitus
-
+<h3>Tuntityöveloitus</h3>
 Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> €/tunti (sis. alv)
 
----
-
-Jos tarvitset laajempaa palvelupakettia tai muuta laskutuskautta, ota yhteyttä myynti@kitsas.fi
-
 Myymme myös räätälöintiä, ohjelmointityötä sekä ohjelman koulutusta.
-
-</div>
-
+</article>
 {{% /blocks/section %}}
-
 <script src="/js/hinnat.js" defer></script>

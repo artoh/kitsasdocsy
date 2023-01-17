@@ -6,33 +6,30 @@
 - make mobile switch sticky
 */
 
-article.hinnat {
-  width: 100%;
-  max-width: 1100px;
-  margin: 0 auto;
+article.hinnasto {
+  width: 90%;
+  max-width: 1200px;
   position: relative;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 18px;
   padding: 18px;
-  clear: left;
-  float: none;
   margin-left: auto;
   margin-right: auto;
+  display: block;
 }
-article.hinnat > ul {
-  display: flex;
+article.hinnasto > ul {
+
   top: 0px;
-  z-index: 10;
   padding-bottom: 14px;
 }
-article.hinnat > ul > li {
+article.hinnasto > ul > li {
   list-style: none;
   flex: 1;
 }
-article.hinnat > ul > li:last-child {
+article.hinnasto > ul > li:last-child {
   border-right: 1px solid #ddd;
 }
-article.hinnat > ul > li > button {
+article.hinnasto > ul > li > button {
   width: 100%;
   border: 1px solid #ddd;
   border-right: 0;
@@ -44,13 +41,13 @@ article.hinnat > ul > li > button {
   height: 60px;
   color: #999;
 }
-article.hinnat > ul > li.active button {
+article.hinnasto > ul > li.active button {
   background: $light;
   color: #000;
 }
 
 @media (min-width: 640px) {
-  article.hinnat > ul {
+  article.hinnasto > ul {
     display: none;
   }
   td,
@@ -67,14 +64,14 @@ article.hinnat > ul > li.active button {
   }
 }
 
-div.hintaloppuinfo {
-  width: 100%;
-  max-width: 1100px;
-  clear: both;
-  float: none;
-  margin-left: auto;
-  margin-right: auto;       
-    @media (max-width: 620px) {
-      width: 100%;
-    }  
+article.hinnasto > h3 {
+  display: block;
+  color: $primary;
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+span.plan {
+  font-weight: bold;
+  color: $primary;
 }

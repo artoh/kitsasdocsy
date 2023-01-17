@@ -14,6 +14,9 @@ menu:
 
 {{% /blocks/lead %}}
 
+{{< blocks/cover image_anchor="top" height="min" color="dark" >}}
+{{< /blocks/cover >}}
+
 {{% blocks/section color="white" height="min" %}}
 
 
@@ -55,7 +58,6 @@ Emme kuitenkaan pysty välttämättä vastaamaan henkilökohtaisesti kaikkeen pa
 Anna palautetta</a></p>
 
 {{< /blocks/huomio >}}
-
 {{% /blocks/section %}}
 
 
