@@ -74,12 +74,14 @@
 }
 
 .hinnat {
-  width: 100%;
-  margin-bottom: 1em;
+  width: 100%;  
+  display: flex;
 }
 
 
 .hinta {
+  margin-bottom: 1em;  
+  
   &__content {
     background-color: white;
     color: black;
@@ -87,6 +89,7 @@
     padding: 1em 1em 0.5em 0.5em;
     margin: 0.5em 0.5em 0.5em 0.5em;
     height: 100%;
+    flex: 1;
     text-align: center;
   }
 
