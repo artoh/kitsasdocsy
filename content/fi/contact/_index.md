@@ -94,14 +94,14 @@ palaute@kitsas.fi
 {{% /blocks/huomio %}}
 
 
-{{% blocks/huomio icon="fa fa-life-ring" title="Tekninen tuki" url="/tuki" %}}
-
-<p>Talouden Ohjelmistopalveluiden Kitsas Helpdesk</p>
-<span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>
-<span class="fa fa-phone"></span> 044 333 5019<br/>   
-
+{{% blocks/huomio icon="fa fa-life-ring" title="Käyttäjätuki" url="/tuki" %}}
+<h4>Talouden Ohjelmistopalveluiden Kitsas Helpdesk</h4>
+<p><span class="fa fa-envelope"></span> <a href="mailto:kitsas.helpdesk@taopa.fi">kitsas.helpdesk@taopa.fi</a> <br/>
+<span class="fa fa-phone"></span> 044 333 5019</p>
+<h3>Myynti tilitoimistoille</h3>
+<span class="fa fa-envelope"></span> <a href="mailto:kitsas.helpdesk@taopa.fi">kitsas.helpdesk@taopa.fi</a> <br/>
+<span class="fa fa-phone"></span> 050 400 9130<br/>   
 {{% /blocks/huomio %}}
-
 {{% blocks/huomio icon="fa fa-envelope" title="Postiosoite"%}}
 
 Kitsas Oy<br/>

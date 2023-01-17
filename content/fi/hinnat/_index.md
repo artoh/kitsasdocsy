@@ -48,7 +48,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 
 **Kitsas Firma** tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
 
-**Kitsas Pro** on tehokas työkalu tilitoimistoille, jossa kirjanpitoja ja käyttäjiä pääsee hallinnoimaan keskitetysti. Myynti ja tuki [Talouden ohjelmistopalvelut](https://www.taloudenohjelmistopalvelut.fi/kitsas)
+**Kitsas Pro** on tehokas työkalu tilitoimistoille, jossa kirjanpitoja ja käyttäjiä pääsee hallinnoimaan keskitetysti. Myynti ja tuki [Talouden ohjelmistopalvelut](https://www.taloudenohjelmistopalvelut.fi/kitsas) <span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <span class="fa fa-phone"></span> 050 400 9130
 
 <ul>
   <li>

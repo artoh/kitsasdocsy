@@ -34,17 +34,17 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-win" role="tabpanel" aria-labelledby="pills-home-tab" style="text-align: center;">      
       <h1><i class="fab fa-windows"></i></h1>
       <h4>Windows</h4>      
-      Windows 7, 8, 10, 11
-      <p>Kitsas 3.3
+      <p>Windows 7, 8, 10, 11</p>
+      <p>Kitsas 4.0</p>
       <h4 class="variaatio" style="margin-top: 2ex;">Asennettava ohjelma</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/kitsas-3.3-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0/kitsas-4.0-asennus.exe" class="btn btn-lg btn-primary latausnappi">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>            
       <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. Tarvitset pääkäyttäjän oikeudet.</p>
       <h4 class="variaatio" style="margin-top: 2ex;">Kitsas Portable</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/kitsas-3.3.exe" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0/kitsas-4.0.exe" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>            
       <p style="margin-top: 1ex;">Ohjelmaa ei tarvitse asentaa, vaan se käynnistyy suoraan. Et tarvitse pääkäyttäjän oikeuksia.</p>
@@ -71,21 +71,21 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
        <h1><i class="fab fa-linux"></i></h1>
       <h4>Linux</h4>
-      <h4>Kitsas 3.3</h4>
+      <h4>Kitsas 4.0</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v3.3/Kitsas-3.3-x86_64.AppImage" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0/Kitsas-4.0-x86_64.AppImage" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>           
       64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 18.04 ja uudemmat
-      <p>Kitsaan Linux-versio toimitetaan AppImage-tiedostona, jota ei varsinaisesti edes tarvitse asentaa. Et tarvitse ylläpitäjän oikeuksia.</p>
+      <p>Kitsaan Linux-versio toimitetaan AppImage-tiedostona, jota ei varsinaisesti edes tarvitse asentaa.</p>
       <ol style="text-align: left;">
+        <li>Jos käytössäsi on Ubuntu 22.04 tai uudempi, asenna FUSE-kirjaston oikea versio komennolla<br/><code>sudo apt install libfuse2</code><br>Tähän tarvitaan pääkäyttäjän oikeudet</li>
         <li>Lataa asennustiedosto</li>
         <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
         <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas*.AppImage</code></li>
         <li>Ensimmäisellä käynnistyskerralla Kitsas kysyy, haluatko lisätä ohjelman käynnistysvalikkoon.</li>
       </ol>
     </div>
-
   </div>
 </div>
 {{% /blocks/section %}}
