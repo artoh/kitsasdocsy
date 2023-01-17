@@ -17,7 +17,7 @@ Lue lisää [Kitsas Pro:n tuotesivuilta](https://taloudenohjelmistopalvelut.fi/k
 
 ## Tilitoimistonäkymä
 
-(Kuva)
+![](/img/fi/toimisto/toimisto.png)
 
 Vasemmanpuoleisimmassa sarakkeessa (Ryhmät) on luettelo tilitoimistoon kuuluvista ryhmistä.
 Keskimmäisessä sarakkeessa on välilehdet valitun ryhmän kirjanpidoista ja käyttäjistä.
