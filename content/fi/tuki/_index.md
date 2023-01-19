@@ -59,8 +59,16 @@ Anna palautetta</a></p>
 
 {{< /blocks/huomio >}}
 {{% /blocks/section %}}
+{{% blocks/section color="primary" %}}
 
-
+<div class="keskella">
+<i class="fa fa-home hugeicon"></i>
+<h3>Etsitkö tilitoimistoa?</h3>
+<p>Haluaisitko käyttää Kitsasta, mutta tarvitset apua kirjanpitosi hoitamiseen?<br/>
+Helpdeskin kautta saat tarvittaessa yhteyden palvelevaan ja ystävälliseen tilitoimistoon.</p>
+<p>Tilitoimistojen palvelut ovat maksullisia.
+</div>
+{{% /blocks/section %}}
 {{% blocks/section color="white" height="min" %}}
 {{<uutiskirje>}}
 {{% /blocks/section %}}

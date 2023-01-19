@@ -2,9 +2,6 @@
 title: "Kitsasta käyttäviä tilitoimistoja"
 linkTitle: "Tilitoimistot"
 hideDisqus: true
-menu:
-  main:
-    weight: 30
 ---
 
 {{%  blocks/lead color=light %}}
