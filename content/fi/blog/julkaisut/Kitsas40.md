@@ -11,7 +11,7 @@ banner = "img/fi/nosto/alv.png"
 
 Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta [kitsas.fi/lataa](/lataa)
 
-Kitsas 4.0 on saatavilla välittömästi Windowsille ja Linuxille (Mac-versio tulossa)
+Kitsas 4.0 on saatavilla välittömästi Windowsille, Macille ja Linuxille
 
 ## Kitsas 4.0 tuo arvolisäveron sähköisen ilmoittamisen
 
