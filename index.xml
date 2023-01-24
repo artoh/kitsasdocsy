@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 4.0</title><link>/blog/2023/01/17/kitsas-4.0/</link><pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate><guid>/blog/2023/01/17/kitsas-4.0/</guid><description>
 &lt;h1 id="kitsas-päivittyy">Kitsas päivittyy&lt;/h1>
 &lt;p>Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>&lt;/p>
-&lt;p>Kitsas 4.0 on saatavilla välittömästi Windowsille ja Linuxille (Mac-versio tulossa)&lt;/p>
+&lt;p>Kitsas 4.0 on saatavilla välittömästi Windowsille, Macille ja Linuxille&lt;/p>
 &lt;h2 id="kitsas-40-tuo-arvolisäveron-sähköisen-ilmoittamisen">Kitsas 4.0 tuo arvolisäveron sähköisen ilmoittamisen&lt;/h2>
 &lt;p>Nyt Kitsaasta voi lähettää arvonlisäveron suoraan verottajan järjestelmään. Toiminto edellyttää verohallinnon varmennetta, ja on käytettävissä vain pilveen tallennetuissa kirjanpidoissa. &lt;a href="/docs/alv/ilmoitus/">Lue lisää&lt;/a>&lt;/p>
 &lt;h2 id="kitsas-pro-tilitoimistokäyttäjille">Kitsas Pro tilitoimistokäyttäjille&lt;/h2>
