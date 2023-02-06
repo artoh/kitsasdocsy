@@ -52,9 +52,9 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-mac" role="tabpanel" aria-labelledby="pills-profile-tab" style="text-align: center;">      
       <h1><i class="fab fa-apple"></i></h1>
       <h4>Mac</h4>
-      <h4>Kitsas 4.0.1</h2>
+      <h4>Kitsas 4.0.2</h2>
       <p>
-        <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.1/Kitsas-4.0.1.dmg" class="btn btn-lg btn-primary">
+        <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.2/Kitsas-4.0.2.dmg" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>        
        OS X Versio 10.13 ja uudemmat
