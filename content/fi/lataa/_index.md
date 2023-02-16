@@ -57,7 +57,7 @@ Lataa Kitsas maksutta tietokoneellesi
         <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.2/Kitsas-4.0.2.dmg" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>        
-       OS X Versio 10.13 ja uudemmat
+       OS X Versio 10.15 ja uudemmat
       <ol style="text-align: left;">
         <li>Lataa asennustiedosto</li>
         <li>Avaa asennustiedosto</li>
