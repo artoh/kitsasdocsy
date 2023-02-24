@@ -35,16 +35,16 @@ Lataa Kitsas maksutta tietokoneellesi
       <h1><i class="fab fa-windows"></i></h1>
       <h4>Windows</h4>      
       <p>Windows 7, 8, 10, 11</p>
-      <p>Kitsas 4.0.2</p>
+      <p>Kitsas 4.0.3</p>
       <h4 class="variaatio" style="margin-top: 2ex;">Asennettava ohjelma</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.2/kitsas-4.0.2-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.3/kitsas-4.0.3-asennus.exe" class="btn btn-lg btn-primary latausnappi">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>            
       <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. Tarvitset pääkäyttäjän oikeudet.</p>
       <h4 class="variaatio" style="margin-top: 2ex;">Kitsas Portable</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.2/kitsas-4.0.2.exe" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.3/kitsas-4.0.3.exe" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>            
       <p style="margin-top: 1ex;">Ohjelmaa ei tarvitse asentaa, vaan se käynnistyy suoraan. Et tarvitse pääkäyttäjän oikeuksia.</p>
@@ -71,9 +71,9 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
        <h1><i class="fab fa-linux"></i></h1>
       <h4>Linux</h4>
-      <h4>Kitsas 4.0.2</h4>
+      <h4>Kitsas 4.0.3</h4>
       <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.2/Kitsas-4.0.2-x86_64.AppImage" class="btn btn-lg btn-primary">
+        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.3/Kitsas-4.0.3-x86_64.AppImage" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>           
       64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 18.04 ja uudemmat
