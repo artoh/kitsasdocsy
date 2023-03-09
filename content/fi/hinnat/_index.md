@@ -214,13 +214,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td> </td>
       <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
       <td class="default"><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
-    </tr>    
-    <tr>
-      <td>Tilitietojen noutaminen pankista (sis. alv), kirjanpitokohtainen</td>
-      <td> </td>
-      <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
-      <td class="default"><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
-    </tr>        
+    </tr>           
   </tbody>
 </table>
 <p>Lisämaksulliset palvelut veloitetaan jälkikäteen 1 - 12 kuukauden jaksoissa niin, että pienin veloitettava summa kesken vuotta on 20 euroa.</p>

@@ -8,18 +8,15 @@ description: >
 
 <div class="cloud-only">
   <i class="fa fa-cloud"></i> Ominaisuus on käytettävissä vain, kun kirjanpito on tallennettu Kitsaan pilveen <br/>
-  <i class="fa fa-gem"></i> Toiminto on lisämaksullinen hintaan 4,96 € kuukaudessa
 </div>  
 
 Edellisen päivän tilitapahtumat haetaan seuraavan aamuyön aikana ja niistä muodostetaan tosite. Viitteelliset maksut kohdennetaan automaattisesti avoimiin laskuihin.
 
-Tilitietojen hakeminen on toteutettu [PSD2-maksupalveludirektiivin](https://www.finanssivalvonta.fi/saantely/saantelykokonaisuudet/psd2/) mukaisena tilitietojen hakemisena, jossa tilitietopalveluiden tarjoana toimii [Nordigen](https://nordigen.com/en/). Toiminto on Kitsaan lisämaksullinen ominaisuus. Useimmat pankit (mm. Nordea ja Osuuspankit) eivät veloita tilin omistajaa PSD2-direktiivin mukaisesta tilitietojen noutamisesta.
+Tilitietojen hakeminen on toteutettu [PSD2-maksupalveludirektiivin](https://www.finanssivalvonta.fi/saantely/saantelykokonaisuudet/psd2/) mukaisena tilitietojen hakemisena, jossa tilitietopalveluiden tarjoana toimii [Nordigen](https://nordigen.com/en/).  Maksupalveludirektiivin mukaan pankit eivät voi veloittaa tästä tilitietojen hakemisesta.
 
-{{<alert title="Kokeilujakso ja laskutus">}}
+{{<alert title="Maksuton ominaisuus">}}
 
-Tilitietojen noutamisen kokeilujakso alkaa ensimmäisestä onnistuneesta tilitapahtumien noutamisesta. Kokeilujakson jälkeen kuukausimaksu veloitetaan niiltä kuukausilta, joina tilitapahtumia noudetaan onnistuneesti (maksua ei siis peritä esimerkiksi kuukausilta, joilla ei ole lainkaan tilitapahtumia).
-
-Lisäpalveluiden käyttö laskutetaan jälkikäteen yhden tai useamman kuukauden ajanjaksolta, viimeistään kuitenkin vuoden lopussa.
+Tarjoamme tämän ominaisuuden ilman erillistä maksua. Versiosta riippuen ohjelmassa voi vielä olla maininta ominaisuuden maksullisuudesta.
 
 {{</alert>}}
 
