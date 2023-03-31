@@ -14,9 +14,11 @@ Edellisen päivän tilitapahtumat haetaan seuraavan aamuyön aikana ja niistä m
 
 Tilitietojen hakeminen on toteutettu [PSD2-maksupalveludirektiivin](https://www.finanssivalvonta.fi/saantely/saantelykokonaisuudet/psd2/) mukaisena tilitietojen hakemisena, jossa tilitietopalveluiden tarjoana toimii [Nordigen](https://nordigen.com/en/).  Maksupalveludirektiivin mukaan pankit eivät voi veloittaa tästä tilitietojen hakemisesta.
 
-{{<alert title="Maksuton ominaisuus">}}
+{{<alert title="Muutoksia palveluun">}}
 
-Tarjoamme tämän ominaisuuden ilman erillistä maksua. Versiosta riippuen ohjelmassa voi vielä olla maininta ominaisuuden maksullisuudesta.
+Palveluntarjoajamme Nordigenin yritysjärjestelyihin liittyen palveluun on odotettavissa muutoksia lähikuukausien aikana.
+
+Palveluntarjoajamme on muuttamassa palvelua maksulliseksi, minkä takia joudumme valitettavasti luopumaan tilitapahtumien hakemisen maksuttomuudesta. Tiedotamme lisää, kun saamme enemmän tietoa tilanteesta.
 
 {{</alert>}}
 
