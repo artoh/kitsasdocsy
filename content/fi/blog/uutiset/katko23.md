@@ -1,6 +1,6 @@
 +++
 title = "Pilvipalveluiden käyttökatko 29.4. - 1.5."
-date = "2023-04-11"
+date = "2023-04-14"
 tags = ["katko"]
 description = "Palvelimen päivityskatko vappuviikonloppuna"
 author = "Arto"
