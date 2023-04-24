@@ -1,6 +1,3 @@
-
-
-
 article.pro {
     width: 90%;
     max-width: 1200px;
@@ -21,6 +18,14 @@ article.prohinnasto {
 }
 
 
+article.prohinnasto h2 {
+  color: $primary;
+}
+
+article.pro h2 {
+  color: $primary;
+}
+
 article.pro ul {
   list-style: none;
 }
@@ -32,6 +37,10 @@ article.pro ul li:before {
   font-size: 22pt;
 }
 
+article.pro h3 {
+  margin-top: 3em;
+  color: $primary;
+}
 
 @media (min-width: 640px) {
   article.prohinnasto table tr td {
@@ -41,4 +50,101 @@ article.pro ul li:before {
   article.prohinnasto table tr td+td {
     width: 240px;
   }
+}
+
+.prohinnat {
+  width: 100%;
+  display: flex;
+  margin-top: 2em;
+}
+
+div.ilmaisinfo {
+  color: $primary;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.lomakealue {
+
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+
+  &__info {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: $primary;
+  }
+
+}
+
+
+
+.lomakealue__vasen > h3 {
+  font-weight: bold;
+  color: $primary;
+}
+
+div.prohintaoperaattori {
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 30pt;
+  color: $primary;
+}
+
+#kappaleedit {
+  width: 6ex;
+  text-align: center;
+  margin-left: 0.7ex;
+  margin-right: 0.7ex;
+}
+
+.hintapro {
+  margin-top: 1em;
+  margin-bottom: 1em;
+
+  &__content {
+    background-color: $primary;
+    color: white;
+    border-radius: 5%;
+    padding: 1em 1em 0.5em 0.5em;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+    height: 100%;
+    flex: 1;
+    text-align: center;
+  }
+
+  &__caption {
+
+  }
+
+  &__euro {
+    font-size: 200%;
+    font-weight: bold;
+    color: white;
+    margin: 0px 0px 0px 0px;
+  }
+
+  &__kk {
+    font-size: 95%;
+  }
+
+  &__intro {
+    color: white;
+    font-size: 95%;
+  }
+
+  &__info {
+    font-size: 60%;
+  }
+}
+
+.hintapro__caption > h3 {
+  font-weight: bold;
 }
