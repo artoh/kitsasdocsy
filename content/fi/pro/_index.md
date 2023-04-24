@@ -1,7 +1,6 @@
 ---
 title: "Kitsas Pro tilitoimistoille"
 linkTitle: "Kitsas Pro"
-draft: true
 keywords: ["pro"]
 description: "Tilitoimiston kustannustehokkain työkalu"
 menu:
