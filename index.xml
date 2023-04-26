@@ -1,4 +1,28 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Pilvipalveluiden käyttökatko 29.4. - 1.5.</title><link>/blog/2023/04/14/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</link><pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/14/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.0 beta</title><link>/blog/2023/04/26/kitsas-5.0-beta/</link><pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/26/kitsas-5.0-beta/</guid><description>
+&lt;p>Kitsas 5.0 tuo mukanaan huomattavia uudistuksia konepellin alle. Versio antaa mahdollisuuden myöhemmin kesällä käyttöön otettaville Kitsaan lisäpalveluille.&lt;/p>
+&lt;h1 id="kitsas-50-beta-vaiheessa">Kitsas 5.0 BETA-vaiheessa&lt;/h1>
+&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
+&lt;p>Ohjelmaa on testattu jo varsin monipuolisesti, mutta koska versio sisältää laajoja teknisiä uudistuksia, voi siinä olla vielä yhteensopivuusongelmia sekä muitakin puutteita ja virheellisyyksiä.&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.0-beta/kitsas-5.0-beta-asennus.exe">Kitsas 5.0 BETA Windows&lt;/a>
+Ohjelma asentuu aiemman Kitsaan rinnalle. Asennukseen tarvitaan pääkäyttäjän oikeudet.&lt;/p>
+&lt;h2 id="mac-versio">Mac-versio&lt;/h2>
+&lt;p>Mac-versio julkaistaan myöhemmin&lt;/p>
+&lt;h2 id="linux-versio">Linux-versio&lt;/h2>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.0-beta/Kitsas-5.0-beta-x86_64.AppImage">Kitsas 5.0 BETA Linux&lt;/a>
+Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 20.04 tai uudemman&lt;/p>
+&lt;h2 id="keskeiset-uudet-ominaisuudet">Keskeiset uudet ominaisuudet&lt;/h2>
+&lt;ul>
+&lt;li>Liitteinä olevien tiedostojen tallentaminen ja ennakoiva haku liitevälimuistiin&lt;/li>
+&lt;li>Pdf-komponenttien toteuttamienn QtPdf-kirjastolla&lt;/li>
+&lt;li>Tuki Kitsaan lisäosille (Asetukset &amp;gt; Lisäpalvelut)&lt;/li>
+&lt;li>Arvolisäverolaskelmaan tulostetaan myös maksutiedot&lt;/li>
+&lt;li>Uudistettu tiliotenäkymä&lt;/li>
+&lt;li>Käyttää Qt:n versiota 6.4&lt;/li>
+&lt;/ul>
+&lt;p>Versio sisältää Kitsaan 4.0.5-versiossa olevat korjaukset.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Pilvipalveluiden käyttökatko 29.4. - 1.5.</title><link>/blog/2023/04/14/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</link><pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/14/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</guid><description>
 &lt;p>Päivitämme Kitsaan palvelimen, ja tämän takia &lt;strong>pilvipalveluissa on käyttökatko vappuviikonloppuna 29.4. - 1.5.2023&lt;/strong>&lt;/p>
 &lt;p>Päivityksessä saamme käyttöön version 5.0 uusia ominaisuuksia. Lisäksi siirrämme käyttämään entistä tehokkaampaa palvelinta, ja otamme käyttöön haitallisen liikenteen suodattamisen entistä tehokkaammalla palomuurilla.&lt;/p>
 &lt;p>Käyttökatko saattaa olla ilmoitettua lyhyempi.&lt;/p>
