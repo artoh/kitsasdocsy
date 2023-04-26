@@ -1,6 +1,6 @@
 +++
 title = "Kitsas 5.0 beta"
-date = "2023-05-26"
+date = "2023-04-26"
 description = "Kitsas 5.0 BETA on ladattavissa"
 tags = ["beta"]
 categories = ["julkaisu"]
