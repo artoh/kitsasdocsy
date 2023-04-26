@@ -4,16 +4,10 @@
     <div class="hinta__caption">
       <h3>{{ .Get "title" | markdownify }} </h3>
     </div>
-    {{ if .Get "hinta"}}
     <div class="hinta__price">
       <p class="hinta__euro">{{ .Get "hinta"}} €</p>
       <p class="hinnat__kk">/kk + alv 24% </p>
     </div>
-    {{ else }}
-    <div class="hinta__price">
-      <p class="hinta__euro">Tulossa</p>      
-    </div>
-    {{ end }}
     <div class="hinta__intro">
       <p>{{ .Get "intro" }} </p>
     </div>
