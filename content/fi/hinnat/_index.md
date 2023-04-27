@@ -25,7 +25,7 @@ varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle.
 <p><span class="plan">Ilmaiseksi</span> ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.</p>
 <p><span class="plan">Kitsas Kerho</span> sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa.</p>
 <p><span class="plan">Kitsas Firma</span> tarjoaa myös yrityskäyttäjille kirjanpidon tallentamisen pilveen, jolloin sillä voi olla monta käyttäjää samaan aikaan.
-<p><span class="plan">Kitsas Pro</span> on tehokas työkalu tilitoimistoille, jossa kirjanpitoja ja käyttäjiä pääsee hallinnoimaan keskitetysti. Myynti ja tuki <a href="https://www.taloudenohjelmistopalvelut.fi/kitsas">Talouden ohjelmistopalvelut</a> <span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <span class="fa fa-phone"></span> 050 400 9130</p>
+<p><span class="plan">Kitsas Pro</span> on tehokas työkalu tilitoimistoille, jossa kirjanpitoja ja käyttäjiä pääsee hallinnoimaan keskitetysti. Katso <a href={{<relref "../pro/">}}> Kitsas Pro - ominaisuudet ja hinnat</a>.
 </div>
 {{% /blocks/section %}}
 {{% blocks/section color="primary" %}}
