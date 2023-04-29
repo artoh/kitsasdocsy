@@ -23,6 +23,11 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 20.04 tai
 &lt;p>Versio sisältää Kitsaan 4.0.5-versiossa olevat korjaukset.&lt;/p>
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
 &lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Pilvipalveluiden käyttökatko 29.4. - 1.5.</title><link>/blog/2023/04/14/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</link><pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/14/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</guid><description>
+&lt;p>&lt;strong>Palvelin on päivitetty ja jälleen käytettävissä&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Maanantaina 1.5. kello 03 - 12 välillä odotettavissa lyhyitä (enintään 15 minuutin) käyttökatkoja&lt;/strong>&lt;/p>
+&lt;p>Kitsaan palvelin suljettiin päivitystä varten lauantaina kello 00.30&lt;/p>
+&lt;p>Kaikki yli tuhat tietokantaa siirrettiin uudelle palvelimelle ja liitetiedostot konvertoitiin ulos tietokannasta. Testaamaan uutta palvelinta päästiin kello 03.50&lt;/p>
+&lt;p>Testauksen jälkeen Kitsaan palvelin avattiin jälleen maailmalle kello 06.25. Pientä viimeistelyä ja uusien lisäosien viimeistelyä jätttiin vielä vappupäivälle.&lt;/p>
 &lt;p>Päivitämme Kitsaan palvelimen, ja tämän takia &lt;strong>pilvipalveluissa on käyttökatko vappuviikonloppuna 29.4. - 1.5.2023&lt;/strong>&lt;/p>
 &lt;p>Päivityksessä saamme käyttöön version 5.0 uusia ominaisuuksia. Lisäksi siirrämme käyttämään entistä tehokkaampaa palvelinta, ja otamme käyttöön haitallisen liikenteen suodattamisen entistä tehokkaammalla palomuurilla.&lt;/p>
 &lt;p>Käyttökatko saattaa olla ilmoitettua lyhyempi.&lt;/p>
