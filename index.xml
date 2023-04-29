@@ -1,9 +1,10 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Pilvipalveluiden käyttökatko 29.4. - 1.5.</title><link>/blog/2023/04/29/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</link><pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/29/pilvipalveluiden-k%C3%A4ytt%C3%B6katko-29.4.-1.5./</guid><description>
-&lt;p>&lt;strong>Palvelin on päivitetty ja jälleen käytettävissä&lt;/strong>&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Uusi palvelin käytössä</title><link>/blog/2023/04/29/uusi-palvelin-k%C3%A4yt%C3%B6ss%C3%A4/</link><pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/29/uusi-palvelin-k%C3%A4yt%C3%B6ss%C3%A4/</guid><description>
+&lt;p>&lt;strong>Uusi palvelin on asennettu, ja jälleen käytettävissä&lt;/strong>&lt;/p>
 &lt;p>&lt;strong>Maanantaina 1.5. kello 03 - 12 välillä odotettavissa vielä lyhyitä (enintään 15 minuutin) käyttökatkoja&lt;/strong>&lt;/p>
 &lt;p>Kitsaan palvelin suljettiin päivitystä varten lauantaina kello 00.30&lt;/p>
 &lt;p>Kaikki yli tuhat tietokantaa siirrettiin uudelle palvelimelle ja liitetiedostot konvertoitiin ulos tietokannasta. Testaamaan uutta palvelinta päästiin kello 03.50&lt;/p>
 &lt;p>Testauksen jälkeen Kitsaan palvelin avattiin jälleen maailmalle kello 06.25. Pientä viimeistelyä ja uusien lisäosien viimeistelyä jätttiin vielä vappupäivälle.&lt;/p>
+&lt;p>&lt;strong>Ellei kirjautuminen onnistu&lt;/strong>, ja tietokone on ollut jatkuvasti päällä (esimerkiksi kannettava pidetty virransäästötilassa), kannattaa tietokone käynnistää uudestaan verkko-osoitteiden välimuistin nollaamiseksi.&lt;/p>
 &lt;hr/>
 &lt;p>Päivitämme Kitsaan palvelimen, ja tämän takia &lt;strong>pilvipalveluissa on käyttökatko vappuviikonloppuna 29.4. - 1.5.2023&lt;/strong>&lt;/p>
 &lt;p>Päivityksessä saamme käyttöön version 5.0 uusia ominaisuuksia. Lisäksi siirrämme käyttämään entistä tehokkaampaa palvelinta, ja otamme käyttöön haitallisen liikenteen suodattamisen entistä tehokkaammalla palomuurilla.&lt;/p>
