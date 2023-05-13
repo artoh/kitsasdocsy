@@ -1,4 +1,51 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Uusi palvelin käytössä</title><link>/blog/2023/04/29/uusi-palvelin-k%C3%A4yt%C3%B6ss%C3%A4/</link><pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/29/uusi-palvelin-k%C3%A4yt%C3%B6ss%C3%A4/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.0 Julkaisuehdokas</title><link>/blog/2023/05/13/kitsas-5.0-julkaisuehdokas/</link><pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/13/kitsas-5.0-julkaisuehdokas/</guid><description>
+&lt;p>Kitsas 5.0 on nyt julkaisuehdokas-vaiheessa, eli tämän version voi jo hyvin ottaa käyttöön! Ohjelmaa on testattu varsin kattavasti, mutta jotain yhteensopivuusongelmia voi edelleen ilmetä - kaikista ongelmista otamme erittäin mielemmämme vastaan palautetta osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.0-rc/kitsas-5.0-RC-asennus.exe">Kitsas 5.0 RC Windows&lt;/a>
+Ohjelma asentuu aiemman Kitsaan rinnalle.&lt;/p>
+&lt;h3 id="mac-versio">Mac-versio&lt;/h3>
+&lt;p>Mac-versio julkaistaan myöhemmin&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.0-rc/Kitsas-5.0-rc-x86_64.AppImage">Kitsas 5.0 RC Linux&lt;/a>&lt;/p>
+&lt;p>Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 20.04 tai uudemman&lt;/p>
+&lt;h2 id="tiedetyt-puutteet">Tiedetyt puutteet&lt;/h2>
+&lt;ul>
+&lt;li>Tilikaudesta muodostettua arkistoa ei pysty suoraan kopioimaan muuhun hakemistoon &lt;strong>Tilikaudet&lt;/strong>-välilehden &lt;strong>Vie arkisto&lt;/strong> -napilla. Arkisto kuitenkin muodostuu tietokoneen arkistohakemistoon, jonka voi kopioida.&lt;/li>
+&lt;li>Tilitoimistonäkymän &lt;strong>ALV valmis&lt;/strong> -sarakkeelle ei vielä päivity tietoa viimeisimmistä annetuista alv-ilmoituksista, koska ominaisuutta ei ole toteutettu palvelimelle&lt;/li>
+&lt;li>Ohjeita ei ole vielä pävitetty tälle versiolle, eivätkä ohjelman kaikki &lt;strong>Ohje&lt;/strong>-napit toimi&lt;/li>
+&lt;/ul>
+&lt;h2 id="keskeiset-uudet-ominaisuudet">Keskeiset uudet ominaisuudet&lt;/h2>
+&lt;h3 id="uudet-ominaisuudet">Uudet ominaisuudet&lt;/h3>
+&lt;ul>
+&lt;li>Alkusaldojen tuominen Procountorista &lt;strong>Asetukset&lt;/strong> &amp;gt; &lt;strong>Tilinavaus&lt;/strong> -toiminnossa&lt;/li>
+&lt;li>&lt;a href="/docs/alv/yhteenvetoilmoitus/">Yhteisömyynnin yhteenvetoilmoitusen laatiminen&lt;/a>&lt;/li>
+&lt;li>Yle-veron kirjaaminen vähennettäväksi menoksi ja muutokset tuloverodialogissa&lt;/li>
+&lt;li>Tilikarttojen päivittäminen tukemaan tiliöimättömän määrän esittämistä&lt;/li>
+&lt;li>Sisäänkirjautumisen virheenkäsittelyn parannukset&lt;/li>
+&lt;li>Lisäosien käyttöönoton ja ilmoitusten muutokset, lisäosien käyttöönotto versiolla 5.0-beta ei enää onnistu&lt;/li>
+&lt;li>Parempi tuki näytön tummalle teemalle&lt;/li>
+&lt;li>Alv-lukittujen tositteiden muokkaaminen voidaan ottaa käyttöön kohdassa &lt;strong>Asetukset&lt;/strong> &amp;gt; &lt;strong>Verot&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="versiossa-50-beta-olleet-ominaisuudet">Versiossa 5.0 beta olleet ominaisuudet&lt;/h3>
+&lt;ul>
+&lt;li>Liitteinä olevien tiedostojen tallentaminen ja ennakoiva haku liitevälimuistiin&lt;/li>
+&lt;li>Pdf-komponenttien toteuttamienn QtPdf-kirjastolla&lt;/li>
+&lt;li>Tuki Kitsaan lisäosille (Asetukset &amp;gt; Lisäpalvelut)&lt;/li>
+&lt;li>Arvolisäverolaskelmaan tulostetaan myös maksutiedot&lt;/li>
+&lt;li>Uudistettu tiliotenäkymä&lt;/li>
+&lt;li>Käyttää Qt:n versiota 6.4&lt;/li>
+&lt;/ul>
+&lt;p>Versio sisältää Kitsaan 4.0.5-versiossa olevat korjaukset.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
+&lt;p>Version 5.0 tunnuskukkana on sinivuokko
+&lt;img src="/img/versions/50sinivuokko.png" alt="">&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2023/05/08/kirjeiden-hinnat-nousevat/</link><pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/08/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-162023">Paperipostina lähetettävien laskujen hinnat nousevat 1.6.2023&lt;/h3>
+&lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan kotimaahan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
+&lt;p>Hinnat nousevat 1.6.2023 alkaen lähetettävissä laskuissa&lt;/p>
+&lt;p>Lähettäminen Priority-kirjeenä &lt;strong>2,55&lt;/strong> € (nykyisin 2,40)
+Lähettäminen Economy-kirjeenä &lt;strong>1,95&lt;/strong> € (nykyisin 1,90)&lt;/p>
+&lt;p>Verkkolaskujen hinnat eivät nouse, vaan lähetevä ja saapuva verkkolasku maksaa edelleen &lt;strong>0,50&lt;/strong> € / kappale.&lt;/p></description></item><item><title>Blog: Uusi palvelin käytössä</title><link>/blog/2023/04/29/uusi-palvelin-k%C3%A4yt%C3%B6ss%C3%A4/</link><pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate><guid>/blog/2023/04/29/uusi-palvelin-k%C3%A4yt%C3%B6ss%C3%A4/</guid><description>
 &lt;p>&lt;strong>Uusi palvelin on asennettu, ja jälleen käytettävissä&lt;/strong>&lt;/p>
 &lt;p>&lt;strong>Maanantaina 1.5. kello 03 - 12 välillä odotettavissa vielä lyhyitä (enintään 15 minuutin) käyttökatkoja&lt;/strong>&lt;/p>
 &lt;p>Kitsaan palvelin suljettiin päivitystä varten lauantaina kello 00.30&lt;/p>
