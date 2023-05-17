@@ -79,12 +79,13 @@ div.ilmaisinfo {
     text-align: center;
     margin-top: auto;
     margin-bottom: auto;
-    color: $primary;
   }
 
 }
 
-
+p.violetti {
+  color: $primary;
+}
 
 .lomakealue__vasen > h3 {
   font-weight: bold;

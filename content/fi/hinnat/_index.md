@@ -242,15 +242,17 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     </tr>   
     <tr>
       <td>Kotimaa, Priority</td>
-       <td class="default"><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td class="default"><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span>
        <br/>1.6.2023 alkaen<br/>
-       <span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>       
+       <span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>
+       </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
-        <td class="default"><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span></td>
+        <td class="default"><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span>
         <br/>1.6.2023 alkaen<br/>
         <span class="txt-l">1,95</span> <span class="txt-top">&euro;/kpl</span>
+        </td>
       </tr>  
       <tr>
         <td>Kotimaa, lisäsivu</td>

@@ -88,7 +88,11 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
   </div>
   <div class="lomakealue__info col col-lg-4 col-sm-12">
    <p>Ensimmäinen kuukausi veloituksetta, ilman irtisanomisaikaa</p>
-   <p>Kerromme mielellämme lisää!<br/><b><span class="fa fa-phone"></span> 050 400 9130</b><br/>    
+   <p class="violetti">Kerromme mielellämme lisää!<br/>
+   <b><span class="fa fa-phone"></span> 050 400 9130</b><br/>
+   <span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>   
+   <p>Kitsas Pro:n jälleenmyy Talouden Ohjelmistopalvelut Finland</p>    
+
   </div>
 </div>
 </form>   
@@ -175,14 +179,20 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
     <tr>
       <td colspan="2" class="sep"><i class="fa fa-envelope"></i> Postittaminen kirjeenä</td>
     </tr>   
-    <tr>
-      <td>Kotimaa, Priority</td>
-       <td><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span></td>
-     </tr>  
-     <tr>
-       <td>Kotimaa, Economy</td>
-        <td><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span></td>
-      </tr>  
+    <td>Kotimaa, Priority</td>
+     <td class="default"><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span>
+     <br/>1.6.2023 alkaen<br/>
+     <span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>
+     </td>      
+   </tr>  
+   <tr>
+     <td>Kotimaa, Economy</td>
+      <td class="default"><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span>
+      <br/>1.6.2023 alkaen<br/>
+      <span class="txt-l">1,95</span> <span class="txt-top">&euro;/kpl</span>
+      </td>
+    </tr>  
+    <tr> 
       <tr>
         <td>Kotimaa, lisäsivu</td>
          <td><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
