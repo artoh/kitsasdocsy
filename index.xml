@@ -1,4 +1,24 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.0 Julkaisuehdokas</title><link>/blog/2023/05/13/kitsas-5.0-julkaisuehdokas/</link><pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/13/kitsas-5.0-julkaisuehdokas/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.0 toinen julkaisuehdokas</title><link>/blog/2023/05/22/kitsas-5.0-toinen-julkaisuehdokas/</link><pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/22/kitsas-5.0-toinen-julkaisuehdokas/</guid><description>
+&lt;p>Olemme tehneet Kitsaan julkaisuehdotukseen vielä muutamia parannuksia&lt;/p>
+&lt;ul>
+&lt;li>Kiertoon saapuneista laskuista, lähtevistä laskuista, tiliöimättömistä tiliotteista yms. ilmoituskuvakkeet kirjanpitojen luettelossa&lt;/li>
+&lt;li>Procountorista tilinavauksia tuotaessa parannettu keskeneräisen tilikauden alkusaldojen laskentaa&lt;/li>
+&lt;li>Kitsaan sähköpostipalvelimen kautta lähetettyjen sähköpostien tilan (toimitettu, avattu, toimittaminen epäonnistui) tilan seuraaminen&lt;/li>
+&lt;li>Tilitoimistonäkymässä näytetään toimivat varmenteet&lt;/li>
+&lt;li>Parannettu tumman teeman tukea&lt;/li>
+&lt;/ul>
+&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.0-RC.1/kitsas-5.0-RC.1-asennus.exe">Kitsas 5.0 RC.1 Windows&lt;/a>
+Ohjelma asentuu aiemman Kitsaan rinnalle.&lt;/p>
+&lt;h3 id="mac-versio">Mac-versio&lt;/h3>
+&lt;p>Mac-versio julkaistaan myöhemmin&lt;/p>
+&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
+&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.0-RC.1/Kitsas-5.0-rc.1-x86_64.AppImage">Kitsas 5.0 RC.1 Linux&lt;/a>&lt;/p>
+&lt;p>Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 20.04 tai uudemman&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
+&lt;p>Version 5.0 tunnuskukkana on sinivuokko
+&lt;img src="/img/versions/50sinivuokko.png" alt="">&lt;/p></description></item><item><title>Blog: Kitsas 5.0 Julkaisuehdokas</title><link>/blog/2023/05/13/kitsas-5.0-julkaisuehdokas/</link><pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/13/kitsas-5.0-julkaisuehdokas/</guid><description>
 &lt;p>Kitsas 5.0 on nyt julkaisuehdokas-vaiheessa, eli tämän version voi jo hyvin ottaa käyttöön! Ohjelmaa on testattu varsin kattavasti, mutta jotain yhteensopivuusongelmia voi edelleen ilmetä - kaikista ongelmista otamme erittäin mielemmämme vastaan palautetta osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
 &lt;h3 id="windows-versio">Windows-versio&lt;/h3>
 &lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.0-rc/kitsas-5.0-RC-asennus.exe">Kitsas 5.0 RC Windows&lt;/a>
