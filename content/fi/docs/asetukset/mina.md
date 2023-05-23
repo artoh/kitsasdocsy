@@ -20,6 +20,10 @@ Kun otat käyttöön kaksivaiheisen tunnistautumisen, kysyy Kitsas kirjauduttaes
 
 Kaksivaiheisen tunnistautumisen käyttöönotto avaa verkkoselaimessa sivun, jonka QR-koodin avulla Kitsas lisätään joko Microsoft Authenticator tai Google Authenticator -sovellukseen.
 
+## Sähköposti-ilmoitukset
+
+Voit valita, minä viikonpäivinä Kitsas lähettää ilmoituksia kierrossa olevista laskuista, joissa olet käsittelijänä. Jättämällä kaikki viikonpäivät valitsematta ei Kitsas lähetä ilmoituksia lainkaan sähköpostilla.
+
 ## Näkymä
 
 Voit valita joko normaalin näkymän tai tilitoimistokäyttäjän näkymän (ns. Pro-näkymä). Pro-näkymässä paikalliseen kirjanpitoon tai kirjanpidon luomiseen liittyvät valinnat eivät ole käytettävissä, koska kirjanpidot luodaan erityisessä [tilitoimistonäkymässä]({{<relref "../toimisto">}}).

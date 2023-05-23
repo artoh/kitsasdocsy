@@ -17,3 +17,9 @@ Voit aloittaa uuden tilikauden kirjausten tekemisen jo ennen kuin edellisen tili
 
 Jaksotuksia varten uusi tilikausi on hyvä avata jo ennen edellisen tilikauden tilinpäätöksen tekemistä.
 {{</alert>}}
+
+{{<alert title="Automaattinen tilikausien avaaminen">}}
+Pilveen tallennettuihin kirjanpitoihin avataan uusi tilikausi automaattisesti tilikauden päättymistä edeltävän kuukauden alussa - eli kalenterikauden ollessa tilikausi, avataan uusi tilikausi marraskuun alussa, ellei käyttäjä ole avannut uutta tilikautta jo aiemmin.
+
+Tilikautta ei avata automaattisesti, ellei viimeisimmällä tilikaudelle ole tositteita.
+{{</alert>}}

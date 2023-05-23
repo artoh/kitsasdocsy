@@ -13,7 +13,7 @@ Kitsas Pro on Kitsaan tilitoimistoille räätälöity palvelukokonaisuus, johon 
 - Mahdollisuus käyttää tilitoimiston varmennetta asikkaiden alv-ilmoitusten tekemisessä
 - Erittäin kilpailukykyinen hinnoittelu
 
-Lue lisää [Kitsas Pro:n tuotesivuilta](https://taloudenohjelmistopalvelut.fi/kitsas)
+Lue lisää [Kitsas Pro:n tuotesivuilta](/pro)
 
 ## Tilitoimistonäkymä
 

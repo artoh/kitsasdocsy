@@ -96,7 +96,7 @@ Tämä tilastotieto on täysin anonyymia, eikä sisällä henkilötietoja.
 
 Kitsaan uutiskirjeen tilaajista tallennetaan ainoastaan sähköpostiosoite, johon uutiskirje on tilattu. Tätä osoiteluetteloa käytetään ainoastaan uutiskirjeiden lähettämiseen. Uutiskirjeen tilaaja voi koska tahansa poistaa osoitteensa luettelolta uutiskirjeessä olevalla linkillä.
 
-Uutiskirjepalvelun teknisenä toteuttajana on [SendInBlue](https://sendinblue.com)
+Uutiskirjepalvelun teknisenä toteuttajana on [Brevo](https://brevo.com)
 
 # Kitsas henkilötietojen käsittelijänä
 
