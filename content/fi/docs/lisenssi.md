@@ -7,7 +7,7 @@ description: >
 ---
 
 Kitupiikki Copyright &copy; Arto Hyvättinen 2017 - 2019 <br/>
-Kitsas Copyright &copy; Arto Hyvättinen ja Kitsas Oy 2019 - 2021
+Kitsas Copyright &copy; Arto Hyvättinen ja Kitsas Oy 2019 - 2023
 
 <strong>Ohjelmalla ei ole mitään takuuta. Tätä ohjelmaa saa käyttää, levittää ja muokata maksuttomasti alempana olevien ehtojen (GNU General Public License version 3) mukaisesti.</strong>
 
