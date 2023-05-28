@@ -1,4 +1,27 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.0 toinen julkaisuehdokas</title><link>/blog/2023/05/22/kitsas-5.0-toinen-julkaisuehdokas/</link><pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/22/kitsas-5.0-toinen-julkaisuehdokas/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.0</title><link>/blog/2023/05/28/kitsas-5.0/</link><pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/28/kitsas-5.0/</guid><description>
+&lt;h1 id="kitsas-päivittyy">Kitsas päivittyy&lt;/h1>
+&lt;p>Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>&lt;/p>
+&lt;p>Kitsas 5.0 on saatavilla välittömästi Windowsille, Macille ja Linuxille&lt;/p>
+&lt;h2 id="tuki-lisäosille">Tuki lisäosille&lt;/h2>
+&lt;p>Kitsas 5.0 tukee lisäpalveluita, joilla Kitsas voidaan liittää ulkoisiin järjestelmiin. Ensimmäiset lisäosat ovat jo testausvaiheessa, ja julkaisuita on odoteettavissa viimeistään alkusyksystä.&lt;/p>
+&lt;h2 id="arvonlisäveron-yhteenvetoilmoitus">Arvonlisäveron yhteenvetoilmoitus&lt;/h2>
+&lt;p>EU-alueelle tavaroita ja palveluita käänteisellä arvonlisäverolla myyvät voivat nyt tehdän yhteenvetoilmoituksen suoraan Kitsaasta.&lt;/p>
+&lt;h2 id="kitsaan-käytössä-qt-6">Kitsaan käytössä Qt 6&lt;/h2>
+&lt;p>Ohjelmiston taustalla on nyt Qt-kirjaston uusi versio (aiemmin Qt 5) ja Qt:n pdf-kirjastot. Liitteitä haetaan lisäksi ennakoivasti välimuistiin, mikä nopeuttaa tositteiden katselua.&lt;/p>
+&lt;h2 id="lukuisia-pieniä-parannuksia">Lukuisia pieniä parannuksia&lt;/h2>
+&lt;ul>
+&lt;li>Alkusaldojen tuominen Procountorista &lt;strong>Asetukset&lt;/strong> &amp;gt; &lt;strong>Tilinavaus&lt;/strong> -toiminnossa&lt;/li>
+&lt;li>Yle-veron kirjaaminen vähennettäväksi menoksi ja muutokset tuloverodialogissa&lt;/li>
+&lt;li>Tilikarttojen päivittäminen tukemaan tiliöimättömän määrän esittämistä&lt;/li>
+&lt;li>Sisäänkirjautumisen virheenkäsittelyn parannukset&lt;/li>
+&lt;li>Parempi tuki näytön tummalle teemalle&lt;/li>
+&lt;li>Alv-lukittujen tositteiden muokkaaminen voidaan ottaa käyttöön kohdassa &lt;strong>Asetukset&lt;/strong> &amp;gt; &lt;strong>Verot&lt;/strong>&lt;/li>
+&lt;li>Arvolisäverolaskelmaan tulostetaan myös maksutiedot&lt;/li>
+&lt;li>Uudistettu tiliotenäkymä&lt;/li>
+&lt;li>Kiertoon saapuneista laskuista, lähtevistä laskuista, tiliöimättömistä tiliotteista yms. ilmoituskuvakkeet kirjanpitojen luettelossa&lt;/li>
+&lt;li>Kitsaan sähköpostipalvelimen kautta lähetettyjen sähköpostien tilan (toimitettu, avattu, toimittaminen epäonnistui) tilan seuraaminen&lt;/li>
+&lt;li>Tilitoimistonäkymässä näytetään toimivat varmenteet&lt;/li>
+&lt;/ul></description></item><item><title>Blog: Kitsas 5.0 toinen julkaisuehdokas</title><link>/blog/2023/05/22/kitsas-5.0-toinen-julkaisuehdokas/</link><pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/22/kitsas-5.0-toinen-julkaisuehdokas/</guid><description>
 &lt;p>Olemme tehneet Kitsaan julkaisuehdotukseen vielä muutamia parannuksia&lt;/p>
 &lt;ul>
 &lt;li>Kiertoon saapuneista laskuista, lähtevistä laskuista, tiliöimättömistä tiliotteista yms. ilmoituskuvakkeet kirjanpitojen luettelossa&lt;/li>
