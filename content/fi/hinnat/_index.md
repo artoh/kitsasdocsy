@@ -65,7 +65,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
     </tr>
   </thead>
   <tbody>
-   <tr>
+   <tr class="hinnasto">
      <td>Vuosihinta (sis. alv)</td>
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
       <td><span class="txt-l">62</span> <span class="txt-top">&euro;/vuosi</span></td>
@@ -73,7 +73,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
         <span class="txt-l">155</span> <span class="txt-top">&euro;/vuosi</span>
       </td>
     </tr>  
-    <tr>
+    <tr class="hinnasto">
       <td>Vuosihinta (ilman arvonlisäveroa)</td>
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
       <td><span class="txt-l">50</span> <span class="txt-top">&euro;/vuosi</span></td>
@@ -81,7 +81,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
         <span class="txt-l">125</span> <span class="txt-top">&euro;/vuosi</span>
       </td>
     </tr>
-    <tr>
+    <tr class="hinnasto">    
       <td>Vertailuhinta ilman arvolisäveroa</td>
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/kk</span></td>
       <td><span class="txt-l">4,17</span> <span class="txt-top">&euro;/kk</span></td>
@@ -89,127 +89,127 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
         <span class="txt-l">10,42</span> <span class="txt-top">&euro;/kk</span>
       </td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-laptop"></i> Kirjanpito omalle koneelle tallennettuna</td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Kirjanpitoja ja tositteita</td>
       <td>rajattomasti</td>
       <td>rajattomasti</td>
       <td class="default">rajattomasti</td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Arvonlisäverollinen toiminta</td>
       <td><span class="tick">&#10004;</span></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Tekstintunnistus skannatuista tositteista</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Finvoice-verkkolaskut <sup>** </sup></td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Kirjanpidon automaattinen varmuuskopiointi</td>
       <td></span></td>
       <td></td>
       <td class="default"></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-cloud"></i> Kirjanpito pilvessä</td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Käyttäjiä kirjanpitoa kohden</td>
       <td></td>
       <td>rajattomasti</td>
       <td class="default">rajattomasti</td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Tositteita enintään pilvessä</td>
       <td></sup></td>
       <td>rajattomasti <sup>* </sup></td>
       <td class="default">rajattomasti <sup>* </sup></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Arvonlisäverollinen toiminta</td>
       <td></td>
       <td></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Tekstintunnistus skannatuista tositteista</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Finvoice-verkkolaskut </td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Asiakas- ja huoneistokohtaiset laskut</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>   
-    <tr>
+    <tr class="hinnasto">
       <td>Laskutusportaali</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>WebKitsas</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>       
-    <tr>
+    <tr class="hinnasto">
       <td>Sähköpostin lähettäminen Kitsaan palvelimen kautta</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>     
-    <tr>
+    <tr class="hinnasto">
       <td>Kirjanpidon automaattinen varmuuskopiointi</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-life-ring"></i> Tuki</td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Kattavat käyttöohjeet netissä</td>
       <td><span class="tick">&#10004;</span></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Neuvonta sähköpostilla</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Neuvonta puhelimella</td>
       <td></td>
       <td><span class="tick">&#10004;</span></td>
       <td class="default"><span class="tick">&#10004;</span></td>
     </tr>    
-    <tr>
+    <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>
     </tr>
-    <tr>
+    <tr class="hinnasto">
       <td>Lisäkirjanpito tallennettuna Kitsaan pilveen (sis. alv)</td>
       <td> </td>
       <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
@@ -227,14 +227,16 @@ Kitsaassa on mahdollista käyttää myös omaa verkkolaskutussopimusta suoraan v
 Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kautta ja käytetään Kitsaan hinnoittelua
 
 <table style="margin-bottom: 2ex;">
-  <tbody>
+  <thead>
   <tr class="text-white">
     <th class=""><i class="fa fa-bolt"></i> Verkkolasku</th>
     <th>Veroton hinta</th>
   </tr>  
+  </thead>
+  <tbody>
    <tr>
      <td>Verkkolaskun lähettäminen ja vastaanottaminen</td>
-      <td class="default"><span class="txt-l">0,50</span> <span class="txt-top">&euro;/kpl</span>
+      <td class=""><span class="txt-l">0,50</span> <span class="txt-top">&euro;/kpl</span>
       </td>
     </tr>  
     <tr>
@@ -242,37 +244,37 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     </tr>   
     <tr>
       <td>Kotimaa, Priority</td>
-       <td class="default"><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span>
+       <td class=""><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span>
        <br/>1.6.2023 alkaen<br/>
        <span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
-        <td class="default"><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span>
+        <td class=""><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span>
         <br/>1.6.2023 alkaen<br/>
         <span class="txt-l">1,95</span> <span class="txt-top">&euro;/kpl</span>
         </td>
       </tr>  
       <tr>
         <td>Kotimaa, lisäsivu</td>
-         <td class="default"><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
+         <td class=""><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
        </tr>  
        <tr>
          <td>Väritulostelisä</td>
-        <td class="default"><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
+        <td class=""><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
       </tr>  
       <tr>
         <td>Eurooppa</td>
-         <td class="default"><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
+         <td class=""><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
        </tr>         
       <tr>
         <td>Muu maailma</td>
-       <td class="default"><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
+       <td class=""><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
-       <td class="default"><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
+       <td class=""><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
     </tr>              
   </tbody>
 </table>

@@ -137,11 +137,11 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
 
 <article class="prohinnasto">
 <h2>Kitsas Pro -hinnasto</h2>
+<p>Hintoihin lisätään arvonlisävero 24 %</p>
 <table style="margin-bottom: 2ex;">
   <tbody>  
   <tr class="text-white">
-    <th class=""><i class="fa fa-play-circle"></i> Käyttöönotto</th>
-    <th>Veroton hinta</th>
+    <td class="sep"><i class="fa fa-play-circle"></i> Käyttöönotto</td>    
   </tr>  
    <tr>
      <td>Käyttöönotto PLUS<br/>Ohjattu käyttöönotto sisätäen tilitoimistonäkymän sekä käyttäjähallinnan perehdytyksen sekä ensimmäisten asiakkaiden perustamisen</td>

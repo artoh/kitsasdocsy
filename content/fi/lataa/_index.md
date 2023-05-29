@@ -27,87 +27,84 @@ Lataa Kitsas maksutta tietokoneellesi
 
 {{% /blocks/lead %}}
 {{% blocks/section color="white" height="min" %}}
-
 <div style="justify-content:center; text-align:center; margin: 0px; width: 200% !important;">
-
   <div  id="pills-tabContent" class="tab-content">
     <div class="tab-pane fade" id="pills-win" role="tabpanel" aria-labelledby="pills-home-tab" style="text-align: center;">    
-     <div class="container">
-      <h1><i class="fab fa-windows"></i></h1>
-      <h4>Windows 10, 11</h4>      
-      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>
-      <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v5.0/kitsas-5.0-asennus.exe" class="btn btn-lg btn-primary latausnappi">
-          <span class="fa fa-download"></span>&nbsp;Lataa</a>
-      </p>            
-      <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
-      <p>Asennusohjelmassa voit valita, asennetaanko Kitsas kaikille käyttäjille (pääkäyttäjän oikeudet vaaditaan) vai pelkästään yksittäiselle käyttäjälle (pääkäyttäjän oikeuksia ei tarvita).</p>
-      <h1><i class="fab fa-windows"></i></h1>
-      <h4>Windows 7, 8</h4>      
-      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.5</h4>
-      <p>
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.5/kitsas-4.0.5-asennus.exe" class="btn btn-lg btn-primary latausnappi">
-          <span class="fa fa-download"></span>&nbsp;Lataa</a>
-      </p>            
-      <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. Tarvitset pääkäyttäjän oikeudet.</p>
-    </div>
+      <div class="container">
+        <h1><i class="fab fa-windows"></i></h1>
+        <h4>Windows 10, 11</h4>      
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.0</h4>
+        <p>
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.0/kitsas-5.0-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+            <span class="fa fa-download"></span>&nbsp;Lataa</a>
+        </p>            
+        <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
+        <p>Asennusohjelmassa voit valita, asennetaanko Kitsas kaikille käyttäjille (pääkäyttäjän oikeudet vaaditaan) vai pelkästään yksittäiselle käyttäjälle (pääkäyttäjän oikeuksia ei tarvita).</p>
+        <h1><i class="fab fa-windows"></i></h1>
+        <h4>Windows 7, 8</h4>      
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.5</h4>
+        <p>
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.5/kitsas-4.0.5-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+            <span class="fa fa-download"></span>&nbsp;Lataa</a>
+        </p>            
+        <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. Tarvitset pääkäyttäjän oikeudet.</p>
+      </div>
     </div>
     <div class="tab-pane fade" id="pills-mac" role="tabpanel" aria-labelledby="pills-profile-tab" style="text-align: center;">      
-    <div class="container">
-      <h1><i class="fab fa-apple"></i></h1>
-      <h4>macOS 11.0 tai uudempi</h4>
-      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>
-      <p>
-        <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.0/Kitsas-5.0.dmg" class="btn btn-lg btn-primary latausnappi">
+      <div class="container">
+        <h1><i class="fab fa-apple"></i></h1>
+        <h4>macOS 11.0 tai uudempi</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.0</h4>
+        <p>
+          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.0/Kitsas-5.0.dmg" class="btn btn-lg btn-primary latausnappi">
+            <span class="fa fa-download"></span>&nbsp;Lataa</a>
+        </p>          
+        OS X Versio 10.15 ja uudemmat
+        <ol style="text-align: left;">
+          <li>Lataa asennustiedosto</li>
+          <li>Avaa asennustiedosto</li>
+          <li>Vedä avautuneessa ikkunasta Kitsaan kuvake Ohjelmat (Applications) -hakemiston kuvakkeen päälle</li>
+        </ol>
+        <p align="left">Monet uudet Macit vaativat, että muualta kuin Applen omasta sovelluskaupasta ladatut sovellukset on sallittava erikseen, katso ohje <a href="https://support.apple.com/fi-fi/HT202491">Macin tukisivustolta</a>.</p>
+        <p align="left">Lisäksi ohjelman käyttö on ehkä vielä sallittava erikseen: <b>Järjestelmän asetukset > Suojaus ja yksityisyys > Yleinen: Apin "Kitsas" käynnistäminen estettiin > Avaa kuitenkin</b><br/>
+        </p>
+        <p>Macintosh-julkaisua ylläpitää Petri Aarnio</p>  
+        <h1><i class="fab fa-apple"></i></h1>
+        <h4>macOS 10.15 tai uudempi</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.3</h4>
+        <p>
+          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.3/Kitsas-4.0.3.dmg" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
-      </p>          
-      OS X Versio 10.15 ja uudemmat
-     <ol style="text-align: left;">
-       <li>Lataa asennustiedosto</li>
-       <li>Avaa asennustiedosto</li>
-       <li>Vedä avautuneessa ikkunasta Kitsaan kuvake Ohjelmat (Applications) -hakemiston kuvakkeen päälle</li>
-     </ol>
-     <p align="left">Monet uudet Macit vaativat, että muualta kuin Applen omasta sovelluskaupasta ladatut sovellukset on sallittava erikseen, katso ohje <a href="https://support.apple.com/fi-fi/HT202491">Macin tukisivustolta</a>.</p>
-     <p align="left">Lisäksi ohjelman käyttö on ehkä vielä sallittava erikseen: <b>Järjestelmän asetukset > Suojaus ja yksityisyys > Yleinen: Apin "Kitsas" käynnistäminen estettiin > Avaa kuitenkin</b><br/>
-     </p>
-     <p>Macintosh-julkaisua ylläpitää Petri Aarnio</p>  
-     <h1><i class="fab fa-apple"></i></h1>
-     <h4>macOS 10.15 tai uudempi</h4>
-     <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.3</h4>
-      <p>
-        <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.3/Kitsas-4.0.3.dmg" class="btn btn-lg btn-primary">
-          <span class="fa fa-download"></span>&nbsp;Lataa</a>
-      </p>       
-      <p>Katso ohjeet ylempää.</p>       
-    </div>
+        </p>       
+        <p>Katso ohjeet ylempää.</p>   
+        <p>Vanhemmilla macOS-versioilla toimivat Kitsaan vanhemmat versiot löydät <a href="https://github.com/petriaarnio/kitupiikki/releases">GitHub-reposition julkaisuista</a></p>          
+      </div>
     </div>
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
       <div class="container">
-       <h1><i class="fab fa-linux"></i></h1>
-       <h4>Linux (Vähintään Ubuntu 20.04 tai vastaava)</h4>
-       <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>
-       <p>
-         <a href="https://github.com/artoh/kitupiikki/releases/download/v5.0/Kitsas-5.0-x86_64.AppImage" class="btn btn-lg btn-primary">
-           <span class="fa fa-download"></span>&nbsp;Lataa</a>
-       </p>           
-       64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 18.04 ja uudemmat       
-       <ol style="text-align: left;">
-         <li>Lataa asennustiedosto</li>
-         <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
-         <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas*.AppImage</code></li>
-         <li>Ensimmäisellä käynnistyskerralla Kitsas kysyy, haluatko lisätä ohjelman käynnistysvalikkoon.</li>
-       </ol>
-     </div>       
-      <h1><i class="fab fa-linux"></i></h1>
-      <h4>Linux (Ubuntu 18.04 tai vastaava)</h4>
-      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.5</h4>    
-      <p>  
-        <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.5/Kitsas-4.0.5-x86_64.AppImage" class="btn btn-lg btn-primary">
-          <span class="fa fa-download"></span>&nbsp;Lataa</a>
-      </p>
-      <p>AppImage-tiedosto, katso ohjeet ylempää</p>   
-      <p>Vanhemmilla macOS-versioilla toimivat Kitsaan vanhemmat versiot löydät <a href="https://github.com/petriaarnio/kitupiikki/releases">GitHub-reposition julkaisuista</a>         
-     </div>      
+        <h1><i class="fab fa-linux"></i></h1>
+        <h4>Linux (Vähintään Ubuntu 20.04 tai vastaava)</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.0</h4>
+        <p>
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.0/Kitsas-5.0-x86_64.AppImage" class="btn btn-lg btn-primary">
+            <span class="fa fa-download"></span>&nbsp;Lataa</a>
+        </p>           
+        64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 18.04 ja uudemmat       
+        <ol style="text-align: left;">
+          <li>Lataa asennustiedosto</li>
+          <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
+          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas*.AppImage</code></li>
+          <li>Ensimmäisellä käynnistyskerralla Kitsas kysyy, haluatko lisätä ohjelman käynnistysvalikkoon.</li>
+        </ol>  
+        <h1><i class="fab fa-linux"></i></h1>
+        <h4>Linux (Ubuntu 18.04 tai vastaava)</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>    
+        <p>  
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.5/Kitsas-4.0.5-x86_64.AppImage" class="btn btn-lg btn-primary">
+            <span class="fa fa-download"></span>&nbsp;Lataa</a>
+        </p>
+        <p>AppImage-tiedosto, katso ohjeet ylempää</p>   
+      </div>      
     </div>
   </div>
 </div>
