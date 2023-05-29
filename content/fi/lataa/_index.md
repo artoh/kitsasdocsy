@@ -35,7 +35,7 @@ Lataa Kitsas maksutta tietokoneellesi
      <div class="container">
       <h1><i class="fab fa-windows"></i></h1>
       <h4>Windows 10, 11</h4>      
-      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.0</h4>
+      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>
       <p>
         <a href="https://github.com/artoh/kitupiikki/releases/download/v5.0/kitsas-5.0-asennus.exe" class="btn btn-lg btn-primary latausnappi">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
@@ -56,18 +56,17 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="container">
       <h1><i class="fab fa-apple"></i></h1>
       <h4>macOS 11.0 tai uudempi</h4>
-      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.0</h4>
+      <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>
       <p>
         <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.0/Kitsas-5.0.dmg" class="btn btn-lg btn-primary latausnappi">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>          
-      <p>
-      <ol style="text-align: left;">
+      OS X Versio 10.15 ja uudemmat
+     <ol style="text-align: left;">
        <li>Lataa asennustiedosto</li>
        <li>Avaa asennustiedosto</li>
        <li>Vedä avautuneessa ikkunasta Kitsaan kuvake Ohjelmat (Applications) -hakemiston kuvakkeen päälle</li>
      </ol>
-     </p>
      <p align="left">Monet uudet Macit vaativat, että muualta kuin Applen omasta sovelluskaupasta ladatut sovellukset on sallittava erikseen, katso ohje <a href="https://support.apple.com/fi-fi/HT202491">Macin tukisivustolta</a>.</p>
      <p align="left">Lisäksi ohjelman käyttö on ehkä vielä sallittava erikseen: <b>Järjestelmän asetukset > Suojaus ja yksityisyys > Yleinen: Apin "Kitsas" käynnistäminen estettiin > Avaa kuitenkin</b><br/>
      </p>
@@ -79,15 +78,14 @@ Lataa Kitsas maksutta tietokoneellesi
         <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.3/Kitsas-4.0.3.dmg" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>       
-      <p>Katso ohjeet ylempää.</p>
-      <p>Vanhemmilla macOS-versioilla toimivat Kitsaan vanhemmat versiot löydät <a href="https://github.com/petriaarnio/kitupiikki/releases">GitHub-reposition julkaisuista</a>          
+      <p>Katso ohjeet ylempää.</p>       
     </div>
     </div>
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
       <div class="container">
        <h1><i class="fab fa-linux"></i></h1>
        <h4>Linux (Vähintään Ubuntu 20.04 tai vastaava)</h4>
-       <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.0</h4>
+       <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>
        <p>
          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.0/Kitsas-5.0-x86_64.AppImage" class="btn btn-lg btn-primary">
            <span class="fa fa-download"></span>&nbsp;Lataa</a>
@@ -107,7 +105,8 @@ Lataa Kitsas maksutta tietokoneellesi
         <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.5/Kitsas-4.0.5-x86_64.AppImage" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
       </p>
-      <p>AppImage-tiedosto, katso ohjeet ylempää</p>         
+      <p>AppImage-tiedosto, katso ohjeet ylempää</p>   
+      <p>Vanhemmilla macOS-versioilla toimivat Kitsaan vanhemmat versiot löydät <a href="https://github.com/petriaarnio/kitupiikki/releases">GitHub-reposition julkaisuista</a>         
      </div>      
     </div>
   </div>
