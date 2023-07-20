@@ -2,7 +2,7 @@
 &lt;p>Kitsas 5.1 tuo mukanaan joukon etenkin tilitoimistokäytössä kaivattuja uusia ominaisuuksia. BETA-versio on jo nyt yleisesti ladattavissa Windowsille, Macille ja Linuxille. BETA-version testaaminen on vielä kesken, ja siksi se asentuu Kitsaan julkaisuversion rinnalle.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.1-beta/kitsas-5.1-beta-asennus.exe">Kitsas 5.1 BETA Windows&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.1-beta/Kitsas-5.1-beta.dmg">Kitsas 5.1 Beta Mac&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.1-beta/Kitsas-5.1-beta.dmg">Kitsas 5.1 BETA Mac&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.1-beta/Kitsas-5.1-beta-x86_64.AppImage">Kitsas 5.1 BETA Linux&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Uudet ominaisuuudet ovat käytössä ainoastaan, kun kirjanpito on tallennettu Kitsaan pilveen&lt;/p>
