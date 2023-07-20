@@ -1,7 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kuukausiraportit Kitsaassa</title><link>/blog/2023/07/20/kuukausiraportit-kitsaassa/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>/blog/2023/07/20/kuukausiraportit-kitsaassa/</guid><description>
-&lt;p>Kitsas 5.1 tuo mukanaan joukon etenkin tilitoimistokäytössä kaivattuja uusia ominaisuuksia. BETA-versio on jo nyt yleisesti ladattavissa Windowsille ja Linuxille. BETA-version testaaminen on vielä kesken, ja siksi se asentuu Kitsaan julkaisuversion rinnalle.&lt;/p>
+&lt;p>Kitsas 5.1 tuo mukanaan joukon etenkin tilitoimistokäytössä kaivattuja uusia ominaisuuksia. BETA-versio on jo nyt yleisesti ladattavissa Windowsille, Macille ja Linuxille. BETA-version testaaminen on vielä kesken, ja siksi se asentuu Kitsaan julkaisuversion rinnalle.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.1-beta/kitsas-5.1-beta-asennus.exe">Kitsas 5.1 BETA Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.1-beta/Kitsas-5.1-beta.dmg">Kitsas 5.1 Beta Mac&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.1-beta/Kitsas-5.1-beta-x86_64.AppImage">Kitsas 5.1 BETA Linux&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Uudet ominaisuuudet ovat käytössä ainoastaan, kun kirjanpito on tallennettu Kitsaan pilveen&lt;/p>
