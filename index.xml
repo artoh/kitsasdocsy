@@ -1,4 +1,24 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.0</title><link>/blog/2023/05/28/kitsas-5.0/</link><pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/28/kitsas-5.0/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kuukausiraportit Kitsaassa</title><link>/blog/2023/07/20/kuukausiraportit-kitsaassa/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>/blog/2023/07/20/kuukausiraportit-kitsaassa/</guid><description>
+&lt;p>Kitsas 5.1 tuo mukanaan joukon etenkin tilitoimistokäytössä kaivattuja uusia ominaisuuksia. BETA-versio on jo nyt yleisesti ladattavissa Windowsille ja Linuxille. BETA-version testaaminen on vielä kesken, ja siksi se asentuu Kitsaan julkaisuversion rinnalle.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.1-beta/kitsas-5.1-beta-asennus.exe">Kitsas 5.1 BETA Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.1-beta/Kitsas-5.1-beta-x86_64.AppImage">Kitsas 5.1 BETA Linux&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Uudet ominaisuuudet ovat käytössä ainoastaan, kun kirjanpito on tallennettu Kitsaan pilveen&lt;/p>
+&lt;h2 id="kuukausittaiset-raportit">Kuukausittaiset raportit&lt;/h2>
+&lt;img src="/img/fi/raportit/kausitase.png" class="img-responsive"/>
+&lt;p>Tuloslaskelman ja taseen voi nyt tulostaa myös kuukausittain.
+Kuukausittainen tuloslaskelma ja tase voidaan laatia myös jaksotuksella, jolloin raportissa on laskennallisesti huomioitu tositteiden jaksotukset sekä poistot. Näin laskelma antaa tarkemman kuvan myös niiltä tilikausilta, joilta tilinpäätöstä ei ole vielä tehty.&lt;/p>
+&lt;h2 id="raporttikoosteen-lähettäminen">Raporttikoosteen lähettäminen&lt;/h2>
+&lt;img src="/img/screenshots/raporttikooste.png" class="img-responsive"/>
+&lt;p>Kirjanpitäjä voi lähtettää helposti erilaisia raporttikoosteita suoraan asiakkaan sähköpostiin. Koosteen sisällön laajuus on kirjanpitäjän valittavissa - koosteeseen voi sisällyttää mm. kaavion tuloksen kehittymisestä sekä kuukausittaisen tuloslaskelman ja taseen.&lt;/p>
+&lt;img src="/img/fi/raportit/koostemalli.png" class="img-responsive"/>
+&lt;h2 id="työkalu-tase-erien-selvittelyyn">Työkalu tase-erien selvittelyyn&lt;/h2>
+&lt;p>Tase-erittelyyn pääsee porautumaan aina vientien tasolle saakka uudella työkalulla, joka käynnistää &lt;strong>Raportit/Tase-erittely&lt;/strong>-sivun &lt;strong>Tase-erien selveittely&lt;/strong> -painikkeella.&lt;/p>
+&lt;h2 id="liitteiden-tekstintunnistuksen-toteuttaminen-palvelimella">Liitteiden tekstintunnistuksen toteuttaminen palvelimella&lt;/h2>
+&lt;p>Pilveen tallennetuissa kirjanpidoissa lisättävien liitteiden tekstintunnistus toteutetaan nyt palvelimella, mikä nopeuttaa tekstintunnistusta sekä sekä parantaa useiden pankkien tiliotteiden tunnistamista.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 5.0</title><link>/blog/2023/05/28/kitsas-5.0/</link><pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate><guid>/blog/2023/05/28/kitsas-5.0/</guid><description>
 &lt;h1 id="kitsas-päivittyy">Kitsas päivittyy&lt;/h1>
 &lt;p>Kitsaan uusi versio on jälleen maksutta ladattavissa kotisivulta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>&lt;/p>
 &lt;p>Kitsas 5.0 on saatavilla välittömästi Windowsille, Macille ja Linuxille&lt;/p>
