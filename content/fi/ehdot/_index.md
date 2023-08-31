@@ -240,7 +240,7 @@ Tämä tilastotieto on täysin anonyymia, eikä sisällä henkilötietoja.
 
 Kitsaan uutiskirjeen tilaajista tallennetaan ainoastaan sähköpostiosoite, johon uutiskirje on tilattu. Tätä osoiteluetteloa käytetään ainoastaan uutiskirjeiden lähettämiseen. Uutiskirjeen tilaaja voi koska tahansa poistaa osoitteensa luettelolta uutiskirjeessä olevalla linkillä.
 
-Uutiskirjepalvelun teknisenä toteuttajana on [SendInBlue](https://sendinblue.com)
+Uutiskirjepalvelun teknisenä toteuttajana on [Brevo](https://brevo.com)
 
 ### Kitsas henkilötietojen käsittelijänä
 
@@ -256,11 +256,11 @@ Kitsas Oy käyttää virtuaalipalvelimensa osalta alihankkijana Tentacle Oy:tä.
 
 #### Alihankkija sänköpostipalveluissa
 
-Kitsas Oy käyttää lähtevän sähköpostin palveluun Twilion SendGrid -palvelua. Palvelu ilmoittaa noudattavansa GDPR-säännöstöä.
+Kitsas Oy käyttää lähtevän sähköpostin palveluun [Brevo](https://brevo.com)-palvelua. Palvelu ilmoittaa noudattavansa GDPR-säännöstöä.
 
 #### Alihankkija tilitietojen noutamisessa
 
-Kitsas Oy noutaa pankkien tilitapahtumat Nordigen Solutionsin palvelua käyttäen. Palvelun käyttäminen edellyttää asiakkaalta yksilöllistä valtuutusta oman verkkopankin kautta. Nordigen Solutions ilmoittaa noudattavansa GDPR-säännöstöä.
+Kitsas Oy noutaa pankkien tilitapahtumat [GoCardless](https://gocardless.com/)in palvelua käyttäen. Palvelun käyttäminen edellyttää asiakkaalta yksilöllistä valtuutusta oman verkkopankin kautta. GoCardless ilmoittaa noudattavansa GDPR-säännöstöä.
 
 </div>
 
