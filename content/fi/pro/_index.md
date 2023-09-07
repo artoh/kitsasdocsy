@@ -91,7 +91,7 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
    <p class="violetti">Kerromme mielellämme lisää!<br/>
    <b><span class="fa fa-phone"></span> 050 400 9130</b><br/>
    <span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>   
-   <p>Kitsas Pro:n jälleenmyy Talouden Ohjelmistopalvelut Finland</p>    
+   <p>Kitsas Pro:n jälleenmyy <a href="https://www.taloudenohjelmistopalvelut.fi/tilitoimistolle">Talouden Ohjelmistopalvelut Finland</a></p>    
 
   </div>
 </div>
