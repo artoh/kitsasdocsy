@@ -77,3 +77,21 @@ other = "Kirjoittanut"
 
 [publishedOn]
 other = "Julkaistu"
+
+[deny]
+other = "Kiellä"
+
+[allow]
+other = "Salli"
+
+[save-preferences]
+other = "Tallenna asetukset"
+
+[allow-all]
+other = "Salli kaikki"
+
+[consent]
+other = "Käytämme suostumuksellasi evästeitä analytiikkaan."
+
+[consent-settings]
+other = "Valitse evästeet"

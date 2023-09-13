@@ -1,0 +1,5 @@
+items:
+  - title: Google Tag
+    description: Eväste välittää tietoja sivuston käytöstä, käyttäjistä ja käyttäjän laitteesta, mm. mistä sivustolle on tultu ja mitä linkkejä valittu.
+    is_functional: false
+    script_file: ga.js
