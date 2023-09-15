@@ -71,9 +71,9 @@ Lataa Kitsas maksutta tietokoneellesi
         <p>Macintosh-julkaisua ylläpitää Petri Aarnio</p>  
         <h1><i class="fab fa-apple"></i></h1>
         <h4>macOS 10.15 tai uudempi</h4>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.3</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.1.1</h4>
         <p>
-          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.3/Kitsas-4.0.3.dmg" class="btn btn-lg btn-primary">
+          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.1.1/Kitsas-5.1.1.dmg" class="btn btn-lg btn-primary">
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>       
         <p>Katso ohjeet ylempää.</p>   
