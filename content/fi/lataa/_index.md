@@ -83,13 +83,13 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
       <div class="container">
         <h1><i class="fab fa-linux"></i></h1>
-        <h4>Linux (Vähintään Ubuntu 20.04 tai vastaava)</h4>
+        <h4>Linux (Vähintään Ubuntu 22.04 tai vastaava)</h4>
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.1</h4>
         <p>
           <a href="https://github.com/artoh/kitupiikki/releases/download/v5.1/Kitsas-5.1-x86_64.AppImage" class="btn btn-lg btn-primary">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>           
-        64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 18.04 ja uudemmat       
+        64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 22.04 ja uudemmat       
         <ol style="text-align: left;">
           <li>Lataa asennustiedosto</li>
           <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
@@ -98,7 +98,7 @@ Lataa Kitsas maksutta tietokoneellesi
         </ol>  
         <h1><i class="fab fa-linux"></i></h1>
         <h4>Linux (Ubuntu 18.04 tai vastaava)</h4>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.5</h4>    
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.5</h4>    
         <p>  
           <a href="https://github.com/artoh/kitupiikki/releases/download/v4.0.5/Kitsas-4.0.5-x86_64.AppImage" class="btn btn-lg btn-primary">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
