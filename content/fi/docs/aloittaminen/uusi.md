@@ -51,9 +51,9 @@ tilinpäätöksen pohjan.
 
 | Tilikartta         | Kuvaus                                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Elinkeintotoiminta | Tilikartta yritystoimintaa varten. Yritysmuotoina elinkeinonharjoittaja, avoin yhtiö, kommandiittiyhtiö, osuuskunta, ja osakeyhtiö. |
-| Yhdistys           | Tilikartta aatteelliselle yhdistykselle ja säätiölle. Tuloslaskelma on yhdistyskaavan mukainen.                                     |
-| Asunto-osakeyhtiö  | Tilikartta asunto-osakeyhtiöille. Tuloslaskelma on kiinteistökaavan mukainen.                                                       |
+| [Elinkeinototoiminta](/files/Tililuettelo_yritys.pdf)  | Tilikartta yritystoimintaa varten. Yritysmuotoina elinkeinonharjoittaja, avoin yhtiö, kommandiittiyhtiö, osuuskunta, ja osakeyhtiö. |
+| [Yhdistys](/files/Tililuettelo_yhdistys.pdf)           | Tilikartta aatteelliselle yhdistykselle ja säätiölle. Tuloslaskelma on yhdistyskaavan mukainen.                                     |
+| [Asunto-osakeyhtiö](/files/Tililuettelo_asoy.pdf)  | Tilikartta asunto-osakeyhtiöille. Tuloslaskelma on kiinteistökaavan mukainen.                                                       |
 
 Voit myöhemmin lisätä, muokata ja poistaa käytössä olevia tilejä samoin kuin
 raporttien ja tilinpäätöksen malleja. Et voi kuitenkaan jälkikäteen vaihtaa koko tilikarttaa toiseen.
