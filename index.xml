@@ -1,4 +1,23 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kuukausiraportit Kitsaassa</title><link>/blog/2023/07/20/kuukausiraportit-kitsaassa/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>/blog/2023/07/20/kuukausiraportit-kitsaassa/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.2 Julkaisuehdokas</title><link>/blog/2023/11/13/kitsas-5.2-julkaisuehdokas/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><guid>/blog/2023/11/13/kitsas-5.2-julkaisuehdokas/</guid><description>
+&lt;p>Kitsas 5.2 tuo joukon pienehköjä parannuksia sekä korjaa aiemmissa versioissa olleita virheitä. Lisäksi versio on yhteensopiva myöhemmin julkaistavien uusien lisäosien kanssa.&lt;/p>
+&lt;p>Julkaisuehdokas uudesta versiosta on jo nyt yleisesti ladattavissa Windowsille, Macille ja Linuxille. Version testaaminen jatkuu yhä ennen lopullista julkaisua.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.2-rc/kitsas-5.2-RC-asennus.exe">Kitsas 5.2 RC Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.2-rc/Kitsas-5.2-rc.dmg">Kitsas 5.2 RC Mac&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.2-rc/Kitsas-5.2-rc-x86_64.AppImage">Kitsas 5.2 RC Linux&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tilinpäätöstyökalut">Tilinpäätöstyökalut&lt;/h2>
+&lt;img src="/img/screenshots/omapaaomaoy.png" class="img-responsive"/>
+&lt;p>Tilinpäätökseen on mahdollista sisällyttää oman pääoman erittelyjä osakeyhtiöille sekä elinkeinonharjoittajille. Ominaisuus edellyttää tilikartan päivittämistä. Lisäksi yksityistilien päättämiselle tilinpäätöksen yhteydessä on uusi työkalunsa.&lt;/p>
+&lt;h2 id="arvonlisäveron-sarake-päivä--ja-pääkirjassa">Arvonlisäveron sarake päivä- ja pääkirjassa&lt;/h2>
+&lt;p>Päiväkirjaan ja pääkirjaan on mahdollista tulostaa vientien alv-prosentit sekä alv-lajeja kuvaavat lyhenteet.&lt;/p>
+&lt;h2 id="joukko-korjauksia">Joukko korjauksia&lt;/h2>
+&lt;ul>
+&lt;li>Pdf-tiedostojen tekstintunnistus tilanteissa, joissa jpeg-liitteiden tekstintunnistus on käytössä&lt;/li>
+&lt;li>Aloitussivun valintojen näkyvyys tilanteeessa, jossa kirjanpito on avattu kirjautumisen yhteydessä&lt;/li>
+&lt;/ul>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kuukausiraportit Kitsaassa</title><link>/blog/2023/07/20/kuukausiraportit-kitsaassa/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>/blog/2023/07/20/kuukausiraportit-kitsaassa/</guid><description>
 &lt;p>Kitsas 5.1 tuo mukanaan joukon etenkin tilitoimistokäytössä kaivattuja uusia ominaisuuksia. BETA-versio on jo nyt yleisesti ladattavissa Windowsille, Macille ja Linuxille. BETA-version testaaminen on vielä kesken, ja siksi se asentuu Kitsaan julkaisuversion rinnalle.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.1-beta/kitsas-5.1-beta-asennus.exe">Kitsas 5.1 BETA Windows&lt;/a>&lt;/li>
