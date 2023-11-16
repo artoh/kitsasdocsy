@@ -22,6 +22,8 @@ Jos laadit tilinpäätöksen jolloin muulla ohjelmalla (kuten tekstinkäsittelyo
 
 Täydennä liitetiedot ohjelman laatimista pohjateksteistä.
 
+Ohjelman generoimissa taulukoissa pelkkä nollalukemia sisältävä rivit eivät tulostu (eli niitä ei tarvitse poistaa). 
+
 ![](/img/fi/kaudet/liitetiedot.png)
 
 Aloita uudelleen

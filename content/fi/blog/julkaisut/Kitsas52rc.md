@@ -16,6 +16,8 @@ Julkaisuehdokas uudesta versiosta on jo nyt yleisesti ladattavissa Windowsille, 
 - [Kitsas 5.2 RC Mac](https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.2-rc/Kitsas-5.2-rc.dmg)
 - [Kitsas 5.2 RC Linux](https://github.com/artoh/kitupiikki/releases/download/v5.2-rc/Kitsas-5.2-rc-x86_64.AppImage)
 
+Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla `LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.2-rc-x86_64.AppImage`
+
 ## Tilinpäätöstyökalut
 
 <img src="/img/screenshots/omapaaomaoy.png" class="img-responsive"/>
