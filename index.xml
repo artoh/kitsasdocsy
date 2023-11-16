@@ -6,6 +6,7 @@
 &lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.2-rc/Kitsas-5.2-rc.dmg">Kitsas 5.2 RC Mac&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.2-rc/Kitsas-5.2-rc-x86_64.AppImage">Kitsas 5.2 RC Linux&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;p>Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla &lt;code>LD_LIBRARY_PATH=&amp;quot;/usr/lib/x86_64-linux-gnu/nss&amp;quot; ./Kitsas-5.2-rc-x86_64.AppImage&lt;/code>&lt;/p>
 &lt;h2 id="tilinpäätöstyökalut">Tilinpäätöstyökalut&lt;/h2>
 &lt;img src="/img/screenshots/omapaaomaoy.png" class="img-responsive"/>
 &lt;p>Tilinpäätökseen on mahdollista sisällyttää oman pääoman erittelyjä osakeyhtiöille sekä elinkeinonharjoittajille. Ominaisuus edellyttää tilikartan päivittämistä. Lisäksi yksityistilien päättämiselle tilinpäätöksen yhteydessä on uusi työkalunsa.&lt;/p>
