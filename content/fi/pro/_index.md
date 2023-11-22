@@ -82,9 +82,9 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
       </div>  
       <div class="form-group">
         <label for="inputExtra">Lisätietoja</label>
-        <textarea class="form-control" id="inputExtra"></textarea>
+        <textarea name="info"  class="form-control" id="inputExtra"></textarea>
       </div>        
-      <button name="info" type="submit" class="btn btn-primary">Lähetä</button>   
+      <button name="submit" type="submit" class="btn btn-primary">Lähetä</button>   
   </div>
   <div class="lomakealue__info col col-lg-4 col-sm-12">
    <p>Ensimmäinen kuukausi veloituksetta, ilman irtisanomisaikaa</p>
