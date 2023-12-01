@@ -41,7 +41,7 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 <div class="kampanja">
 <h2>Ensimmäisen vuosineljänneksen ohjelmistokulut 0 €</h2>
 
-Tammikuun 2024 loppuun mennessä allekirjoitettujen Kitsas Pro -tilauksien laskutus käynnistyy 1.4.2024. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="hinnasto">hinnaston</a> mukaisesti.
+Tammikuun 2024 loppuun mennessä allekirjoitettujen Kitsas Pro -tilauksien laskutus käynnistyy 1.4.2024. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti.
 </div>
 
 <h2>Takuuvarmasti edullinen hinnoittelu</h2>
