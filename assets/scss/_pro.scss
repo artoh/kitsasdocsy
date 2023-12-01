@@ -37,11 +37,6 @@ article.pro ul li:before {
   font-size: 22pt;
 }
 
-article.pro h3 {
-  margin-top: 3em;
-  color: $primary;
-}
-
 @media (min-width: 640px) {
   article.prohinnasto table tr td {
     width: auto;
@@ -79,6 +74,10 @@ div.ilmaisinfo {
     text-align: center;
     margin-top: auto;
     margin-bottom: auto;
+  }
+
+  &__info p {
+    margin-top: 1em;
   }
 
 }
@@ -148,4 +147,96 @@ div.prohintaoperaattori {
 
 .hintapro__caption > h3 {
   font-weight: bold;
+}
+
+.referenssi {  
+  margin: 0.25em 0;
+  margin-top: 2em;
+  padding: 0.35em 40px;
+  line-height: 1.45;
+  position: relative;  
+}
+
+.referenssi:before {
+  font-family: Georgia, serif;
+  display: block;
+  padding-left: 10px;
+  content: "\201C";
+  font-size: 80px;
+  position: absolute;
+  left: -20px;
+  top: -20px;
+  color: $primary;
+}
+
+.referenssi .lahde {
+  color: $primary;
+  display: block;
+  margin-top: 5px;
+}
+
+.violetti {
+  color: $primary !important;
+}
+
+.musta {
+  color: black !important;
+}
+
+div.jukkaboksi {
+  background-color: #d5c8ea;  
+  padding: 1em;  
+  position: relative;
+  padding-left: 200px;
+  padding-bottom: 2em;
+  padding-right: 2em;
+  min-height: 260px;
+  margin-top: 4em;
+  border-radius: 10px;
+  margin-bottom: 4em;
+}
+
+div.jukkaboksi > img {   
+  height: 228px;
+  width: 200px;
+  left: -50px;
+  position: absolute;
+  border-radius: 10px;
+}
+
+h3 {
+  margin-top: 1em;
+  color: $primary;
+}
+
+div.loppunappi {
+  text-align: center;
+  margin-top: 4em;
+}
+
+.kampanja {
+  background-color: #d5c8ea;  
+  padding: 1em;    
+  border-radius: 10px;  
+  margin-top: 1em;
+  margin-bottom: 4em;
+  margin-left: 2em;
+  margin-right: 2em;
+
+}
+
+.kampanja h2 {
+  font-size: 200%;
+  font-weight: bolder;
+  font-variant-caps: all-small-caps;
+}
+
+div.prolead {
+  margin-top: 6em;
+  text-align: center;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding: 1em;
+  background-color: #00000088;
+  border-radius: 10px;
 }

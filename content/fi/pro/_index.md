@@ -9,16 +9,18 @@ menu:
 ---
 {{< blocks/cover title="Tilitoimiston kustannustehokkain työkalu" image_anchor="top" height="min" color="dark" >}}
 
-<div class="mx-auto">
-	<a class="btn btn-lg btn-primary mr-3 mb-4" href="#yhteys">
+<div class="mx-auto prolead">	
+	<p class="lead">Kitsas Pro mahdollistaa tilitoimistoille loppuasiakkaiden palvelemisen kustannustehokkaasti sekä perinteisesti että sähköisiä toimintatapoja hyödyntäen</p>
+  <a class="btn btn-lg btn-primary mr-3 mb-4" href="#yhteys">
 		Pyydä tarjous
 	</a>
-	<p class="lead">Kitsas Pro mahdollistaa tilitoimistoille loppuasiakkaiden palvelemisen kustannustehokkaasti sekä perinteisesti että sähköisiä toimintatapoja hyödyntäen</p>
 </div>
 
 {{< /blocks/cover >}}
 
 {{< blocks/section color="dark">}}
+
+
 {{% blocks/feature3 icon="fa-users" title="Koko tilitoimiston työkalu" %}}
 Ei käyttäjäveloituksia
 {{% /blocks/feature3 %}}
@@ -30,12 +32,20 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 {{% /blocks/feature3 %}}
 {{< /blocks/section >}}
 
+<form action="https://usebasin.com/f/ffb4c4e3de66" method="post">
+
 {{< blocks/section color="white" >}}
 <article class="pro">
+
+
+<div class="kampanja">
+<h2>Ensimmäisen vuosineljänneksen ohjelmistokulut 0 €</h2>
+
+Tammikuun 2024 loppuun mennessä allekirjoitettujen Kitsas Pro -tilauksien laskutus käynnistyy 1.4.2024. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="hinnasto">hinnaston</a> mukaisesti.
+</div>
+
 <h2>Takuuvarmasti edullinen hinnoittelu</h2>
 Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asiakkaiden kohdalla hinnoittelu perustuu asiakasmäärään.  Sähköisiä ominaisuuksia hyödynnettäessä veloitetaan lisäksi edulliset lähetys- ja vastaanottomaksut.
-
-<form action="https://usebasin.com/f/ffb4c4e3de66" method="post">
 
 <div class="row prohinnat">
 	{{<hintapro title="Kitsas Pro" hinta="50" intro="Ensimmäiset 20 asiakaspaikkaa">}}
@@ -58,8 +68,49 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
         Totutuneet tapahtumamaksut veloitetaan hinnaston mukaisesti
       </div>
     </div>
-  </div
+  </div>
 
+</article>
+
+{{< /blocks/section >}}
+{{< blocks/section color="white" >}}
+<article class="pro">
+
+<h2>Kymmenet tilitoimistot ovat ottaneet Kitsas Pron käyttöön palvellakseen kustannustehokkaasti
+asiakkaitaan</h2>
+
+<div class="referenssi">
+Tilitoimistomme on toiminut 35 vuotta kahden yrittäjän voimin. Kitsas Pro on ollut
+kustannustehokas työkalu tilitoimistollemme, eivätkä korkeat ohjelmistokustannukset pakota
+hinnankorotuksiin. Suosittelemme lämpimästi Kitsas Prota yhdeksi tilitoimiston
+ohjelmistovaihtoehdoksi, vaikka nyt näyttää jo siltä, että se voisi sopia jopa tilitoimiston ainoksi
+ohjelmaksi.
+<div class="lahde">TO Tilikirja</div>
+</div>
+
+<div class="referenssi">
+Olemme käyttökokemuksien perusteella havainneet, että Kitsas Pron käyttö on erittäin
+käyttäjäystävällistä ja asiakastyöt sujuvat nopeammin kuin sähköisessä palvelussa. Hinnoittelu
+on selkeää eikä piilokuluja ole. Suosittelemme Kitsas Prota myös muille tilitoimistoille - Ja
+muutamalle olemmekin jo suositelleet!
+<div class="lahde">D-House Oy</div>
+</div>
+
+<div class="jukkaboksi">
+<img src="/img/pro/jukka.webp">
+<div class="referenssi">
+Otimme Kitsas Pron jälleenmyyntiin, koska se sopii 
+pienille tilitoimistoille erittäin hyvin. Edustamme myös isoja ohjelmistoja kuten Netvisoria, Procountoria ja 
+Fennoaa.  
+</div>
+<div class="lahde">
+<b class="violetti">Jukka Räty</b><br/>
+<a class="violetti" href="https://taloudenohjelmistopalvelut.fi">Talouden Ohjelmistopalvelut Finland</a><br/>
+ <span class="fa fa-phone"></span> <a class="musta" href="tel:+358504009130">050 400 9130</a><br/>
+ <span class="fa fa-envelope"></span> <a class="musta" href="mailto:jukka.raty@taopa.fi">jukka.raty@taopa.fi</a> <br/> 
+ <span class="fa fa-globe"></span> <a class="musta" href="https://taloudenohjelmistopalvelut.fi">taloudenohjelmistopalvelut.fi</a>  
+</div>
+</div>
 
 
 <div class="lomakealue row">
@@ -87,17 +138,17 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
       <button name="submit" type="submit" class="btn btn-primary">Lähetä</button>   
   </div>
   <div class="lomakealue__info col col-lg-4 col-sm-12">
-   <p>Ensimmäinen kuukausi veloituksetta, ilman irtisanomisaikaa</p>
-   <p class="violetti">Kerromme mielellämme lisää!<br/>
-   <b><span class="fa fa-phone"></span> 050 400 9130</b><br/>
-   <span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>   
-   <p>Kitsas Pro:n jälleenmyy <a href="https://www.taloudenohjelmistopalvelut.fi/tilitoimistolle">Talouden Ohjelmistopalvelut Finland</a></p>    
+   <h3 class="violetti">Kerromme mielellämme lisää!</h3>
+   <p><span class="fa fa-phone"></span> <a class="violetti" href="tel:+358504009130">050 400 9130</a></p>
+   <p><span class="fa fa-envelope"></span> <a class="violetti" href="mailto:kitsas.helpdesk@taopa.fi">kitsas.helpdesk@taopa.fi</a></p>
+   <p>Kitsas Pron jälleenmyy <a class="violetti" href="https://www.taloudenohjelmistopalvelut.fi/tilitoimistolle">Talouden Ohjelmistopalvelut Finland</a></p>    
 
   </div>
 </div>
-</form>   
-{{< /blocks/section >}}
 
+</article>
+{{< /blocks/section >}}
+</form>  
 
 {{% blocks/section color="white" %}}
 <article class="pro">
@@ -136,22 +187,12 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
 
 
 <article class="prohinnasto">
-<h2>Kitsas Pro -hinnasto</h2>
+<a name="hinnasto">
+<h3>Kitsas Pro hinnasto</h3>
 <p>Hintoihin lisätään arvonlisävero 24 %</p>
 <table style="margin-bottom: 2ex;">
-  <tbody>  
-  <tr class="text-white">
-    <td class="sep"><i class="fa fa-play-circle"></i> Käyttöönotto</td>    
-  </tr>  
-   <tr>
-     <td>Käyttöönotto PLUS<br/>Ohjattu käyttöönotto sisätäen tilitoimistonäkymän sekä käyttäjähallinnan perehdytyksen sekä ensimmäisten asiakkaiden perustamisen</td>
-      <td><span class="txt-l">100,00</span> <span class="txt-top">&euro;</span></td>
-    </tr>  
-    <tr>
-      <td>Käyttöönotto KITSAS<br/>Sisältää tilitoimistoympäristön perustamisen sekä ensimmäisen käyttäjän luomisen. Muilta osin omatoiminen käyttöönotto, ohjeet Kitsaan verkkosivuilla</td>
-       <td><span class="txt-l">0,00</span> <span class="txt-top">&euro;</span></td>
-     </tr>     
-    <tr>
+  <tbody>    
+    <tr class="text-white">
       <td colspan="2" class="sep"><i class="fa fa-calendar"></i> Kuukausimaksu</td>
     </tr>   
     <tr>
@@ -180,19 +221,17 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
       <td colspan="2" class="sep"><i class="fa fa-envelope"></i> Postittaminen kirjeenä</td>
     </tr>   
     <td>Kotimaa, Priority</td>
-     <td class="default"><span class="txt-l">2,40</span> <span class="txt-top">&euro;/kpl</span>
-     <br/>1.6.2023 alkaen<br/>
+     <td class="default">
      <span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>
      </td>      
    </tr>  
    <tr>
      <td>Kotimaa, Economy</td>
-      <td class="default"><span class="txt-l">1,90</span> <span class="txt-top">&euro;/kpl</span>
-      <br/>1.6.2023 alkaen<br/>
+      <td class="default">
       <span class="txt-l">1,95</span> <span class="txt-top">&euro;/kpl</span>
       </td>
     </tr>  
-    <tr> 
+    <tr>
       <tr>
         <td>Kotimaa, lisäsivu</td>
          <td><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
@@ -215,6 +254,12 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
     </tr>              
   </tbody>
 </table>
+
+<div class="loppunappi">
+<a class="btn btn-lg btn-primary mr-3 mb-4" href="#yhteys">
+  Ota yhteyttä
+</a>
+</div>
 
 </article>
 {{% /blocks/section %}}
