@@ -9,7 +9,7 @@ menu:
 ---
 {{< blocks/cover title="Tilitoimiston kustannustehokkain työkalu" image_anchor="top" height="min" color="dark" >}}
 
-<div class="mx-auto prolead">	
+<div class="mx-auto prolead">
 	<p class="lead">Kitsas Pro mahdollistaa tilitoimistoille loppuasiakkaiden palvelemisen kustannustehokkaasti sekä perinteisesti että sähköisiä toimintatapoja hyödyntäen</p>
   <a class="btn btn-lg btn-primary mr-3 mb-4" href="#yhteys">
 		Pyydä tarjous
@@ -99,15 +99,15 @@ muutamalle olemmekin jo suositelleet!
 <div class="jukkaboksi">
 <img src="/img/pro/jukka.webp">
 <div class="referenssi">
-Otimme Kitsas Pron jälleenmyyntiin, koska se sopii 
-pienille tilitoimistoille erittäin hyvin. Edustamme myös isoja ohjelmistoja kuten Netvisoria, Procountoria ja 
+Otimme Kitsas Pron jälleenmyyntiin, koska se sopii
+pienille tilitoimistoille erittäin hyvin. Edustamme myös isoja ohjelmistoja kuten Netvisoria, Procountoria ja
 Fennoaa.  
 </div>
 <div class="lahde">
 <b class="violetti">Jukka Räty</b><br/>
 <a class="violetti" href="https://taloudenohjelmistopalvelut.fi">Talouden Ohjelmistopalvelut Finland</a><br/>
  <span class="fa fa-phone"></span> <a class="musta" href="tel:+358504009130">050 400 9130</a><br/>
- <span class="fa fa-envelope"></span> <a class="musta" href="mailto:jukka.raty@taopa.fi">jukka.raty@taopa.fi</a> <br/> 
+ <span class="fa fa-envelope"></span> <a class="musta" href="mailto:jukka.raty@taopa.fi">jukka.raty@taopa.fi</a> <br/>
  <span class="fa fa-globe"></span> <a class="musta" href="https://taloudenohjelmistopalvelut.fi">taloudenohjelmistopalvelut.fi</a>  
 </div>
 </div>
@@ -220,18 +220,21 @@ Fennoaa.
     <tr>
       <td colspan="2" class="sep"><i class="fa fa-envelope"></i> Postittaminen kirjeenä</td>
     </tr>   
-    <td>Kotimaa, Priority</td>
-     <td class="default">
-     <span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>
-     </td>      
-   </tr>  
-   <tr>
-     <td>Kotimaa, Economy</td>
-      <td class="default">
-      <span class="txt-l">1,95</span> <span class="txt-top">&euro;/kpl</span>
-      </td>
-    </tr>  
     <tr>
+      <td>Kotimaa, Priority</td>
+       <td class=""><span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>
+       <br/>1.1.2024 alkaen<br/>
+       <span class="txt-l">2,69</span> <span class="txt-top">&euro;/kpl</span>
+       </td>      
+     </tr>  
+     <tr>
+       <td>Kotimaa, Economy</td>
+        <td class=""><span class="txt-l">1,95</span> <span class="txt-top">&euro;/kpl</span>
+        <br/>1.1.2024 alkaen<br/>
+        <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span>        
+        </td>
+      </tr>  
+      <tr>
       <tr>
         <td>Kotimaa, lisäsivu</td>
          <td><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
@@ -240,18 +243,23 @@ Fennoaa.
          <td>Väritulostelisä</td>
         <td><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
       </tr>  
-      <tr>
-        <td>Eurooppa</td>
-         <td><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span></td>
-       </tr>         
-      <tr>
-        <td>Muu maailma</td>
-       <td><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span></td>
-     </tr>  
-     <tr>
-       <td>Eurooppa ja muu maailma, lisäsivu</td>
-       <td><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span></td>
-    </tr>              
+      <td>Eurooppa</td>
+       <td class=""><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span>
+       <br/>1.1.2024 alkaen<br/>
+       <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>         
+     </tr>         
+    <tr>
+      <td>Muu maailma</td>
+     <td class=""><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span>
+     <br/>1.1.2024 alkaen<br/>
+     <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>               
+   </tr>  
+   <tr>
+     <td>Eurooppa ja muu maailma, lisäsivu</td>
+     <td class=""><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span>
+     <br/>1.1.2024 alkaen<br/>
+     <span class="txt-l">0,33</span> <span class="txt-top">&euro;/kpl</span>               
+  </tr>            
   </tbody>
 </table>
 
