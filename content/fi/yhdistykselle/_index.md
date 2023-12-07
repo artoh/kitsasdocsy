@@ -11,7 +11,7 @@ description: "Kirjanpito-ohjelmisto yhdistyksille"
 	<p class="lead">Kitsas on kehitetty alunperin pienten yhdistysten kirjanpitoon, joten yhdistysten tarpeet on varmasti otettu huomioon.
   </p>
 
-  <a class="btn btn-lg btn-primary mr-3 mb-4" href="lataa">
+  <a class="btn btn-lg btn-primary mr-3 mb-4" href="/lataa">
 		Lataa Kitsas maksutta<i class="fab fa-windows ml-2 "></i><i class="fab fa-apple ml-2 "></i><i class="fab fa-linux ml-2 "></i>
 	</a>
 
@@ -160,7 +160,7 @@ Eroon mapeista &#8211; koko kirjanpidon voi tehdä sähköisesti
       <p id="palkkainfo">Kitsas ei sisällä palkanmaksua. Yksinkertaiset palkat voi laskea esimerkiksi maksuttomassa palkka.fi-palvelussa, ja kirjata palkat Kitsaassa kirjanpitoon.</p>
       <p id="isoinfo">Yhdistyksesi joutuu laatimimaan mikroyrityssäännöstöä laajemman tilinpäätöksen, jolloin ohjelman tuottamaa tilinpäätöstä joutuu usein täydentämään, ja kirjanpitäjältä vaaditaan enemmän osaamista.</p>            
       <p class="tilausinfo">Lataa Kitsas omalle koneellesi, ja luo itsellesi Kitsaan käyttäjätunnus. Saat aloittaa kirjanpidon ilman mitään kustannuksia ja jos pidät ohjelmasta, tee tilaus suoraan ohjelmasta ennen 30 päivän kokeilujakson päättymistä.</p>
-      <a class="btn btn-lg btn-primary mr-3 mb-4" href="lataa">
+      <a class="btn btn-lg btn-primary mr-3 mb-4" href="/lataa">
         Lataa Kitsas maksutta<i class="fab fa-windows ml-2 "></i><i class="fab fa-apple ml-2 "></i><i class="fab fa-linux ml-2 "></i>
       </a>
       <p class="kerho">Kitsas Kerho maksaa <b>62</b> euroa vuodessa (sis. alv).</p>
@@ -217,10 +217,10 @@ kululaskujen toimittaminen web-portaalissa ja laskujen hyväksyntäkierto
 Voit myös käyttää Kitsasta täysin maksutta ja ilman rekisteröitymistä, kun tallennat kirjanpidon omalle koneellesi.</p>
 </div>
 <div class="col nostot">
-<a class="btn btn-lg btn-primary mr-3 mb-4" href="lataa">
+<a class="btn btn-lg btn-primary mr-3 mb-4" href="/lataa">
 	Lataa Kitsas maksutta<i class="fab fa-windows ml-2 "></i><i class="fab fa-apple ml-2 "></i><i class="fab fa-linux ml-2 "></i>
 </a>
-<a class="btn btn-lg btn-primary mr-3 mb-4" href="docs">
+<a class="btn btn-lg btn-primary mr-3 mb-4" href="/docs">
 	Tutustu Kitsaan ohjeisiin<i class="fa fa-book ml-2 "></i>
 </a>
 </div>
