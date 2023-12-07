@@ -1,0 +1,119 @@
+
+.yhdistystesti {
+  background-color: #d5c8ea;
+  padding: 1em;
+  border-radius: 10px;
+  margin-top: 1em;
+  margin-bottom: 4em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.yhdistystesti h2 {
+  font-size: 200%;
+  font-weight: bolder;
+  font-variant-caps: all-small-caps;
+}
+
+.yhdistystesti a {
+  color: $primary !important;
+  font-weight: bold;
+}
+
+.yhdistystesti  .ohje {
+  color: $primary;
+  font-weight: bolder;
+}
+
+.yhdistystesti  .sisalto .askel {
+  display: none;
+}
+
+.yhdistystesti .sisalto  .aktiivinen {
+  display: block;
+}
+
+.yhdistystesti .sisalto .askel h2 {
+  font-weight: bold;
+  font-variant-caps: all-small-caps;
+}
+
+.yhdistystesti .sisalto .navigaatio {
+  padding-bottom: 1em;
+}
+
+.yhdistystesti .navigaatio .askellus  {
+  float: left;
+  color: $primary;
+}
+
+.yhdistystesti .navigaatio .button  {
+  text-align: right;
+}
+
+
+.vaihtoehto {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.vaihtoehto input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.vaihtoehto span.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+.vaihetoehto:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.vaihtoehto input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+.vaihtoehto .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.vaihtoehto input:checked ~ .checkmark:after {
+  display: block;
+}
+
+
+.vaihtoehto .checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+h2.nosto {
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
