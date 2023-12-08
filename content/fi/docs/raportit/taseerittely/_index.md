@@ -19,10 +19,4 @@ Yllä olevassa esimerkissä Koneet ja kalusto -tilistä esitetään vain saldo, 
 Jos yksittäistä erittyä on tarpeen vielä muokata, on se helpointa viedä tekstinkäsittelyyn esikatseluikkunan **HTML** > **Leikepöydälle** valinnalla, jonka jälkeen erittelyn voi liittää tekstinkäsittelyssä.
 {{</alert>}}
 
-### Tase-erien selvittely
 
-![](/img/fi/raportit/selvittely.png)
-
-Tase-erien selvittelynäkymässä pääsee tileittäin porautumaan kaikkiin tase-eriin. Ikkunan oikeanpuolesimmassa sarakkeesta näkyy, mistä kirjauksista tase-erä koostuu. Vientiä klikkaamalla avautuu viennin tosite muokattavaksi.
-
-Tase-erien selvittelytyökaluun on tulossa ominaisuuksia, jolla tase-eriä pääsee suoraan yhdistämään toisiinsa.
