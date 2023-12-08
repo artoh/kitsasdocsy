@@ -33,8 +33,6 @@ Eroon mapeista &#8211; koko kirjanpidon voi tehdä sähköisesti
 {{% /blocks/feature3 %}}
 {{< /blocks/section >}}
 
-<form action="https://usebasin.com/f/ffb4c4e3de66" method="post">
-
 {{< blocks/section color="white" >}}
 <article class="pro">
 
