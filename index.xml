@@ -1,4 +1,15 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.2 Julkaisuehdokas</title><link>/blog/2023/11/13/kitsas-5.2-julkaisuehdokas/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><guid>/blog/2023/11/13/kitsas-5.2-julkaisuehdokas/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2023/12/08/kirjeiden-hinnat-nousevat/</link><pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/08/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-112024">Paperipostina lähetettävien laskujen hinnat nousevat 1.1.2024&lt;/h3>
+&lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
+&lt;p>Hinnat nousevat 1.1.2024 alkaen lähetettävissä laskuissa&lt;/p>
+&lt;h4 id="kotimaan-kirjeet">Kotimaan kirjeet&lt;/h4>
+&lt;p>Lähettäminen Priority-kirjeenä &lt;strong>2,69&lt;/strong> € (nykyisin 2,55)
+Lähettäminen Economy-kirjeenä &lt;strong>2,03&lt;/strong> € (nykyisin 1,95)&lt;/p>
+&lt;h3 id="ulkomaan-kirjeet">Ulkomaan kirjeet&lt;/h3>
+&lt;p>Eurooppa &lt;strong>2,73&lt;/strong> € (nykyisin 2,50)
+Muu maailma &lt;strong>2,98&lt;/strong> € (nykyisin 2,75)
+Lisäsivu &lt;strong>0,33&lt;/strong> € (nykyisin 0,32)&lt;/p>
+&lt;p>Verkkolaskujen hinnat eivät nouse, vaan lähetevä ja saapuva verkkolasku maksaa edelleen &lt;strong>0,50&lt;/strong> € / kappale.&lt;/p></description></item><item><title>Blog: Kitsas 5.2 Julkaisuehdokas</title><link>/blog/2023/11/13/kitsas-5.2-julkaisuehdokas/</link><pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate><guid>/blog/2023/11/13/kitsas-5.2-julkaisuehdokas/</guid><description>
 &lt;p>Kitsas 5.2 tuo joukon pienehköjä parannuksia sekä korjaa aiemmissa versioissa olleita virheitä. Lisäksi versio on yhteensopiva myöhemmin julkaistavien uusien lisäosien kanssa.&lt;/p>
 &lt;p>Julkaisuehdokas uudesta versiosta on jo nyt yleisesti ladattavissa Windowsille, Macille ja Linuxille. Version testaaminen jatkuu yhä ennen lopullista julkaisua.&lt;/p>
 &lt;ul>
