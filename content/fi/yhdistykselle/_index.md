@@ -238,7 +238,7 @@ Voit myös käyttää Kitsasta täysin maksutta ja ilman rekisteröitymistä, ku
 {{</nosto>}}
 
 {{< nosto title="Tilinpäätös nopsasti" image="tilinpaatos">}}
-Kitsaas laskee poistot ja jaksotukset sekä muodostaa lopuksi vielä valmiit tilinpäätösasiakirjat
+Kitsas laskee poistot ja jaksotukset sekä muodostaa lopuksi vielä valmiit tilinpäätösasiakirjat
 {{</nosto>}}
 
 {{< nosto title="Kohdennukset" image="kohdennus">}}
