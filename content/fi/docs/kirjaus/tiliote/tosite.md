@@ -11,6 +11,23 @@ description: >
 
 Jos käytössäsi on tiliote sähköisessä muodossa, aloita lisäämällä se tositteelle. Useimmiten Kitsas pystyy tunnistamaan tiliotteella olevat tapahtumat ja laskuperusteisessa kirjanpidossa yhdistämään maksut niitä koskeviin laskuihin.
 
+{{<alert title="Tuetut pdf-tiedostot">}}
+Kitsas tukee yleisimpien suomalaisten pankkien verkkopankista ladattuja pdf-muotoisia tiedostoja. Kitsas tunnistaa tiliotteesta avainsanoja, erilaisia merkkijonohahmoja ja tiliotteen ulkoisen rakenteen hahmon, ja poimii niiden perusteella tilitapahtumia.
+
+Tekstien pitää olla upotettuina pdf-tiedostoon. Skannattujen tiliotteiden lukeminen vaatii erittäin hyvin onnistunutta tekstin tunnistamista. 
+
+Ainakin seuraavien pankkien yritystilien tiliotteita on saatu luettua Kitsaaseen
+- Aktia
+- Ålandsbanken
+- Danske Bank 
+- Holvi
+- Nordea 
+- Oma Säästöpankki
+- Osuuspankki
+- Paikallisosuuspankki
+
+{{</alert>}}
+
 Täydennä tiliote valmiiksi
 
 - Niiden menojen ja tulojen osalta, jotka voit kirjata ilman muuta tositetta kuin tiliote, voit täydentää tiliöinnin suoraan kyseisen rivin kohdalle. Valitaksesi esimerkiksi kohdennukset tuplanapsauta riviä päästäksesi [yksityiskohtaisempaan näkymään]({{<relref "tapahtumat">}}).

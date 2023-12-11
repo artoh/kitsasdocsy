@@ -7,7 +7,7 @@ menu:
   main:
     weight: 20
 ---
-{{< blocks/cover title="Tilitoimiston kustannustehokkain työkalu" image_anchor="top" height="min" color="dark" >}}
+{{< blocks/cover title="Tilitoimiston kustannus&shy;tehokkain työkalu" image_anchor="top" height="min" color="dark" >}}
 
 <div class="mx-auto prolead">
 	<p class="lead">Kitsas Pro mahdollistaa tilitoimistoille loppuasiakkaiden palvelemisen kustannustehokkaasti sekä perinteisesti että sähköisiä toimintatapoja hyödyntäen</p>

@@ -1,12 +1,18 @@
 
-.yhdistystesti {
-  background-color: #d5c8ea;
-  padding: 1em;
-  border-radius: 10px;
+.yhdistystesti {    
   margin-top: 1em;
   margin-bottom: 4em;
-  margin-left: 1em;
-  margin-right: 1em;
+}
+
+@media (min-width: 640px) {
+  .yhdistystesti {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 1em;
+    background-color: #d5c8ea;
+    border-radius: 10px;
+  }
+  
 }
 
 .yhdistystesti h2 {
