@@ -5,7 +5,7 @@ description = "Nopeampi kirjaaminen tiliotteelle ja tase-erien selvittely"
 tags = ["beta"]
 categories = ["julkaisu"]
 author = "Arto"
-banner = "/img/banners/tonttupossu.svg"
+banner = "/img/banners/tonttupossu.png"
 +++  
 
 Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia.
