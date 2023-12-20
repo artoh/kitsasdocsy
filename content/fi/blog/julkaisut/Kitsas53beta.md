@@ -12,8 +12,8 @@ Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuks
 
 Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille. Testaaminen jatkuu vielä ennen lopullista julkaisua, joka ajoittuu nuutinpäivän tietämille.
 
-- [Kitsas 5.3 BETA Windows](https://github.com/artoh/kitupiikki/releases/download/untagged-804b7dd2b715887cf153/kitsas-5.3-beta-asennus.exe)
-- [Kitsas 5.3 BETA Linux](https://github.com/artoh/kitupiikki/releases/download/untagged-804b7dd2b715887cf153/Kitsas-5.3-beta-x86_64.AppImage)
+- [Kitsas 5.3 BETA Windows](https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/kitsas-5.3-beta-asennus.exe)
+- [Kitsas 5.3 BETA Linux](https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/Kitsas-5.3-beta-x86_64.AppImage)
 
 Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla `LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.2-rc-x86_64.AppImage`
 
