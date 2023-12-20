@@ -19,6 +19,8 @@ youtube:
 
 Uusi kirjanpito aloitetaan **Aloita**-välilehden **Uusi kirjanpito**-napista.
 
+Tilitoimistokäyttäjät (**Kitsas Pro**) luovat kirjanpidot [Tilitoimisto-näkymästä](/docs/toimisto).
+
 ### Pilveen vai paikallisesti?
 
 ![](/img/fi/aloitus/uusi/1omapilvi.png)

@@ -22,8 +22,9 @@ Tilikartan päivitykset tekevät muutoksia myös raportteihin. Jos päivität my
 - Valitse **Muokka raporttia**-valintalistasta muokattava raportti.
 - **Nimike** -napilla pääset muokkaammaan raportilla tulostuvaa otsikkonimikettä sekä käyttäjälle näytettävää muodon nimeä.
 
-!!! warning "Tiedä, mitä teet"
+{{<alert title="Tiedä, mitä teet" color="warning">}}
 Ole huolellinen muokatessasi tulosteita. Taseen ja tuloslaskelmat muodot on määrätty kirjanpitoa koskevassa lainsäädännössä.
+{{</alert>}}
 
 ### Raporttirivin muokkaus
 
