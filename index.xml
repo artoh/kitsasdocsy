@@ -1,4 +1,25 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2023/12/08/kirjeiden-hinnat-nousevat/</link><pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/08/kirjeiden-hinnat-nousevat/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.3 Beta</title><link>/blog/2023/12/20/kitsas-5.3-beta/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/20/kitsas-5.3-beta/</guid><description>
+&lt;p>Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia.&lt;/p>
+&lt;p>Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille. Testaaminen jatkuu vielä ennen lopullista julkaisua, joka ajoittuu nuutinpäivän tietämille.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/untagged-804b7dd2b715887cf153/kitsas-5.3-beta-asennus.exe">Kitsas 5.3 BETA Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/untagged-804b7dd2b715887cf153/Kitsas-5.3-beta-x86_64.AppImage">Kitsas 5.3 BETA Linux&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla &lt;code>LD_LIBRARY_PATH=&amp;quot;/usr/lib/x86_64-linux-gnu/nss&amp;quot; ./Kitsas-5.2-rc-x86_64.AppImage&lt;/code>&lt;/p>
+&lt;h2 id="suora-kirjaus-tilioteruudukkoon">Suora kirjaus tilioteruudukkoon&lt;/h2>
+&lt;p>Suoraan tiliotenäkymään on nyt mahdollista kirjata kotimaan nettoarvonlisäveroja sekä mm. yhteisömyyntejä ja yhteisöostoja.&lt;/p>
+&lt;h2 id="tase-erien-selvittely">Tase-erien selvittely&lt;/h2>
+&lt;img src="/img/fi/raportit/selvittely.png" class="img-responsive"/>
+&lt;p>&lt;a href="/docs/raportit/taseerittely/selvittely/">Tase-erien selvittelytyökalulla&lt;/a> on nyt mahdollista tehdä myös korjauksia tase-eriin.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Suo hiirellesi joulurauha!</title><link>/blog/2023/12/20/suo-hiirellesi-joulurauha/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/20/suo-hiirellesi-joulurauha/</guid><description>
+&lt;img src="/img/banners/hiirenjoulurauha-banneri.png" class="img-responsive" alt="Anna hiirellesi joulurauha"/>
+&lt;p>Katso &lt;a href="/docs/aloittaminen/nappaimet/">Kitsaan pikanäppäimet&lt;/a> ja anna hiirikätesi levätä - nopeampaa kirjaamista suoraan näppäimistöltä!&lt;/p>
+&lt;p>Ja tiliotteiden kirjaaminen nopeutuu edelleen Kitsaan 5.3 -version myötä, jonka Nuuttipukki tuo heti vuoden 2024 alussa - &lt;a href="/blog/2023/12/20/kitsas-5.3-beta/">beta-versio&lt;/a> on ladattavissa jo nyt!&lt;/p>
+&lt;h3 id="kitsas-helpdesk-auki-myös-vuodenvaihteessa">Kitsas Helpdesk auki myös vuodenvaihteessa&lt;/h3>
+&lt;p>Kitsaan &lt;a href="/tuki/">Helpdesk&lt;/a> auttaa kaikkina arkipäivinä myös joulun ja vuodenvaihteen tietämillä. Helpdeskin henkilökohtainen neuvonta on vain Kitsaan tilaajille kuuluva palvelu.&lt;/p>
+&lt;h3 id="anteliasta-joulua">Anteliasta Joulua!&lt;/h3>
+&lt;p>Kitsas toivottaa kaikille oikein anteliasta ja rauhallista Joulua - Kitsastellaan jälleeen uutena vuotena 2024!&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2023/12/08/kirjeiden-hinnat-nousevat/</link><pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/08/kirjeiden-hinnat-nousevat/</guid><description>
 &lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-112024">Paperipostina lähetettävien laskujen hinnat nousevat 1.1.2024&lt;/h3>
 &lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
 &lt;p>Hinnat nousevat 1.1.2024 alkaen lähetettävissä laskuissa&lt;/p>
