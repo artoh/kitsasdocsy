@@ -3,6 +3,7 @@
 &lt;p>Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille. Testaaminen jatkuu vielä ennen lopullista julkaisua, joka ajoittuu nuutinpäivän tietämille.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/kitsas-5.3-beta-asennus.exe">Kitsas 5.3 BETA Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.3-beta/Kitsas-5.3-beta.dmg">Kitsas 5.3 BETA Mac&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/Kitsas-5.3-beta-x86_64.AppImage">Kitsas 5.3 BETA Linux&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla &lt;code>LD_LIBRARY_PATH=&amp;quot;/usr/lib/x86_64-linux-gnu/nss&amp;quot; ./Kitsas-5.2-rc-x86_64.AppImage&lt;/code>&lt;/p>
