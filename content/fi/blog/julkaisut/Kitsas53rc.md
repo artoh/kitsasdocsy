@@ -5,7 +5,7 @@ description = "Julkasuehdokas uudesta Kitsaasta nyt ladattavissa"
 tags = ["rc"]
 categories = ["julkaisu"]
 author = "Arto"
-banner = "img/banners/kitsas.svg"
+banner = "img/banners/kitsas.png"
 +++  
 
 Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia.
