@@ -40,7 +40,13 @@ Lataa Kitsas maksutta tietokoneellesi
         </p>            
         <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
         <p>Asennusohjelmassa voit valita, asennetaanko Kitsas kaikille käyttäjille (pääkäyttäjän oikeudet vaaditaan) vai pelkästään yksittäiselle käyttäjälle (pääkäyttäjän oikeuksia ei tarvita).</p>
-        <h1><i class="fab fa-windows"></i></h1>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.3 RC</h4>
+        <p>
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-rc/kitsas-5.3-RC-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+            <span class="fa fa-download"></span>&nbsp;Lataa</a>
+        </p>            
+        <p style="margin-top: 1ex;">Mahdollisuus laajempaan kirjaamiseen suoraan tiliotteelle sekä tase-erien selvittelyyn. Uuden Kitsaan version julkaisuehdokas, varsinainen julkaisu myöhemmin tammikuussa 2024.</p>        
+        <h1 style="margin-top: 2em;"><i class="fab fa-windows"></i></h1>
         <h4>Windows 7, 8</h4>      
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.5</h4>
         <p>
@@ -71,9 +77,15 @@ Lataa Kitsas maksutta tietokoneellesi
         <p>Macintosh-julkaisua ylläpitää Petri Aarnio</p>  
         <h1><i class="fab fa-apple"></i></h1>
         <h4>macOS 10.15 tai uudempi</h4>
+<<<<<<< Updated upstream
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.3</h4>
         <p>
           <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.3/Kitsas-4.0.3.dmg" class="btn btn-lg btn-primary">
+=======
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.1.2</h4>
+        <p>
+          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.1.2/Kitsas-5.1.2.dmg" class="btn btn-lg btn-primary">
+>>>>>>> Stashed changes
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>       
         <p>Katso ohjeet ylempää.</p>   
