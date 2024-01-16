@@ -1,6 +1,6 @@
 +++
 title = "Kitsas 5.3 RC"
-date = "2023-12-20"
+date = "2024-01-16"
 description = "Julkasuehdokas uudesta Kitsaasta nyt ladattavissa"
 tags = ["rc"]
 categories = ["julkaisu"]
