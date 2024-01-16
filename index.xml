@@ -1,19 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.3 Beta</title><link>/blog/2023/12/20/kitsas-5.3-beta/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/20/kitsas-5.3-beta/</guid><description>
-&lt;p>Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia.&lt;/p>
-&lt;p>Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille. Testaaminen jatkuu vielä ennen lopullista julkaisua, joka ajoittuu nuutinpäivän tietämille.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/kitsas-5.3-beta-asennus.exe">Kitsas 5.3 BETA Windows&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.3-beta/Kitsas-5.3-beta.dmg">Kitsas 5.3 BETA Mac&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/Kitsas-5.3-beta-x86_64.AppImage">Kitsas 5.3 BETA Linux&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla &lt;code>LD_LIBRARY_PATH=&amp;quot;/usr/lib/x86_64-linux-gnu/nss&amp;quot; ./Kitsas-5.2-rc-x86_64.AppImage&lt;/code>&lt;/p>
-&lt;h2 id="suora-kirjaus-tilioteruudukkoon">Suora kirjaus tilioteruudukkoon&lt;/h2>
-&lt;p>Suoraan tiliotenäkymään on nyt mahdollista kirjata kotimaan nettoarvonlisäveroja sekä mm. yhteisömyyntejä ja yhteisöostoja.&lt;/p>
-&lt;h2 id="tase-erien-selvittely">Tase-erien selvittely&lt;/h2>
-&lt;img src="/img/fi/raportit/selvittely.png" class="img-responsive"/>
-&lt;p>&lt;a href="/docs/raportit/taseerittely/selvittely/">Tase-erien selvittelytyökalulla&lt;/a> on nyt mahdollista tehdä myös korjauksia tase-eriin.&lt;/p>
-&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 5.3 RC</title><link>/blog/2023/12/20/kitsas-5.3-rc/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/20/kitsas-5.3-rc/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.3 RC</title><link>/blog/2024/01/16/kitsas-5.3-rc/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/2024/01/16/kitsas-5.3-rc/</guid><description>
 &lt;p>Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia.&lt;/p>
 &lt;p>Tämä Kitsaan versio on jo täysin käyttökelponen. Pyrimme julkaisemaan varsinaisen 5.3 -version tammikuun aikana.&lt;/p>
 &lt;ul>
@@ -24,6 +9,21 @@
 &lt;h2 id="suora-kirjaus-tilioteruudukkoon">Suora kirjaus tilioteruudukkoon&lt;/h2>
 &lt;p>Suoraan tiliotenäkymään on nyt mahdollista kirjata kotimaan nettoarvonlisäveroja sekä mm. yhteisömyyntejä ja yhteisöostoja.&lt;/p>
 &lt;p>&lt;strong>Huom!&lt;/strong> Versiolla 5.3 kirjattuja tiliotteita ei voi täysin käsitellä Kitsaan vanhemmilla versioilla!&lt;/p>
+&lt;h2 id="tase-erien-selvittely">Tase-erien selvittely&lt;/h2>
+&lt;img src="/img/fi/raportit/selvittely.png" class="img-responsive"/>
+&lt;p>&lt;a href="/docs/raportit/taseerittely/selvittely/">Tase-erien selvittelytyökalulla&lt;/a> on nyt mahdollista tehdä myös korjauksia tase-eriin.&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 5.3 Beta</title><link>/blog/2023/12/20/kitsas-5.3-beta/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><guid>/blog/2023/12/20/kitsas-5.3-beta/</guid><description>
+&lt;p>Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia.&lt;/p>
+&lt;p>Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille. Testaaminen jatkuu vielä ennen lopullista julkaisua, joka ajoittuu nuutinpäivän tietämille.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/kitsas-5.3-beta-asennus.exe">Kitsas 5.3 BETA Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.3-beta/Kitsas-5.3-beta.dmg">Kitsas 5.3 BETA Mac&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-beta/Kitsas-5.3-beta-x86_64.AppImage">Kitsas 5.3 BETA Linux&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla &lt;code>LD_LIBRARY_PATH=&amp;quot;/usr/lib/x86_64-linux-gnu/nss&amp;quot; ./Kitsas-5.2-rc-x86_64.AppImage&lt;/code>&lt;/p>
+&lt;h2 id="suora-kirjaus-tilioteruudukkoon">Suora kirjaus tilioteruudukkoon&lt;/h2>
+&lt;p>Suoraan tiliotenäkymään on nyt mahdollista kirjata kotimaan nettoarvonlisäveroja sekä mm. yhteisömyyntejä ja yhteisöostoja.&lt;/p>
 &lt;h2 id="tase-erien-selvittely">Tase-erien selvittely&lt;/h2>
 &lt;img src="/img/fi/raportit/selvittely.png" class="img-responsive"/>
 &lt;p>&lt;a href="/docs/raportit/taseerittely/selvittely/">Tase-erien selvittelytyökalulla&lt;/a> on nyt mahdollista tehdä myös korjauksia tase-eriin.&lt;/p>
