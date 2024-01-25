@@ -1,4 +1,23 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.3 RC</title><link>/blog/2024/01/16/kitsas-5.3-rc/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/2024/01/16/kitsas-5.3-rc/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.3</title><link>/blog/2024/01/25/kitsas-5.3/</link><pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/2024/01/25/kitsas-5.3/</guid><description>
+&lt;p>Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia. &lt;a href="/lataa">Lataa Kitsas 5.3 maksutta Windowsille ja Linuxille&lt;/a>&lt;/p>
+&lt;h2 id="suora-kirjaus-tilioteruudukkoon">Suora kirjaus tilioteruudukkoon&lt;/h2>
+&lt;img src="/img/screenshots/tiliote53.png" class="img-responsive"/>
+&lt;p>Suoraan tiliotenäkymään on nyt mahdollista kirjata kotimaan nettoarvonlisäveroja sekä mm. yhteisömyyntejä ja yhteisöostoja.&lt;/p>
+&lt;h2 id="tase-erien-selvittely">Tase-erien selvittely&lt;/h2>
+&lt;img src="/img/fi/raportit/selvittely.png" class="img-responsive"/>
+&lt;p>&lt;a href="/docs/raportit/taseerittely/selvittely/">Tase-erien selvittelytyökalulla&lt;/a> on nyt mahdollista tehdä myös korjauksia tase-eriin. Työkalu on käytössä vain Kitsaan pilveen tallennetuissa kirjanpidoissa.&lt;/p>
+&lt;h2 id="tilinpäätöstyökalut">Tilinpäätöstyökalut&lt;/h2>
+&lt;img src="/img/screenshots/omapaaomaoy.png" class="img-responsive"/>
+&lt;p>Tilinpäätökseen on mahdollista sisällyttää oman pääoman erittelyjä osakeyhtiöille sekä elinkeinonharjoittajille. Ominaisuus edellyttää tilikartan päivittämistä. Lisäksi yksityistilien päättämiselle tilinpäätöksen yhteydessä on uusi työkalunsa.&lt;/p>
+&lt;div class="alert alert-primary" role="alert">
+&lt;h4 class="alert-heading">Huomattavaa päivittämisessä&lt;/h4>
+&lt;p>Tällä versiolla kirjatut tiliotteet, joissa on alv-kirjauksia, eivät avaudu oikein Kitsaan vanhemmilla versioilla. Vältä siis käyttämästä useampaa Kitsaan versiota samaa kirjanpitoa käsiteltäessä.&lt;/p>
+&lt;p>Tilikartan päivittäminen korvaa tilien nimiä ja raportteja uudemmalla versiolla. Huomio tämä, jos olet muokannut tilejä tai raportteja.&lt;/p>
+&lt;/div>
+&lt;p>Kitsaan version 5.3 tunnuskasvina on &lt;a href="https://fi.wikipedia.org/wiki/Pionit">pioni&lt;/a>&lt;/p></description></item><item><title>Blog: Ohjevideo tase-erittelystä</title><link>/blog/2024/01/25/ohjevideo-tase-erittelyst%C3%A4/</link><pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/2024/01/25/ohjevideo-tase-erittelyst%C3%A4/</guid><description>
+&lt;div style="padding:56.25% 0 0 0;position:relative;">&lt;iframe src="https://player.vimeo.com/video/906298061?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kitsaan tase-erittelyt">&lt;/iframe>&lt;/div>&lt;script src="https://player.vimeo.com/api/player.js">&lt;/script>
+&lt;p>Videolla esitelty tase-erien selvittelytyökalu on käytettävissä ainoastaan Kitsaan uusimmilla versioilla kun kirjanpito on tallennettu Kitsaan pilveen.&lt;/p>
+&lt;p>Katso lisää &lt;a href="/docs/raportit/taseerittely/selvittely/">ohjeista&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 5.3 RC</title><link>/blog/2024/01/16/kitsas-5.3-rc/</link><pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate><guid>/blog/2024/01/16/kitsas-5.3-rc/</guid><description>
 &lt;p>Kitsas 5.3 tuo mukanaan joukon etenkin ammattikirjanpitäjien toivomia parannuksia.&lt;/p>
 &lt;p>Tämä Kitsaan versio on jo täysin käyttökelponen. Pyrimme julkaisemaan varsinaisen 5.3 -version tammikuun aikana.&lt;/p>
 &lt;ul>
