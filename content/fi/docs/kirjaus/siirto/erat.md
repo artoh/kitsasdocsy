@@ -5,6 +5,9 @@ keywords: ["tase-erat"]
 weight: 10
 description: >
   Tase-erien avulla seurataan mm. laskujen maksamista
+vimeo:
+- id: 906298061
+  title: Tase-erät ja tase-erien selvittely    
 ---
 
 #### Tase-erät ja tase-erittely

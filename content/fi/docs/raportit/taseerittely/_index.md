@@ -5,6 +5,9 @@ keywords: ["tase-erat"]
 weight: 70
 description: >
   Tase-erittely esittää, mistä tase koostuu.
+vimeo:
+- id: 906298061
+  title: Tase-erät ja tase-erien selvittely
 ---
 
 ![](/img/fi/raportit/taseerittelydlg.png)

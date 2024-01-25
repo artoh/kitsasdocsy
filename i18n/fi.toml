@@ -72,6 +72,9 @@ other = "Lataa"
 [kitsas_youtube]
 other = "Kitsaan YouTube-kanavalla"
 
+[kitsas_vimeo]
+other = "Videot Kitsaan Vimeo-kanavalla"
+
 [authorBy]
 other = "Kirjoittanut"
 

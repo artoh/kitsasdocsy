@@ -33,19 +33,13 @@ Lataa Kitsas maksutta tietokoneellesi
       <div class="container">
         <h1><i class="fab fa-windows"></i></h1>
         <h4>Windows 10, 11</h4>      
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.1.1</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.3</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.1.1/kitsas-5.1.1-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.3/kitsas-5.3-asennus.exe" class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>            
         <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
-        <p>Asennusohjelmassa voit valita, asennetaanko Kitsas kaikille käyttäjille (pääkäyttäjän oikeudet vaaditaan) vai pelkästään yksittäiselle käyttäjälle (pääkäyttäjän oikeuksia ei tarvita).</p>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.3 RC</h4>
-        <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.3-rc/kitsas-5.3-RC-asennus.exe" class="btn btn-lg btn-primary latausnappi">
-            <span class="fa fa-download"></span>&nbsp;Lataa</a>
-        </p>            
-        <p style="margin-top: 1ex;">Mahdollisuus laajempaan kirjaamiseen suoraan tiliotteelle sekä tase-erien selvittelyyn. Uuden Kitsaan version julkaisuehdokas, varsinainen julkaisu myöhemmin tammikuussa 2024.</p>        
+        <p>Asennusohjelmassa voit valita, asennetaanko Kitsas kaikille käyttäjille (pääkäyttäjän oikeudet vaaditaan) vai pelkästään yksittäiselle käyttäjälle (pääkäyttäjän oikeuksia ei tarvita).</p>        
         <h1 style="margin-top: 2em;"><i class="fab fa-windows"></i></h1>
         <h4>Windows 7, 8</h4>      
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.5</h4>
@@ -77,15 +71,9 @@ Lataa Kitsas maksutta tietokoneellesi
         <p>Macintosh-julkaisua ylläpitää Petri Aarnio</p>  
         <h1><i class="fab fa-apple"></i></h1>
         <h4>macOS 10.15 tai uudempi</h4>
-<<<<<<< Updated upstream
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 4.0.3</h4>
         <p>
           <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v4.0.3/Kitsas-4.0.3.dmg" class="btn btn-lg btn-primary">
-=======
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.1.2</h4>
-        <p>
-          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.1.2/Kitsas-5.1.2.dmg" class="btn btn-lg btn-primary">
->>>>>>> Stashed changes
           <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>       
         <p>Katso ohjeet ylempää.</p>   
@@ -95,18 +83,20 @@ Lataa Kitsas maksutta tietokoneellesi
     <div class="tab-pane fade" id="pills-linux" role="tabpanel" aria-labelledby="pills-contact-tab" style="text-align: center;">
       <div class="container">
         <h1><i class="fab fa-linux"></i></h1>
-        <h4>Linux (Vähintään Ubuntu 22.04 tai vastaava)</h4>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.1</h4>
+        <h4>Linux</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.3</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.1/Kitsas-5.1-x86_64.AppImage" class="btn btn-lg btn-primary">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.3/Kitsas-5.3-x86_64.AppImage" class="btn btn-lg btn-primary">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>           
         64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 22.04 ja uudemmat       
         <ol style="text-align: left;">
           <li>Lataa asennustiedosto</li>
           <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
-          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas*.AppImage</code></li>
-          <li>Ensimmäisellä käynnistyskerralla Kitsas kysyy, haluatko lisätä ohjelman käynnistysvalikkoon.</li>
+          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.3-x86_64.AppImage</code><br>
+          Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.3-x86_64.AppImage</code>
+
+</li>          
         </ol>  
         <h1><i class="fab fa-linux"></i></h1>
         <h4>Linux (Ubuntu 18.04 tai vastaava)</h4>

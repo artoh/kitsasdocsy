@@ -9,6 +9,7 @@
 		{{ if .Params.premium }} {{ partial "premium-only" . }} {{ end }}
 		{{ if .Params.pro }} {{ partial "pro-only" . }} {{ end }}
 		{{ with .Params.versio}} {{partial "versio" .}} {{end}}
+		{{ partial "vimeo.html" . }}
 		{{ partial "videot.html" . }}
 	{{ .Content }}
         {{ partial "section-index.html" . }}

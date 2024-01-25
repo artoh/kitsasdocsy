@@ -1,0 +1,14 @@
+{{ $videot := .Params.vimeo }}
+{{ with $videot }}
+<div class="videot">	
+	<h5 class="videot">{{ T "kitsas_vimeo" }}</h5>
+	<ul class="fa-ul videot">
+	{{ range . }}
+		<li>
+			<span class="fa-li fab fa-vimeo"></span> <a href="https://vimeo.com/{{.id}}">{{ .title }}</a><br/>
+			{{ .description }}
+		</li>
+	{{ end }}
+	</ul>
+</div>
+{{ end }}

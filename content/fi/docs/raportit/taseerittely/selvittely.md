@@ -5,6 +5,9 @@ keywords: ["tase-erat"]
 weight: 10
 cloud: true
 versio: "5.3"
+vimeo:
+- id: 906298061
+  title: Tase-erät ja tase-erien selvittely  
 description: >
   Tase-erien tutkiminen sekä korjaaminen
 --- 
