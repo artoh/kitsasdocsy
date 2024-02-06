@@ -5,15 +5,30 @@ weight: 40
 description: >
   Kirjaa tilitapahtumia joko kirjaustoiminnolla tai suoraan ruudukkoon kirjoittamalla. Tilitapahtumat voivat olla laskujen maksuja, tuloja, menoja, siirtoja tai hyvityksiä.
 keywords: ["laskunmaksu"]
+versio: 5.4
 ---
 
 **Kirjaa tilitapahtumia**-painikkeella pääset tilitapahtumien kirjausikkunaan. Voit kirjata peräkkäin useampia tilitapahtumia painamalla jokaisen tapahtuman jälkeen **Kirjaa**-nappia. **Sulje** lopuksi kirjausikkuna, tarkasta tiliotteen kirjaukset ja tallenna tiliote.
+
+{{<alert title="Etumerkin käyttö" color="info">}}
+
+Kirjattaessa suoraan ruudukkoon kirjataan menot miinusmerkkisinä.
+
+Kirjattaessa erillisellä valintaikkunalla ei etumerkkiä käytetä, vaan valinta tehdään ylälaidan **Tilille**/**Tililtä**-välilehdillä.
+
+{{</alert>}}
+
+![](/img/fi/kirjaus/tiliote/riveille.png)
+
+Yksinkertaiset menot, tulot ja siirrot voit kirjata myös suoraan tilioteruudukolle.
 
 {{<alert title="Kirjaaminen tiliotteelta">}}
 
 Tiliotteelta voit kirjata ne tulot, menot, hyvitykset ja siirrot, joista käy ilmi myös maksun peruste. Jos maksusta on olemassa erillinen tosite, kirjaa maksu sen perusteella.
 
-Erityisesti elinkeinotoiminnassa edellytetään, että myynneistä ja ostoista on laadittava kirjanpitoon liitettävä lasku. Jotta ostaja saa vähentää arvonlisäveron kirjanpidostaan, on laskun täytettävä [verottajan laskuvaatimukset](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48090/laskutusvaatimukset-arvonlis%C3%A4verotuksessa/). Tällaisista verollisista maksuista voidaan tiliotteelta kirjata lähinnä pankin perimä verkkolaskujen välitysmaksu jonka arvonlisävero on erikseen mainittu tiliotteeseen.
+Erityisesti elinkeinotoiminnassa edellytetään, että myynneistä ja ostoista on laadittava kirjanpitoon liitettävä lasku. Jotta ostaja saa vähentää arvonlisäveron kirjanpidostaan, on laskun täytettävä [verottajan laskuvaatimukset](https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/48090/laskutusvaatimukset-arvonlisaverotuksessa3/). 
+
+Kitsaassa ei ole mahdollista tehdä tiliotetositteella arvonlisäverollisia kirjauksia tasetileille. **Käyttöomaisuuden osto ja myynti** on kirjattava erillisellä tositteella. Voit muodostaa helposti erillisen tositteen tiliotteen rivin perusteella **Tosite**-painikkeella.
 
 {{</alert>}}
 
@@ -59,7 +74,7 @@ Tällä välilehdellä kirjaat laskuperusteisesti kirjattujen ostolaskujen suori
 
 #### Meno
 
-![](/img/fi/kirjaus/tiliote/meno.png)
+![](/img/fi/kirjaus/tiliote/menoa.png)
 
 Tällä välilehdellä kirjaat menot, joista ei ole muuta tositetta kuin tiliote. **Lisää vienti**-panikkeella voit jakaa tilioterivin useammaksi vienniksi esimerkiksi eri kirjanpitotileille.
 

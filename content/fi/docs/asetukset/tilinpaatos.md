@@ -87,6 +87,7 @@ Pelkkä **#** lopettaa ehdon, ja sen jälkeen rivit tulostuvat jälleen kaikilla
   K | Erittely kustannuspaikoittain
   P | Erittely projekteittain
   B | Budjettivertailu
+- `@?` määrittää laskentaehdon, jolla seuraavat rivit tulostuvat
 - `@henkilosto@` lisää taulukon henkilöstön määrästä tällä ja edellisellä tilikaudella
 
 ```
@@ -94,6 +95,21 @@ Pelkkä **#** lopettaa ehdon, ja sen jälkeen rivit tulostuvat jälleen kaikilla
 <h2>Henkilöstön määrä</h2>
 @henkilosto@
 ```
+
+**{{ }}**-merkkien välissä voidaan esittää laskentakaavoja tai muuttujia
+- Muuttujat *alkupvm*, *loppupvm*, *edkausi.alkupvm*, *edkausi.loppupvm*, *kotipaikka*, *pvm*, *kayttaja.nimi*
+- Laskentakaavassa voidaan tilejä ja tiliryhmiä esittää samalla tavalla kuin raporteilla, tilin numeroa edeltää kuitenkin kirjain
+  - **e** - saldo tämän tilikauden lopussa
+  - **s** - saldo tämän tilikauden alussa
+  - **d** - saldon muutos tämän tilikauden aikana
+  - **E** - saldo edeltävän tilikauden lopussa
+  - **S** - saldo edeltävän tilikauden alussa
+  - **D** - saldon muutos edeltävän tilikauden aikana
+
+**^^^^** laskee taulukon alimmalle riville kyseisen sarakkeen sarakesumman.
+
+Jos laskentataulukossa jollakin rivillä kaikkiin paitsi ensimmäiseen soluun tulee lukuarvoksi **0,00 €**, jätetään tämä rivi tulostamatta
+
 
 {{<alert title="DevTool">}}
 Tilikartan kaikkiin asetuksiin pääsee käsiksi **DevTool**-työkalulla, joka käynnistyy painamalla <kbd>Ctrl</kbd>+<kbd>D</kbd>. Käytä työkalua vain todelliseen tarpeeseen!
