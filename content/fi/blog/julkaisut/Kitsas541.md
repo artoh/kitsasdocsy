@@ -7,7 +7,7 @@ author = "Arto"
 banner = "img/versions/54-neilikka.svg"
 +++  
 
-[Lataa Kitsas 5.4.1 maksutta Windowsille ja Linuxille](/lataa)
+[Lataa Kitsas 5.4.1 maksutta Windowsille, Macille ja Linuxille](/lataa)
 
 
 ## Alarajahuojennuksen muokkaus

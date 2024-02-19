@@ -40,12 +40,6 @@ Lue ohjeita
 <p><span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>
 <span class="fa fa-phone"></span> 044 333 5019<br/>    
 Helpdesk palvelee arkisin klo 9-14</p>
-
-<a class="btn btn-lg btn-primary" style="margin-top: 1em; margin-bottom: 1em;" href="https://www.taloudenohjelmistopalvelut.fi/kitsas-helpdesk">
-Kitsas Helpdesk
-</a>
-</p>
-</p>
 {{< /blocks/huomio >}}
 
 
