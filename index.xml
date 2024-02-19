@@ -1,5 +1,5 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.4.1</title><link>/blog/2024/02/06/kitsas-5.4.1/</link><pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate><guid>/blog/2024/02/06/kitsas-5.4.1/</guid><description>
-&lt;p>&lt;a href="/lataa">Lataa Kitsas 5.4.1 maksutta Windowsille ja Linuxille&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/lataa">Lataa Kitsas 5.4.1 maksutta Windowsille, Macille ja Linuxille&lt;/a>&lt;/p>
 &lt;h2 id="alarajahuojennuksen-muokkaus">Alarajahuojennuksen muokkaus&lt;/h2>
 &lt;img src="/img/fi/alv/huojennus.png" class="img-responsive"/>
 &lt;p>Jos Kitsas ei pysty laskemaan alarajahuojennuksessa tarvittavia tietoja, voi käyttäjä nyt myös syöttää ne itse. Tämä on usein tarpeen silloin, kun Kitsaan käyttöön on siirrytty kesken tilikauden, tai jos yrityksellä on esimerkiksi metsätalouden tuloja.&lt;/p>
