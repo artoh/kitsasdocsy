@@ -1,10 +1,10 @@
 +++
-title = "Kitsas 5.4.3
+title = "Kitsas 5.4.3"
 date = "2024-02-26"
 description = "Kitsaan korjauspäivitys julkaistu"
 categories = ["julkaisu"]
 author = "Arto"
-banner = "img/banners/kitsas.png
+banner = "img/banners/kitsas.png"
 +++  
 
 # Kitsaan korjauspäivitys julkaistu
