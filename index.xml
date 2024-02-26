@@ -1,4 +1,8 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.4.1</title><link>/blog/2024/02/06/kitsas-5.4.1/</link><pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate><guid>/blog/2024/02/06/kitsas-5.4.1/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.4.3</title><link>/blog/2024/02/26/kitsas-5.4.3/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>/blog/2024/02/26/kitsas-5.4.3/</guid><description>
+&lt;h1 id="kitsaan-korjauspäivitys-julkaistu">Kitsaan korjauspäivitys julkaistu&lt;/h1>
+&lt;p>Päivityksessä on korjattu projekti- ja kohdennusraporttien lajittelua sekä budjettilukemien käsittelyä.&lt;/p>
+&lt;p>Lisäksi muunnettaessa tilioteriviä menotositteeksi säilyy myös tiliöimättömien rivien etumerkki. Myös euromäärien muokkaus on parannettu niin, että miinusmerkki poistuu myös askelpalauttimella.&lt;/p>
+&lt;p>&lt;a href="/lataa">Lataa Kitsas 5.4.3 maksutta Windowsille, Macille ja Linuxille&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 5.4.1</title><link>/blog/2024/02/06/kitsas-5.4.1/</link><pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate><guid>/blog/2024/02/06/kitsas-5.4.1/</guid><description>
 &lt;p>&lt;a href="/lataa">Lataa Kitsas 5.4.1 maksutta Windowsille, Macille ja Linuxille&lt;/a>&lt;/p>
 &lt;h2 id="alarajahuojennuksen-muokkaus">Alarajahuojennuksen muokkaus&lt;/h2>
 &lt;img src="/img/fi/alv/huojennus.png" class="img-responsive"/>
