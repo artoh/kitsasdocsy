@@ -244,15 +244,13 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     </tr>   
     <tr>
       <td>Kotimaa, Priority</td>
-       <td><span class="txt-l">2,55</span> <span class="txt-top">&euro;/kpl</span>
-       <br/>1.1.2024 alkaen<br/>
+       <td>
        <span class="txt-l">2,69</span> <span class="txt-top">&euro;/kpl</span>
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
-        <td><span class="txt-l">1,95</span> <span class="txt-top">&euro;/kpl</span>
-        <br/>1.1.2024 alkaen<br/>
+        <td>        
         <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span>        
         </td>
       </tr>  
@@ -266,20 +264,17 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       </tr>  
       <tr>
         <td>Eurooppa</td>
-         <td class=""><span class="txt-l">2,50</span> <span class="txt-top">&euro;/kpl</span>
-         <br/>1.1.2024 alkaen<br/>
+         <td class="">
          <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>         
        </tr>         
       <tr>
         <td>Muu maailma</td>
-       <td class=""><span class="txt-l">2,75</span> <span class="txt-top">&euro;/kpl</span>
-       <br/>1.1.2024 alkaen<br/>
+       <td class="">
        <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>               
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
-       <td class=""><span class="txt-l">0,32</span> <span class="txt-top">&euro;/sivu</span>
-       <br/>1.1.2024 alkaen<br/>
+       <td class="">
        <span class="txt-l">0,33</span> <span class="txt-top">&euro;/kpl</span>               
     </tr>              
   </tbody>

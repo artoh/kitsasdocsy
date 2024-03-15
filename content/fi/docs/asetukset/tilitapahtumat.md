@@ -16,9 +16,9 @@ Tilitietojen hakeminen on toteutettu [PSD2-maksupalveludirektiivin](https://www.
 
 {{<alert title="Muutoksia palveluun">}}
 
-Palveluntarjoajamme Nordigenin yritysjärjestelyihin liittyen palveluun on odotettavissa muutoksia lähikuukausien aikana.
+Siirrymme toukokuussa 2024 käyttämään tilitietojen palvelun tarjoajana suomalaista Enable Bankingia. Samalla otamme käyttöön uuden pankkiyhteyslisäosan. Tässä yhteydessä kaikki tilit on valtuutettava uudelleen elokuun loppuun mennessä.
 
-Palveluntarjoajamme on muuttamassa palvelua maksulliseksi, minkä takia joudumme valitettavasti luopumaan tilitapahtumien hakemisen maksuttomuudesta. Tiedotamme lisää, kun saamme enemmän tietoa tilanteesta.
+Tilitietojen hakemisen maksu 1,00 € / pankkitili / kk (+ alv 24 %) otetaan käyttöön 1.10.2024
 
 {{</alert>}}
 
