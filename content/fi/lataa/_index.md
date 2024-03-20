@@ -95,7 +95,7 @@ Lataa Kitsas maksutta tietokoneellesi
           <li>Lataa asennustiedosto</li>
           <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
           <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.4.1L-x86_64.AppImage</code><br>
-          Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.4.1L-x86_64.AppImage</code>
+          Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.4.3-x86_64.AppImage</code>
 
 </li>          
         </ol>  
