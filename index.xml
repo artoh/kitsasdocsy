@@ -1,4 +1,14 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Palvelinpäivitys 19. - 20.4.</title><link>/blog/2024/03/20/palvelinp%C3%A4ivitys-19.-20.4./</link><pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate><guid>/blog/2024/03/20/palvelinp%C3%A4ivitys-19.-20.4./</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.5 Beta</title><link>/blog/2024/04/03/kitsas-5.5-beta/</link><pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate><guid>/blog/2024/04/03/kitsas-5.5-beta/</guid><description>
+&lt;p>Kitsas 5.5 tuo paremman tuen huhtikuun lopun palvelinpäivityksen myötä käyttöön otettaviin Kitsaan lisäominaisuuksiin.&lt;/p>
+&lt;p>Lisäksi ohjelmassa on parannettu tiliotteiden kirjaamista niin, että käytännössä kaikki tulo- ja menotapahtumat, kaikilla alv-lajeilla, on mahdollista kirjata tiliotetositteella. Mukana on myös joukko pienempiä korjauksia, liittyen esimerkiksi tositteiden kommentointiin sekä taseen valvontaan.&lt;/p>
+&lt;p>Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.5-beta.2/kitsas-5.5-beta.2-asennus.exe">Kitsas 5.5 BETA.2 Windows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.5-beta.2/Kitsas-5.5-beta.2-x86_64.AppImage">Kitsas 5.5 BETA.2 Linux&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla &lt;code>LD_LIBRARY_PATH=&amp;quot;/usr/lib/x86_64-linux-gnu/nss&amp;quot; ./Kitsas-5.5-beta.2-x86_64.AppImage&lt;/code>&lt;/p>
+&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Palvelinpäivitys 19. - 20.4.</title><link>/blog/2024/03/20/palvelinp%C3%A4ivitys-19.-20.4./</link><pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate><guid>/blog/2024/03/20/palvelinp%C3%A4ivitys-19.-20.4./</guid><description>
 &lt;p>Päivitämme Kitsaan palvelimen ja tämän takia pilvipalveluissa on käyttökatko.&lt;/p>
 &lt;p>Katko alkaa &lt;strong>perjantaina 19.4.2024 kello 22.00&lt;/strong>&lt;/p>
 &lt;p>Katko päättyy &lt;strong>lauantaina 20.4.2024 kello 09.00&lt;/strong>&lt;/p>
@@ -846,14 +856,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;p>RC:n myötä avaamme kokeilukäyttöön myös Kitsaan pilven. Kirjanpito on siis mahdollista tallentaan suomalaiselle, varmuuskopioidulle palvelimelle. Pilvessä olevaa kirjanpitoa voi käyttää turvallisesti monta käyttäjää samanaikaisesti.&lt;/p>
 &lt;p>Samoin kokeilukäyttöön on avattu verkkolaskutus sekä jpg-muodossa olevien kuittien tekstintunnistus. Huomaathan, että teksintunnistus vaatii hyvänlaatuisen kuvan ja kestää tavallisesti 5-10 sekuntia yhtä kuvaa kohden.&lt;/p>
 &lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
-&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Verkkolasku käyttöön</title><link>/blog/2020/03/04/verkkolasku-k%C3%A4ytt%C3%B6%C3%B6n/</link><pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate><guid>/blog/2020/03/04/verkkolasku-k%C3%A4ytt%C3%B6%C3%B6n/</guid><description>
-&lt;h2 id="verkkolaskulaki-tulee">Verkkolaskulaki tulee&lt;/h2>
-&lt;p>1.4.2020 alkaen kaikkien yli 10 000 euron liikevaihdon yritysten pitää toimittaaa ja vastaanottaa laskunsa verkkolaskuina, jos vastapuoli sitä pyytää.&lt;/p>
-&lt;p>Kitsaaseen verkkolaskuominaisuus on toteutettu osittain palvelimella, joten se on käytössä ainoastaan maksullisen tilauksen yhteydessä.&lt;/p>
-&lt;img src="/img/banners/verkkolasku.png" class="img-responsive"/>
-&lt;h2 id="paikallinen-muodostaminen">Paikallinen muodostaminen&lt;/h2>
-&lt;p>Kitsas voidaan määritellä muodostamaan luotavat verkkolaskut tietokoneella olevaan kansioon, jolloin käyttäjä huolehtii xml-muodossa olevien laskujen toimittamisesta verkkolaskuoperaattorille.&lt;/p>
-&lt;p>Vastaavasti Kitsaan tositteeseen voidaan lisätä verkkolasku raahaamalla xml-tiedosto tositteelle.&lt;/p>
-&lt;h2 id="integrointi-maventan-verkkolaskuihin">Integrointi Maventan verkkolaskuihin&lt;/h2>
-&lt;p>Maventan asiakkaat voivat lähettää Kitsaasta verkkolaskuja suoraan nappia painamalla. Kitsas osaa myös hakea Maventan palveluun saapuvat verkkolaskut.&lt;/p>
-&lt;p>Maventa laskuttaa verkkolaskujen lähettämisestä ja vastaanottamisesta oman hinnastonsa mukaisesti.&lt;/p></description></item></channel></rss>
+&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
