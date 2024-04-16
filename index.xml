@@ -1,4 +1,14 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.5 Beta</title><link>/blog/2024/04/03/kitsas-5.5-beta/</link><pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate><guid>/blog/2024/04/03/kitsas-5.5-beta/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.5</title><link>/blog/2024/04/15/kitsas-5.5/</link><pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate><guid>/blog/2024/04/15/kitsas-5.5/</guid><description>
+&lt;p>Kitsas 5.5 parantaa tiliotteiden kirjaamista. Lisäksi päivitys parantaa yhteensopivuutta huhtikuun palvelinpäivityksessä käyttöön otettavien uuden tilitoimistonäkymän sekä uusien lisäosien kanssa.&lt;/p>
+&lt;p>&lt;a href="/lataa">Lataa Kitsas 5.5 maksutta&lt;/a>&lt;/p>
+&lt;p>Suosittelemme Kitsaan päivittämistä kaikille käyttäjille, erityisesti Kitsas Pro:ta käyttäville tilitoimistoille.&lt;/p>
+&lt;h2 id="uusi-toimistonäkymä">Uusi toimistonäkymä&lt;/h2>
+&lt;img src="/img/fi/toimisto/beta1.png" class="img-responsive"/>
+&lt;p>Palvelinpäivityksen myötä otamme käyttöön uuden toimistonäkymän, jossa voi monipuolisemmin selata toimiston kirjanpitojen tietoja. Palvelinpäivityksen jälkeen toimistonäkymä on edellyttää vähintään Kitsaan versiota 5.4.&lt;/p>
+&lt;h2 id="kitsaan-lisäosat">Kitsaan lisäosat&lt;/h2>
+&lt;img src="/img/fi/lisaosa/pankkiyhteys.png" class="img-responsive"/>
+&lt;p>Palvelinpäivityksessä avaamme myös uusia lisäosia, ensimmäisenä uudistettu tilitapahtumien haku Enable Bankingin kautta.&lt;/p>
+&lt;p>Kitsaan version 5.5 tunnuskasvi on &lt;a href="https://fi.wikipedia.org/wiki/Voikukat">voikukka&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 5.5 Beta</title><link>/blog/2024/04/03/kitsas-5.5-beta/</link><pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate><guid>/blog/2024/04/03/kitsas-5.5-beta/</guid><description>
 &lt;p>Kitsas 5.5 tuo paremman tuen huhtikuun lopun palvelinpäivityksen myötä käyttöön otettaviin Kitsaan lisäominaisuuksiin.&lt;/p>
 &lt;p>Lisäksi ohjelmassa on parannettu tiliotteiden kirjaamista niin, että käytännössä kaikki tulo- ja menotapahtumat, kaikilla alv-lajeilla, on mahdollista kirjata tiliotetositteella. Mukana on myös joukko pienempiä korjauksia, liittyen esimerkiksi tositteiden kommentointiin sekä taseen valvontaan.&lt;/p>
 &lt;p>Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille&lt;/p>
@@ -848,12 +858,5 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;h2 id="asunto-osakeyhtiön-tilikartta">Asunto-osakeyhtiön tilikartta&lt;/h2>
 &lt;p>Päivitys tuo mukanaan asunto-osakeyhtiön tilikartan. Tilikartta on yhteensopiva Kitupiikin asunto-osakeyhtiön tilikartan kanssa.&lt;/p>
 &lt;p>Maventan asiakkailla on mahdollisuus hakea verkkolaskuosoitteita suoraan ohjelmasta. Kitupiikistä tunnetut toiminnot Kopioi pohjaksi &lt;kbd>Ctrl&lt;/kbd>+&lt;kbd>T&lt;/kbd> ja Siirry tositteeseen tunnisteella &lt;kbd>Ctrl&lt;/kbd>+&lt;kbd>G&lt;/kbd> ovat jälleen käytössä.&lt;/p>
-&lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
-&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.0 RC</title><link>/blog/2020/04/20/kitsas-2.0-rc/</link><pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate><guid>/blog/2020/04/20/kitsas-2.0-rc/</guid><description>
-&lt;h2 id="versio-20-rc-julkaistu">Versio 2.0 RC julkaistu&lt;/h2>
-&lt;p>Tässä versiossa kaikki ominaisuudet ovat jo mukana. Nyt ohjelma kaipaa mahdollisimman laajaa testaamista, jotta ohjelman monet omaisuudet toimisivat luotettavasti kun vakaa versio julkaistaan.&lt;/p>
-&lt;h2 id="kitsaan-pilvi-kokeilukäytössä">Kitsaan pilvi kokeilukäytössä&lt;/h2>
-&lt;p>RC:n myötä avaamme kokeilukäyttöön myös Kitsaan pilven. Kirjanpito on siis mahdollista tallentaan suomalaiselle, varmuuskopioidulle palvelimelle. Pilvessä olevaa kirjanpitoa voi käyttää turvallisesti monta käyttäjää samanaikaisesti.&lt;/p>
-&lt;p>Samoin kokeilukäyttöön on avattu verkkolaskutus sekä jpg-muodossa olevien kuittien tekstintunnistus. Huomaathan, että teksintunnistus vaatii hyvänlaatuisen kuvan ja kestää tavallisesti 5-10 sekuntia yhtä kuvaa kohden.&lt;/p>
 &lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
 &lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
