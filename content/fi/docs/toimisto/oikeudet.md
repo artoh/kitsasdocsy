@@ -1,19 +1,19 @@
 ---
-title: "Käyttäjät"
-linkTitle: "Käyttäjät"
-weight: 10
+title: "Oikeudet"
+linkTitle: "Oikeudet"
+weight: 20
 pro: true
 description: >
   Käyttäjien ja käyttöoikeuksien määritteleminen
 ---
 
-## Ryhmä- ja käyttäjäkohtaiset oikeudet
+## Hylly- ja käyttäjäkohtaiset oikeudet
 
-**Ryhmäkohtaiset oikeudet** koskevat ryhmän kaikkia kirjanpitoja sekä kaikkia alaryhmiä, joille kyseiselle käyttäjälle ei ole erikseen määritelty oikeuksia. Tilitoimiston työntekijöille on suositeltavaa määritellä oikeudet ryhmätasolla, jolloin niiden hallinta on yksinkertaisempaa.
+**Oikeudet hyllyyn** koskevat hyllym kaikkia kirjanpitoja sekä kaikkia alahyllyjä, myös niitä alahyllyjä ja kirjanpitoja, joille kyseiselle käyttäjälle on lisäksi määritelty muita oikeuksia. Tilitoimiston työntekijöille on suositeltavaa määritellä roolit hyllytasolla, jolloin oikeuksien hallinta on yksinkertaisempaa.
 
-Ryhmän voisi ajatella mappikaapiksi ja ryhmäoikeuden avaimeksi tähän kaappiin. Tällöin toimistotasolle myönnetty käyttöoikeus vastaisi yleisavainta toimiston kaikkiin mappikaappeihin.
+Hyllyn voisi ajatella mappikaapiksi ja hyllyroolin tai -oikeuden avaimeksi tähän kaappiin. Tällöin toimistotasolle myönnetty käyttöoikeus vastaisi yleisavainta toimiston kaikkiin mappikaappeihin.
 
-**Suorat oikeudet** ovat yksittäiseen kirjanpitoon liittyviä oikeuksia, esimerkiksi yrittäjälle itselleen tai tilintarkastajalle.
+**Oikeudet kirjanpitoon** ovat yksittäiseen kirjanpitoon liittyviä oikeuksia, esimerkiksi yrittäjälle itselleen tai tilintarkastajalle.
 
 ## Oikeuksien määritteleminen
 
