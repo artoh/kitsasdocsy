@@ -9,7 +9,7 @@ description: >
   Roolien tarkastelu, lisääminen ja muokkaaminen
 ---
 
-![](/img/fi/toimisto/jarjestelmaoikeudet.png)
+![](/img/fi/toimisto/roolit.png)
 
 Rooleilla määritellään joukko käyttöoikeuksia, jotka kaikilla roolin omaavilla käyttäjillä on.  Järjestelmäroolit on annettu valmiina eikä niitä voida toimistossa muokata. Toimiston omia rooleja voi lisätä, muokata ja poistaa. Kun roolia muokataan, roolin omaavien käyttäjien käyttöoikeudet päivittyvöt muokatun roolin mukaisiksi. Aiemmissa versiossa olleet pikavalinnat ovat roolien käyttönoton myötä poistuneet käytöstä. 
 

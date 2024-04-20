@@ -13,15 +13,15 @@ description: >
 
 ### Työntekijät
 
-Voit lisätä työntekijäksi uuden käyttäjän. (Vanhoille käyttäjille voi tilitoimistonäkymästä vain myöntää oikeuksia hyllyihin ja kirjanpitoihin.) Pääset tarkastelemaan työntekijän oikeuksia tarkemmin klikkaamalla työntekijän nimeä listassa. Työntekijän poistaminen poistaa käyttäjän kaikki oikeudet ja poistaa käyttäjätunnuksen käytöstä. Käyttäjätunnuksen palauttamiseksi käyttöön on otettava yhteyttä käyttäjätukeen.
+Voit lisätä työntekijäksi uuden käyttäjän. (Vanhoille käyttäjille voi tilitoimistonäkymästä vain myöntää oikeuksia hyllyihin ja kirjanpitoihin.) Lisätävälle käyttäjälle voi samalla määritellä toimistotason roolin. Roolit yksittäisiin hyllyihin ja mahdolliset roolien lisälksi uelvat yksittäiset oikeudet voi määritellä kyseisen hyllyn oikeuksien sivulla. 
 
-Ryhmään lisätään käyttäjä **Käyttäjät**-välilehden **Uusi käyttäjä**-painikkeesta. Samalla välilehdellä on painikkeet myös oikeuksien muokkaamiselle ja käyttäjän poistamiselle ryhmästä.
+Pääset tarkastelemaan työntekijän oikeuksia tarkemmin klikkaamalla työntekijän nimeä listassa. 
 
-**Uusi käyttäjä**-painiketta käytetään riippumatta siitä, onko käyttäjällä jo käyttäjätunnus tai oikeuksia johonkin muuhun tilitoimiston ryhmään. Jos käyttäjätunnusta ei ole vielä olemassa, lähetetään käyttäjän sähköpostiin ohjeet ja linkki käyttäjätunnuksen aktivoimiseksi.
+Työntekijän poistaminen poistaa käyttäjän kaikki oikeudet ja poistaa käyttäjätunnuksen käytöstä. Käyttäjätunnuksen palauttamiseksi käyttöön on otettava yhteyttä käyttäjätukeen.
 
 ### Muut käyttäjät
 
-Tällä sivulla näkyvät (työntekijöitä lukuunottamatta) ne käyttäjät, joilla on oikeuksia johonkin tilitoimiston kirjanpitoon (tai hyllyyn). Pääset tarvittaessa tarkastelemaan käyttäjän oikeuksia tarkemmin klikkaamalla työntekijän nimeä listassa. 
+Tällä sivulla näkyvät (työntekijöitä lukuunottamatta) ne käyttäjät, joilla on oikeuksia johonkin tilitoimiston kirjanpitoon (tai hyllyyn). Pääset tarvittaessa tarkastelemaan käyttäjän oikeuksia tarkemmin klikkaamalla käyttäjän nimeä listassa. 
 
 
 
