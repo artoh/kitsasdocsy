@@ -1,39 +1,39 @@
 ---
-title: "Kirjanpidon sivu"
-linkTitle: "Kirjanpito"
-weight: 10
+title: "Kirjanpidon tiedot"
+linkTitle: "Kirjanpidon tiedot"
+weight: 70
 keywords: ["kirjanpito"]
 pro: true
 description: >
   Kirjanpidon tietojen ja toimintojen sivu
 ---
 
-### Kirjanpidon tietojen sivu
+![](/img/fi/toimisto/kirjanpidontiedot.png)
 
 Kirjanpidon tietojen sivulla voi tarkastella kirjanpidon tietoja tehdä kirjanpitoa koskevia toimintoja. 
 
-##### Avaa
+### Avaa
 
 Avaa kirjanpidon käyttäjän normaaleilla oikeuksilla
 
-##### Tukikirjautuminen
+### Tukikirjautuminen
 
 Käyttäjä, jolle on määritelty **Tukikirjautuminen**-oikeus, voi kirjautua täysillä käyttöoikeuksilla kirjanpitoon. Kirjautumisesta jää jälki lokitietoihin.
 
-#### Oikeudet
+### Oikeudet
 
 Siirrytään tarkastelemaan ja muokkaamaan käyttäjien oikeuksia kirjanpitoon.
 
 #### Kirjautumiset
 
-Siirrytään tarkastelemaab käyttäjien kirjautumisia tähän kirjanpitoon.
+Siirrytään tarkastelemaan käyttäjien kirjautumisia tähän kirjanpitoon.
 
 
-##### Siirrä kirjanpito
+### Siirrä kirjanpito
 
-Siirrä kirjanpito toiseen hyllyyn. Kirjanpidon hyllykohtaiset käyttöoikeudet muuttuvat välittömästi uuden hyllyn mukaisiksi-
+Siirrä kirjanpito toiseen hyllyyn. Kirjanpidon hyllykohtaiset käyttöoikeudet muuttuvat välittömästi uuden hyllyn mukaisiksi.
 
-##### Poista
+#### Poista
 
 Poistaa kirjanpidon pysyvästi.
 

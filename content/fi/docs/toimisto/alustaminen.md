@@ -1,7 +1,7 @@
 ---
 title: "Kirjanpidon aloittaminen"
 linkTitle: "Kirjanpidon aloittaminen"
-weight: 40
+weight: 60
 pro: true
 keywords: ["uusi","tilinavaus"]
 description: >

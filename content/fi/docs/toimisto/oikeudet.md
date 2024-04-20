@@ -1,13 +1,13 @@
 ---
 title: "Oikeudet"
 linkTitle: "Oikeudet"
-weight: 20
+weight: 40
 pro: true
 description: >
-  Käyttäjien ja käyttöoikeuksien määritteleminen
+  Käyttöoikeuksien lisääminen ja muokkaaminen
 ---
 
-## Hylly- ja käyttäjäkohtaiset oikeudet
+### Hylly- ja käyttäjäkohtaiset oikeudet
 
 **Oikeudet hyllyyn** koskevat hyllym kaikkia kirjanpitoja sekä kaikkia alahyllyjä, myös niitä alahyllyjä ja kirjanpitoja, joille kyseiselle käyttäjälle on lisäksi määritelty muita oikeuksia. Tilitoimiston työntekijöille on suositeltavaa määritellä roolit hyllytasolla, jolloin oikeuksien hallinta on yksinkertaisempaa.
 
@@ -15,42 +15,22 @@ Hyllyn voisi ajatella mappikaapiksi ja hyllyroolin tai -oikeuden avaimeksi täh�
 
 **Oikeudet kirjanpitoon** ovat yksittäiseen kirjanpitoon liittyviä oikeuksia, esimerkiksi yrittäjälle itselleen tai tilintarkastajalle.
 
-## Oikeuksien määritteleminen
+#### Oikeuksien määritteleminen
 
-Ryhmään lisätään käyttäjä **Käyttäjät**-välilehden **Uusi käyttäjä**-painikkeesta. Samalla välilehdellä on painikkeet myös oikeuksien muokkaamiselle ja käyttäjän poistamiselle ryhmästä.
+Toimistotason roolit voi määritellä työntekijää lisättäessä. 
 
-**Uusi käyttäjä**-painiketta käytetään riippumatta siitä, onko käyttäjällä jo käyttäjätunnus tai oikeuksia johonkin muuhun tilitoimiston ryhmään. Jos käyttäjätunnusta ei ole vielä olemassa, lähetetään käyttäjän sähköpostiin ohjeet ja linkki käyttäjätunnuksen aktivoimiseksi.
+**Hyllyyn** (myös tilitoimistohyllyyn) annetaan käyttäjille rooleja ja tarvittaessa erillisiä lisäoikeuksia hyllyn oikeuksien sivulta. Pääset sinne joko hakemalla hyllyn nimellä tai tilitoimistonäkymän Asetukset-osion asetusten **Hyllyt**-sivulta. Hyllyn sivulla on painikkeet käyttäjän lisäämiselle ja käyttäjän oikeuksien muokkaamiselle.
 
-## Käyttäjän oikeudet
+**Yksittäiseen kirjanpitoon** voi antaa rooleja ja tarvittaessa erillisiä lisäoikeuksia kirjanpidon oikeuksien sivulta. Pääset sinne kirjanpidon tietojen sivun kautta **Oikeudet**-painikkeella. Kirjanpidon tietojen sivulle pääsee hakemalla kirjanpidon nimellä tai y-tunnuksella tai valitsemalla kirjanpidon kirjanpitojen listasta ja painamalla Tiedot-nappia. Tälläkin sivulla on painikkeet käyttäjän lisäämiselle ja käyttäjän oikeuksien muokkaamiselle.
 
-![](/img/fi/toimisto/ryhmaoikeudet.png)
+**Lisää käyttäjä**-painiketta käytetään riippumatta siitä, onko käyttäjällä jo käyttäjätunnus tai oikeuksia johonkin muuhun tilitoimiston hyllyyn tai kirjanpitoon. Tilitoimiston työntekijän voi lisätä pudotusvalikosta, muista käyttäjistä annetaan sähköpostiosoite. Jos käyttäjätunnusta ei ole vielä olemassa, lähetetään käyttäjän sähköpostiin ohjeet ja linkki käyttäjätunnuksen aktivoimiseksi. Käyttäjän valinnan jälkeen valitaan seuraavassa dialogissa käyttäjälle annettavat roolit ja erilliset oikeudet. 
 
-Käyttöoikeudet voidaan määritellä määräaikaisiksi (**Voimassa**-aikaväli) tai toistaiseksi voimassa oleviksi.
+Suositeltavaa on antaa käyttäjile ensisijaisesti rooleja. Jos valmiit järjestelmäroolit eivät sovellu, voi toimistolle määritellä omia rooleja tilitoimistonäkymän asetukset-osion **Roolit**-sivulla. 
 
-Pikavalinnalla voit määritellä oikeudet jonkun aiemmin määritellyn [pikavalinnan]({{<relref "pikavalinnat">}}) mukaiseksi.
+Mahdollisuus antaa käyttäjälle myös määräaikaisia oikeuksia palautuu tulossa olevassa päivityksessä.
+<!-- Käyttöoikeudet voidaan määritellä määräaikaisiksi (**Voimassa**-aikaväli) tai toistaiseksi voimassa oleviksi. -->
 
-### Kirjanpidon käyttöoikeudet
+#### Käyttäjän kaikkien oikeuksien tarkastelu
 
-Ryhmien **Tositeet**, **Laskut**, **Laskujen kierto**, **Raportit** ja **Ylläpito** valinnat ovat [kirjanpitojen käyttöoikeuksia]({{<relref "../asetukset/kayttooikeudet/#käyttöoikeudet">}}).
+Käyttäjän kaikkia oikeuksia tilitoimiston hyllyihin ja yksittäisiin kirjanpitoihin voi tarkastella käyttäjän oikeuksien sivulla. Muutokset oikeuksiin tehdään kuitenkin hyllyn/kirjanpidon oikeuksien sivun kautta. Käyttäjän oikeuksien sivulle pääsee klikkamalla käyttäjän nimeä kirjanpidon/hyllyn oikeuksien sivun käyttäjälistassa, hakemalla käyttäjän nimellä tai sähköpostiosoitteella tai **Käyttäjät**-osion kautta.
 
-Emme suosittele **Käyttöoikeuksien myöntäminen** -oikeuden käyttämistä tilitoimistoille. Valintaa tarvitaan oikeuksen hallintaan Asetukset-välilehden kautta, ja suosittelemme keskitettyä oikeuksien hallintaa **Toimisto**-välilehdellä (oikeudet **Yksittäisten käyttöoikeuksen myöntäminen** ja **Käyttäjäryhmien muokkaaminen**).
-
-### Ryhmään liittyvät oikeudet
-
-#### Tilitoimisto
-
-| Käyttöoikeus | Merkitys |
-|--------------|----------|
-| Kirjanpidon luominen  | Uuden kirjanpidon luominen |
-| Kirjanpidon siirtäminen ja poistaminen | Kirjanpitoon liittyvän tuotteen vaihtaminen, kirjanpidon siirtäminen (oikeus vaaditaan sekä nykyisessä että uudessä ryhmässä), kirjanpidon poistaminen
-| Yksittäisten käyttöoikeuksen myöntäminen | Yksittäisten kirjanpitokohtaisten oikeuksien myöntäminen tilitoimistonäkymässä, Kirjanpidon **Suorat käyttäjät**-välilehdellä. |
-| Tilitoimistonäkymä | Tilitoimistonäkymä ja kirjanpitojen selaaminen käyttäjälle, jolla ei ole muita tilitoimistojen  hallintaoikeuksia. |
-
-#### Hallinta
-| Käyttöoikeus | Merkitys |
-|--------------|----------|
-| Käyttäjäryhmien muokkaaminen | Ryhmäkohtaisten käyttöoikeuksien myöntäminen, muokkaaminen ja poistaminen |
-| Ryhmien muokkaaminen | Uusien ryhmien lisääminen, ryhmien uudelleennimeäminen ja poistaminen, pikavalintojen muokkaaminen |
-| Varmenteiden hallinta | Tilitoimiston varmenteen lisääminen ja poistaminen |
-| Kirjautumistietojen selaaminen | Kirjanpitojen kirjautumistietojen (käyttäjän nimi, kirjautumisten lukumäärä ja viimeisin kirjaaminen) näkeminen |
-| Tukikirjautuminen | Kirjautuminen Tukikirjautuminen-toiminnolla täysin oikeuksin kaikkiin ryhmän kirjanpitoihin |
