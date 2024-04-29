@@ -18,6 +18,8 @@ Tilitietojen hakeminen on toteutettu [PSD2-maksupalveludirektiivin](https://www.
 
 Siirrymme toukokuussa 2024 käyttämään tilitietojen palvelun tarjoajana suomalaista Enable Bankingia. Samalla otamme käyttöön uuden pankkiyhteyslisäosan. Tässä yhteydessä kaikki tilit on valtuutettava uudelleen elokuun loppuun mennessä.
 
+[Uuden pankkiyhteyslisäosan ohjeet](/docs/lisaosat/pankkiyhteys/)
+
 Tilitietojen hakemisen maksu 1,00 € / pankkitili / kk (+ alv 24 %) otetaan käyttöön 1.10.2024
 
 {{</alert>}}
