@@ -35,27 +35,27 @@ Varmenne hankitaan [tulorekisterin sähköisestä asiointipalvelusta](https://ve
 
 ### Varmenteen lisääminen Kitsaaseen
 
-Kun tilitoimistonäkymässä tilitoimisto on valittuna, näkyy oikeanpuoleisimmassa sarakkeessa tieto varmenteesta ja nappi **Lisää varmenne**.
+Vamenne lisätään tomistonäkymän asetukset-osiosta varmenne-sivulta. Kun varmennetta ei vielä lisätty näkyy siellä nappi **Lisää varmenne**.
 
 ![](/img/fi/toimisto/lisaavarmenne.png)
 
-Kopio verottajan turvasähköpostista siirtotunnus ja kertakäyttösalasana paikoilleen, ja paina **Ok**.
+Kopioi verottajan turvasähköpostista siirtotunnus ja kertakäyttösalasana paikoilleen, ja paina **Hae varmenne**.
 
-Varmenteen tilaksi tulee *Varmenteen hakeminen on kesken*. Hakeminen kestää noin minuutin, jonka jälkeen ohjelma ilmoittaa, että varmenne on noudettu, mutta se ei välttämättä ole vielä käytettävissä. Varmenne on käytettävissä yleensä seuraavana arkipäivänä.
+Varmenteen tilaksi tulee *Varmenteen haku kesken*. Hakeminen kestää noin minuutin, jonka jälkeen ohjelma ilmoittaa, että varmenne on noudettu, mutta se ei välttämättä ole vielä käytettävissä. Varmenne on käytettävissä yleensä seuraavana arkipäivänä.
 
 ### Valtuutuksen tarkastaminen
 
 Varmista ensin tilitoimiston tiedoista, että tilitoimiston varmenne on käytettävissä.
 
-Tarkasta sen jälkeen tilitoimistonäkymässä vielä asiakasyrityksen tiedot. Valitse **Kirjanpidot**-välilehdeltä kirjanpito ja oikealta sarakkeelta **Tiedot**-välilehti. Nyt näet varmenteen tilan:
+Tarkasta sen jälkeen tilitoimistonäkymässä vielä asiakasyrityksen tiedot. Voit joko katsoa tilan kirjanpitojen listan varmenne-sarakkeesta tai mennä kirjanpidon tietoihin hakukentän kautta.  
 
 ![](/img/fi/toimisto/varmenneok.png)
 
 Toimiston varmenne Käytössä
 : Varmenne on käytettävissä ja valtuutus on kunnossa. Kitsas voi hakea verokaudet ja ilmoittaa arvonlisäveron.
 
-Toimiston varmenne ei kelpaa
-: Verokausien hakeminen ei onnistu, todennäköisesti syynä on puuttuva Suomi.fi-valtuutus.
+Ei suomi.fi-valtuuksia
+: Tilitoimistolla ei ole Suomi.fi-valtuutusta organisaation veroasioiden hoitoon.
 
 Oma varmenne käytössä
 : Kirjanpidossa ei käytetä tilitoimiston varmennetta, vaan kirjanpidon asetuksissa määriteltyä asiakasyrityksen omaa varmennetta.

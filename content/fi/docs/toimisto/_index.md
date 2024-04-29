@@ -17,72 +17,29 @@ Lue lisää [Kitsas Pro:n tuotesivuilta](/pro)
 
 ## Tilitoimistonäkymä
 
+Tilitoimistonäkymässä voit mm. tarkastella kirjanpitojen tietoja, luoda uusia kirjanpitoja,  myöntää käyttöoikeuksia, järjestellä toimiston kirjanpidot hyllyihin ja ottaa tilitoimistolle käyttöön verohallinnon varmenteen.  Käyttäjälle näytettävät toiminnot ja kohteet määräytyvät käyttäjällä olevien [roolien ja lisäkäyttöoikeuksien]({{<relref "roolit">}}) perusteella.   
+
+### Kirjanpitojen lista
+
 ![](/img/fi/toimisto/toimisto.png)
 
-Vasemmanpuoleisimmassa sarakkeessa (Ryhmät) on luettelo tilitoimistoon kuuluvista ryhmistä.
-Keskimmäisessä sarakkeessa on välilehdet valitun ryhmän kirjanpidoista ja käyttäjistä.
-Oikeanpuolelimmassa sarakkeessa on puolestaan tarkempia tietoja viimeisimmäksi valitusta kohteesta, joka voi olla tilitoimisto, ryhmä, kirjanpito ja käyttäjä.
+ Tilitoimistonäkymän etusivulla on lista kirjanpidoista. Oletuksena listassa ovat kaikki tilitoimiston kirjanpidot, jos käyttäjällä on toimistotason oikeus tilitoimistonäkymään. Listan yläpuolella olevasta pudotusvalikosta voi valita tarkasteltavan hyllyn (vastaa aiemman version ryhmää). 
 
-Käyttäjälle näytettävät kohteet määräytyvät käyttäjälle olevien [käyttöoikeuksien]({{<relref "kayttajat">}}) perusteella.
+Valitsemalla kirjanpidon rivin listasta saa näkyviin Avaa- ja Tiedot- napit. Muut toiminnot löytyvät Tiedot-napin takaa avautuvalta kirjanpidon omalta sivulta. Pääset sinne myös hakemalla yläpalkin hakukentässä kirjanpidon nimellä tai y-tunnuksella. Avaa- nappi on näkyvissä, jos käyttäjällä on kirjanpitoon mitä tahansa kirjanpito-oikeuksia. Tukikirjautuminen tehdään omasta napistaan kirjanpidon tietojen sivulta. 
 
-### Ryhmät
+### Uuden kirjanpidon perustaminen
 
-Isomman tilitoimiston kannattaa jakaa kirjanpidot **ryhmiin**, ja määritellä käyttäjäoikeudet ryhmäkohtaisesti.
+Paina **Uusi kirjanpito**-painiketta sivun oikeassa alakulmassa, valitse hylly johon kirjanpito luodaan ja syötä asiakasyrityksen perustiedot.
 
-Ryhmien perustaminen ei ole pakollista, vaan kaikki kirjanpidot ja käyttäjät voidaan määritellä myös suoraan tilitoimiston tasolle.
+Uuden kirjanpidon kohdalla on Muokkaa-sarakkeesa vihreä plus-merkki ja teksti "Alustamaton". Kun kirjanpito avataan ensimmäistä kertaa, tehdään [kirjanpidon alustaminen]({{<relref "alustaminen">}}) ohjattuna toimintona.
 
-#### Uuden ryhmän perustaminen
+### Kirjanpitojen listan järjestäminen ja suodattaminen
 
-Valitse ryhmä, jonka alle uusi ryhmä perustetaan - tai tilitoimisto, jos perustat ylätason ryhmän. Paina **Uusi ryhmä**-painiketta ja anna ryhmälle nimi.
+Kirjanpitojen listan voi järjestää halutun sarakkeen mukaan klikkaamalla sarakkeen otsikkosolua tai valitsemalla haluamasi järjestyksen sarakkeen otsikkosolun valikosta (kolme pistettä).   Solussa näkyvä nuoli kertoo järjestyksen suunnan. Solua klikkamalla vaihdetaan nousevan, laskevan ja järjestämättömän (ei nuolta) välillä. Järjestää voi vain yhden sarakkeen perusteella kerrallaan. Toimistonäkymä muistaa valitsemasi järjestyksen palatessasi. 
 
-### Kirjanpidot
+Voit suodattaa näytettäviä kirjanpitoja valitsemalla sarakkeen otsikkosolun valikosta **Suodata**. Käytössä on enintään yksi suodatus kerrallaan. Toimistonäkymä muistaa käyttämäsi suodatuksen kunnes poistut toimistonäkymästä tai suljet ohjelman. 
 
-#### Uuden kirjanpidon perustaminen
+### Kirjanpitojen listan sarakkeiden kustomointi
 
-Kun haluamasi ryhmä on valittuna, paina **Uusi kirjanpito**-painiketta, ja syötä asiakasyrityksen perustiedot.
+Voit tarvittaessa piilottaa haluamasi sarakkeen näkyvistä valitsemalla sarakkeen otsikkosolun valikosta **Piilota**. Voit palauttaa sarakkeen näkyviin tai piilottaa useamman sarakkeen kerralla valitsemalla minkä tahansa sarakkeen otsikkosolun valikosta **Hallitse sarakkeita**. Toimistonäkymä muistaa palatessasi mitkä sarakkeet näytetään.  
 
-Uuden kirjanpidon logona on vihreä plus-merkki muistuttamassa, ettei kirjanpitoa ole vielä alustettu. Kun kirjanpito avataan ensimmäistä kertaa, tehdään [kirjanpidon alustaminen]({{<relref "alustaminen">}}) ohjattuna toimintona.
-
-#### Toiminnot kirjanpidolle
-
-Kirjanpitojen listan alapuolisessa **Kirjanpito**-valikossa on kirjanpitoon liittyviä toimintoja
-
-##### Vaihda tuotetta
-
-Valitse kirjanpitoon liittyvä tuote.
-
-##### Siirrä
-
-Siirrä kirjanpito toiseen ryhmään. Kirjanpidon ryhmäkohtaiset käyttöoikeudet muuttuvat välittömästi uuden ryhmän mukaisiksi-
-
-##### Poista
-
-Poistaa kirjanpidon pysyvästi.
-
-##### Tukikirjautuminen
-
-Käyttäjä, jolle on määritelty **Tukikirjautuminen**-oikeus, voi kirjautua täysillä käyttöoikeuksilla kirjanpitoon. Kirjautumisesta jää jälki lokitietoihin.
-
-### Käyttäjät
-
-Välilehdellä näytetään ryhmään liittyvät käyttöoikeudet, katso [käyttäjät ja käyttöoikeudet]({{<relref "kayttajat">}})
-
-### Kirjanpidon tiedot
-
-Kun kirjanpito on valittuna, näytetään oikeanpuoleisimmassa sarakkeessa kirjanpidon tarkempia tietoja
-
-#### Perustiedot
-
-Kirjanpidon nimi, tuote, tilastotietoja ja varmenteen tila.
-
-#### Suorat käyttäjät
-
-Käyttäjät, joilla on tähän nimenomaiseen kirjanpitoon erikseen määritelty käyttöoikeus. Suora käyttöoikeus voidaan määrittää esimerkiksi yrittäjälle tai tilintarkastajalle.
-
-#### Ryhmäkäyttäjät
-
-Käyttäjät, joille on käyttöoikeus tähän kirjanpitoon ryhmään (kirjanpidon ryhmä tai sen yläpuolella oleva ryhmä) kuulumisen perusteella.
-
-#### Kirjatumiset
-
-Käyttäjien kirjautumiset tähän kirjanpitoon.

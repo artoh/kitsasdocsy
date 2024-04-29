@@ -1,14 +1,14 @@
 ---
 title: "Kirjanpidon aloittaminen"
 linkTitle: "Kirjanpidon aloittaminen"
-weight: 40
+weight: 60
 pro: true
 keywords: ["uusi","tilinavaus"]
 description: >
   Tilitoimistonäkymässä luodun kirjanpidon käyttöön ottaminen
 ---
 
-Kun kirjanpito on luotu tilitoimistonäkymässä, näkyy sen vieressä luettelossa vihreä plus-merkki. Kun kirjanpito avataan ensimmäisen kerran, ohjaa Kitsas kirjanpidon käyttöön ottamisen.
+Kun kirjanpito on luotu tilitoimistonäkymässä, näkyy luettelossa Muokattu-sarakkeessa vihreä plus-merkki ja teksti "Alustamaton". (Kirjanpidon sivulla tämä tieto näkyy kohdassa "Alustettu".) Kun kirjanpito avataan ensimmäisen kerran, ohjaa Kitsas kirjanpidon käyttöön ottamisen.
 
 {{<alert title="Asetusoikeudet vaaditaan">}}
 Kirjanpidon käyttöönoton suorittavalla käyttäjällä pitää olla oikeus **Asetusten muokkaaminen**
