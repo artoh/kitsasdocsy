@@ -4,7 +4,7 @@ date: "2024-04-29"
 keywords: ["alv"]
 description: "Kitsaalla pärjäät myös muuttuvan prosentin kanssa"
 author: "Arto"
-banner: "img/screenshots/percent.png"
+banner: "img/banners/percent.jpg"
 ---
 
 Hallituksen kehysriihessä on päätetty nostaa yleistä arvonlisäverokantaa 25,5 prosenttiin jo tämän vuoden aikana.
