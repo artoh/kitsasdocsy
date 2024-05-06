@@ -1,4 +1,8 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.5</title><link>/blog/2024/04/15/kitsas-5.5/</link><pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate><guid>/blog/2024/04/15/kitsas-5.5/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Alv-prosentin muutos</title><link>/blog/2024/04/29/alv-prosentin-muutos/</link><pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate><guid>/blog/2024/04/29/alv-prosentin-muutos/</guid><description>
+&lt;p>Hallituksen kehysriihessä on päätetty nostaa yleistä arvonlisäverokantaa 25,5 prosenttiin jo tämän vuoden aikana.&lt;/p>
+&lt;p>Kitsaan kirjaamisnäkymät sallivat jo tällä hetkellä desimaaliluvun käyttämisen arvonlisäveroprosenttina. Myyntilaskutuksessa sekä joukossa muita näkymiä on tarpeen tehdä ohjelmistoon pieniä muutoksia. Arvonlisäveron ilmoittamisessa Kitsas päivitetään toimimaan Verohallinnon rajapintamuutoksien kanssa.&lt;/p>
+&lt;p>Muutokset tulevat vaatimaan Kitsaan työpöytäohjelmiston päivittämisen. Aikatauluista pystymme kertomaan tarkemmin, kun Verohallinto on tiedottanut ohjelmistotaloja muutoksen vaikutuksista verottajan järjestelmiin.&lt;/p>
+&lt;p>Kitsaassa arvonlisäveroja käsitellään ohjaustietojen perusteella, joten verokantojen muuttuminen ei edellytä uusien tilien perustamista.&lt;/p></description></item><item><title>Blog: Kitsas 5.5</title><link>/blog/2024/04/15/kitsas-5.5/</link><pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate><guid>/blog/2024/04/15/kitsas-5.5/</guid><description>
 &lt;p>Kitsas 5.5 parantaa tiliotteiden kirjaamista. Lisäksi päivitys parantaa yhteensopivuutta huhtikuun palvelinpäivityksessä käyttöön otettavien uuden tilitoimistonäkymän sekä uusien lisäosien kanssa.&lt;/p>
 &lt;p>&lt;a href="/lataa">Lataa Kitsas 5.5 maksutta&lt;/a>&lt;/p>
 &lt;p>Suosittelemme Kitsaan päivittämistä kaikille käyttäjille, erityisesti Kitsas Pro:ta käyttäville tilitoimistoille.&lt;/p>
@@ -851,12 +855,5 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;h2 id="kitsaan-pilvi-kokeilukäytössä">Kitsaan pilvi kokeilukäytössä&lt;/h2>
 &lt;p>RC:n myötä avaamme kokeilukäyttöön myös Kitsaan pilven. Kirjanpito on siis mahdollista tallentaan suomalaiselle, varmuuskopioidulle palvelimelle. Pilvessä olevaa kirjanpitoa voi käyttää turvallisesti monta käyttäjää samanaikaisesti.&lt;/p>
 &lt;p>Tavallisesti uudet käyttäjät saavat 30 päivän maksuttoman kokeilujakson. Heinäkuussa aloitetut kokeilujaksot ovat kuitenkin voimassa vähintäänkin elokuun loppuun saakka.&lt;/p>
-&lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
-&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: RC 1 -päivitys</title><link>/blog/2020/05/19/rc-1-p%C3%A4ivitys/</link><pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate><guid>/blog/2020/05/19/rc-1-p%C3%A4ivitys/</guid><description>
-&lt;h2 id="versio-20-rc1-julkaistu-windowsille-ja-linuxille">Versio 2.0 RC.1 julkaistu Windowsille ja Linuxille&lt;/h2>
-&lt;p>Kitsaaseen on tehty lukuisia korjauksia ja muutama lisäys saadun palautteen perusteella. Varsinkin kirjanpidon tuomisessa Kitupiikistä on lukuisia parannuksia.&lt;/p>
-&lt;h2 id="asunto-osakeyhtiön-tilikartta">Asunto-osakeyhtiön tilikartta&lt;/h2>
-&lt;p>Päivitys tuo mukanaan asunto-osakeyhtiön tilikartan. Tilikartta on yhteensopiva Kitupiikin asunto-osakeyhtiön tilikartan kanssa.&lt;/p>
-&lt;p>Maventan asiakkailla on mahdollisuus hakea verkkolaskuosoitteita suoraan ohjelmasta. Kitupiikistä tunnetut toiminnot Kopioi pohjaksi &lt;kbd>Ctrl&lt;/kbd>+&lt;kbd>T&lt;/kbd> ja Siirry tositteeseen tunnisteella &lt;kbd>Ctrl&lt;/kbd>+&lt;kbd>G&lt;/kbd> ovat jälleen käytössä.&lt;/p>
 &lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
 &lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
