@@ -279,6 +279,25 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     </tr>              
   </tbody>
 </table>
+
+<h3>Lisäosat</h3>
+<a href="/docs/lisaosat">Lisäosat</a> ovat Kitsaasta erikseen päälle kytkettäviä lisätoiminnallisuuksia. 
+<table>
+  <thead>
+  <tr class="text-white">
+    <th class=""><i class="fa fa-puzzle-piece"></i> Lisäosat</th>
+    <th>Veroton hinta</th>
+  </tr>  
+  </thead> 
+ <tbody>
+   <tr>
+     <td>Tilitapahtumien noutaminen PSD2-yhteydellä, pankkitiliä kohden</td>
+      <td class="default"><span class="txt-l">1,00</span> <span class="txt-top">&euro;/kk</span></td>
+    </tr>  
+  </tbody>
+</table>
+  
+
 <h3>Tuntityöveloitus</h3>
 Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> €/tunti (sis. alv)
 
