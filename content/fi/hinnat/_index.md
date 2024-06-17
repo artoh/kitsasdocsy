@@ -294,6 +294,10 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
      <td>Tilitapahtumien noutaminen PSD2-yhteydellä, pankkitiliä kohden</td>
       <td class="default"><span class="txt-l">1,00</span> <span class="txt-top">&euro;/kk</span></td>
     </tr>  
+   <tr>
+     <td>Kirjanpitoaineiston noutaminen Holvista</td>
+      <td class="default"><span class="txt-l">5,00</span> <span class="txt-top">&euro;/kk</span></td>
+    </tr>       
   </tbody>
 </table>
   
