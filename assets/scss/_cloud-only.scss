@@ -8,6 +8,10 @@ div.cloud-only {
   padding: 0.5rem;
 }
 
+div.cloud-only > i {
+  color: $primary;
+}
+
 div.cloud-only-print {
   font-weight: $font-weight-medium;
   background: none;

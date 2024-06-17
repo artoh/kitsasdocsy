@@ -2,10 +2,22 @@
 title: "Alv-prosentin muutos"
 date: "2024-05-30"
 keywords: ["alv"]
-description: "Kitsaalla pärjäät myös muuttuvan prosentin kanssa"
+description: "Kitsas on valmiina arvonlisäveron korotukseen"
 author: "Arto"
 banner: "img/banners/percent.jpg"
 ---
+
+## Kitsas on valmiina arvonlisäveron korotukseen
+
+Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaaseen. Muutokset sisältyvät Kitsaan versioon 5.6 jonka [beta-versio on nyt ladattavissa](/blog/2024/06/17/kitsas-5.6-beta/). Version varsinainen julkaisu on elokuun alussa, jolloin ilmoitamme julkaisusta myös Kitsaan aloitussivun tiedotteella.
+
+Verottaja on antanut [täydentäviä ohjeita](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/) yleisen arvonlisäverokannan muutoksesta ja arvonlisäverojen ilmoittamisesta. 
+
+*Lisätty 17.6.2024*
+<hr/>
+
+## Yleinen arvonlisävero nousee
+
 
 Hallitus on antanut esityksen yleisen arvonlisäverokannan nostamiseksi 25,5 prosentiin syyskuun alusta.
 

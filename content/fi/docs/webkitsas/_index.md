@@ -51,6 +51,14 @@ Voit tallentaa **menotositteen**, **kululaskun** tai **tulotositteen** joko tiet
 
 WebKitsaalla et voi luoda arvonlisäverollisia tositteita etkä jaksotuksia. Muokkaamaan pääset vain yksinkertaisimpia meno- ja tulotositteita.
 
+### Lisäosat
+
+![](/img/fi/web/lisaosat.png)
+
+Voit käyttää WebKitsaalla kaikkia käyttöön otettuja lisäosia. Valittu lisäosa avautuu selaimessa uuteen välilehteen.
+
+WebKitsaan avulla voi siis esimerkiksi antaa pankkiyhteyden vaatiman valtuutuksen ilman Kitsaan työpöytäsovelluksen asentamista omalle tietokoneelle.
+
 ### Uloskirjautuminen
 
 Painamalla nimikirjaimia näytön oikeassa yläkulmassa pääset vaihtamaan kirjanpitoa tai kirjautumaan ulos.

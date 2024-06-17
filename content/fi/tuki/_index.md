@@ -35,11 +35,13 @@ Lue ohjeita
 
 <p>Kitsaan tilauksiin kuuluva tuki ei sisällä lainopillista neuvontaa. Helpdesk ohjaa tarvittaessa maksullisiin konsultaatiopalveluihin tai kirjanpitopalveluita tarjoavan tilitoimiston asiakkaaksi.</p>
 
-<div class="tukijuttu">Emme valitettavasti voi tarjota henkilökohtaista käyttäjätukea tuhansille Kitsaan ilmaiskäyttäjille. Toivomme, että tukea tai edistyneempiä ominaisuuksia tarvitsevat käyttäjämme voisivat liittyä maksullisella tilauksella Kitsaan käyttäjätuen piiriin.</div>
+<div class="tukijuttu">Kitsas Helpdeskin palvelut sisältyvät Kitsas Kerho, Kitsas Firma ja Kitsas Pro -tilauksiin. Emme valitettavasti voi tarjota henkilökohtaista käyttäjätukea  Kitsaan ilmaiskäyttäjille. </div>
 
 <p><span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>
-<span class="fa fa-phone"></span> 044 333 5019<br/>    
-Helpdesk palvelee arkisin klo 9-14</p>
+Ratkaisun nopeuttamiseksi, liitäthän viestiisi mahdollisimman tarkan kuvauksen ongelmasta</p>
+<p><span class="fa fa-phone"></span> 044 333 5019 arkisin klo 10-14<br/>
+Kitsaan puhelimessa voimme neuvoa yksinkertaisissa kysymyksissä, esim. tilaus- tai käyttäjähallintaan liittyen.<br/>
+Tarkempaa selvittelyä vaativissa tapauksissa, ohjaamme ensisijaisesti olemaan yhteydessä sähköpostitse.  </p>
 {{< /blocks/huomio >}}
 
 

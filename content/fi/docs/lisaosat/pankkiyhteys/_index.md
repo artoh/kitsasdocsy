@@ -2,7 +2,7 @@
 title: "Tilitapahtumien hakeminen pankista"
 linkTitle: "Tilitapahtumien hakeminen"
 weight: 10
-cloud: true
+addonPrice: "1,00"
 description: >
   Tilitapahtumien noutaminen pankista PSD2-yhteydellä
 ---
