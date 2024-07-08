@@ -8,6 +8,7 @@
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.6-beta/kitsas-5.6-beta-asennus.exe">Kitsas 5.6 BETA Windows&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v5.6-beta/Kitsas-5.6-beta-x86_64.AppImage">Kitsas 5.6 BETA Linux&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.6-beta/Kitsas-5.6-beta.dmg">Kitsas 5.6 BETA Mac&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla &lt;code>LD_LIBRARY_PATH=&amp;quot;/usr/lib/x86_64-linux-gnu/nss&amp;quot; ./Kitsas-5.6-beta-x86_64.AppImage&lt;/code>&lt;/p>
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
