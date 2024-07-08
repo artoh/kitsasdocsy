@@ -22,6 +22,7 @@ Beta-versio on nyt julkisesti ladattavissa Windowsille ja Linuxille
 
 - [Kitsas 5.6 BETA Windows](https://github.com/artoh/kitupiikki/releases/download/v5.6-beta/kitsas-5.6-beta-asennus.exe)
 - [Kitsas 5.6 BETA Linux](https://github.com/artoh/kitupiikki/releases/download/v5.6-beta/Kitsas-5.6-beta-x86_64.AppImage)
+- [Kitsas 5.6 BETA Mac](https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.6-beta/Kitsas-5.6-beta.dmg)
 
 
 Jos Linux-versio kaatuu NSS-tietokannan alustamisen virheeseen, voi tämän korjata käynnistämällä ohjelman komennolla `LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.6-beta-x86_64.AppImage`
