@@ -258,9 +258,9 @@ Kitsas Oy käyttää virtuaalipalvelimensa osalta alihankkijana Tentacle Oy:tä.
 
 Kitsas Oy käyttää lähtevän sähköpostin palveluun [Brevo](https://brevo.com)-palvelua. Palvelu ilmoittaa noudattavansa GDPR-säännöstöä.
 
-#### Alihankkija tilitietojen noutamisessa
+#### Alihankkijat tilitietojen noutamisessa
 
-Kitsas Oy noutaa pankkien tilitapahtumat [GoCardless](https://gocardless.com/)in palvelua käyttäen. Palvelun käyttäminen edellyttää asiakkaalta yksilöllistä valtuutusta oman verkkopankin kautta. GoCardless ilmoittaa noudattavansa GDPR-säännöstöä.
+Kitsas Oy noutaa pankkien tilitapahtumat [GoCardless](https://gocardless.com/)in ja [Enable Banking](https://enablebanking.com/):in palveluita käyttäen. Palvelujen käyttäminen edellyttää asiakkaalta yksilöllistä valtuutusta oman verkkopankin kautta. GoCardless ilmoittaa noudattavansa GDPR-säännöstöä. Enable Banking ilmoittaa ettei se tallenna, analysoi tai käytä välittämäänsä dataa.
 
 </div>
 
