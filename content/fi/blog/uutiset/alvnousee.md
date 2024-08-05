@@ -9,11 +9,14 @@ banner: "img/banners/percent.jpg"
 
 ## Kitsas on valmiina arvonlisäveron korotukseen
 
-Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaaseen. Muutokset sisältyvät Kitsaan versioon 5.6 jonka [beta-versio on nyt ladattavissa](/blog/2024/06/17/kitsas-5.6-beta/). Version varsinainen julkaisu on elokuun alussa, jolloin ilmoitamme julkaisusta myös Kitsaan aloitussivun tiedotteella.
+Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaaseen. Muutokset sisältyvät Kitsaan versioon 5.6. Tämä versio on jo saatavilla [Windowsille](/lataa), Linuxille ja Macille on ladattavissa 
+[beta-versio](/blog/2024/06/17/kitsas-5.6-beta/).
 
 Verottaja on antanut [täydentäviä ohjeita](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/) yleisen arvonlisäverokannan muutoksesta ja arvonlisäverojen ilmoittamisesta. 
 
 *Lisätty 17.6.2024*
+
+*Päivitetty 5.8.2024*
 <hr/>
 
 ## Yleinen arvonlisävero nousee
