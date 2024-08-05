@@ -68,9 +68,11 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
    <tr class="hinnasto">
      <td>Vuosihinta (sis. alv)</td>
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
-      <td><span class="txt-l">62</span> <span class="txt-top">&euro;/vuosi</span></td>
+      <td><span class="txt-l">62</span> <span class="txt-top">&euro;/vuosi</span>
+      <p>1.9. alkaen 62,75 &euro;/vuosi</p></td>
       <td class="default">
         <span class="txt-l">155</span> <span class="txt-top">&euro;/vuosi</span>
+        <p>1.9. alkaen 156,88 &euro;/vuosi</p></td>
       </td>
     </tr>  
     <tr class="hinnasto">
@@ -212,8 +214,10 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
     <tr class="hinnasto">
       <td>Lisäkirjanpito tallennettuna Kitsaan pilveen (sis. alv)</td>
       <td> </td>
-      <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
-      <td class="default"><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span></td>
+      <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span> 
+      <p> 1.9. alkaen 5,02 &euro;/kk</p></td></td>
+      <td class="default"><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span>  
+      <p>1.9. alkaen 5,02 &euro;/kk</p></td>
     </tr>           
   </tbody>
 </table>
@@ -303,9 +307,10 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
   
 
 <h3>Tuntityöveloitus</h3>
-Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> €/tunti (sis. alv)
+Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> &euro; + alv / tunti
 
 Myymme myös räätälöintiä, ohjelmointityötä sekä ohjelman koulutusta.
+
 </article>
 {{% /blocks/section %}}
 <script src="/js/hinnat.js" defer></script>
