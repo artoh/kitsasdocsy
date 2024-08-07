@@ -17,7 +17,6 @@ Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaasee
 
 Verottaja on antanut [täydentäviä ohjeita](https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/) yleisen arvonlisäverokannan muutoksesta ja arvonlisäverojen ilmoittamisesta. 
 
-*Päivitetty 7.8.2024*
 <hr/>
 
 ## Yleinen arvonlisävero nousee
@@ -43,4 +42,4 @@ Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suor
 
 **Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen**. Kitsaan versio 5.6 on [nyt ladattavissa](/lataa)
 
-*Alkuperäinen julkaisu 30.5.2024*
+*Päivitetty 7.8.2024*
