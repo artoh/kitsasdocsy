@@ -47,12 +47,17 @@ Lataa Kitsas maksutta tietokoneellesi
         <div class="macloota">Mac-versiota ylläpitää Kitsaan avoimen lähdekoodin pohjalta Petri Aarnio. Kitsas Oy ei anna tukea ohjelman yhteensopivuudesta Mac-tietokoneiden kanssa.</div>
         <h1><i class="fab fa-apple"></i></h1>
         <h4>macOS 11.0 tai uudempi</h4>        
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.6 BETA</h4>
+        <p>Beta-versiossa tuki 25,5%:n arvonlisäverollegitkra</p>
+        <p>
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.6-beta/Kitsas-5.6-beta-x86_64.AppImage" class="btn btn-lg btn-primary latausnappi">
+            <span class="fa fa-download"></span>&nbsp;Lataa</a>
+        </p>
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.5.2</h4>
         <p>
           <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.5.2/Kitsas-5.5.2.dmg" class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>          
-        OS X Versio 11.0 ja uudemmat
         <ol style="text-align: left;">
           <li>Lataa asennustiedosto</li>
           <li>Avaa asennustiedosto</li>
@@ -69,17 +74,17 @@ Lataa Kitsas maksutta tietokoneellesi
       <div class="container">     
         <h1><i class="fab fa-linux"></i></h1>
         <h4>Linux</h4>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.5.2</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.6</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.5.2/Kitsas-5.5.2-x86_64.AppImage" class="btn btn-lg btn-primary">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.6/Kitsas-5.6-x86_64.AppImage" class="btn btn-lg btn-primary">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>           
         64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 22.04 ja uudemmat       
         <ol style="text-align: left;">
           <li>Lataa asennustiedosto</li>
           <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
-          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.5.1-x86_64.AppImage</code></li>
-          <li>Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.5.1-x86_64.AppImage</code><br/> tai käytä valitsinta <code>--noweb</code>.          
+          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.6-x86_64.AppImage</code></li>
+          <li>Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.6-x86_64.AppImage</code><br/> tai käytä valitsinta <code>--noweb</code>.          
 </li>          
         </ol>    
       </div>      
