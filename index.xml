@@ -1,4 +1,13 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.6 Beta</title><link>/blog/2024/06/17/kitsas-5.6-beta/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>/blog/2024/06/17/kitsas-5.6-beta/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kitsas – Kitsas</title><link>/</link><description>Recent content on Kitsas</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Kitsas 5.6</title><link>/blog/2024/08/07/kitsas-5.6/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>/blog/2024/08/07/kitsas-5.6/</guid><description>
+&lt;p>Kitsas 5.6 tuo tuen syyskuun alussa korotettavalle yleiselle arvonlisäveroprosentille.&lt;/p>
+&lt;p>Ohjelmiston tilikartassa olevia tilien arvonlisäveroprosentteja tai tuotteiden alv-kantoja ei tarvitse tässä yhteydessä muokata, vaan ohjelmisto ehdottaa uutta arvonlisäveroprosenttia päivämäärän mukaisesti. Toisin sanoen kirjauspäivän ollessa 1.9.2024 tai sen jälkeen, ehdottaa ohjelma 24%:n arvonlisäverokannan sijaan 25,5%:n arvonlisäverokantaa.&lt;/p>
+&lt;p>Kirjanpitäjältä tarvitaan huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">Verohallinnon ohjeista&lt;/a>. Molemmat arvonlisäverokannat ovat siis käyttäjällä aina valittavissa.&lt;/p>
+&lt;img src="/img/screenshots/alv255lasku.png" class="img-responsive"/>
+&lt;p>Kitsas 5.5 tuo paremman tuen huhtikuun lopun palvelinpäivityksen myötä käyttöön otettaviin Kitsaan lisäominaisuuksiin.&lt;/p>
+&lt;p>Lisäksi ohjelmassa on parannettu tiliotteiden kirjaamista niin, että käytännössä kaikki tulo- ja menotapahtumat, kaikilla alv-lajeilla, on mahdollista kirjata tiliotetositteella. Paikallista kirjanpitoa pilveen siirrettäessä on nyt mahdollista tehdä pilveen siirto myös suoraan tilitoimiston kirjahyllyyn.&lt;/p>
+&lt;p>Mukana on myös joukko pienempiä korjauksia, liittyen esimerkiksi tositteiden kommentointiin sekä taseen valvontaan.&lt;/p>
+&lt;p>Ohjelmiston uusi verso on ladattavissa Windowsille ja Linuxille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/></description></item><item><title>Blog: Kitsas 5.6 Beta</title><link>/blog/2024/06/17/kitsas-5.6-beta/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>/blog/2024/06/17/kitsas-5.6-beta/</guid><description>
 &lt;p>Kitsas 5.6 tuo tuen syyskuun alussa korotettavalle yleiselle arvonlisäveroprosentille.&lt;/p>
 &lt;p>Ohjelmiston tilikartassa olevia tilien arvonlisäveroprosentteja tai tuotteiden alv-kantoja ei tarvitse tässä yhteydessä muokata, vaan ohjelmisto ehdottaa uutta arvonlisäveroprosenttia päivämäärän mukaisesti. Kirjanpitäjältä tarvitaan kuitenkin huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">Verohallinnon ohjeista&lt;/a>.&lt;/p>
 &lt;p>Lisäksi ohjelmassa on tuki viimeiselle alarajahuojennuksen hakemiselle jouluun 2024 alv-ilmoitusta annettaessa.&lt;/p>
@@ -15,11 +24,11 @@
 &lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/></description></item><item><title>Blog: Alv-prosentin muutos</title><link>/blog/2024/05/30/alv-prosentin-muutos/</link><pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate><guid>/blog/2024/05/30/alv-prosentin-muutos/</guid><description>
 &lt;h2 id="kitsas-on-valmiina-arvonlisäveron-korotukseen">Kitsas on valmiina arvonlisäveron korotukseen&lt;/h2>
-&lt;p>Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaaseen. Muutokset sisältyvät Kitsaan versioon 5.6. Tämä versio on jo saatavilla &lt;a href="/lataa">Windowsille&lt;/a>, Linuxille ja Macille on ladattavissa
+&lt;p>Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaaseen. Muutokset sisältyvät Kitsaan versioon 5.6. Tämä versio on jo saatavilla Windowsille ja Linuxille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>. Macille on ladattavissa
 &lt;a href="/blog/2024/06/17/kitsas-5.6-beta/">beta-versio&lt;/a>.&lt;/p>
 &lt;p>Verottaja on antanut &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">täydentäviä ohjeita&lt;/a> yleisen arvonlisäverokannan muutoksesta ja arvonlisäverojen ilmoittamisesta.&lt;/p>
 &lt;p>&lt;em>Lisätty 17.6.2024&lt;/em>&lt;/p>
-&lt;p>&lt;em>Päivitetty 5.8.2024&lt;/em>&lt;/p>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p>
 &lt;hr/>
 &lt;h2 id="yleinen-arvonlisävero-nousee">Yleinen arvonlisävero nousee&lt;/h2>
 &lt;p>Hallitus on antanut esityksen yleisen arvonlisäverokannan nostamiseksi 25,5 prosentiin syyskuun alusta.&lt;/p>
@@ -864,14 +873,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;p>Voit myös aloittaa Kitsaalla uuden kirjanpidon tilikauden vaihtuessa ja tehdä tavallisen tilinavauksen.&lt;/p>
 &lt;h2 id="tutustu-uuteen-versioon">Tutustu uuteen versioon&lt;/h2>
 &lt;p>Ohjelma on uudistettu kokonaisuudessaan. Kitsaaseen siirtymistä ei tarvitse kiirehtiä, vaan voit ensin kaikessa rauhassa tutustua uuteen versioon ja ottaa sen käyttöön, kun siihen on hyvää aikaa.&lt;/p>
-&lt;p>Kitsas asentuu tietokoneelle Kitupiikin rinnalle.&lt;/p></description></item><item><title>Blog: Kitsas 2.0 julkaistaan syyskuussa</title><link>/blog/2020/08/19/kitsas-2.0-julkaistaan-syyskuussa/</link><pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate><guid>/blog/2020/08/19/kitsas-2.0-julkaistaan-syyskuussa/</guid><description>
-&lt;h2 id="kitsas-20-julkaistaan-syyskuussa">Kitsas 2.0 julkaistaan syyskuussa&lt;/h2>
-&lt;p>Kitsas on vihdoinkin tulossa julkaisuus. Menneiden kuukausien aikana olemme ennättäneet kehittää ja testata ohjelmaa niin, että ilmestyessään se on käyttövalmis ja luotettava.&lt;/p>
-&lt;p>&lt;a href="https://kitsas.fi/lataa">Ohjelman melkein valmis julkaisuehdokas-versio on jo ladattavissa Windowsille, Macille ja Linuxille.&lt;/a>&lt;/p>
-&lt;p>Testausvaiheen aikana olemme saaneet runsaasti palautetta, joista suurin osa on saatu huomioitua jo tässä versiossa.&lt;/p>
-&lt;p>Ohjelma on jo nyt tuotantokäytössä useammalla yhdistyksellä ja yrityksellä.&lt;/p>
-&lt;h2 id="kitsaan-pilvi">Kitsaan pilvi&lt;/h2>
-&lt;p>Nyt käytössä on myös Kitsaan pilven. Kirjanpito on siis mahdollista tallentaan suomalaiselle, varmuuskopioidulle palvelimelle. Pilvessä olevaa kirjanpitoa voi käyttää turvallisesti monta käyttäjää samanaikaisesti.&lt;/p>
-&lt;p>Tavallisesti uudet käyttäjät saavat 30 päivän maksuttoman kokeilujakson. Ennen varsinaista julkaisua aloitettuja kokeilujaksoja pitkitetään kuitenkin niin, että kokeilujaksot päättyvät vasta 30 päivän kuluttua ohjelman julkaisusta.&lt;/p>
-&lt;h2 id="palaute-on-tervetullutta">Palaute on tervetullutta&lt;/h2>
-&lt;p>Toivomme ohjelmasta ja mahdollisista ongelmatilanteista palautetta osoitteeseen &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Kitsas asentuu tietokoneelle Kitupiikin rinnalle.&lt;/p></description></item></channel></rss>
