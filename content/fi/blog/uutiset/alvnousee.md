@@ -10,8 +10,7 @@ banner: "img/banners/percent.jpg"
 
 ## Kitsas on valmiina arvonlisäveron korotukseen
 
-Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaaseen. Muutokset sisältyvät Kitsaan versioon 5.6. Tämä versio on jo saatavilla Windowsille ja Linuxille osoitteesta [kitsas.fi/lataa](/lataa). Macille on ladattavissa 
-[beta-versio](/blog/2024/06/17/kitsas-5.6-beta/).
+Olemme saaneet valmiiksi arvonlisäveron korotuksen vaatimat muutokset Kitsaaseen. Muutokset sisältyvät Kitsaan versioon 5.6. Kitsaan uusin versio on ladattavissa maksutta osoitteesta [kitsas.fi/lataa](/lataa).
 
 **Arvonlisäveron muutos edellyttää useimmilta käyttäjiltä ohjelmiston uuden version lataamista ja asentamista.**
 

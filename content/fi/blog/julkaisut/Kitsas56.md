@@ -22,6 +22,6 @@ Lisäksi ohjelmassa on parannettu tiliotteiden kirjaamista niin, että käytänn
 
 Mukana on myös joukko pienempiä korjauksia, liittyen esimerkiksi tositteiden kommentointiin sekä taseen valvontaan.
 
-Ohjelmiston uusi verso on ladattavissa Windowsille ja Linuxille osoitteesta [kitsas.fi/lataa](/lataa). 
+Ohjelmiston uusi verso on ladattavissa Windowsille, Linuxille ja Macille osoitteesta [kitsas.fi/lataa](/lataa). 
 
 <img src="/img/screenshots/alvilmo.png" class="img-responsive"/>

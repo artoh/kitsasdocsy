@@ -47,17 +47,11 @@ Lataa Kitsas maksutta tietokoneellesi
         <div class="macloota">Mac-versiota ylläpitää Kitsaan avoimen lähdekoodin pohjalta Petri Aarnio. Kitsas Oy ei anna tukea ohjelman yhteensopivuudesta Mac-tietokoneiden kanssa.</div>
         <h1><i class="fab fa-apple"></i></h1>
         <h4>macOS 11.0 tai uudempi</h4>        
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.6 BETA</h4>
-        <p>Beta-versiossa tuki 25,5%:n arvonlisäverollegitkra</p>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.6</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.6-beta/Kitsas-5.6-beta-x86_64.AppImage" class="btn btn-lg btn-primary latausnappi">
+          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.6/Kitsas-5.6.dmg" class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
-        </p>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.5.2</h4>
-        <p>
-          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.5.2/Kitsas-5.5.2.dmg" class="btn btn-lg btn-primary latausnappi">
-            <span class="fa fa-download"></span>&nbsp;Lataa</a>
-        </p>          
+        </p>                  
         <ol style="text-align: left;">
           <li>Lataa asennustiedosto</li>
           <li>Avaa asennustiedosto</li>
