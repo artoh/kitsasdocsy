@@ -254,6 +254,8 @@ Toimiessaan henkilötietojen käsittelijänä Kitsas Oy noudattaa henkilötietoj
 
 Kitsas Oy käyttää virtuaalipalvelimensa osalta alihankkijana Tentacle Oy:tä. Alihankkija on ilmoittanut, että kaikki palvelimet sijaitsevat Suomen alueella ja että ne on suojattu asianmukaisesti ISO/EIC 27001 parhaiden käytänteiden mukaisesti.
 
+Kitsas Oy käyttää serverless-ratkaisuissa, tietokantapalveluissa sekä tiedostojen tallennuksessa alihankkijana Google LLC:tä. Kitsaan käyttämät Google Cloudin palvelimet sijaitsevat Suomen alueella. Tietojen ja palvelun toiminnan varmistamiseen voidaan käyttää myös muualla EU:n alueella sijaitsevia palvelimia.
+
 #### Alihankkija sänköpostipalveluissa
 
 Kitsas Oy käyttää lähtevän sähköpostin palveluun [Brevo](https://brevo.com)-palvelua. Palvelu ilmoittaa noudattavansa GDPR-säännöstöä.
