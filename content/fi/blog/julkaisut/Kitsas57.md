@@ -4,7 +4,7 @@ date = "2024-08-29"
 description = "Mukana monen tositteen poistaminen kerralla ja pieniä korjauksia"
 categories = ["julkaisu"]
 author = "Arto"
-banner = "img/banners/alv255b.png"
+banner = "img/banners/57poista.png"
 +++
 
 Uutena toimintona Kitsaalla voi nyt poistaa kerralla useamman tositteen.

@@ -24,6 +24,10 @@ Rajaa selattavien tositteiden aikaväli ja halutessasi tositetyyppi.
 
 Napsauttamalla riviä pääset katsomaan tai muokkaamaan valittua tositetta.
 
+### Tositteiden poistaminen
+
+Napsauttamalla roskakorin kuvaa pääset valitsemaan yhden tai useamman tositteen poistettavaksi. Valittuasi tositteet paina vielä **Poista**-painiketta.
+
 ### Vientien selaaminen
 
 ![](/img/fi/selaaminen/viennit.png)
