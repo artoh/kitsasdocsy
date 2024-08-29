@@ -16,12 +16,6 @@ Kirjanpitäjältä tarvitaan huolellisuutta, sillä muutosvaiheessa verokanta m�
 
 <img src="/img/screenshots/alv255lasku.png" class="img-responsive"/>
 
-Kitsas 5.5 tuo paremman tuen huhtikuun lopun palvelinpäivityksen myötä käyttöön otettaviin Kitsaan lisäominaisuuksiin. 
-
-Lisäksi ohjelmassa on parannettu tiliotteiden kirjaamista niin, että käytännössä kaikki tulo- ja menotapahtumat, kaikilla alv-lajeilla, on mahdollista kirjata tiliotetositteella. Paikallista kirjanpitoa pilveen siirrettäessä on nyt mahdollista tehdä pilveen siirto myös suoraan tilitoimiston kirjahyllyyn.
-
-Mukana on myös joukko pienempiä korjauksia, liittyen esimerkiksi tositteiden kommentointiin sekä taseen valvontaan.
-
 Ohjelmiston uusi verso on ladattavissa Windowsille, Linuxille ja Macille osoitteesta [kitsas.fi/lataa](/lataa). 
 
 <img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
