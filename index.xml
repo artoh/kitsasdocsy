@@ -15,14 +15,30 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.6</title><link>/blog/2024/08/07/kitsas-5.6/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>/blog/2024/08/07/kitsas-5.6/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.7</title><link>/blog/2024/08/29/kitsas-5.7/</link><pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate><guid>/blog/2024/08/29/kitsas-5.7/</guid><description>
+&lt;p>Uutena toimintona Kitsaalla voi nyt poistaa kerralla useamman tositteen.&lt;/p>
+&lt;ol>
+&lt;li>Napsauta tositteiden selausnäkymässä roskakorin kuvaketta&lt;/li>
+&lt;li>Valitse poistettavat tositteet&lt;/li>
+&lt;li>Napsauta &lt;strong>Poista&lt;/strong>-painiketta&lt;/li>
+&lt;li>Ohjelma pyytää vielä vahvistamaan poistamisen&lt;/li>
+&lt;/ol>
+&lt;p>Poistetut tositteet löytyvät tuttuun tapaan &lt;strong>Poistetut&lt;/strong>-välilehdeltä.&lt;/p>
+&lt;img src="/img/fi/selaaminen/poisto.png" class="img-responsive">
+&lt;h4 id="korjauksia">Korjauksia&lt;/h4>
+&lt;ul>
+&lt;li>Toistuvien laskujen luominen on korjattu (versiolla 5.6 saattoi kaataa ohjelman riippuen arvonlisäveroprosentista)&lt;/li>
+&lt;li>Raporttien esikatselu on tumma teema käytössä&lt;/li>
+&lt;li>Tiliotteita kirjattaessa uudelle riville arvonlisäveroprosentin valinnassa huomioidaan päivämäärä&lt;/li>
+&lt;li>Korjauksia tiliotteiden lataamisessa&lt;/li>
+&lt;/ul>
+&lt;p>Ohjelmiston uusi verso on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;p>Version 5.7 tunnuskukkana on &lt;a href="https://pixabay.com/fi/illustrations/ai-luotu-kukka-krysanteemi-8305513/">krysanteemi&lt;/a>&lt;/p>
+&lt;img src="/img/versions/57-krysanteemi.jpg"></description></item><item><title>Blog: Kitsas 5.6</title><link>/blog/2024/08/07/kitsas-5.6/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>/blog/2024/08/07/kitsas-5.6/</guid><description>
 &lt;p>Kitsas 5.6 tuo tuen syyskuun alussa korotettavalle yleiselle arvonlisäveroprosentille.&lt;/p>
 &lt;p>Ohjelmiston tilikartassa olevia tilien arvonlisäveroprosentteja tai tuotteiden alv-kantoja ei tarvitse tässä yhteydessä muokata, vaan ohjelmisto ehdottaa uutta arvonlisäveroprosenttia päivämäärän mukaisesti. Toisin sanoen kirjauspäivän ollessa 1.9.2024 tai sen jälkeen, ehdottaa ohjelma 24%:n arvonlisäverokannan sijaan 25,5%:n arvonlisäverokantaa.&lt;/p>
 &lt;p>Kirjanpitäjältä tarvitaan huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">Verohallinnon ohjeista&lt;/a>. Molemmat arvonlisäverokannat ovat siis käyttäjällä aina valittavissa.&lt;/p>
 &lt;img src="/img/screenshots/alv255lasku.png" class="img-responsive"/>
-&lt;p>Kitsas 5.5 tuo paremman tuen huhtikuun lopun palvelinpäivityksen myötä käyttöön otettaviin Kitsaan lisäominaisuuksiin.&lt;/p>
-&lt;p>Lisäksi ohjelmassa on parannettu tiliotteiden kirjaamista niin, että käytännössä kaikki tulo- ja menotapahtumat, kaikilla alv-lajeilla, on mahdollista kirjata tiliotetositteella. Paikallista kirjanpitoa pilveen siirrettäessä on nyt mahdollista tehdä pilveen siirto myös suoraan tilitoimiston kirjahyllyyn.&lt;/p>
-&lt;p>Mukana on myös joukko pienempiä korjauksia, liittyen esimerkiksi tositteiden kommentointiin sekä taseen valvontaan.&lt;/p>
 &lt;p>Ohjelmiston uusi verso on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/></description></item><item><title>Blog: Kitsas 5.6 Beta</title><link>/blog/2024/06/17/kitsas-5.6-beta/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>/blog/2024/06/17/kitsas-5.6-beta/</guid><description>
 &lt;p>Kitsas 5.6 tuo tuen syyskuun alussa korotettavalle yleiselle arvonlisäveroprosentille.&lt;/p>
@@ -862,16 +878,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;h1 id="kitsas-20-julkaistu">Kitsas 2.0 julkaistu&lt;/h1>
 &lt;p>Puolentoista vuoden tiiviin kehitystyön jälkeen Kitsas on vihdoinkin valmiina. Ohjelma on ladattavissa osoitteessa &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>&lt;/p>
 &lt;h2 id="ilmainen-vai-halpa">Ilmainen vai halpa?&lt;/h2>
-&lt;p>Ohjelmaa voi edelleen käyttää täysin maksutta, kun kirjanpito tallennetaan omalle koneelle. Kitsas Oy tarjoaa edullisesti ohjelmaan tukipakettia, joka sisältää mm. kirjanpidon tallentamisen suomalaiselle palvelimelle, Finvoice-verkkolaskutuksen käyttöönoton ja sähköpostineuvonnan.&lt;/p></description></item><item><title>Blog: Kitupiikin tuki päättyy 2021</title><link>/blog/2020/09/10/kitupiikin-tuki-p%C3%A4%C3%A4ttyy-2021/</link><pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate><guid>/blog/2020/09/10/kitupiikin-tuki-p%C3%A4%C3%A4ttyy-2021/</guid><description>
-&lt;h1 id="kitupiikin-tuki-päättyy-2021">Kitupiikin tuki päättyy 2021&lt;/h1>
-&lt;p>Kitsaan julkaisun myötä ohjelman aiemman version Kitupiikin tuki päättyy.&lt;/p>
-&lt;p>Kitupiikille ei enää julkaista uusia päivityksiä. Kitupiikin tukikanavat poistuvat käytöstä vuoden 2021 aikana.&lt;/p>
-&lt;p>Kitupiikin käyttöä voi kuitenkin jatkaa yhä edelleen. Pitkällä aikavälillä on kuitenkin hyvä ottaa huomioon, ettei esimerkiksi verottajan suunnittelemaan arvonlisäveron ilmoittamisen uudistusta vuoden 2022 jälkeen toteuteta Kitupiikille.&lt;/p>
-&lt;h2 id="helppo-siirtyminen-kitsaaseen">Helppo siirtyminen Kitsaaseen&lt;/h2>
-&lt;p>Ohjelman tiedostomuoto on muuttunut, eli Kitupiikin kirjanpidot pitää erikseen kopioida Kitsaaseen. Toiminto löytyy ohjelman Aloitus-välilehdeltä.&lt;/p>
-&lt;p>Aivan ensimmäisillä Kitupiikin versioilla aloitettuja kirjanpitoja ei kuitenkaan pysty tuomaan Kitsaaseen tällä toiminnolla.&lt;/p>
-&lt;h2 id="siirtyminen-tilikauden-vaihtuessa">Siirtyminen tilikauden vaihtuessa&lt;/h2>
-&lt;p>Voit myös aloittaa Kitsaalla uuden kirjanpidon tilikauden vaihtuessa ja tehdä tavallisen tilinavauksen.&lt;/p>
-&lt;h2 id="tutustu-uuteen-versioon">Tutustu uuteen versioon&lt;/h2>
-&lt;p>Ohjelma on uudistettu kokonaisuudessaan. Kitsaaseen siirtymistä ei tarvitse kiirehtiä, vaan voit ensin kaikessa rauhassa tutustua uuteen versioon ja ottaa sen käyttöön, kun siihen on hyvää aikaa.&lt;/p>
-&lt;p>Kitsas asentuu tietokoneelle Kitupiikin rinnalle.&lt;/p></description></item></channel></rss>
+&lt;p>Ohjelmaa voi edelleen käyttää täysin maksutta, kun kirjanpito tallennetaan omalle koneelle. Kitsas Oy tarjoaa edullisesti ohjelmaan tukipakettia, joka sisältää mm. kirjanpidon tallentamisen suomalaiselle palvelimelle, Finvoice-verkkolaskutuksen käyttöönoton ja sähköpostineuvonnan.&lt;/p></description></item></channel></rss>
