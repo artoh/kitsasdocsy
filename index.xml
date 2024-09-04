@@ -15,7 +15,17 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.7</title><link>/blog/2024/08/29/kitsas-5.7/</link><pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate><guid>/blog/2024/08/29/kitsas-5.7/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-1102024">Paperipostina lähetettävien laskujen hinnat nousevat 1.10.2024&lt;/h3>
+&lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
+&lt;p>Hinnat nousevat 1.10.2024 alkaen lähetettävissä laskuissa&lt;/p>
+&lt;h3 id="kotimaan-kirjeet">Kotimaan kirjeet&lt;/h3>
+&lt;p>Lähettäminen Priority-kirjeenä &lt;strong>2,87&lt;/strong> € (nykyisin 2,69 €)
+Lähettäminen Economy-kirjeenä &lt;strong>2,09&lt;/strong> € (nykyisin 2,03 €)&lt;/p>
+&lt;h3 id="ulkomaan-kirjeet">Ulkomaan kirjeet&lt;/h3>
+&lt;p>Eurooppa &lt;strong>2,89&lt;/strong> € (nykyisin 2,73 €)
+Muu maailma &lt;strong>3,14&lt;/strong> € (nykyisin 2,98 €)&lt;/p>
+&lt;p>Verkkolaskujen hinnat eivät nouse, vaan lähtevä ja saapuva verkkolasku maksaa edelleen &lt;strong>0,50&lt;/strong> € / kappale.&lt;/p></description></item><item><title>Blog: Kitsas 5.7</title><link>/blog/2024/08/29/kitsas-5.7/</link><pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate><guid>/blog/2024/08/29/kitsas-5.7/</guid><description>
 &lt;p>Uutena toimintona Kitsaalla voi nyt poistaa kerralla useamman tositteen.&lt;/p>
 &lt;ol>
 &lt;li>Napsauta tositteiden selausnäkymässä roskakorin kuvaketta&lt;/li>
@@ -874,8 +884,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;p>Lisäksi mukana on joukko pienempiä lisäyksiä sekä joukko etenkin yritystilikartan käyttöä parantavien virheiden korjauksia.&lt;br>
 &lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.1-beta">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas julkaistu!</title><link>/blog/2020/09/14/kitsas-julkaistu/</link><pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate><guid>/blog/2020/09/14/kitsas-julkaistu/</guid><description>
-&lt;h1 id="kitsas-20-julkaistu">Kitsas 2.0 julkaistu&lt;/h1>
-&lt;p>Puolentoista vuoden tiiviin kehitystyön jälkeen Kitsas on vihdoinkin valmiina. Ohjelma on ladattavissa osoitteessa &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>&lt;/p>
-&lt;h2 id="ilmainen-vai-halpa">Ilmainen vai halpa?&lt;/h2>
-&lt;p>Ohjelmaa voi edelleen käyttää täysin maksutta, kun kirjanpito tallennetaan omalle koneelle. Kitsas Oy tarjoaa edullisesti ohjelmaan tukipakettia, joka sisältää mm. kirjanpidon tallentamisen suomalaiselle palvelimelle, Finvoice-verkkolaskutuksen käyttöönoton ja sähköpostineuvonnan.&lt;/p></description></item></channel></rss>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
