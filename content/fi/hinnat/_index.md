@@ -21,6 +21,7 @@ varmuuskopioituun pilveen, Suomessa sijaitsevalle palvelimelle.
 {{< /blocks/cover >}}
 
 {{% blocks/section color="white" %}}
+
 <div class="col">
 <p><span class="plan">Ilmaiseksi</span> ohjelmaa saa käyttää, kun kirjanpidon tallentaa omalle koneelle. Emme kuitenkaan voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa, ja käyttäjän pitää huolehtia itse kirjanpitonsa varmuuskopioinnista.</p>
 <p><span class="plan">Kitsas Kerho</span> sopii yhdistyksille ja asunto-osakeyhtiöille, joilla ei ole arvonlisäverollista toimintaa.</p>
@@ -38,8 +39,6 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 </div>
 {{% /blocks/section %}}
 {{% blocks/section color="white" %}}
-
-
 
 <article class="hinnasto">
 <h3>Kitsaan palvelupaketit</h3>
@@ -68,11 +67,10 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
    <tr class="hinnasto">
      <td>Vuosihinta (sis. alv)</td>
       <td><span class="txt-l">0</span> <span class="txt-top">&euro;/vuosi</span></td>
-      <td><span class="txt-l">62</span> <span class="txt-top">&euro;/vuosi</span>
-      <p>1.9. alkaen 62,75 &euro;/vuosi</p></td>
+      <td><span class="txt-l">62,75</span> <span class="txt-top">&euro;/vuosi</span>
+      </td>
       <td class="default">
-        <span class="txt-l">155</span> <span class="txt-top">&euro;/vuosi</span>
-        <p>1.9. alkaen 156,88 &euro;/vuosi</p></td>
+        <span class="txt-l">156,88</span> <span class="txt-top">&euro;/vuosi</span>
       </td>
     </tr>  
     <tr class="hinnasto">
@@ -214,10 +212,10 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
     <tr class="hinnasto">
       <td>Lisäkirjanpito tallennettuna Kitsaan pilveen (sis. alv)</td>
       <td> </td>
-      <td><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span> 
-      <p> 1.9. alkaen 5,02 &euro;/kk</p></td></td>
-      <td class="default"><span class="txt-l">4,96</span> <span class="txt-top">&euro;/kk</span>  
-      <p>1.9. alkaen 5,02 &euro;/kk</p></td>
+      <td><span class="txt-l">5,02</span> <span class="txt-top">&euro;/kk</span> 
+      </td>
+      <td class="default"><span class="txt-l">5,02</span> <span class="txt-top">&euro;/kk</span>  
+      </td>
     </tr>           
   </tbody>
 </table>
@@ -250,12 +248,14 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       <td>Kotimaa, Priority</td>
        <td>
        <span class="txt-l">2,69</span> <span class="txt-top">&euro;/kpl</span>
+       <p>1.10. alkaen 2,87  &euro;/kpl</p>
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
         <td>        
-        <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span>        
+        <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span>
+        <p>1.10. alkaen 2,09 &euro;/kpl</p>      
         </td>
       </tr>  
       <tr>
@@ -269,12 +269,14 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       <tr>
         <td>Eurooppa</td>
          <td class="">
-         <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>         
+         <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>  
+         <p>1.10. alkaen 2,89 &euro;/kpl</p>       
        </tr>         
       <tr>
         <td>Muu maailma</td>
        <td class="">
-       <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>               
+       <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>
+       <p>1.10. alkaen 3,14 &euro;/kpl</p>               
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
@@ -304,7 +306,6 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     </tr>       
   </tbody>
 </table>
-  
 
 <h3>Tuntityöveloitus</h3>
 Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> &euro; + alv / tunti
