@@ -15,30 +15,28 @@ Hyllyn voisi ajatella mappikaapiksi ja hyllyroolin tai -oikeuden avaimeksi täh�
 
 ### Oikeuksien tarkasteleminen
 
-**Hyllyn** oikeuksien sivulla näkyvät käyttäjien suorat roolit ja lisäoikeudet hyllyyn.  Pääset sinne joko hakemalla hyllyn nimellä tai tilitoimistonäkymän Asetukset-osion asetusten **Hyllyt**-sivulta.
+**Hyllyn** oikeuksien sivulla näkyvät käyttäjien suorat roolit ja lisäoikeudet hyllyyn. Pääset sinne joko hakemalla hyllyn nimellä tai tilitoimistonäkymän Asetukset-osion asetusten **Hyllyt**-sivulta.
 
-**Yksittäisen kirjanpidon** oikeuksien sivulla näkyvät käyttäjien suorat roolit ja lisäoikeudet hyllyyn.Pääset sinne kirjanpidon tietojen sivun kautta **Oikeudet**-painikkeella. Kirjanpidon tietojen sivulle pääsee hakemalla kirjanpidon nimellä tai y-tunnuksella tai valitsemalla kirjanpidon kirjanpitojen listasta ja painamalla Tiedot-nappia.  
+**Yksittäisen kirjanpidon** oikeuksien sivulla näkyvät käyttäjien suorat roolit ja lisäoikeudet kirjanpitoon.Pääset sinne kirjanpidon tietojen sivun kautta **Oikeudet**-painikkeella. Kirjanpidon tietojen sivulle pääsee hakemalla kirjanpidon nimellä tai y-tunnuksella tai valitsemalla kirjanpidon kirjanpitojen listasta ja painamalla Tiedot-nappia.
 
 ### Oikeuksien määritteleminen
 
-Toimistotason roolit voi määritellä työntekijää lisättäessä. 
+Toimistotason roolit voi määritellä työntekijää lisättäessä.
 
 **Hyllyyn** (myös tilitoimistohyllyyn) voi antaa käyttäjille rooleja ja tarvittaessa erillisiä lisäoikeuksia hyllyn oikeuksien sivulta. Hyllyn sivulla on painikkeet käyttäjän lisäämiselle ja käyttäjän oikeuksien muokkaamiselle.
 
 **Yksittäiseen kirjanpitoon** voi antaa rooleja ja tarvittaessa erillisiä lisäoikeuksia kirjanpidon oikeuksien sivulta. Tälläkin sivulla on painikkeet käyttäjän lisäämiselle ja käyttäjän oikeuksien muokkaamiselle.
 
-**Lisää käyttäjä**-painiketta käytetään riippumatta siitä, onko käyttäjällä jo käyttäjätunnus tai oikeuksia johonkin muuhun tilitoimiston hyllyyn tai kirjanpitoon. Tilitoimiston työntekijän voi lisätä pudotusvalikosta, muista käyttäjistä annetaan sähköpostiosoite. Jos käyttäjätunnusta ei ole vielä olemassa, lähetetään käyttäjän sähköpostiin ohjeet ja linkki käyttäjätunnuksen aktivoimiseksi. Uusille käyttäjille myös määritellään ovatko he yrityskäyttäjiä, web-käyttäjiä (kirjautuminen vain WebKitsaaseen ja lisäosien web-sivuille) vai tilintarkastajia. 
- 
-Käyttäjän valinnan jälkeen valitaan seuraavassa dialogissa käyttäjälle annettavat roolit ja erilliset oikeudet. 
+**Uusi käyttäjä**-painiketta käytetään riippumatta siitä, onko käyttäjällä jo käyttäjätunnus tai oikeuksia johonkin muuhun tilitoimiston hyllyyn tai kirjanpitoon. Tilitoimiston työntekijän voi lisätä pudotusvalikosta, muista käyttäjistä annetaan sähköpostiosoite. Jos käyttäjätunnusta ei ole vielä olemassa, lähetetään käyttäjän sähköpostiin ohjeet ja linkki käyttäjätunnuksen aktivoimiseksi. Uusille käyttäjille myös määritellään ovatko he yrityskäyttäjiä, web-käyttäjiä (kirjautuminen vain WebKitsaaseen ja lisäosien web-sivuille) vai tilintarkastajia.
 
-Suositeltavaa on antaa käyttäjile ensisijaisesti rooleja. Jos valmiit järjestelmäroolit eivät sovellu, voi toimistolle määritellä omia rooleja tilitoimistonäkymän asetukset-osion **Roolit**-sivulla. 
+Käyttäjän valinnan jälkeen valitaan seuraavassa dialogissa käyttäjälle annettavat roolit ja erilliset oikeudet.
 
-Mahdollisuus antaa käyttäjälle myös määräaikaisia oikeuksia palautuu tulossa olevassa päivityksessä.
-<!-- Käyttöoikeudet voidaan määritellä määräaikaisiksi (**Voimassa**-aikaväli) tai toistaiseksi voimassa oleviksi. -->
+Suositeltavaa on antaa käyttäjile ensisijaisesti rooleja. Jos valmiit järjestelmäroolit eivät sovellu, voi toimistolle määritellä omia rooleja tilitoimistonäkymän asetukset-osion **Roolit**-sivulla.
+
+Käyttöoikeudet voidaan määritellä määräaikaisiksi halutulle aikavälille tai toistaiseksi voimassa oleviksi.
 
 **Muokkaa** -painikkeella voi muokata valitun käyttäjän oikeuksia.
 
 ### Käyttäjän kaikkien oikeuksien tarkastelu
 
 Käyttäjän kaikkia oikeuksia tilitoimiston hyllyihin ja yksittäisiin kirjanpitoihin voi tarkastella käyttäjän oikeuksien sivulla. Muutokset oikeuksiin tehdään kuitenkin hyllyn/kirjanpidon oikeuksien sivun kautta. Käyttäjän oikeuksien sivulle pääsee klikkamalla käyttäjän nimeä kirjanpidon/hyllyn oikeuksien sivun käyttäjälistassa, hakemalla käyttäjän nimellä tai sähköpostiosoitteella tai **Käyttäjät**-osion kautta.
-
