@@ -24,3 +24,8 @@ Koska haluamme käyttää kitsaasti myös arvokkaita luonnonvaroja, valitsimme d
 Serverless-tekniikassa palvelinten kapasiteettia säädetään jatkuvasti käyttäjien määrän mukaisesti. Näin Kitsas ei jatkossa hidastu edes kuukauden 12. päivänä, kun samanaikaisia käyttäjiä on hetkellisesti tavallista enemmän.
 
 Palvelimen siirto ei näy käyttäjällä millään tavalla - yhden yön katkoa sekä ruuhkapäivien nopeutumista lukuun ottamatta.
+
+
+#### Ilmoitus alihankkijan käyttämisestä
+
+Kitsas Oy käyttää serverless-palveluissa, tietokantapalveluissa sekä tiedostojen tallennuksessa alihankkijana Google LLC:tä. Kitsaan käyttämät palvelimet sijaitsevat Suomen alueella. Tietojen ja palvelun toiminnan varmistamiseen voidaan käyttää myös muualla EU:n alueella sijaitsevia palvelimia.
