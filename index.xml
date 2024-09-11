@@ -15,7 +15,12 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Palvelinpäivitys 27. - 28.9.</title><link>/blog/2024/09/11/palvelinp%C3%A4ivitys-27.-28.9./</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/11/palvelinp%C3%A4ivitys-27.-28.9./</guid><description>
+&lt;p>Kitsaan pilvipalvelun käyttämät tietokannat muuttavat Helsingistä Haminaan, ja tämän takia pilvipalveluissa on käyttökatko.&lt;/p>
+&lt;p>Katko alkaa &lt;strong>perjantaina 27.9.2024 kello 22.00&lt;/strong>&lt;/p>
+&lt;p>Katko päättyy &lt;strong>lauantaina 28.9.2024 kello 09.00&lt;/strong>&lt;/p>
+&lt;p>Siirrymme käyttämään pilvipalveluissa Googlen Serveless-tekniikkaa sekä tietokantapalvelinta. Myös jatkossa kaikki asiakkaittemme tieto säilytetään EU:n alueella: ensisijaisesti tieto säilytetään Suomessa, mutta tiedon saavutettavuuden ja turvallisuuden parantamiseksi tietoa voidaan varmistaa EU:n alueella oleviin datakeskuksiin.&lt;/p>
+&lt;p>Muutoksella lisäämme palvelimen kapasiteettia niinä ajankohtina, jolloin käyttö on suurinta.&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</guid><description>
 &lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-1102024">Paperipostina lähetettävien laskujen hinnat nousevat 1.10.2024&lt;/h3>
 &lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
 &lt;p>Hinnat nousevat 1.10.2024 alkaen lähetettävissä laskuissa&lt;/p>
@@ -861,27 +866,4 @@ Webinaari kestää noin tunnin, jonka jälkeen on vielä mahdollisuus esittää 
 Webinaari toteutetaan Google Meets-palvelun avulla.&lt;/p>
 &lt;p>Tiedustelut &lt;a href="mailto:kitsas@kitsas.fi">kitsas@kitsas.fi&lt;/a>&lt;/p>
 &lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLScwvVS1B4a-Adq_tCAt6JYZsgyXXONRcyZ7HOskW9pinXVqMQ/viewform?embedded=true" width="640" height="2008" frameborder="0" marginheight="0" marginwidth="0">Ladataan…&lt;/iframe>
-&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.1 beta</title><link>/blog/2020/10/20/kitsas-2.1-beta/</link><pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate><guid>/blog/2020/10/20/kitsas-2.1-beta/</guid><description>
-&lt;h1 id="kitsas-21-beta-vaiheessa">Kitsas 2.1 BETA-vaiheessa&lt;/h1>
-&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
-&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.1-beta.1/kitsas-2.1-beta.1.exe">Kitsas 2.1 BETA.1 Windows&lt;/a>&lt;br>
-Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
-&lt;h2 id="mac-versio">Mac-versio&lt;/h2>
-&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v2.1-beta.1/Kitsas-2.1-beta.1.dmg">Kitsas 2.1 BETA Mac&lt;/a>&lt;br>
-Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
-&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.1-beta.1/Kitsas-2.1-beta.1-x86_64.AppImage">Kitsas 2.1 BETA.1 Linux&lt;/a>&lt;br>
-Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
-&lt;h2 id="runsaasti-uusia-ja-parannettuja-ominaisuuksia">Runsaasti uusia ja parannettuja ominaisuuksia&lt;/h2>
-&lt;ul>
-&lt;li>Versiossa 2.0 saattoi isojen kirjanpitojen selaaminen olla hyvinkin hidasta -nyt selausta on saatu nopeutettua merkittävästi.&lt;/li>
-&lt;li>Ohjelmassa on parempi tuki eri tositesarjojen käyttöön, esimerkiksi selauksessa voit valita selattavan tositesarjan.&lt;/li>
-&lt;li>Sähköpostia lähetettäessä voi käyttää myös STARTTLS-suojausta, joten sähköpostin lähettäminen toimii paremmin eri palveluiden kanssa.&lt;/li>
-&lt;li>Kirjanpitoaineiston muotoa on parannettu niin, että tositteesta näkee paremmin myös tiliöinnin. Muistiinpanoinan tallennetut huomautukset tulostuvat nyt myös aineistoon.&lt;/li>
-&lt;li>Toistuvia tositteita varten on mahdollista nyt tallentaa mallipohjia. Valinta löytyy uutta kirjausta tehtäessä lisävalintapainikkeen takaa.&lt;/li>
-&lt;/ul>
-&lt;p>Lisäksi mukana on joukko pienempiä lisäyksiä sekä joukko etenkin yritystilikartan käyttöä parantavien virheiden korjauksia.&lt;br>
-&lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.1-beta">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
-&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item></channel></rss>
