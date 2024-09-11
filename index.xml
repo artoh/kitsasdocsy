@@ -19,8 +19,12 @@
 &lt;p>Kitsaan pilvipalvelun käyttämät tietokannat muuttavat Helsingistä Haminaan, ja tämän takia pilvipalveluissa on käyttökatko.&lt;/p>
 &lt;p>Katko alkaa &lt;strong>perjantaina 27.9.2024 kello 22.00&lt;/strong>&lt;/p>
 &lt;p>Katko päättyy &lt;strong>lauantaina 28.9.2024 kello 09.00&lt;/strong>&lt;/p>
-&lt;p>Siirrymme käyttämään pilvipalveluissa Googlen Serveless-tekniikkaa sekä tietokantapalvelinta. Myös jatkossa kaikki asiakkaittemme tieto säilytetään EU:n alueella: ensisijaisesti tieto säilytetään Suomessa, mutta tiedon saavutettavuuden ja turvallisuuden parantamiseksi tietoa voidaan varmistaa EU:n alueella oleviin datakeskuksiin.&lt;/p>
-&lt;p>Muutoksella lisäämme palvelimen kapasiteettia niinä ajankohtina, jolloin käyttö on suurinta.&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;p>Katko voi olla ilmoitettua lyhyempi.&lt;/p>
+&lt;p>Siirrymme käyttämään pilvipalveluissa Googlen Serveless-tekniikkaa sekä tietokantapalvelinta.&lt;/p>
+&lt;p>Asiakkaittemme tieto sijaitsee jatkossa Googlen datakeskuksessa &lt;a href="https://www.google.com/intl/fi_fi/about/datacenters/locations/hamina/">Haminan Summassa&lt;/a>. Kaikki tieto varmuuskopioidaan &lt;a href="https://www.google.com/about/datacenters/locations/eemshaven/">Eemshaveniin Alankomaihin&lt;/a>. Sijoittamalla varmuuskopiot 1400 kilometrin etäisyydelle pystymme suojaamaan asiakkaittemme tietoja myös äärimmäisessä katastrofitilanteessa - ja samalla tiedot pysyvät aina EU:n alueella ja EU:n tietosuojalainsäädännön alaisina.&lt;/p>
+&lt;p>Koska haluamme käyttää kitsaasti myös arvokkaita luonnonvaroja, valitsimme datakeskukset, jotka käyttävät uusiutuvaa energiaa.&lt;/p>
+&lt;p>Serverless-tekniikassa palvelinten kapasiteettia säädetään jatkuvasti käyttäjien määrän mukaisesti. Näin Kitsas ei jatkossa hidastu edes kuukauden 12. päivänä, kun samanaikaisia käyttäjiä on hetkellisesti tavallista enemmän.&lt;/p>
+&lt;p>Palvelimen siirto ei näy käyttäjällä millään tavalla - yhden yön katkoa sekä ruuhkapäivien nopeutumista lukuun ottamatta.&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</link><pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/04/kirjeiden-hinnat-nousevat/</guid><description>
 &lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-1102024">Paperipostina lähetettävien laskujen hinnat nousevat 1.10.2024&lt;/h3>
 &lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
 &lt;p>Hinnat nousevat 1.10.2024 alkaen lähetettävissä laskuissa&lt;/p>
