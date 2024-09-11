@@ -7,6 +7,8 @@ author = "Arto"
 banner = "img/banners/palvelin.jpg"
 +++
 
+<img src="/img/banners/palvelin.jpg" class="img-responsive"/>
+
 Kitsaan pilvipalvelun käyttämät tietokannat muuttavat Helsingistä Haminaan, ja tämän takia pilvipalveluissa on käyttökatko.
 
 Katko alkaa **perjantaina 27.9.2024 kello 22.00** 
