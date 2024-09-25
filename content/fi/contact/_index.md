@@ -65,20 +65,6 @@ Ohjelman kehitys jatkuu yhdessä avoimen lähdekoodin yhteisön kanssa. Ohjelmaa
 
 {{< /blocks/section >}}
 {{< blocks/section color="white">}}
-<div class="row">
-
-{{< card header="Toimitusjohtaja" footer="Heli Hyvättinen<br/>heli@kitsas.fi" >}}
-<img src="heli.png" class="parsta"><br/>
-{{< /card >}}
-&nbsp;
-{{< card header="Ohjelmistokehittäjä" footer="Arto Hyvättinen<br/>arto@kitsas.fi" >}}
-<img src="arto.png" class="parsta"><br/>
-{{< /card >}}
-
-
-</div>
-{{< /blocks/section >}}
-{{< blocks/section color="white">}}
 
 
 {{% blocks/huomio icon="fa fa-at" title="Sähköposti" %}}
