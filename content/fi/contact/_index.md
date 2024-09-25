@@ -82,6 +82,7 @@ palaute@kitsas.fi
 
 {{% blocks/huomio icon="fa fa-life-ring" title="Käyttäjätuki" url="/tuki" %}}
 <h4>Talouden Ohjelmistopalveluiden Kitsas Helpdesk</h4>
+<div class="tukijuttu">Kitsas Helpdeskin palvelut sisältyvät Kitsas Kerho, Kitsas Firma ja Kitsas Pro -tilauksiin. Emme valitettavasti voi tarjota henkilökohtaista käyttäjätukea  Kitsaan ilmaiskäyttäjille. </div>
 <p><span class="fa fa-envelope"></span> <a href="mailto:kitsas.helpdesk@taopa.fi">kitsas.helpdesk@taopa.fi</a> <br/>
 <span class="fa fa-phone"></span> 044 333 5019</p>
 <h3>Myynti tilitoimistoille</h3>
