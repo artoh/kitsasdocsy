@@ -3,8 +3,8 @@ title: "Yhdistyksen kirjanpito helposti Kitsaalla"
 linkTitle: "Yhdistyksille"
 keywords: ["yhdistys"]
 description: "Kirjanpito-ohjelmisto yhdistyksille"
-
 ---
+
 {{< blocks/cover title="Yhdistyksen kirjanpito helposti Kitsaalla" image_anchor="top" height="min" color="dark" >}}
 
 <div class="mx-auto prolead">
@@ -21,7 +21,6 @@ description: "Kirjanpito-ohjelmisto yhdistyksille"
 
 {{< blocks/section color="dark">}}
 
-
 {{% blocks/feature3 icon="fa-heart" title="Ystävällinen" %}}
 Suunniteltu helppokäyttöiseksi vapaaehtoisille yhdistystoimijoille
 {{% /blocks/feature3 %}}
@@ -34,8 +33,8 @@ Eroon mapeista &#8211; koko kirjanpidon voi tehdä sähköisesti
 {{< /blocks/section >}}
 
 {{< blocks/section color="white" >}}
-<article class="pro">
 
+<article class="pro">
 
 <div class="yhdistystesti">
   <div class="ohje">
@@ -152,7 +151,7 @@ Eroon mapeista &#8211; koko kirjanpidon voi tehdä sähköisesti
         <li class="firma">Arvonlisäverovelvollinen toiminta</li>
       </ul>      
       <p class="ilmainen">Vaikuttaa siltä, että Kitsaan maksuttomat toiminnot riittäisivät yhdistyksesi kirjanpitoon: voisit tallentaa kirjanpidon omalle tietokoneellesi, ja huolehtia itse sen varmuuskopioinnista. Voit myöhemmin siirtää omalle koneellesi tallennetun kirjanpidon Kitsaan pilveen, jos haluat vaihtaa Kitsaan maksulliseen tilaukseen. </p>
-      <p class="ilmainen">Tallentaessasi kirjanpitoa omalle koneellesi ole erityisen huolellinen kirjanpitosi varmuuskopioinnissa! <span id="kerhohintainfo"> Yhdistyksellesi sopiva <b>Kitsas Kerho</b> -tilaus, johon sisältyy kirjanpidon tallentaminen varmuuskopioidulle palvelimelle sekä Kitsaan Helpdeskin neuvonta, maksaisi vain 62 euroa vuodessa. Tilauksen voi tehdä suoraan Kitsas-ohjelmasta.</span></p>
+      <p class="ilmainen">Tallentaessasi kirjanpitoa omalle koneellesi ole erityisen huolellinen kirjanpitosi varmuuskopioinnissa! <span id="kerhohintainfo"> Yhdistyksellesi sopiva <b>Kitsas Kerho</b> -tilaus, johon sisältyy kirjanpidon tallentaminen varmuuskopioidulle palvelimelle sekä Kitsaan Helpdeskin neuvonta, maksaisi vain 62,75 euroa vuodessa. Tilauksen voi tehdä suoraan Kitsas-ohjelmasta.</span></p>
       <p id="osaaminen">Kitsas on helppokäyttöinen, ja pienellä opettelulla yksinkertaisen yhdistyskirjanpidon pystyy tekemään itse myös ilman aiempaa kokemusta. Ellei aika riitä opiskeluun ja kirjanpidon tekemiseen itse, tai jos yhdistyksellä esimerkiksi on sijoitusomaisuutta, hyvä vaihtoehto voi olla kääntyä palvelevan tilitoimiston puoleen. Kitsaan <a href="/tuki">Helpdesk</a> opastaa mielellään myös Kitsasta käyttävän tilitoimiston löytämisessä.</p>      
       <p id="maksuperuste">Kitsas soveltuu erityisen hyvin maksuperusteiseen kirjanpitoon, esimerkiksi tilitapahtumia voi ohjelmaan tuoda joko pdf-tiliotteelta tai tilitapahtumien automaattisella noutamisella.</p>
       <p id="palkkainfo">Kitsas ei sisällä palkanmaksua. Yksinkertaiset palkat voi laskea esimerkiksi maksuttomassa palkka.fi-palvelussa, ja kirjata palkat Kitsaassa kirjanpitoon.</p>
@@ -161,9 +160,9 @@ Eroon mapeista &#8211; koko kirjanpidon voi tehdä sähköisesti
       <a class="btn btn-lg btn-primary mr-3 mb-4" href="/lataa">
         Lataa Kitsas maksutta<i class="fab fa-windows ml-2 "></i><i class="fab fa-apple ml-2 "></i><i class="fab fa-linux ml-2 "></i>
       </a>
-      <p class="kerho">Kitsas Kerho maksaa <b>62</b> euroa vuodessa (sis. alv).</p>
+      <p class="kerho">Kitsas Kerho maksaa <b>62,75</b> euroa vuodessa (sis. alv 25,5 %).</p>
       <p class="firma">Kun yhdistys on hakeutunut arvonlisäverovelvolliseksi ja antaa arvonlisäveroilmoituksia, ei edullisempi Kitsas Kerho (62 euroa vuodessa) enää riitä yhdistykselle.</p>
-      <p class="firma">Ohjelman kaikki ominaisuudet sisältävä Kitsas Firma maksaa <b>155</b> euroa vuodessa (125 eur + alv. 24%).</p>
+      <p class="firma">Ohjelman kaikki ominaisuudet sisältävä Kitsas Firma maksaa <b>156,88</b> euroa vuodessa (125 eur + alv. 25,5 %).</p>
     </div>
     <div class="askel" id="firma">
       <h2>Kitsas Firma</h2>
@@ -203,12 +202,13 @@ Eroon mapeista &#8211; koko kirjanpidon voi tehdä sähköisesti
 - Sisäänrakennettu laskutus, myös ryhmien laskuttaminen ja vakioviitteiden hyödyntäminen
 - Kitsas on omalle koneelle asennettava ohjelma, jolla kirjaaminen on nopeaa
 - Käytössä tuhansissa yhdistyksissä, mm. urheiluseuroissa, partiolippukunnissa, kyläyhdistyksissä, opiskelijajärjestöissä, potilasyhdistyksissä, metsästyskerhoissa...
-- Käytettävissä täysin maksutta &#8211; <span class="violetti"><b>62 euron</b></span>  vuosihintaan kirjanpidon tallennus varmuuskopioitavalle palvelimelle jo iso joukko lisäominaisuuksia, kuten
+- Käytettävissä täysin maksutta &#8211; <span class="violetti"><b>62 euron</b></span> vuosihintaan kirjanpidon tallennus varmuuskopioitavalle palvelimelle jo iso joukko lisäominaisuuksia, kuten
 kululaskujen toimittaminen web-portaalissa ja laskujen hyväksyntäkierto
 </article>
 {{% /blocks/section %}}
 
 {{% blocks/section color="primary" %}}
+
 <div class="row nostot">
 <h2 class="nosto">Ota maksutta käyttöön!</h2>
 <p>Halutessasi voit kokeilla Kitsaan maksullisia toimintoja 30 päivän kuluttua ennen tilauksen tekemistä.<br/>
@@ -225,13 +225,12 @@ Voit myös käyttää Kitsasta täysin maksutta ja ilman rekisteröitymistä, ku
 
 {{% /blocks/section %}}
 
-
 {{< blocks/section color="white">}}
 
 <div class="row">
 
-
 {{< nosto title="Sinun kirjanpitosi" image="arkisto">}}
+
 <p>Kirjanpidostasi muodostetaan sähköinen arkisto, joka on käytettävissäsi myös ilman Kitsasta. </p>
 {{</nosto>}}
 
@@ -240,16 +239,16 @@ Kitsas laskee poistot ja jaksotukset sekä muodostaa lopuksi vielä valmiit tili
 {{</nosto>}}
 
 {{< nosto title="Kohdennukset" image="kohdennus">}}
+
 <p>Menojen ja tulojen helppo kohdentaminen kustannuspaikoilla ja projekteille tai avustuksien käytön seuranta.</p>
 {{</nosto>}}
 
 {{< nosto title="Kirjanpidon raportit" image="raportit">}}
+
 <p>Pääkirja, päiväkirja, tase, tuloslaskelma, tase-erittely...</p>
 {{</nosto>}}
 
-
 </div>
-
 
 {{< /blocks/section>}}
 

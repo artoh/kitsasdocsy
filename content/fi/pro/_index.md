@@ -7,6 +7,7 @@ menu:
   main:
     weight: 20
 ---
+
 {{< blocks/cover title="Tilitoimiston kustannus&shy;tehokkain työkalu" image_anchor="top" height="min" color="dark" >}}
 
 <div class="mx-auto prolead">
@@ -19,7 +20,6 @@ menu:
 {{< /blocks/cover >}}
 
 {{< blocks/section color="dark">}}
-
 
 {{% blocks/feature3 icon="fa-users" title="Koko tilitoimiston työkalu" %}}
 Ei käyttäjäveloituksia
@@ -35,14 +35,14 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 <form action="https://usebasin.com/f/ffb4c4e3de66" method="post">
 
 {{< blocks/section color="white" >}}
+
 <article class="pro">
 
-
-<div class="kampanja">
+<!-- <div class="kampanja">
 <h2>Kesän ohjelmistokulut 0 €</h2>
 
 Kesäkuun 2024 loppuun mennessä allekirjoitettujen Kitsas Pro -tilauksien laskutus käynnistyy 1.9.2024. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti.
-</div>
+</div> -->
 
 <h2>Takuuvarmasti edullinen hinnoittelu</h2>
 Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asiakkaiden kohdalla hinnoittelu perustuu asiakasmäärään.  Sähköisiä ominaisuuksia hyödynnettäessä veloitetaan lisäksi edulliset lähetys- ja vastaanottomaksut.
@@ -62,18 +62,20 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
       </div>
       <div class="hintapro__price">
         <p class="hintapro__euro"><span id="laskettu">50</span> €</p>
-        <p class="hinnat__kk">/kk + alv 24% </p>
+        <p class="hinnat__kk">/kk + alv 25,5% </p>
       </div>
       <div class="hintapro__info">
         Totutuneet tapahtumamaksut veloitetaan hinnaston mukaisesti
       </div>
     </div>
+
   </div>
 
 </article>
 
 {{< /blocks/section >}}
 {{< blocks/section color="white" >}}
+
 <article class="pro">
 
 <h2>Kymmenet tilitoimistot ovat ottaneet Kitsas Pron käyttöön palvellakseen kustannustehokkaasti
@@ -112,7 +114,6 @@ Fennoaa.
 </div>
 </div>
 
-
 <div class="lomakealue row">
   <div class="lomakealue__vasen col col-lg-8 col-sm-12">    
      <a name="yhteys">
@@ -141,23 +142,23 @@ Fennoaa.
    <h3 class="violetti">Kerromme mielellämme lisää!</h3>
    <p><span class="fa fa-phone"></span> <a class="violetti" href="tel:+358504009130">050 400 9130</a></p>
    <p><span class="fa fa-envelope"></span> <a class="violetti" href="mailto:kitsas.helpdesk@taopa.fi">kitsas.helpdesk@taopa.fi</a></p>
-   <p>Kitsas Pron jälleenmyy <a class="violetti" href="https://www.taloudenohjelmistopalvelut.fi/tilitoimistolle">Talouden Ohjelmistopalvelut Finland</a></p>    
+   <p>Kitsas Pron jälleenmyy <a class="violetti" href="https://www.taloudenohjelmistopalvelut.fi/tilitoimistolle">Talouden Ohjelmistopalvelut Finland</a></p>
 
   </div>
 </div>
 
 </article>
 {{< /blocks/section >}}
-</form>  
+</form>
 
 {{% blocks/section color="white" %}}
+
 <article class="pro">
 <p>Kitsas Prota lähdettiin kehittämään selkeästä tarpeesta. Markkinoilta ei löytynyt ratkaisua, jolla mahdollistettaisiin tilitoimistojen pienempien ja perinteisten asiakkaiden kirjanpidon hoitaminen kustannustehokkaasti.</p>
 
 <p>Kitsas Pron avulla tilitoimisto voi tarjota asiakkailleen juuri oikeanlaisen palvelukokonaisuuden, ilman painetta suurista ohjelmistokustannuksista.</p>
 
 <p>Lisäksi tilitoimistolla on mahdollisuus osallistua aktiviisesti kehitystyöhön. Näin varmistamme kehitystyön oikean suunnan jatkossakin.</p>
-
 
 <h3>Kitsas Pron hyödyt tilitoimistolle</h3>
 
@@ -185,11 +186,10 @@ Fennoaa.
 - Tarvittavat kirjanpidon raportit
 </article>
 
-
 <article class="prohinnasto">
 <a name="hinnasto">
 <h3>Kitsas Pro hinnasto</h3>
-<p>Hintoihin lisätään arvonlisävero 24 %</p>
+<p>Hintoihin lisätään arvonlisävero 25,5 %</p>
 <table style="margin-bottom: 2ex;">
   <tbody>    
     <tr class="text-white">
@@ -224,12 +224,14 @@ Fennoaa.
       <td>Kotimaa, Priority</td>
        <td class="">
        <span class="txt-l">2,69</span> <span class="txt-top">&euro;/kpl</span>
+       <p>1.10. alkaen 2,87  &euro;/kpl</p>
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
         <td class="">
-        <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span>        
+        <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span> 
+        <p>1.10. alkaen 2,09 &euro;/kpl</p>         
         </td>
       </tr>  
       <tr>
@@ -243,12 +245,14 @@ Fennoaa.
       </tr>  
       <td>Eurooppa</td>
        <td class="">
-       <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>         
+       <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>   
+       <p>1.10. alkaen 2,89 &euro;/kpl</p>         
      </tr>         
     <tr>
       <td>Muu maailma</td>
      <td class="">
-     <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>               
+     <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>    
+      <p>1.10. alkaen 3,14 &euro;/kpl</p>             
    </tr>  
    <tr>
      <td>Eurooppa ja muu maailma, lisäsivu</td>
