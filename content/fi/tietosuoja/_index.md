@@ -108,6 +108,6 @@ Toimiessaan henkilötietojen käsittelijänä Kitsas Oy noudattaa henkilötietoj
 
 ## Alihankkija henkilötietojen käsittelyssä
 
-Kitsas Oy käyttää virtuaalipalvelimensa osalta alihankkijana Tentacle Oy:tä. Alihankkija on ilmoittanut, että kaikki palvelimet sijaitsevat Suomen alueella.
-
 Kitsas Oy käyttää serverless-palveluissa, tietokantapalveluissa sekä tiedostojen tallennuksessa alihankkijana Google LLC:tä. Kitsaan käyttämät palvelimet sijaitsevat Suomen alueella. Tietojen ja palvelun toiminnan varmistamiseen voidaan käyttää myös muualla EU:n alueella sijaitsevia palvelimia.
+
+Asiakkaiden tiedot tallennetaan Haminan datakeskukseen ja varmuuskopiodaan Eemshavenin datakeskukseen Alankomaihin.
