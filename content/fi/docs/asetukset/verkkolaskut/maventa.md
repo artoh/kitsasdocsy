@@ -32,7 +32,6 @@ Jos haluat lopettaa verkkolaskujen vastaanoton Kitsaaseen, poista tämä valinta
 
 Valitse, haluatko sähköposti-ilmoitukset saapuneista laskuista sekä mahdollisista laskujen lähetyksessä sattuneista virheellisyyksistä. Jos olet määritellyt Saapuneiden verkkolaskujen [kiertoon]({{<relref "../kierto">}}) sähköposti-ilmoituksia, lähettää Kitsas ne joka tapauksessa tästä valinnasta riippumatta.
 
-
 ### Paperilaskujen postitus
 
 ![](/img/fi/asetukset/verkkolaskut/maventa3.png)
@@ -51,12 +50,14 @@ Sekä laskujen lähettäminen että vastaanottaminen onnistuu vain, jos olet kir
 
 Kun laskutuksessa lähetät verkkolaskun, lähetetään se välittömästi Maventan kautta eteenpäin.
 
+Pilveen tallennetuissa kirjanpidoissa näet laskuluettelossa kuvakkeen muuttumisesta myös sen, kun Maventa on toimittanut laskun onnistuneesti tai kun laskun toimittaminen on epäonnistunut.
+
 ### Verkkolaskujen vastaanottaminen
 
 Verkkolaskujen noutaminen otetaan käyttöön **Nouda saapuneet laskut**-valinnalla.
 
-Omalle koneelle tallennetuissa kirjanpidoissa saapuneet laskut haetaan ohjelman käynnistyessä. Voit hakea laskut myös verkkolaskuasetusten **Nouda nyt**-painikkeella. Laskut löytyvät **Selaa**-sivun **Saapuneet**-välilehdeltä. Noudetut laskut eivät näy kirjanpidossa ennen kuin ne tallennetaan **Valmis**-painikkeella
-
-Pilveen tallennetussa kirjanpidossa saapuneet laskut saapuvat kirjanpitoon automaattisesti. Laskuluettelossa näet kuvakkeen muuttumisesta myös sen, kun lasku on lähetetty tai kun laskun toimittaminen on epäonnistunut.
+Pilveen tallennetussa kirjanpidossa saapuneet verkkolaskut noudetaan automaattisesti <a href = {{<relref "../../kierto">}}>laskujen kiertoon</a>. Saapuneet laskut näkyvät aina Kierto-sivun "Kaikki"-välilehdellä. "Työlista"-välilehdellä ne näkyvät niillä käyttäjillä, jotka on <a href = {{<relref "../kierto.md">}}> kierron asetuksista </a> lisätty kiertoon "Saapuneet verkkolaskut" vaiheeseen "saapunut".
 
 Kitsaassa ei toistaiseksi ole suoraa pankkiyhteyttä, vaan sinun on huolehdittava saapuneiden laskujen maksusta esimerkiksi verkkopankkia käyttäen.
+
+Omalle koneelle tallennetuissa kirjanpidoissa saapuneet laskut haetaan ohjelman käynnistyessä. Voit hakea laskut myös verkkolaskuasetusten **Nouda nyt**-painikkeella. Laskut löytyvät **Selaa**-sivun **Saapuneet**-välilehdeltä. Noudetut laskut eivät näy kirjanpidossa ennen kuin ne tallennetaan **Valmis**-painikkeella
