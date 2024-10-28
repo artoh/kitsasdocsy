@@ -17,15 +17,18 @@ Nämä ohjeet koskevat kirjanpitokohtaista varmennetta. [Ohjeet tilitoimistolle 
 
 ### Varmenteen hankkiminen
 
-Varmenne hankitaan [tulorekisterin sähköisestä asiointipalvelusta](https://vero.fi/tulorekisteri/). Varmenteen hakemiseen tarvitaan nimenkirjoitusoikeus.
+Varmenne haetaan [Verohallinnon varmennepalvelusta](https://varmennepalvelu.vero.fi/tuotanto/kirjaudu?lang=fi). Varmenteen hakemiseen tarvitaan nimenkirjoitusoikeus tai Suomi.fi-valtuutus.
 
-1. Kirjaudu asiointipalveluun. Valitse **Asioi yrityksen ja organisaation puolesta** ja valitse yritys.
+1. Tunnistaudu varmennepalveluun ja valitse yritys.
 
-2. Valitse **Asetukset**, **Tekninen rajapinta ja varmenteet** ja **Tee hakemus teknisen rajapinnan käyttöönottamiseksi**. Valitse käyttötarkoitukseksi **Palkkatiedot, ilmoittaa maksamiaan palkkoja** ja kanavaksi **Palkkatiedot - Web Service**.
+2. Valitse **Tilaa uusi varmenne**.
 
-3. Rajapintahakemuksen lähettämisen jälkeen valitse vielä **Hae varmennetta**. Varmenteen tyyppi on **Palkkatiedon tuottaja Web Service**. Anna varmenteelle kuvaus (esim. Kitsas) ja anna yhteystiedot.
+3. Valitse varmenteeksi **Tiedon tuottaja (Web service)**.
 
-4. Saat verottajalta turvasähköpostin, josta löytyvät **Siirtotunnus** ja **Kertakäyttösalasana**.
+4. Anna varmenteelle nimi (esim. Kitsas) ja anna yhteystiedot (sähköposti ja puhelinnumero, joihin varmenteen tiedot lähetetään). **Lähetä tilaus**.
+
+5. Saat verottajalta turvasähköpostin, josta löytyvät **Siirtotunnus** ja **Kertakäyttösalasana**.
+
 
 ### Varmenteen lisääminen Kitsaaseen
 
