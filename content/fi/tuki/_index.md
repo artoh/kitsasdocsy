@@ -19,7 +19,6 @@ menu:
 
 {{% blocks/section color="white" height="min" %}}
 
-
 {{< blocks/huomio icon="fas fa-book" title="Kitsaan ohjeet" >}}
 
 <p class="lead" style="text-align:center">Näiltä sivuilta löydät kattavaat ohjeet Kitsaan käyttämiseen.<br>
@@ -29,8 +28,8 @@ Lue ohjeita
 </p>
 {{< /blocks/huomio >}}
 
-
 {{< blocks/huomio icon="fa fa-life-ring" title="Helpdesk" >}}
+
 <p class="lead">Talouden Ohjelmistopalveluiden Kitsas Helpdesk neuvoo Kitsaan tilaajia ohjelmaan liittyvissä kysymyksissä.</p>
 
 <p>Kitsaan tilauksiin kuuluva tuki ei sisällä lainopillista neuvontaa. Helpdesk ohjaa tarvittaessa maksullisiin konsultaatiopalveluihin tai kirjanpitopalveluita tarjoavan tilitoimiston asiakkaaksi.</p>
@@ -44,16 +43,12 @@ Kitsaan puhelimessa voimme neuvoa yksinkertaisissa kysymyksissä, esim. tilaus- 
 Tarkempaa selvittelyä vaativissa tapauksissa, ohjaamme ensisijaisesti olemaan yhteydessä sähköpostitse.  </p>
 {{< /blocks/huomio >}}
 
-
-
 {{< blocks/huomio icon="fa fa-comment" title="Palaute" >}}
 
-
-<p class="lead">Otamme kiitollisuudella vastaan palautetta ohjelmasta palautesivumme kautta.
-Emme kuitenkaan pysty välttämättä vastaamaan henkilökohtaisesti kaikkeen palautteeseen.
+<p class="lead">Otamme kiitollisuudella vastaan palautetta ohjelmasta.
+Emme kuitenkaan pysty välttämättä vastaamaan henkilökohtaisesti kaikkeen palautteeseen. 
 </p>
-<p><a class="btn btn-lg btn-primary" href="https://kitsas.atlassian.net/servicedesk/customer/portal/6">
-Anna palautetta</a></p>
+<p><span class="fa fa-envelope"></span> <a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi</a></p>
 
 {{< /blocks/huomio >}}
 {{% /blocks/section %}}
