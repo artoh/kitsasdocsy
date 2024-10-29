@@ -7,8 +7,6 @@ description: >
   Kuittien ja matkalaskujen noutaminen eTaskusta
 ---
 
-![](/img/fi/lisaosa/etasku/tasku.png)
-
 Lisäosalla saat noudettua tositteita ja matkalaskuja eTaskusta. Myös tositteisiin liitetyt kuvatiedostot sekä tiliöinnit ja kohdennukset siirtyvät kirjanpitoon.
 
 Lisäosa on tarkoitettu käytettäväksi siten, että kuittien käsittely ja tiliöinnit tehdään eTaskun puolella esimerkiksi kuukauden osalta mahdollisimman valmiiksi, ja valmis aineisto tuodaan sitten kerralla Kitsaaseen.
@@ -36,11 +34,13 @@ eTaskun puolella on hyvä tarkastaa myös maksutapoihin liittyvät tilit kohdast
 
 ## Aineiston noutaminen
 
+![](/img/fi/lisaosa/etasku/tasku.png)
+
 Valmis aineisto noudetaan Kitsaan eTasku-lisäosalla 
 
 - Valitse noudettavan aineisto aikaväli 
 - Valitse, noudetaanko sekä tositteet ja matkalaskut
-. Valitse, noudetaanko vain hyväksytyiksi merkityt tositteet 
+- Valitse, noudetaanko vain hyväksytyiksi merkityt tositteet 
 
 Kun valitset **Tuo**, muodostetaan jokaisesta eTaskun tositteesta oma Tuonti-tyypin tosite kirjanpitoon.
 
