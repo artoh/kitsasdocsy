@@ -39,9 +39,9 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 <article class="pro">
 
 <div class="kampanja">
-<h2>Kannattaako Kitsastelu?</h2>
+<h2>Kannattaako Kitsastelu? Ohjelmistoasioissa ainakin!</h2>
 
-Ohjelmistoasioissa ainakin! Tilaa nyt Kitsas Pro ja saat ohjelmistokulut veloituksetta 31.3.2025 saakka sekä <b>törkeen</b> hyvän lahjan. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti.
+Tilaa nyt Kitsas Pro ja saat ohjelmistokulut veloituksetta 31.3.2025 saakka sekä <b>törkeen</b> hyvän lahjan. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti.
 
 </div>
 
