@@ -20,7 +20,7 @@ Yhdistämistä varten tarvitset eTaskussa luotavan yrityskohtaisen autentikointi
 1. Mene eTaskussa kohtaan **Asiakasasetukset** > **Ohjelmistointegraatiot**
 2. Etsi ja valitse luettelosta **Kitsas**
 3. Valitse **Aktivoi**
-4. Näyttöön tulee autentikointiavain. Kopioi avain (voit joutua maalaamaan sen ensin hiirellä ja valitsemaan **Kopoi**) ja liitä se Kitsaan eTasku-lisäosan kohtaan **Liitosavain**
+4. Näyttöön tulee autentikointiavain. Kopioi avain (voit joutua maalaamaan sen ensin hiirellä ja valitsemaan **Kopioi**) ja liitä se Kitsaan eTasku-lisäosan kohtaan **Liitosavain**
 
 ![](/img/fi/lisaosa/etasku/yhdista.png)
 
@@ -38,7 +38,7 @@ eTaskun puolella on hyvä tarkastaa myös maksutapoihin liittyvät tilit kohdast
 
 Valmis aineisto noudetaan Kitsaan eTasku-lisäosalla 
 
-- Valitse noudettavan aineisto aikaväli 
+- Valitse noudettavan aineiston aikaväli 
 - Valitse, noudetaanko sekä tositteet ja matkalaskut
 - Valitse, noudetaanko vain hyväksytyiksi merkityt tositteet 
 
