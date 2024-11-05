@@ -47,3 +47,7 @@ Varmenteen tilaksi tulee *Varmenteen hakeminen on kesken*. Hakeminen kestää no
 ### Varmenteen tila
 
 Kun varmenne on valmiina, näkyy tilana *Verohallinnon varmenne on käytettävissä*.
+
+### Varmenteen automaattinen uusiminen
+
+Verohallinto lähettää automaattisesti uusimisesta sähköpostiviestin 60 päivää ennen voimassaolon päättymistä. Kitsas huolehtii automaattisesti varmenteen uusimisesta, varmenne uusitaan noin 50 päivän ennen voimassaolon päättymistä.

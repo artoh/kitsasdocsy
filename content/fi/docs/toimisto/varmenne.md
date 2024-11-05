@@ -61,3 +61,9 @@ Ei suomi.fi-valtuuksia
 
 Oma varmenne käytössä
 : Kirjanpidossa ei käytetä tilitoimiston varmennetta, vaan kirjanpidon asetuksissa määriteltyä asiakasyrityksen omaa varmennetta.
+
+### Varmenteen automaattinen uusiminen
+
+Kitsas uusii varmenteen automaattisesti, kun varmenteen voimassaoloaikaa on enää jäljellä noin 50 päivää. Sinun ei siis tarvitse tehdä mitään, kun verottaja ilmoittaa 60 päivää ennen voimassaolon päättymistä, että varmenteen voi nyt uusia.
+
+Toimistonäkymän kohdasta **Asetukset** > **Varmenne** näet, milloin varmenteesi vanhenee.
