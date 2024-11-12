@@ -13,6 +13,8 @@ Lisäosa on tarkoitettu käytettäväksi siten, että kuittien käsittely ja til
 
 **Lisäosaa kehitetään edelleen, ja siinä voi olla vielä puutteita. Tarkasta aineisto huolellisesti.**
 
+Lisäosan käyttö on maksutonta huhtikuun 2025 loppuun saakka. eTaskun tilaus on kuitenkin maksullinen tavalliseen tapaan.
+
 ## eTaskun yhdistäminen
 
 Yhdistämistä varten tarvitset eTaskussa luotavan yrityskohtaisen autentikointiavaimen.
