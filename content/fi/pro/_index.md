@@ -55,7 +55,6 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
   <div class="prohintaoperaattori">=</div>
   <div class="col 3 hinta">
     <div class="hintapro__content">
-
       <div class="hintapro__caption">
         <div class="hintapro__intro">
           Hinta<input name="kpl" type="number" value="20" oninput="laskehinta(event)" id="kappaleedit"/> kirjanpidolla
@@ -69,7 +68,6 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
         Totutuneet tapahtumamaksut veloitetaan hinnaston mukaisesti
       </div>
     </div>
-
   </div>
 
 </article>
@@ -103,7 +101,7 @@ muutamalle olemmekin jo suositelleet!
 <img src="/img/pro/kole.jpg">
 <div class="referenssi">
 <p>Tutkin globaalia ohjelmistomarkkinaa, kun tarkoitukseni oli löytää suomalaisille tilitoimistoille helppokäyttöinen ja kustannustehokas ratkaisu pienten ja perinteisten asiakkaiden hoitamiseen. Ulkomaiset ohjelmat jäivät pois lokalisaatiopuutteiden vuoksi. Latasin Kitsaan ja löin tositteita ohjelmaan 15 minuutin sisällä ilman mitään ohjeita! Pikkuyhtiön tilinpäätös oli valmis 45 minuutissa – ensimmäisellä kerralla, ohjelmaa opiskellen! Vaikka tajuntani räjähti, niin päätin epäilevänä Aatuna kokeilla erästä ruotsalaista ohjelmistoa. Parametroin sitä 1,5 h ja luovutin. Tämä sinetöi päätöksen, että Kitsas oli pakko saada jakeluun ja tarjolle kaikille suomalaisille tilitoimistoille. Kitsaan yrittäjät Arto ja Heli ovat tehneet mahtavaa työtä!</p>
-<p>Edustamme Suomen parhaita taloushallinnon ohjelmistoja, kuten Netvisoria, Fennoaa ja Procountoria. Kitsas ei kilpaile edellä mainittujen ohjelmistojen kanssa, mutta se sopii mainiosti toiseksi ohjelmistoksi tilitoimistolle, kuin tilitoimistolle.</p>  
+<p>Edustamme Suomen parhaita taloushallinnon ohjelmistoja, kuten Netvisoria, Fennoaa ja Procountoria. Kitsas ei kilpaile edellä mainittujen ohjelmistojen kanssa, mutta se sopii mainiosti toiseksi ohjelmistoksi tilitoimistolle kuin tilitoimistolle.</p>  
 </div>
 <div class="lahde">
 <b class="violetti">Jari Kolehmainen (Kole)</b><br/>
