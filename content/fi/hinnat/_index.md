@@ -247,15 +247,15 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     <tr>
       <td>Kotimaa, Priority</td>
        <td>
-       <span class="txt-l">2,69</span> <span class="txt-top">&euro;/kpl</span>
-       <p>1.10. alkaen 2,87  &euro;/kpl</p>
+       <span class="txt-l">2,87</span> <span class="txt-top">&euro;/kpl</span>
+       <!-- <p>1.10. alkaen 2,87  &euro;/kpl</p> -->
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
         <td>        
-        <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span>
-        <p>1.10. alkaen 2,09 &euro;/kpl</p>      
+        <span class="txt-l">2,09</span> <span class="txt-top">&euro;/kpl</span>
+        <!-- <p>1.10. alkaen 2,09 &euro;/kpl</p> -->
         </td>
       </tr>  
       <tr>
@@ -269,14 +269,14 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       <tr>
         <td>Eurooppa</td>
          <td class="">
-         <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>  
-         <p>1.10. alkaen 2,89 &euro;/kpl</p>       
+        <span class="txt-l">2,89</span> <span class="txt-top">&euro;/kpl</span>  
+        <!-- <p>1.10. alkaen 2,89 &euro;/kpl</p> -->
        </tr>         
       <tr>
         <td>Muu maailma</td>
        <td class="">
-       <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>
-       <p>1.10. alkaen 3,14 &euro;/kpl</p>               
+       <span class="txt-l">3,14</span> <span class="txt-top">&euro;/kpl</span>
+       <!-- <p>1.10. alkaen 3,14 &euro;/kpl</p> -->
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>

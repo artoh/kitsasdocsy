@@ -100,17 +100,17 @@ muutamalle olemmekin jo suositelleet!
 </div>
 
 <div class="jukkaboksi">
-<img src="/img/pro/jukka.webp">
+<img src="/img/pro/kole.jpg">
 <div class="referenssi">
-Otimme Kitsas Pron jälleenmyyntiin, koska se sopii
-pienille tilitoimistoille erittäin hyvin. Edustamme myös isoja ohjelmistoja kuten Netvisoria, Procountoria ja
-Fennoaa.  
+Tutkin globaalia ohjelmistomarkkinaa, kun tarkoitukseni oli löytää suomalaisille tilitoimistoille helppokäyttöinen ja kustannustehokas ratkaisu pienten ja perinteisten asiakkaiden hoitamiseen. Ulkomaiset ohjelmat jäivät pois lokalisaatiopuutteiden vuoksi. Latasin Kitsaan ja löin tositteita ohjelmaan 15 minuutin sisällä ilman mitään ohjeita! Pikkuyhtiön tilinpäätös oli valmis 45 minuutissa – ensimmäisellä kerralla, ohjelmaa opiskellen! Vaikka tajuntani räjähti, niin päätin epäilevänä Aatuna kokeilla erästä ruotsalaista ohjelmistoa. Parametroin sitä 1,5 h ja luovutin. Tämä sinetöi päätöksen, että Kitsas oli pakko saada jakeluun ja tarjolle kaikille suomalaisille tilitoimistoille. Kitsaan yrittäjät Arto ja Heli ovat tehneet mahtavaa työtä!
+ 
+Edustamme Suomen parhaita taloushallinnon ohjelmistoja, kuten Netvisoria, Fennoaa ja Procountoria. Kitsas ei kilpaile edellä mainittujen ohjelmistojen kanssa, mutta se sopii mainiosti toiseksi ohjelmistoksi tilitoimistolle, kuin tilitoimistolle.  
 </div>
 <div class="lahde">
-<b class="violetti">Jukka Räty</b><br/>
+<b class="violetti">Jari Kolehmainen (Kole)</b><br/>
+<span class="violetti">yrittäjä/partner</span><br/>
 <a class="violetti" href="https://taloudenohjelmistopalvelut.fi">Talouden Ohjelmistopalvelut Finland</a><br/>
- <span class="fa fa-phone"></span> <a class="musta" href="tel:+358504009130">050 400 9130</a><br/>
- <span class="fa fa-envelope"></span> <a class="musta" href="mailto:jukka.raty@taopa.fi">jukka.raty@taopa.fi</a> <br/>
+ <span class="fa fa-envelope"></span> <a class="musta" href="mailto:jari.kolehmainen@taopa.fi">jari.kolehmainen@taopa.fi</a> <br/>
  <span class="fa fa-globe"></span> <a class="musta" href="https://taloudenohjelmistopalvelut.fi">taloudenohjelmistopalvelut.fi</a>  
 </div>
 </div>
@@ -120,7 +120,7 @@ Fennoaa.
      <a name="yhteys">
       <h3>Yhteydenottopyyntö</h3>
      </a>
-     <p>Lähetämme Sinulle tarjouksen ja kerromme lisää Kitsaasta</p>
+     <p>Jätä tämä yhteydenottopyyntö ja keskustellaan asiasta lisää.</p>
       <div class="form-group">
         <label for="inputNimi">Nimi</label>
         <input name="nimi" type="text" class="form-control" id="inputNimi">
@@ -141,7 +141,6 @@ Fennoaa.
   </div>
   <div class="lomakealue__info col col-lg-4 col-sm-12">
    <h3 class="violetti">Kerromme mielellämme lisää!</h3>
-   <p><span class="fa fa-phone"></span> <a class="violetti" href="tel:+358504009130">050 400 9130</a></p>
    <p><span class="fa fa-envelope"></span> <a class="violetti" href="mailto:kitsas.helpdesk@taopa.fi">kitsas.helpdesk@taopa.fi</a></p>
    <p>Kitsas Pron jälleenmyy <a class="violetti" href="https://www.taloudenohjelmistopalvelut.fi/tilitoimistolle">Talouden Ohjelmistopalvelut Finland</a></p>
 
@@ -224,15 +223,15 @@ Fennoaa.
     <tr>
       <td>Kotimaa, Priority</td>
        <td class="">
-       <span class="txt-l">2,69</span> <span class="txt-top">&euro;/kpl</span>
-       <p>1.10. alkaen 2,87  &euro;/kpl</p>
+       <span class="txt-l">2,87</span> <span class="txt-top">&euro;/kpl</span>
+       <!-- <p>1.10. alkaen 2,87  &euro;/kpl</p> -->
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
         <td class="">
-        <span class="txt-l">2,03</span> <span class="txt-top">&euro;/kpl</span> 
-        <p>1.10. alkaen 2,09 &euro;/kpl</p>         
+        <span class="txt-l">2,09</span> <span class="txt-top">&euro;/kpl</span> 
+        <!-- <p>1.10. alkaen 2,09 &euro;/kpl</p> -->
         </td>
       </tr>  
       <tr>
@@ -246,14 +245,14 @@ Fennoaa.
       </tr>  
       <td>Eurooppa</td>
        <td class="">
-       <span class="txt-l">2,73</span> <span class="txt-top">&euro;/kpl</span>   
-       <p>1.10. alkaen 2,89 &euro;/kpl</p>         
+       <span class="txt-l">2,89</span> <span class="txt-top">&euro;/kpl</span>   
+       <!-- <p>1.10. alkaen 2,89 &euro;/kpl</p> -->
      </tr>         
     <tr>
       <td>Muu maailma</td>
      <td class="">
-     <span class="txt-l">2,98</span> <span class="txt-top">&euro;/kpl</span>    
-      <p>1.10. alkaen 3,14 &euro;/kpl</p>             
+     <span class="txt-l">3,14</span> <span class="txt-top">&euro;/kpl</span>    
+      <!-- <p>1.10. alkaen 3,14 &euro;/kpl</p> -->
    </tr>  
    <tr>
      <td>Eurooppa ja muu maailma, lisäsivu</td>
@@ -270,6 +269,12 @@ Fennoaa.
    <tr>
      <td>Kirjanpitoaineiston noutaminen Holvista</td>
       <td class="default"><span class="txt-l">5,00</span> <span class="txt-top">&euro;/kk</span></td>
+    </tr>        
+  </tbody>
+   <tr>
+     <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
+      <td class="default"><span class="txt-l">0</span> <span class="txt-top">&euro;/kk</span></td>
+      <p>1.5.2025 alkaen 1,00 &euro;/kk</p>
     </tr>        
   </tbody>
 </table>
