@@ -27,6 +27,7 @@ Lataa Kitsas maksutta tietokoneellesi
 
 {{% /blocks/lead %}}
 {{% blocks/section color="white" height="min" %}}
+
 <div style="justify-content:center; text-align:center; margin: 0px; width: 200% !important;">
   <div  id="pills-tabContent" class="tab-content">
     <div class="tab-pane fade" id="pills-win" role="tabpanel" aria-labelledby="pills-home-tab" style="text-align: center;">    
@@ -35,7 +36,7 @@ Lataa Kitsas maksutta tietokoneellesi
         <h4>Windows 10, 11</h4>      
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.8</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.8/kitsas-5.8-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.8/kitsas-5.8-asennus.2.exe" class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>            
         <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
@@ -90,6 +91,7 @@ Lataa Kitsas maksutta tietokoneellesi
 {{< blocks/cover  image_anchor="top" height="min" color="dark" >}}
 {{< /blocks/cover >}}
 {{% blocks/section color="light" height="min" %}}
+
 <div class="container">
 <h2 style="margin-top: 2ex;">Rekisteröidy ja kokeile kaikkia ominaisuuksia</h2>
 
@@ -98,6 +100,7 @@ Asennettuasi ohjelman voit luoda itsellesi ilmaisen käyttäjätunnuksen ja koke
 Ellet tee kokeilujakson aikana tilausta, jatkat maksuttomana käyttäjänä ja voit yhä tallentaa rajattoman määrän kirjanpitoja omalle tietokoneellesi.
 
 Kitsasta voi käyttää myös rekisteröitymättä, mutta emme voi tarjota ilmaiskäyttäjille henkilökohtaista neuvontaa. Olethan huolellinen varmuuskopioinnissa, jos tallennat kirjanpitosi omalle tietokoneellesi!
+
 </div>
 {{% /blocks/section %}}
 
