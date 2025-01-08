@@ -15,7 +15,30 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Palvelinpäivitys 27. - 28.9.</title><link>/blog/2024/09/11/palvelinp%C3%A4ivitys-27.-28.9./</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/11/palvelinp%C3%A4ivitys-27.-28.9./</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.8</title><link>/blog/2024/12/20/kitsas-5.8/</link><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><guid>/blog/2024/12/20/kitsas-5.8/</guid><description>
+&lt;p>Kitsas 5.8 tuo lukuisia pieniä parannuksia ja korjauksia Kitsaaseen. Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;p>Tärkein korjaus koskee laskurivien arvonlisäveron pyöristystä, joka on ilmennyt tietyillä summilla ja uudella arvonlisäveroprosentilla (liittyi desimaalilukujen aritmetiikkaan). Suosittelemme päivityksen käyttöönottoa kaikille käyttäjille, erityisesti niille, jotka käyttävät Kitsaan laskutusta.&lt;/p>
+&lt;h4 id="uusia-ominaisuuksia">Uusia ominaisuuksia:&lt;/h4>
+&lt;ul>
+&lt;li>Lisäosanäkymässä mahdollisuus säätää sisällön zoomausta ja luettelo-osan leveyttä&lt;/li>
+&lt;li>Monen liitteen lisääminen valintaikkunasta tositteeseen yhdellä kertaa&lt;/li>
+&lt;li>Vientien lukumäärän näyttäminen päivä- ja pääkirjan yhteenvetotiedoissa&lt;/li>
+&lt;li>Käyttöliittymän englanninkielinen käännös (keskeneräinen)&lt;/li>
+&lt;li>CSV-tuonnissa alv-prosentti&lt;/li>
+&lt;/ul>
+&lt;h4 id="korjauksia">Korjauksia:&lt;/h4>
+&lt;ul>
+&lt;li>Laskurivin alv:n pyöristys&lt;/li>
+&lt;li>Ulkomaisen pankin BIC-tunnus pankkisiirtolomakkeella&lt;/li>
+&lt;li>Alv-ilmoituksen viivakoodin muoto&lt;/li>
+&lt;li>Tilinavauksen huomautus kun tilit on jo avattu&lt;/li>
+&lt;li>Pilveen siirrettäessä vain tarpeellisten hyllyjen haku&lt;/li>
+&lt;li>Sähköpostiosoitteen turhien välilyöntien poistaminen&lt;/li>
+&lt;li>IBAN-numeron poistaminen tilin tiedoista&lt;/li>
+&lt;li>Raporttien pvm-valinnat muokatulla widgetillä&lt;/li>
+&lt;/ul>
+&lt;p>Joulun alla julkaistun version tunnuskukkana on joulutähti.&lt;/p>
+&lt;img src="/img/versions/58-joulutahti.png" class="img-responsive"></description></item><item><title>Blog: Palvelinpäivitys 27. - 28.9.</title><link>/blog/2024/09/11/palvelinp%C3%A4ivitys-27.-28.9./</link><pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate><guid>/blog/2024/09/11/palvelinp%C3%A4ivitys-27.-28.9./</guid><description>
 &lt;img src="/img/banners/palvelin.jpg" class="img-responsive"/>
 &lt;p>Kitsaan pilvipalvelun käyttämät tietokannat muuttavat Helsingistä Haminaan, ja tämän takia pilvipalveluissa on käyttökatko.&lt;/p>
 &lt;p>Katko alkaa &lt;strong>perjantaina 27.9.2024 kello 22.00&lt;/strong>&lt;/p>
@@ -858,19 +881,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;p>Ohjelmassa ja tilikartoissa on tehty myös iso joukko korjauksia, liittyen mm. maksumuistusten ja hyvityslaskujen muodostumiseen, tuloslaskelman muotoon ja raporttien käännöksiin.&lt;/p>
 &lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.1">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsaan webinaari 18.11.</title><link>/blog/2020/10/29/kitsaan-webinaari-18.11./</link><pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate><guid>/blog/2020/10/29/kitsaan-webinaari-18.11./</guid><description>
-&lt;h1 id="kitsaan-webinaari-18112020-klo-17">Kitsaan webinaari 18.11.2020 klo 17&lt;/h1>
-&lt;p class="lead">Ilmainen webinaari Kitsaan käytön aloittamisesta. &lt;br/>Webinaari on suunnattu erityisesti Kitupiikin käyttäjille.&lt;/p>
-&lt;p>&lt;strong>keskiviikkona 18.11.2020 klo 17 - 18&lt;/strong>&lt;/p>
-&lt;p>Webinaarissa kerrotaan, miten siirryt Kitsaan käyttäjäksi sekä mitä uudistuksia ohjelmassa on.&lt;/p>
-&lt;p>Osallistujien kiinnostuksen mukaan kerromme myös ohjelman edistyksellisimmistä ominaisuuksista sekä ohjelmaan liittyvistä lisäpalveluista. Erityisesti kiinnitämme huomiota uudistuneeseen kirjaamistoimintoon, joka saattaa aluksi jopa hämmentää Kitupiikin käyttäjiä.&lt;/p>
-&lt;p>Webinaari on ilmainen.&lt;br>
-Webinaari kestää noin tunnin, jonka jälkeen on vielä mahdollisuus esittää kysymyksiä.&lt;/p>
-&lt;p>Kitsasta esittelee ohjelman kehittäjä.&lt;/p>
-&lt;h2 id="ilmoittautuminen">Ilmoittautuminen&lt;/h2>
-&lt;p>&lt;strong>Ilmoittaudu webinaariin viimeistään edellisenä päivänä 17.11. alla olevalla lomakkeella.&lt;/strong>&lt;/p>
-&lt;p>Lähetämme webinaaripäivän aamun sähköpostiisi linkin, jolla voit osallistua webinaariin.
-Webinaari toteutetaan Google Meets-palvelun avulla.&lt;/p>
-&lt;p>Tiedustelut &lt;a href="mailto:kitsas@kitsas.fi">kitsas@kitsas.fi&lt;/a>&lt;/p>
-&lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLScwvVS1B4a-Adq_tCAt6JYZsgyXXONRcyZ7HOskW9pinXVqMQ/viewform?embedded=true" width="640" height="2008" frameborder="0" marginheight="0" marginwidth="0">Ladataan…&lt;/iframe>
-&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
