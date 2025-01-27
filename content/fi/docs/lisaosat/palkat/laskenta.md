@@ -52,3 +52,5 @@ Palkan merkkaaminen maksetuksi muodostaa tulorekisteri-ilmoituksen automaattises
 
 ![](/img/fi/lisaosa/palkat/laskenta9.png)
 
+![](/img/fi/lisaosa/palkat/laskenta10.png)
+
