@@ -22,7 +22,7 @@ Avautuu neljä välilehteä,
 ![](/img/fi/lisaosa/palkat/laskenta3.png)
 
 
-2. Valitaan palkkapäivä ja palkkakausi. Jos palkkapäivä tulee merkata takautuvasti, valitse ensin päivä tulevaisuudesta ja päivitä laskelma. Tämän jälkeen pääset kohdasta **Palkkalaskelma** vaihtamaan valinnaksi **Takautuva palkka** jolloin myös palkkapäivän valinta
+2. Valitaan palkkapäivä ja palkkakausi. Jos palkkapäivä tulee merkata takautuvasti, valitse ensin päivä tulevaisuudesta ja päivitä laskelma. Tämän jälkeen pääset kohdasta **Palkkalaskelma** vaihtamaan valinnaksi **Takautuva palkka** jolloin myös palkkapäivän valinta kalenterihistoriasta tulee mahdolliseksi.
 
 ![](/img/fi/lisaosa/palkat/laskenta4.png)
 
