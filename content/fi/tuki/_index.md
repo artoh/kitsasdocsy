@@ -56,7 +56,8 @@ Emme kuitenkaan pysty välttämättä vastaamaan henkilökohtaisesti kaikkeen pa
 
 <div class="keskella">
 <i class="fa fa-home hugeicon"></i>
-<h3>Etsitkö tilitoimistoa?</h3>
+
+## Etsitkö tilitoimistoa?
 <p>Haluaisitko käyttää Kitsasta, mutta tarvitset apua kirjanpitosi hoitamiseen?<br/>
 Helpdeskin kautta saat tarvittaessa yhteyden palvelevaan ja ystävälliseen tilitoimistoon.</p>
 <p>Tilitoimistojen palvelut ovat maksullisia.
