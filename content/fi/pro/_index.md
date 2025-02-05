@@ -38,12 +38,12 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 
 <article class="pro">
 
-<div class="kampanja">
+<!-- <div class="kampanja">
 <h2>Kannattaako Kitsastelu? Ohjelmistoasioissa ainakin!</h2>
 
 Tilaa nyt Kitsas Pro ja saat ohjelmistokulut veloituksetta 31.3.2025 saakka sekä <b>törkeen</b> hyvän lahjan. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti.
 
-</div>
+</div> -->
 
 <h2>Takuuvarmasti edullinen hinnoittelu</h2>
 Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asiakkaiden kohdalla hinnoittelu perustuu asiakasmäärään.  Sähköisiä ominaisuuksia hyödynnettäessä veloitetaan lisäksi edulliset lähetys- ja vastaanottomaksut.
