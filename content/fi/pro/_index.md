@@ -120,15 +120,15 @@ muutamalle olemmekin jo suositelleet!
      <p>Jätä tämä yhteydenottopyyntö ja keskustellaan asiasta lisää.</p>
       <div class="form-group">
         <label for="inputNimi">Nimi</label>
-        <input name="nimi" type="text" class="form-control" id="inputNimi">
+        <input name="nimi" type="text" class="form-control" id="inputNimi" required>
       </div>
       <div class="form-group">
         <label for="inputPuhelin">Puhelinnumero</label>
-        <input name="puhelin" type="phone" class="form-control" id="inputPuhelin">
+        <input name="puhelin" type="phone" class="form-control" id="inputPuhelin" required>
       </div>
       <div class="form-group">
         <label for="inputEmail">Sähköposti</label>
-        <input name="email" type="email" class="form-control" id="inputEmail">
+        <input name="email" type="email" class="form-control" id="inputEmail" required>
       </div>  
       <div class="form-group">
         <label for="inputExtra">Lisätietoja</label>
