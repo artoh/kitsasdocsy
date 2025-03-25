@@ -34,9 +34,9 @@ Lataa Kitsas maksutta tietokoneellesi
       <div class="container">
         <h1><i class="fab fa-windows"></i></h1>
         <h4>Windows 10, 11</h4>      
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.8</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.9</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.8/kitsas-5.8-asennus.2.exe" class="btn btn-lg btn-primary latausnappi">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.9/kitsas-5.9-asennus.exe" class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>            
         <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
@@ -69,9 +69,9 @@ Lataa Kitsas maksutta tietokoneellesi
       <div class="container">     
         <h1><i class="fab fa-linux"></i></h1>
         <h4>Linux</h4>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.8</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.9</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.8/Kitsas-5.8-x86_64.AppImage" class="btn btn-lg btn-primary">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.9/Kitsas-5.9-x86_64.AppImage" class="btn btn-lg btn-primary">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>           
         64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 22.04 ja uudemmat       
