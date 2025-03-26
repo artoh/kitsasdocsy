@@ -35,7 +35,7 @@
 &lt;li>Alv-laskelman kirjausten muokkaaminen&lt;/li>
 &lt;/ul>
 &lt;p>Version tunnuskukkana on keväinen leinikki.&lt;/p>
-&lt;p>&amp;lt;img src=&amp;quot;/img/versions/59-piggy.png&amp;quot; class=&amp;ldquo;img-responsive&amp;gt;&lt;/p></description></item><item><title>Blog: Kitsas 5.8</title><link>/blog/2024/12/20/kitsas-5.8/</link><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><guid>/blog/2024/12/20/kitsas-5.8/</guid><description>
+&lt;img src="/img/versions/v59-piggy.png" class="img-responsive"></description></item><item><title>Blog: Kitsas 5.8</title><link>/blog/2024/12/20/kitsas-5.8/</link><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><guid>/blog/2024/12/20/kitsas-5.8/</guid><description>
 &lt;p>Kitsas 5.8 tuo lukuisia pieniä parannuksia ja korjauksia Kitsaaseen. Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
 &lt;p>Tärkein korjaus koskee laskurivien arvonlisäveron pyöristystä, joka on ilmennyt tietyillä summilla ja uudella arvonlisäveroprosentilla (liittyi desimaalilukujen aritmetiikkaan). Suosittelemme päivityksen käyttöönottoa kaikille käyttäjille, erityisesti niille, jotka käyttävät Kitsaan laskutusta.&lt;/p>
 &lt;h4 id="uusia-ominaisuuksia">Uusia ominaisuuksia:&lt;/h4>
