@@ -4,7 +4,7 @@ date = "2025-03-26"
 description = "Laskurivit järjestykseen ja pieniä parannuksia"
 categories = ["julkaisu"]
 author = "Arto"
-banner = "img/versions/59-piggy.png"
+banner = "img/versions/v59-piggy.png"
 +++
 
 Kitsas 5.9 tuo jälleen lukuisia pieniä parannuksia ja korjauksia Kitsaaseen. Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta [kitsas.fi/lataa](/lataa).
@@ -30,4 +30,4 @@ Jos yritys luopuu arvonlisäverovelvollisuudesta, voi ohjelmassa nyt määrittä
 
 Version tunnuskukkana on keväinen leinikki.
 
-<img src="/img/versions/59-piggy.png" class="img-responsive>
+<img src="/img/versions/v59-piggy.png" class="img-responsive">

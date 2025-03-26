@@ -41,6 +41,7 @@ Ratkaisun nopeuttamiseksi, liitäthän viestiisi mahdollisimman tarkan kuvauksen
 <p><span class="fa fa-phone"></span> 044 333 5019 arkisin klo 10-14<br/>
 Kitsaan puhelimessa voimme neuvoa yksinkertaisissa kysymyksissä, esim. tilaus- tai käyttäjähallintaan liittyen.<br/>
 Tarkempaa selvittelyä vaativissa tapauksissa, ohjaamme ensisijaisesti olemaan yhteydessä sähköpostitse.  </p>
+<div class="tukijuttu">Puhelintuki muuttuu maksulliseksi 2.5.2025 alkaen. Samalla Helpdeskin puhelinnumero vaihtuu.</div>
 {{< /blocks/huomio >}}
 
 {{< blocks/huomio icon="fa fa-comment" title="Palaute" >}}
@@ -58,6 +59,7 @@ Emme kuitenkaan pysty välttämättä vastaamaan henkilökohtaisesti kaikkeen pa
 <i class="fa fa-home hugeicon"></i>
 
 ## Etsitkö tilitoimistoa?
+
 <p>Haluaisitko käyttää Kitsasta, mutta tarvitset apua kirjanpitosi hoitamiseen?<br/>
 Helpdeskin kautta saat tarvittaessa yhteyden palvelevaan ja ystävälliseen tilitoimistoon.</p>
 <p>Tilitoimistojen palvelut ovat maksullisia.
