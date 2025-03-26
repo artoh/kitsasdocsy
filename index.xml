@@ -15,7 +15,27 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.8</title><link>/blog/2024/12/20/kitsas-5.8/</link><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><guid>/blog/2024/12/20/kitsas-5.8/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.9</title><link>/blog/2025/03/26/kitsas-5.9/</link><pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate><guid>/blog/2025/03/26/kitsas-5.9/</guid><description>
+&lt;p>Kitsas 5.9 tuo jälleen lukuisia pieniä parannuksia ja korjauksia Kitsaaseen. Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
+&lt;p>Laskuja laadittaessa voit nyt vaihtaa laskurivien järjestystä raahaamalla rivit hiirellä uuteen sijaintiinsa.&lt;/p>
+&lt;p>Jos yritys luopuu arvonlisäverovelvollisuudesta, voi ohjelmassa nyt määrittää päivän alv-velvollisuuden päättymiselle.&lt;/p>
+&lt;h4 id="muita-korjauksia">Muita korjauksia&lt;/h4>
+&lt;ul>
+&lt;li>Tammikuussa korotetut arvonlisäveroprosentit on päivitetty tilikarttoihin&lt;/li>
+&lt;li>Kirjanpitoa vaihdettaessa suljetaan edellisen kirjanpidon ikkunat&lt;/li>
+&lt;li>Arvonlisäverovelvollisuuden päätyttyä laadittavat toistuvat laskut muuttuvat arvonlisäverovelvottomiksi&lt;/li>
+&lt;li>Alv-lukitus estää luonnoksen tallentamisen valmiiksi&lt;/li>
+&lt;li>&amp;ldquo;Salli tositteiden muokkaaminen alv-ilmoituksen antamisen jälkeen&amp;rdquo; -asetuksella voi nyt muokata myös laskuja&lt;/li>
+&lt;li>Tilinpäätöksen valintoja tehdessä huomioidaan toistensa pois sulkevat valinnat&lt;/li>
+&lt;li>Kirjanpidon pilveen kopiointi Pro-tilauksilla tilitoimiston alle&lt;/li>
+&lt;li>Arkistoon muodostetussa tililuettelossa tilikauden päiväyksien korjaus&lt;/li>
+&lt;li>Belgialaiset alv-tunnukset asiakkaiden ja toimittajien tiedoissa (muuttunut validiointisääntö)&lt;/li>
+&lt;li>Tositteiden hyväksyminen kun hyväksyjällä on hyväksymisoikeus ilman selausoikeutta&lt;/li>
+&lt;li>Ohjelman kaatuminen tuloverodialogiin Mac-koneilla&lt;/li>
+&lt;li>Alv-laskelman kirjausten muokkaaminen&lt;/li>
+&lt;/ul>
+&lt;p>Version tunnuskukkana on keväinen leinikki.&lt;/p>
+&lt;p>&amp;lt;img src=&amp;quot;/img/versions/59-piggy.png&amp;quot; class=&amp;ldquo;img-responsive&amp;gt;&lt;/p></description></item><item><title>Blog: Kitsas 5.8</title><link>/blog/2024/12/20/kitsas-5.8/</link><pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate><guid>/blog/2024/12/20/kitsas-5.8/</guid><description>
 &lt;p>Kitsas 5.8 tuo lukuisia pieniä parannuksia ja korjauksia Kitsaaseen. Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
 &lt;p>Tärkein korjaus koskee laskurivien arvonlisäveron pyöristystä, joka on ilmennyt tietyillä summilla ja uudella arvonlisäveroprosentilla (liittyi desimaalilukujen aritmetiikkaan). Suosittelemme päivityksen käyttöönottoa kaikille käyttäjille, erityisesti niille, jotka käyttävät Kitsaan laskutusta.&lt;/p>
 &lt;h4 id="uusia-ominaisuuksia">Uusia ominaisuuksia:&lt;/h4>
@@ -860,25 +880,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;h4 id="pystyykö-asiakkaatjäsenet-tuomaan-toisesta-järjestelmästä">Pystyykö asiakkaat/jäsenet tuomaan toisesta järjestelmästä&lt;/h4>
 &lt;p>Csv-tiedostosta pystyy, katso &lt;a href="https://ohjeet.kitsas.fi/laskutus/rekisteri/#tietojen-tuominen">ohjeet&lt;/a>.&lt;/p>
 &lt;hr/>
-&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.1 julkaistu</title><link>/blog/2020/11/16/kitsas-2.1-julkaistu/</link><pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate><guid>/blog/2020/11/16/kitsas-2.1-julkaistu/</guid><description>
-&lt;h1 id="kitsas-21">Kitsas 2.1&lt;/h1>
-&lt;p>Kitsas 2.1 tuo ohjelmaan monia parannuksia. Lisäksi olemme saaneet korjattua joukon edellisessä versiossa olleita virheitä.&lt;/p>
-&lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille. Suosittelemme myös ohjelman päivittämisen jälkeen päivittämään tilikartat, jos ohjelma tarjoaa siihen mahdollisuutta.&lt;/p>
-&lt;p>Ohjelma on ladattavissa osoitteesta &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
-&lt;h3 id="nopeampi-selaus">Nopeampi selaus&lt;/h3>
-&lt;p>Olemme saaneet nopeutettua tositteiden ja vientien selausnäkymää. Tähän liittyen ohjelma ei enää säädä sarakkeiden leveyttä automaattisesti, mutta muistaa käyttäjän valitseman sarakkeiden leveyden ja järjestyksen&lt;/p>
-&lt;h3 id="muu-tositetyypin-kirjaamista-uudistettu">Muu-tositetyypin kirjaamista uudistettu&lt;/h3>
-&lt;p>Ohjelma tekee automaattisesti arvonlisäveron vero- ja vähennysrivit myös Muu-tyypin tositteelle. Lisäksi kaikkia viennin määritteitä pystyy nyt muokkaamaan erillisessä muokkausikkunassa.&lt;/p>
-&lt;h3 id="parempi-tuki-tositesarjojen-käyttämiselle">Parempi tuki tositesarjojen käyttämiselle&lt;/h3>
-&lt;p>Jos käytät useampaa eri tositesarjaa, pääset valitsemaan selattavat tositteet myös tositesarjan mukaan. Tositesarjojen tunnusten tulostuminen eri raporteille on myös tarkastettu.&lt;/p>
-&lt;h3 id="mallipohjat">Mallipohjat&lt;/h3>
-&lt;p>Voit luoda usein käyttämästäsi tositteesta &lt;a href="https://ohjeet.kitsas.fi/kirjaus/mallipohja/">mallipohjan&lt;/a> jonka perusteella saat luotua nopeasti uusia tositteita&lt;/p>
-&lt;h3 id="suojattu-sähköposti">Suojattu sähköposti&lt;/h3>
-&lt;p>Sähköpostin lähettämisessä on mahdollista käyttää myös STARTTLS-suojausta.&lt;/p>
-&lt;h3 id="entistä-täydellisempi-kirjanpitoaineisto">Entistä täydellisempi kirjanpitoaineisto&lt;/h3>
-&lt;p>Aineisto-toiminnolla muodostettavaan pdf-muotoiseen kirjanpitoaineistoon sisältyy nyt myös muistiotositteet, tositteiden tiliöintejä ja käsittelymerkintöjä. Toiminnolla saat muodostettua helposti arkiston koko tilikauden kirjanpidosta ja sähköisistä tositteista.&lt;/p>
-&lt;h3 id="iso-joukko-korjauksia">Iso joukko korjauksia&lt;/h3>
-&lt;p>Ohjelmassa ja tilikartoissa on tehty myös iso joukko korjauksia, liittyen mm. maksumuistusten ja hyvityslaskujen muodostumiseen, tuloslaskelman muotoon ja raporttien käännöksiin.&lt;/p>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.1">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
-&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item></channel></rss>
