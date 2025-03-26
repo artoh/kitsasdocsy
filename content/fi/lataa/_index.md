@@ -50,7 +50,7 @@ Lataa Kitsas maksutta tietokoneellesi
         <h4>macOS 11.0 tai uudempi</h4>        
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.8</h4>
         <p>
-          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.8/Kitsas-5.8.dmg" class="btn btn-lg btn-primary latausnappi">
+          <a href="https://github.com/artoh/kitupiikki/releases/tag/v5.9" class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>                  
         <ol style="text-align: left;">
