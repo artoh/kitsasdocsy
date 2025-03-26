@@ -203,8 +203,8 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
     <tr class="hinnasto">
       <td>Neuvonta puhelimella</td>
       <td></td>
-      <td>Maksullinen 1.5.2025 alkaen</td>
-      <td class="default">Maksullinen 1.5.2024 alkaen</span></td>
+      <td>Maksullinen 2.5.2025 alkaen</td>
+      <td class="default">Maksullinen 2.5.2024 alkaen</span></td>
     </tr>    
     <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>
