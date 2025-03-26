@@ -204,7 +204,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td>Neuvonta puhelimella</td>
       <td></td>
       <td>Maksullinen 2.5.2025 alkaen</td>
-      <td class="default">Maksullinen 2.5.2024 alkaen</span></td>
+      <td class="default">Maksullinen 2.5.2025 alkaen</span></td>
     </tr>    
     <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>
@@ -308,8 +308,8 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
      <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
       <td class="default">
       <span class="txt-l">0</span> <span class="txt-top">&euro;/kk</span>
-      <p>1.5. alkaen 1,00 &euro;/kk</p>
-      '</td>
+      <p>1.5.2025 alkaen 1,00 &euro;/kk</p>
+      </td>
     </tr>          
   </tbody>
 </table>
