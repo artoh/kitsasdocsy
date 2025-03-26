@@ -48,7 +48,7 @@ Lataa Kitsas maksutta tietokoneellesi
         <div class="macloota">Mac-versiota ylläpitää Kitsaan avoimen lähdekoodin pohjalta Petri Aarnio. Kitsas Oy ei anna tukea ohjelman yhteensopivuudesta Mac-tietokoneiden kanssa.</div>
         <h1><i class="fab fa-apple"></i></h1>
         <h4>macOS 11.0 tai uudempi</h4>        
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.8</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.9</h4>
         <p>
           <a href="https://github.com/artoh/kitupiikki/releases/tag/v5.9" class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
@@ -78,8 +78,8 @@ Lataa Kitsas maksutta tietokoneellesi
         <ol style="text-align: left;">
           <li>Lataa asennustiedosto</li>
           <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
-          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.8-x86_64.AppImage</code></li>
-          <li>Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.8-x86_64.AppImage</code><br/> tai käytä valitsinta <code>--noweb</code>.          
+          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.9-x86_64.AppImage</code></li>
+          <li>Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.9-x86_64.AppImage</code><br/> tai käytä valitsinta <code>--noweb</code>.          
 </li>          
         </ol>    
       </div>      

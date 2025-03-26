@@ -303,7 +303,14 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
    <tr>
      <td>Kirjanpitoaineiston noutaminen Holvista</td>
       <td class="default"><span class="txt-l">5,00</span> <span class="txt-top">&euro;/kk</span></td>
-    </tr>       
+    </tr> 
+       <tr>
+     <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
+      <td class="default">
+      <span class="txt-l">0</span> <span class="txt-top">&euro;/kk</span>
+      <p>1.5. alkaen 1,00 &euro;/kk</p>
+      '</td>
+    </tr>          
   </tbody>
 </table>
 
