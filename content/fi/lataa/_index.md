@@ -50,7 +50,7 @@ Lataa Kitsas maksutta tietokoneellesi
         <h4>macOS 11.0 tai uudempi</h4>        
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.9</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/tag/v5.9" class="btn btn-lg btn-primary latausnappi">
+          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.9/Kitsas-5.9.dmg class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>                  
         <ol style="text-align: left;">
@@ -71,7 +71,7 @@ Lataa Kitsas maksutta tietokoneellesi
         <h4>Linux</h4>
         <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.9</h4>
         <p>
-          <a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v5.9/Kitsas-5.9.dmg" class="btn btn-lg btn-primary">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.9/Kitsas-5.9-x86_64.AppImage" class="btn btn-lg btn-primary">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>           
         64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 22.04 ja uudemmat       
