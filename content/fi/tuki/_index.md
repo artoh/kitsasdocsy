@@ -41,7 +41,7 @@ Ratkaisun nopeuttamiseksi, liitäthän viestiisi mahdollisimman tarkan kuvauksen
 <p><span class="fa fa-phone"></span> 044 333 5019 arkisin klo 10-14<br/>
 Kitsaan puhelimessa voimme neuvoa yksinkertaisissa kysymyksissä, esim. tilaus- tai käyttäjähallintaan liittyen.<br/>
 Tarkempaa selvittelyä vaativissa tapauksissa, ohjaamme ensisijaisesti olemaan yhteydessä sähköpostitse.  </p>
-<div class="tukijuttu">Puhelintuki muuttuu maksulliseksi 2.5.2025 alkaen. Samalla Helpdeskin puhelinnumero vaihtuu.</div>
+<div class="tukijuttu">Puhelintuki muuttuu maksulliseksi 2.5.2025 alkaen. Samalla Helpdeskin puhelinnumero vaihtuu.<br/>**Uuden puhelinnumeron käyttöönotto on viivästynyt. Vanha maksuton numero palvelee edelleen kunnes uusi maksullinen numero saadaan käyttöön.**</div>
 {{< /blocks/huomio >}}
 
 {{< blocks/huomio icon="fa fa-comment" title="Palaute" >}}
