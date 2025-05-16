@@ -204,6 +204,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td>Neuvonta puhelimella</td>
       <td></td>
       <td>1,98 &euro;/min (sis. alv)</td>
+      <td>1,98 &euro;/min (sis. alv)</td>
     </tr>    
     <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>

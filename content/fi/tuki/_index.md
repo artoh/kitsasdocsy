@@ -38,7 +38,8 @@ Lue ohjeita
 
 <p><span class="fa fa-envelope"></span> kitsas.helpdesk@taopa.fi <br/>
 Ratkaisun nopeuttamiseksi, liitäthän viestiisi mahdollisimman tarkan kuvauksen ongelmasta</p>
-<p><span class="fa fa-phone"></span> 0600 30 5000 arkisin klo 10-14 Numero on maksullinen 1,98 € / min (sis. alv:n).  <br/>
+<p><span class="fa fa-phone"></span> 0600 30 5000 arkisin klo 10-14  <br/>
+Numero on maksullinen 1,98 € / min (sis. alv:n).  <br/>
 Kitsaan puhelimessa voimme neuvoa yksinkertaisissa kysymyksissä, esim. tilaus- tai käyttäjähallintaan liittyen.<br/>
 Tarkempaa selvittelyä vaativissa tapauksissa, ohjaamme ensisijaisesti olemaan yhteydessä sähköpostitse.  </p>
 <p>Otathan Kitsas Kerho -ja Kitsas Firma -tilauksiin ja niiden laskutuksen liittyvissä asioissa yhteyttä suoraan osoitteeseen myynti@kitsas.fi</p>
