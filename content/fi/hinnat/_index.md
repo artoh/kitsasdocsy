@@ -126,6 +126,13 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td colspan="4" class="sep"><i class="fa fa-cloud"></i> Kirjanpito pilvessä</td>
     </tr>
     <tr class="hinnasto">
+      <td>Palvelupaketin hintaan kuuluvia kirjanpitoja</td>
+      <td></td>
+      <td><b>1</b></td>
+      <td><b>1</b></td>
+      </tr>
+       <tr class="hinnasto">
+      <td>rajattomasti</td>
       <td>Käyttäjiä kirjanpitoa kohden</td>
       <td></td>
       <td>rajattomasti</td>
