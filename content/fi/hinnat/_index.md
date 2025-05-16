@@ -203,8 +203,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
     <tr class="hinnasto">
       <td>Neuvonta puhelimella</td>
       <td></td>
-      <td>Maksullinen 2.5.2025 alkaen <br/> (2 &euro;/min (sis. alv)</td>
-      <td class="default"> Maksullinen 2.5.2025 alkaen <br/> (2 &euro;/min (sis alv))</td>
+      <td>1,98 &euro;/min (sis. alv)</td>
     </tr>    
     <tr class="hinnasto">
       <td colspan="4" class="sep"><i class="fa fa-gem"></i> Lisämaksulliset palvelut</td>
