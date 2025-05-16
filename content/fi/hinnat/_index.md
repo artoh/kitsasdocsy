@@ -132,7 +132,6 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
       <td><b>1</b></td>
       </tr>
        <tr class="hinnasto">
-      <td>rajattomasti</td>
       <td>Käyttäjiä kirjanpitoa kohden</td>
       <td></td>
       <td>rajattomasti</td>
