@@ -273,7 +273,7 @@ muutamalle olemmekin jo suositelleet!
    <tr>
      <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
       <td class="default">
-        <span class="txt-l">1</span><span class="txt-top">&euro;/kk</span>
+        <span class="txt-l">1,00</span><span class="txt-top">&euro;/kk</span>
       </td>
     </tr>        
   </tbody>
