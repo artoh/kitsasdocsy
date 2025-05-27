@@ -39,7 +39,7 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 <article class="pro">
 
 <div class="kampanja">
-<h2>“Tilitoimisto, ota käyttöön Kitsas Pro ja saat rahaa (oikeasti!)”
+<h2>Tilitoimisto, ota käyttöön Kitsas Pro ja saat rahaa (oikeasti!)
 </h2>
 
 Kevät on saapunut myös Kitsas Prohon – kun teet Kitsas Pro -ohjelmistosopimuksen ajalla 1.4.–30.6., saat Kitsas Pron veloituksetta käyttöösi 31.8. saakka. Lisäksi, kun 31.8. mennessä sinulla on 10 käyttöönotettua kirjanpitoa Kitsaassa, saat 100 euroa. Kevätkampanja voimassa 1.4.–30.6.2025. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti. Kampanja koskee tilitoimistoja.
