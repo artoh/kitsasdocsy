@@ -273,8 +273,7 @@ muutamalle olemmekin jo suositelleet!
    <tr>
      <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
       <td class="default">
-        <span class="txt-l">0</span><span class="txt-top">&euro;/kk</span>
-        <p>1.5.2025 alkaen 1,00 &euro;/kk</p>
+        <span class="txt-l">1</span><span class="txt-top">&euro;/kk</span>
       </td>
     </tr>        
   </tbody>
