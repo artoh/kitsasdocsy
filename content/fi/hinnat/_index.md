@@ -254,14 +254,14 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       <td>Kotimaa, Priority</td>
        <td>
        <span class="txt-l">2,87</span> <span class="txt-top">&euro;/kpl</span>
-       <!-- <p>1.10. alkaen 2,87  &euro;/kpl</p> -->
+       <p>1.8. alkaen 3,12  &euro;/kpl</p>
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
         <td>        
         <span class="txt-l">2,09</span> <span class="txt-top">&euro;/kpl</span>
-        <!-- <p>1.10. alkaen 2,09 &euro;/kpl</p> -->
+        <p>1.8. alkaen 2,21 &euro;/kpl</p>
         </td>
       </tr>  
       <tr>
@@ -276,13 +276,13 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
         <td>Eurooppa</td>
          <td class="">
         <span class="txt-l">2,89</span> <span class="txt-top">&euro;/kpl</span>  
-        <!-- <p>1.10. alkaen 2,89 &euro;/kpl</p> -->
+        <p>1.8. alkaen 3,13 &euro;/kpl</p>
        </tr>         
       <tr>
         <td>Muu maailma</td>
        <td class="">
        <span class="txt-l">3,14</span> <span class="txt-top">&euro;/kpl</span>
-       <!-- <p>1.10. alkaen 3,14 &euro;/kpl</p> -->
+       <p>1.8. alkaen 3,38 &euro;/kpl</p>
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
