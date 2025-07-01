@@ -105,7 +105,17 @@ Muu maailma &lt;strong>3,14&lt;/strong> € (nykyisin 2,98 €)&lt;/p>
 &lt;p>Kirjanpitäjältä tarvitaan huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">Verohallinnon ohjeista&lt;/a>. Molemmat arvonlisäverokannat ovat siis käyttäjällä aina valittavissa.&lt;/p>
 &lt;img src="/img/screenshots/alv255lasku.png" class="img-responsive"/>
 &lt;p>Ohjelmiston uusi verso on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
-&lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/></description></item><item><title>Blog: Kitsas 5.6 Beta</title><link>/blog/2024/06/17/kitsas-5.6-beta/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>/blog/2024/06/17/kitsas-5.6-beta/</guid><description>
+&lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2024/07/01/kirjeiden-hinnat-nousevat/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>/blog/2024/07/01/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-182025">Paperipostina lähetettävien laskujen hinnat nousevat 1.8.2025&lt;/h3>
+&lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
+&lt;p>Hinnat nousevat 1.8.2025 alkaen lähetettävissä laskuissa&lt;/p>
+&lt;h3 id="kotimaan-kirjeet">Kotimaan kirjeet&lt;/h3>
+&lt;p>Lähettäminen Priority-kirjeenä &lt;strong>3,12&lt;/strong> € (nykyisin 2,87 €)
+Lähettäminen Economy-kirjeenä &lt;strong>2,21&lt;/strong> € (nykyisin 2,09 €)&lt;/p>
+&lt;h3 id="ulkomaan-kirjeet">Ulkomaan kirjeet&lt;/h3>
+&lt;p>Eurooppa &lt;strong>3,13&lt;/strong> € (nykyisin 2,89 €)
+Muu maailma &lt;strong>3,38&lt;/strong> € (nykyisin 3,14 €)&lt;/p>
+&lt;p>Verkkolaskujen hinnat eivät nouse, vaan lähtevä ja saapuva verkkolasku maksaa edelleen &lt;strong>0,50&lt;/strong> € / kappale.&lt;/p></description></item><item><title>Blog: Kitsas 5.6 Beta</title><link>/blog/2024/06/17/kitsas-5.6-beta/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>/blog/2024/06/17/kitsas-5.6-beta/</guid><description>
 &lt;p>Kitsas 5.6 tuo tuen syyskuun alussa korotettavalle yleiselle arvonlisäveroprosentille.&lt;/p>
 &lt;p>Ohjelmiston tilikartassa olevia tilien arvonlisäveroprosentteja tai tuotteiden alv-kantoja ei tarvitse tässä yhteydessä muokata, vaan ohjelmisto ehdottaa uutta arvonlisäveroprosenttia päivämäärän mukaisesti. Kirjanpitäjältä tarvitaan kuitenkin huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">Verohallinnon ohjeista&lt;/a>.&lt;/p>
 &lt;p>Lisäksi ohjelmassa on tuki viimeiselle alarajahuojennuksen hakemiselle jouluun 2024 alv-ilmoitusta annettaessa.&lt;/p>
@@ -837,47 +847,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille. Suosittelemme myös ohjelman päivittämisen jälkeen päivittämään tilikartat, jos ohjelma tarjoaa siihen mahdollisuutta.&lt;/p>
 &lt;p>Ohjelma on ladattavissa osoitteesta &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Katso Kitsaan webinaarin 18.11. tallenne</title><link>/blog/2020/11/19/katso-kitsaan-webinaarin-18.11.-tallenne/</link><pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate><guid>/blog/2020/11/19/katso-kitsaan-webinaarin-18.11.-tallenne/</guid><description>
-&lt;h1 id="kitsaan-webinaari-18112020">Kitsaan webinaari 18.11.2020&lt;/h1>
-&lt;p>&lt;a href="https://drive.google.com/open?id=1LWOPhzcGFJj9RIBeNz0vFHevZsy7EBAc">Tallenne webinaarista&lt;/a>&lt;/p>
-&lt;p>Webinaarin sisältöä&lt;/p>
-&lt;ul>
-&lt;li>keskeisimmät muutokset Kitupiikistä&lt;/li>
-&lt;li>mallikirjauksia erilaisilla tositteilla&lt;/li>
-&lt;li>laskun laatiminen&lt;/li>
-&lt;li>alv-ilmoituksen laatiminen&lt;/li>
-&lt;li>tilinpäätöksen laatiminen&lt;/li>
-&lt;li>tutustuminen laskutusportaaliin&lt;/li>
-&lt;/ul>
-&lt;p>Webinaarissa pääsette myös näkemään, kuinka ohjelman kehittäjäkin välillä säheltää eri toimintoja etsiessään eli kyse on live-tilanteesta, kannattaa siis katsoa myös &lt;a href="https://ohjeet.kitsas.fi">varsinaiset ohjevideot&lt;/a>&lt;/p>
-&lt;p>&lt;strong>Kiitos kaikille Webinaariin osallistuneille&lt;/strong>&lt;/p>
-&lt;h2 id="koottuja-kysymyksiä-ja-vastauksia">Koottuja kysymyksiä ja vastauksia&lt;/h2>
-&lt;h4 id="säilyykö-kitsaasta-aina-myös-maksuton-versio">Säilyykö Kitsaasta aina myös maksuton versio&lt;/h4>
-&lt;p>Kitsas on avointa lähdekoodia, ja itse ohjelma säilyy maksuttomana. Maksullisia ovat ne lisäpalvelut, jotka vaativat yhteyttä palvelimelle.&lt;/p>
-&lt;h4 id="tekeekö-sovellus-tilinpäätöskirjaukset-tappiontuloksen-osalta">Tekeekö sovellus tilinpäätöskirjaukset tappion/tuloksen osalta&lt;/h4>
-&lt;p>Sovellus muodostaa varsinaiset tilinpäätösviennit (ts. laskee tulokset/tappion). Sovellus osaa laskea myös suunnitelman mukaiset poistot, jaksotukset ja yksinkertaisessa tapauksessa osakeyhtiön tuloverot ja -jaksotukset. Esimerkiksi toimintavaraukset, varaston muutokset, yksityiskäyttö yms. viennit pitää kuitenkin tehdä itse.&lt;/p>
-&lt;h4 id="miten-kirjataan-omaisuutta-kirjanpitoon-esim-osakesijoitukset">Miten kirjataan omaisuutta kirjanpitoon (esim. osakesijoitukset)&lt;/h4>
-&lt;p>Yleensä Muu-tositetyypillä tehdään kirjaus kirjanpidon tavanomaisten periaatteiden mukaisesti&lt;/p>
-&lt;h4 id="onnistuuko-arvonlisäveron-maksuperusteinen-tilittäminen">Onnistuuko arvonlisäveron maksuperusteinen tilittäminen&lt;/h4>
-&lt;p>Onnistuu, katso &lt;a href="https://ohjeet.kitsas.fi/alv/maksuperusteinen/">ohjeet&lt;/a>&lt;/p>
-&lt;h4 id="voiko-kululaskujen-web-liittymää-hyödyntää-vaikka-ei-käyttäisi-verkkolaskuja">Voiko kululaskujen web-liittymää hyödyntää vaikka ei käyttäisi verkkolaskuja&lt;/h4>
-&lt;p>Kyllä voi.&lt;/p>
-&lt;h4 id="voiko-tositesarjan-muuttaa-jälkeenpäin">Voiko tositesarjan muuttaa jälkeenpäin?&lt;/h4>
-&lt;p>Yksittäisessä tositteessa voi muuttaa, mille tositesarjalle se on kirjattu. Tositesarjat &amp;ldquo;luodaan lennosta&amp;rdquo; eli voit merkitä minkä tahansa kirjanyhdisteen tositteelle tositesarjaksi.&lt;/p>
-&lt;h4 id="toimiiko-tiliote-myös-maksuperusteissa-kirjattaessa">Toimiiko tiliote myös maksuperusteissa kirjattaessa?&lt;/h4>
-&lt;p>Maksuperusteisesti laskut yms. kirjataan ennen tiliotetta niin, että päivämääränä on maksupäivä. Tiliotteella nämä rivit näkyvät harmaita, koska ne on jo tehty kirjanpitoon eikä niitä kirjata uudestaan.&lt;/p>
-&lt;p>Jos jokin kirjaus tehdään suoraan tiliotteelta, riittää täydentää tiliotenäkymään kirjaustili.&lt;/p>
-&lt;h4 id="voiko-myyntilaskun-päivämäärää-vaihtaa">Voiko myyntilaskun päivämäärää vaihtaa&lt;/h4>
-&lt;p>Laskulle tulostuva päivämäärä ja myös laskuperuisen laskutuksen päivämäärä on aina nykyinen päiväys. Valitsemalla Suoriteperusteinen lasku voidaan lasku kirjata toimituspäivämäärälle.&lt;/p>
-&lt;h4 id="mikä-on-isoin-tiedossa-oleva-liikevaihto-jota-pyöritetään-kitsaalla">Mikä on isoin tiedossa oleva liikevaihto jota pyöritetään Kitsaalla?&lt;/h4>
-&lt;p>Meille ei ole tästä tilastoja. Mitä isommasta ja monimutkaisemmasta kirjanpidosta on kyse, sitä enemmän kannattaa harkita ammattikirjanpitäjän palveluita (joista muutama toki käyttää Kitsasta). Kitsas on suunnattu pienille yhdistyksille, yrityksille ja asunto-osakeyhtiöille.&lt;/p>
-&lt;h4 id="voiko-kitsaalla-tehdä-vastikelaput-asuntokohtaisesti-niin-että-niillä-on-sama-viite-asuntokohtaisesti">Voiko Kitsaalla tehdä vastikelaput asuntokohtaisesti niin että niillä on sama viite asuntokohtaisesti?&lt;/h4>
-&lt;p>Tätä toimintoa ohjelmassa ei vielä ole. Pienellä asunto-osakeyhtiöllä voisi käyttää &lt;a href="https://ohjeet.kitsas.fi/laskutus/vakioviite/">vakioviitteitä&lt;/a> jolloin ohjelma kirjaa vientejä automaattisesti mutta ei huolehdi maksujen valvonnasta.&lt;/p>
-&lt;h4 id="pitääkö-pdf-tiliotteen-tuonnille-olla-pilvipalvelu">Pitääkö pdf-tiliotteen tuonnille olla pilvipalvelu?&lt;/h4>
-&lt;p>Ei tarvitse. Kuvamuotoisen (esim. jpg) tositteen tekstintunnistus on lisäpalvelu.&lt;/p>
-&lt;h4 id="tositteen-kirjauksessa-otsikon-ja-riviselitteen-ero">Tositteen kirjauksessa otsikon ja riviselitteen ero&lt;/h4>
-&lt;p>Jos tosittella on useampia rivejä, voidaan riviselitteellä antaa vienneilleä rivikohtainen selitys.&lt;/p>
-&lt;h4 id="pystyykö-asiakkaatjäsenet-tuomaan-toisesta-järjestelmästä">Pystyykö asiakkaat/jäsenet tuomaan toisesta järjestelmästä&lt;/h4>
-&lt;p>Csv-tiedostosta pystyy, katso &lt;a href="https://ohjeet.kitsas.fi/laskutus/rekisteri/#tietojen-tuominen">ohjeet&lt;/a>.&lt;/p>
-&lt;hr/>
-&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/haticeerol-14967706/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Hatice EROL&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=5568038">Pixabaystä&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
