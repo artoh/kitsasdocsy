@@ -15,7 +15,17 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.9</title><link>/blog/2025/03/26/kitsas-5.9/</link><pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate><guid>/blog/2025/03/26/kitsas-5.9/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2025/07/03/kirjeiden-hinnat-nousevat/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>/blog/2025/07/03/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-182025">Paperipostina lähetettävien laskujen hinnat nousevat 1.8.2025&lt;/h3>
+&lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
+&lt;p>Hinnat nousevat 1.8.2025 alkaen lähetettävissä laskuissa&lt;/p>
+&lt;h3 id="kotimaan-kirjeet">Kotimaan kirjeet&lt;/h3>
+&lt;p>Lähettäminen Priority-kirjeenä &lt;strong>3,12&lt;/strong> € (nykyisin 2,87 €)
+Lähettäminen Economy-kirjeenä &lt;strong>2,21&lt;/strong> € (nykyisin 2,09 €)&lt;/p>
+&lt;h3 id="ulkomaan-kirjeet">Ulkomaan kirjeet&lt;/h3>
+&lt;p>Eurooppa &lt;strong>3,13&lt;/strong> € (nykyisin 2,89 €)
+Muu maailma &lt;strong>3,38&lt;/strong> € (nykyisin 3,14 €)&lt;/p>
+&lt;p>Verkkolaskujen hinnat eivät nouse, vaan lähtevä ja saapuva verkkolasku maksaa edelleen &lt;strong>0,50&lt;/strong> € / kappale.&lt;/p></description></item><item><title>Blog: Kitsas 5.9</title><link>/blog/2025/03/26/kitsas-5.9/</link><pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate><guid>/blog/2025/03/26/kitsas-5.9/</guid><description>
 &lt;p>Kitsas 5.9 tuo jälleen lukuisia pieniä parannuksia ja korjauksia Kitsaaseen. Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
 &lt;p>Laskuja laadittaessa voit nyt vaihtaa laskurivien järjestystä raahaamalla rivit hiirellä uuteen sijaintiinsa.&lt;/p>
 &lt;p>Jos yritys luopuu arvonlisäverovelvollisuudesta, voi ohjelmassa nyt määrittää päivän alv-velvollisuuden päättymiselle.&lt;/p>
@@ -105,17 +115,7 @@ Muu maailma &lt;strong>3,14&lt;/strong> € (nykyisin 2,98 €)&lt;/p>
 &lt;p>Kirjanpitäjältä tarvitaan huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">Verohallinnon ohjeista&lt;/a>. Molemmat arvonlisäverokannat ovat siis käyttäjällä aina valittavissa.&lt;/p>
 &lt;img src="/img/screenshots/alv255lasku.png" class="img-responsive"/>
 &lt;p>Ohjelmiston uusi verso on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
-&lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2024/07/01/kirjeiden-hinnat-nousevat/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>/blog/2024/07/01/kirjeiden-hinnat-nousevat/</guid><description>
-&lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-182025">Paperipostina lähetettävien laskujen hinnat nousevat 1.8.2025&lt;/h3>
-&lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
-&lt;p>Hinnat nousevat 1.8.2025 alkaen lähetettävissä laskuissa&lt;/p>
-&lt;h3 id="kotimaan-kirjeet">Kotimaan kirjeet&lt;/h3>
-&lt;p>Lähettäminen Priority-kirjeenä &lt;strong>3,12&lt;/strong> € (nykyisin 2,87 €)
-Lähettäminen Economy-kirjeenä &lt;strong>2,21&lt;/strong> € (nykyisin 2,09 €)&lt;/p>
-&lt;h3 id="ulkomaan-kirjeet">Ulkomaan kirjeet&lt;/h3>
-&lt;p>Eurooppa &lt;strong>3,13&lt;/strong> € (nykyisin 2,89 €)
-Muu maailma &lt;strong>3,38&lt;/strong> € (nykyisin 3,14 €)&lt;/p>
-&lt;p>Verkkolaskujen hinnat eivät nouse, vaan lähtevä ja saapuva verkkolasku maksaa edelleen &lt;strong>0,50&lt;/strong> € / kappale.&lt;/p></description></item><item><title>Blog: Kitsas 5.6 Beta</title><link>/blog/2024/06/17/kitsas-5.6-beta/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>/blog/2024/06/17/kitsas-5.6-beta/</guid><description>
+&lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/></description></item><item><title>Blog: Kitsas 5.6 Beta</title><link>/blog/2024/06/17/kitsas-5.6-beta/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>/blog/2024/06/17/kitsas-5.6-beta/</guid><description>
 &lt;p>Kitsas 5.6 tuo tuen syyskuun alussa korotettavalle yleiselle arvonlisäveroprosentille.&lt;/p>
 &lt;p>Ohjelmiston tilikartassa olevia tilien arvonlisäveroprosentteja tai tuotteiden alv-kantoja ei tarvitse tässä yhteydessä muokata, vaan ohjelmisto ehdottaa uutta arvonlisäveroprosenttia päivämäärän mukaisesti. Kirjanpitäjältä tarvitaan kuitenkin huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://www.vero.fi/yritykset-ja-yhteisot/verot-ja-maksut/arvonlisaverotus/arvonlisaveroprosentit/Yleinen-arvonlisaverokanta-nousee-syyskuussa/">Verohallinnon ohjeista&lt;/a>.&lt;/p>
 &lt;p>Lisäksi ohjelmassa on tuki viimeiselle alarajahuojennuksen hakemiselle jouluun 2024 alv-ilmoitusta annettaessa.&lt;/p>
