@@ -1,6 +1,6 @@
 +++
 title = "Kirjeiden hinnat nousevat"
-date = "2024-07-01"
+date = "2025-07-03"
 tags = ["verkkolasku"]
 categories = ["laskutus"]
 description = "Kitsaan verkkolaskutuksen kautta lähetettävien kirjeiden hinnat nousevat"
