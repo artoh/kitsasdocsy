@@ -49,8 +49,6 @@ Asiakkaalla on oikeus palvelun käytön lopettaessaan haltuunsa pilvipalveluun t
 
 Mikäli asiakas on tallentanut palveluuun useamman kuin yhden kirjanpidon, hänellä on oikeus saada haltuunsa siirrettävissä oleva data haluamistaan kirjanpidoista ja jatkaa palvelujen käyttöä muiden kirjanpitojen osalta. Kirjallisessa ilmoituksessa on tällöin eriteltävä mitä kirjanpitoja ilmoitus koskee. 
 
-Luettelo siirrettävissä olevasta datasta tietoluokittain on saatavilla osoitteessa < a href={{<relref "datakuvaus">}}https://kitsas.fi/ehdot/datakuvaus</a>  
-
 Siirrettävän datan vieminen kohdejärjestelmään on asiakkaan vastuulla. Kitsas Oy ei takaa minkään ohjelmiston tukevan siirrettävissä olevan datan tuomista. Kitsas-ohjelma ei tue siirrettävissä olevan datan tuomista omalle koneelle tallennettavaksi kirjanpidoksi. Tarkempi määrittely asiakkaan ja Kitsas Oy:n oikeuksista ja velvollisuuksista datan siirtoon liittyen sekä kuvaus vaihtoprosessista ja tarvittavasta ilmoituksesta käyttöehtojen [liitteessä A](#käyttöehtojen-liite-a---vaihto--ja-poistumisprosessi).   
 
 #### 3.3. Palvelun käytön estäminen
@@ -156,8 +154,7 @@ Taloushallinnon ohjelmistoille ei ole julkaistu (tilanne 12.8.2025) datasäädö
 
 Vaihdon onnistuminen edellyttää, että vastaanottava palvelu tai ohjelmisto tukee siirrettävän datan tuomista järjestelmäänsä. Kitsas Oy ei takaa että mikään palvelu tai ohjelmisto tukisi siirrettävän dastan tuomista. Erityisesti Kitsas-työpöytäohjelmisto ei tue siirrettävän datan tuomista myöskään käyttäjän omaan infrastruktuuriin tallennettaessa. Ohjelmistojen erojen vuoksi data saattaa olla mahdollista viedä vastaanottavaan järjestelmään vain osittain, vaikka vastaanottava palvelu tukisikin siirrettävän datan tuontia tarjotussa muodossa. 
 
-Vaihdon onnistumiseksi asiakkaan on lopetettava muutosten tekeminen siirrettävään dataan ennen tietojen noutamisen aloittamista. Tietojen noutoon rajapinnan yli kuluva aika vaihtelee siirrettävän datan määrän, käytettävissä olevan internet-yhteyden nopeuden ja palvelimen ruuhkaisuuden mukaan. ARVIO VAIHTOON KULUVASTA AJASTA PAKOLLINEN  
-
+Vaihdon onnistumiseksi asiakkaan on lopetettava muutosten tekeminen siirrettävään dataan ennen tietojen siirtämisen aloittamista. 
 
 #### 2. Tilauksen päättyminen
 
@@ -174,25 +171,23 @@ Vaihtoprosessi katsotaan onnistuneeksi, kun asiakas ilmoittaa Kitsas Oy:lle vaih
 
 #### 3. Vaihtomaksut
 
-Vaihdosta ei peritä erillisiä maksuja, jos siirrettävät tiedot toimitetaan rajapinnan kautta tai muuten verkon yli ladattuina. Mikäli asiakas valitsee siirrettävien tietojen toimittamisen fyysisellä medialla, häneltä peritään toimituskulut toteutuneiden kustannusten mukaisesti. 
-
+Vaihdosta ei peritä erillisiä maksuja.
 
 #### 4. Vaihtoprosessin käynnistäminen
 
-Asiakkaan on annettava Kitsas Oy:lle kirjallinen vaihtoilmoitus vaihdon käynnistämisestä. Vaihtoilmoitus toimitetaan ensisijaisesti sähköpostitse. Jos Asiakas haluaa vaihtaa vain tiettyjen kirjanpitojen osalta, asiakkaan on ilmoitettava se ilmoituksessa. 
-Asiakas voi tällaisessa vaihtamisilmoituksessa ilmoittaa, aikooko:
+Asiakkaan on annettava Kitsas Oy:lle kirjallinen vaihtoilmoitus vaihdon käynnistämisestä. Vaihtoilmoitus toimitetaan ensisijaisesti sähköpostitse. Jos asiakas haluaa vaihtaa vain tiettyjen kirjanpitojen osalta, asiakkaan on ilmoitettava se ilmoituksessa. 
+Asiakkaan tukee tällaisessa vaihtamisilmoituksessa ilmoittaa, aikooko:
 1. vaihtaa tietojenkäsittelypalvelujen tarjoajan. Tässä tapauksessa Asiakkaan
 on annettava tarvittavat tiedot kohdepalveluntarjoajasta;
 2. siirtyä Asiakkaan omaan tieto- ja viestintätekniikan infrastruktuuriin; tai
 3. olla vaihtamatta, mutta ainoastaan poistaa siirrettävissä oleva datansa
-Palveluntarjoajan on vahvistettava Asiakkaalle vastaanottaneensa siirtymistä koskevan ilmoituksen viimeistään 
-[3 työpäivän kuluessa] vastaanottamisesta käyttäen samaa viestintätapaa kuin asiakas on käyttänyt.
+Palveluntarjoajan on ilman aiheetonta viivytystä vahvistettava asiakkaalle vastaanottaneensa siirtymistä koskevan ilmoituksen.
 
 #### 5. Siirtymäaika ja tietojen hakuaika
 
-Vaohtoprosessi alkaa siirtymäajalla, jonka aikana Kitsas Oy tarjoaa asiakkaalle tai asiakkaan nimeämälle kohdejärjestelmän edustajalle vaihtoon tarvittavat tiedot sekä tukea vaihdon toteuttamiseen. Siirtymäaika kestää enintään 30 päivää ellei sitä asiakkaan pyynnästä pidennetä. Siirtymäajan jälkeen alkaa vähintään 30 päivää kestävä tietojen hakuaika, jonka aikana vaihto suoritetaan asiakkaalle sopivana ajankohtana. Asiakkaalla on oikeus kerran pidentää siirtymäaikaa päättymään itselleen sopivampana ajankohtana. 
+Vaohtoprosessi alkaa siirtymäajalla, jonka aikana Kitsas Oy tarjoaa asiakkaalle tai asiakkaan nimeämälle kohdejärjestelmän edustajalle vaihtoon tarvittavat tiedot sekä tukea vaihdon toteuttamiseen. Siirtymäaika kestää enintään 30 päivää ellei sitä asiakkaan pyynnästä pidennetä. Siirtymäajan jälkeen alkaa vähintään 30 päivää kestävä tietojen hakuaika, jonka aikana siirto suoritetaan asiakkaalle sopivana ajankohtana. Asiakkaalla on oikeus kerran pidentää siirtymäaikaa päättymään itselleen sopivampana ajankohtana. 
 
-Jos vaihto ei olisi teknisesti toteutettavissa normaalin siirtymäajan jälkeen, Kitsas Oy voi pidentää siirtymäaikaa, kuitenkin enintään seitsemän kuukauden pituiseksi. Tässä tapauksessa Kitsas Oy:n on ilmoitettava asiakkaalle viivästyksestä ja sen perusteluista 14 työpäivän kuluessa vaihtoilmoituksen vastaanottamisesta. 
+Jos siirto ei olisi teknisesti toteutettavissa normaalin siirtymäajan jälkeen, Kitsas Oy voi pidentää siirtymäaikaa, kuitenkin enintään seitsemän kuukauden pituiseksi. Tässä tapauksessa Kitsas Oy:n on ilmoitettava asiakkaalle viivästyksestä ja sen perusteluista 14 työpäivän kuluessa vaihtoilmoituksen vastaanottamisesta. 
 
 
 #### 5. Palveluntarjoajan velvollisuudet vaihtoprosessin aikana
@@ -202,7 +197,6 @@ erityisesti
 2. Toimittava asianmukaisella huolellisuudella liiketoiminnan jatkuvuuden ylläpitämiseksi ja jatkettava sopimuksen mukaisia palveluja.
 3. Ylläpidettävä korkeaa turvallisuustasoa koko vaihtoprosessin ajan, erityisesti siirettävien 
 tietojen turvallisuuden osalta niiden siirron aikana. 
-JOS KOHTA 1 SIIRTYY POIS KÄYTTÖEHDOISTA TULEE(? TÄHÄN ALAKOHTA 4. Annettava selkeää tietoa tiedossa olevista riskeistä palvelujensa tarjoamisen jatkuvuudelle
 
 
 #### 6. Asiakkaan velvollisuudet
@@ -211,9 +205,12 @@ JOS KOHTA 1 SIIRTYY POIS KÄYTTÖEHDOISTA TULEE(? TÄHÄN ALAKOHTA 4. Annettava 
 2. Asiakas tai hänen valtuuttamansa kolmannet osapuolet, mukaan lukien määränpään palveluntarjoaja, sitoutuvat kunnioittamaan vaihtoprosessissa toimitetun aineiston immateriaalioikeuksia sekä palveluntarjoajan liikesalaisuuksia. Asiakas sitoutuu antamaan pääsyn näiden aineistojen käyttöön kolmansille osapuolille tai määränpääpalveluntarjoajalle
 vain siltä osin kuin se on tarpeen vaihtoprosessin loppuun saattamiseksi sovitun siirtymäkauden loppuun, mukaan lukien vaihtoehtoinen siirtymäkausi, noudattaen samalla luottamuksellisuussitoumuksia sekä sopimuskumppanin myöntämiä teollis- ja tekijänoikeuksia.
 
+
 #### 7. Tietojen hakeminen ja poisto
 
-Asiakas tai asiakkaan valtuuttama kolmas osapuoli voi noutaa siirrettävissä olevat tiedot Kitsas Oy:n tarjoaman rajapinnan kautta. Vaihtoehtoisesti asiakas voi valita tietojen toimittamisen hakuajan aikana JSON-tiedostoina joko siten että Kitsas Oy asettaa tiedostot asiakkaan ladattavaksi tai fyysisellä medialla. 
+Asiakas tai asiakkaan valtuuttama kolmas osapuoli voi noutaa siirrettävissä olevat tiedot Kitsas Oy:n tarjoaman rajapinnan kautta. Suurelta osin sama JSON-muotoinen data on haettavissa tiedostoina lataamalla Kitsas-työpöytäohjelmasta kiejanpito-arkisto. Lisäksi osa datasta on saatavilla Kitsas-ohjelmasta CSV-muotoisina raportteina.
+
+Luettelo siirrettävissä olevasta datasta tietoluokittain on saatavilla osoitteessa < a href={{<relref "datakuvaus">}}https://kitsas.fi/ehdot/datakuvaus</a> 
 
 Hakuajan päätyttyä ja jos vaihtoprosessi on saatettu päätökseen onnistuneesti, Kitsas Oy sitoutuu poistamaan kaikki vietävät tiedot, jotka Asiakas on tuottanut tai liittyvät suoraan asiakkaaseen ja vahvistamaan asiakkaalle, tehneensä näin, lukuun ottamatta mahdollisia sellaisia tietoja, jotka Kitsas Oy on velvollinen säilyttämään EU:n tai paikallisen lainsäädännön nojalla.
 
@@ -225,6 +222,7 @@ ja onnistunut loppuunsaattaminen, oikea-aikainen tiedonsiirto ja jatkuvuuden sä
 Palvelut. Palveluntarjoajan on erityisesti asiakkaan pyynnöstä tuettava asiakasta 
 tunnistamaan epäonnistuneen vaihdon syyt ja neuvomaan, miten havaitut esteet voitaisiin 
 poistaa tai kiertää.
+
 
 
 
@@ -489,6 +487,7 @@ Kitsas Oy käyttää lähtevän sähköpostin palveluun [Brevo](https://brevo.co
 Kitsas Oy noutaa pankkien tilitapahtumat [GoCardless](https://gocardless.com/)in ja [Enable Banking](https://enablebanking.com/):in palveluita käyttäen. Palvelujen käyttäminen edellyttää asiakkaalta yksilöllistä valtuutusta oman verkkopankin kautta. GoCardless ilmoittaa noudattavansa GDPR-säännöstöä. Enable Banking ilmoittaa ettei se tallenna, analysoi tai käytä välittämäänsä dataa.
 
 <a id="art28"></a>
+
 ## Datasäädöksen 28 artiklan mukaiset tiedot kansainvälisestä pääsystä ja siirrosta
 
 ### Lainkäyttöalue
@@ -501,7 +500,7 @@ Kitsas Oy luovuttaa tietoja vain toimivaltaisille viranomaisille, ja vain silloi
 
 Kaikki asiakkaiden palvelimille tallentamat tiedot säilytetään salattuina. Salauksesta huolehtii palveluntarjoaja Google. 
 
-Google ei ollut vielä 12.8. antanut omaa datasäädöksen mukaista ilmoitustaan toimista kolmannen maan viranomaisten laittoman pääsyn estämiseksi. Seuraamme tilannetta.
+Google ei ollut vielä 12.8.2025 antanut omaa datasäädöksen mukaista ilmoitustaan toimista kolmannen maan viranomaisten laittoman pääsyn estämiseksi. Seuraamme tilannetta.
 
 
 </div>
