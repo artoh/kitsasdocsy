@@ -1,7 +1,7 @@
 ---
 title: "Siirrettävissä olevan datan kuvaus"
 linkTitle: "Datakuvaus"
-description: "Kitsaan palveluiden käyttöehdot"
+description: "Datasäädöksen muakainen siirrettävissä olevan datan kuvaus ja muita datan siirtämiseen liittyviä tietoja"
 ---
 
 {{%  blocks/lead color=light %}}
@@ -14,17 +14,25 @@ Osa tiedoista on myös ladattavissa suoraan ohjelmasta JSON- tai CSV-muodossa.
 <div class="col">
 
 
-## Tekniset rajoitteet datapalveluntarjoajan vaihdolle ja vaihdon tuomat riskit palveluiden saatavuudelle
+## Siirrettävään tietoon sovellettavat eritelmät tai standardit
 
-Tietojen onnistunut siirtäminen palvelusta toiseen palvelua vaihdettaessa edellyttää, että vastaanottaava palvelu tai ohjelmisto tukee siirrettävän datan tuomista järjestelmäänsä. Tätä kirjoitettaessa Kitsas Oy:llä ei ole tiedossa minkään palvelun tai ohjelmiston vielä tukevan tässä kuvatun datan tuomista rajapinnasta saatavilla olevassa muodossa (tilanne 12.8.2025). Erityisesti Kitsas-ohjelma ei tue tässä kuvatun datan tuomista omalle laitteelle tallennettuun kirjanpitoon.
+Taloushallinnon ohjelmistoille ei ole julkaistu (tilanne 12.8.2025) datasäädöksen tarkoittamia yhteensopivuuuta tukevia avoimia eritelmiä tai yhdenmukaistettuja yhteentoimivuutta koskevia standardeja.  
 
-## Sovellettavat eritelmät tai standardit
+## Tekniset rajoitteet datapalveluntarjoajan vaihdolle
 
-Taloushallinnon ohjelmistoille ei ole julkaistu (tilanne 12.8.2025) datasäädöksen tarkoittamia yhteensopivuuuta tukevia avoimia eritelmiä tai yhdenmukaistettuja yhteentoimivuutta koskevia standardeja. 
+Tietojen onnistunut siirtäminen palvelusta toiseen palvelua vaihdettaessa edellyttää, että vastaanottaava palvelu tai ohjelmisto tukee siirrettävän datan tuomista järjestelmäänsä. Tätä kirjoitettaessa Kitsas Oy:llä ei ole tiedossa minkään palvelun tai ohjelmiston vielä tukevan tässä kuvatun datan tuomista rajapinnasta saatavilla olevassa muodossa (tilanne 12.8.2025). Erityisesti Kitsas-ohjelma ei tue tässä kuvatun JSON-muotoisen datan tuomista omalle laitteelle tallennettuun kirjanpitoon.
 
-## Kirjanpidon tiedot
+Ohjelmistojen erojen vuoksi data saattaa olla mahdollista viedä vastaanottavaan järjestelmään vain osittain, vaikka vastaanottava palvelu tukisikin siirrettävän datan tuontia rajapinnan kautta tarjotussa muodossa.
 
-Kirjanpidosta on rajapinnan kautta saatavilla kaikki asiakkaan tallentamat tiedot sekä palvelimen muodostamat raportit. Valtaosa raporteista muodostetaan Kitsas-työpöytäohjelmistossa, eikä niitä siksi ole saatavissa rajapinnan kautta. Raporteista ovat rajapinnan kautta saatavilla tase ja tuloslaskelma siinä muodossa kuin WebKitsas niitä käyttää. Rajapinnasta on saatavilla kaksi versiota, uusi suppeampi rajapinta ja vanha laajempi rajapinta. Suosittelemme käyttämään uudempaa rajapintaa aina kun haettava tieto on saatavilla sen kautta. Uudemman rajapinnan käyttöä varten on saatavilla myös javascript-kirjasto. Kaikkien kirjanpidon tietojen hakeminen edellyttää kuitenkin myös vanhemman rajapinnan käyttöä. Uuden rajapinnan kautta saatavilla olevat tiedot on luettelossa merkitty (*) Vanhan rajaoinnan kautta saatavilla olevat tiedot ja luettelosta vielä puuttuvat uuden rajapinnan tiedot täydennetään luetteloon elokuun 2025 aikana.
+Tekniset rajoitukset koskevat tallennettujen tietojen siirtämistä uuteen palveluun tai ohjelmistoon. Tietojen säilyttämistä varten Kitsas-ohjelmasta on ladattavissa PDF-muotoinen tilinpäätös ja HTNL-muotoinen arkisto tilikauden kirjanpidosta. Arkisto sisältää myös mahdolliset kirjanpitoon liitteinä tallennetut tositteet. 
+
+## Vaihdon tuomat riskit palveluiden saatavuudelle
+
+Vaihdon onnistumiseksi asiakkaan on lopetettava muutosten tekeminen siirrettävään dataan ennen tietojen siirtämisen aloittamista. Siirron mahdollisesti epäonnistuessa palvelun käyttöä voidaan kuitenkin jatkaa normaalisti.
+
+## Siirrettävissä olevat tiedot
+
+Kirjanpidosta on rajapinnan kautta saatavilla kaikki asiakkaan tallentamat tiedot sekä palvelimen muodostamat raportit. Valtaosa raporteista muodostetaan Kitsas-työpöytäohjelmistossa, eikä niitä siksi ole saatavissa rajapinnan kautta. Raporteista ovat rajapinnan kautta saatavilla tase ja tuloslaskelma siinä muodossa kuin WebKitsas niitä käyttää. Rajapinnasta on saatavilla kaksi versiota, uusi suppeampi rajapinta ja vanha laajempi rajapinta. Suosittelemme käyttämään uudempaa rajapintaa aina kun haettava tieto on saatavilla sen kautta. Uudemman rajapinnan käyttöä varten on saatavilla myös javascript-kirjasto. Kaikkien kirjanpidon tietojen hakeminen edellyttää kuitenkin vanhemman rajapinnan käyttöä. Uuden rajapinnan kautta saatavilla olevat tiedot on luettelossa merkitty (*) Vanhan rajaoinnan kautta saatavilla olevat tiedot ja luettelosta vielä puuttuvat uuden rajapinnan tiedot täydennetään luetteloon elokuun 2025 aikana.
 
 Kitsas-ohjelmasta on mahdollista ladata suuri osa tiedoista JSON-muodossa muodostamalla kirjanpitoaineisto. Osa tiedoista on ladattavissa suoraan Kitsas-ohjelmasta CSV-muodossa. Näiden tiedot täydennetään luetteloon elokuun aikana.
 

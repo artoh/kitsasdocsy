@@ -253,15 +253,15 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
     <tr>
       <td>Kotimaa, Priority</td>
        <td>
-       <span class="txt-l">2,87</span> <span class="txt-top">&euro;/kpl</span>
-       <p>1.8. alkaen 3,12  &euro;/kpl</p>
+       <span class="txt-l">3,12</span> <span class="txt-top">&euro;/kpl</span>
+<!--        <p>1.8. alkaen 3,12  &euro;/kpl</p> -->
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
         <td>        
-        <span class="txt-l">2,09</span> <span class="txt-top">&euro;/kpl</span>
-        <p>1.8. alkaen 2,21 &euro;/kpl</p>
+        <span class="txt-l">2,21</span> <span class="txt-top">&euro;/kpl</span>
+        <!-- <p>1.8. alkaen 2,21 &euro;/kpl</p> -->
         </td>
       </tr>  
       <tr>
@@ -275,14 +275,14 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       <tr>
         <td>Eurooppa</td>
          <td class="">
-        <span class="txt-l">2,89</span> <span class="txt-top">&euro;/kpl</span>  
-        <p>1.8. alkaen 3,13 &euro;/kpl</p>
+        <span class="txt-l">3,13</span> <span class="txt-top">&euro;/kpl</span>  
+        <!-- <p>1.8. alkaen 3,13 &euro;/kpl</p> -->
        </tr>         
       <tr>
         <td>Muu maailma</td>
        <td class="">
-       <span class="txt-l">3,14</span> <span class="txt-top">&euro;/kpl</span>
-       <p>1.8. alkaen 3,38 &euro;/kpl</p>
+       <span class="txt-l">3,38</span> <span class="txt-top">&euro;/kpl</span>
+       <!-- <p>1.8. alkaen 3,38 &euro;/kpl</p> -->
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
@@ -320,7 +320,7 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
 </table>
 
 <h3>Tuntityöveloitus</h3>
-Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> &euro; + alv / tunti
+Veloitus asiakkaasta johtuvasta ja asiakkaan erikseen pyytämästä ylimääräisestä työstä (esimerkiksi kirjanpidon korjaustyö tai omistajuuden selvittäminen) <b>60</b> &euro; + alv / tunti, 12.9.2025 alkaen 80 € + alv / tunti. 
 
 Myymme myös räätälöintiä, ohjelmointityötä sekä ohjelman koulutusta.
 
