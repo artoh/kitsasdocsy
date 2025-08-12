@@ -166,10 +166,9 @@ Kitsas Oy sitoutuu jatkamaan palvelun toimittamista kunnes tilaus katsotaan pä�
 
 Vaihtoprosessi katsotaan onnistuneeksi, kun asiakas ilmoittaa Kitsas Oy:lle vaihdon onnistuneen. Jos asiakas ei ilmoita Kitsas Oy:lle vaihdon onnistumisesta tai sen puutteesta ja Kitsas Oy:llä on perusteltu syy uskoa että vaihto on suoritettu onnistuneesti, Kitsas Oy voi lähettää asiakkaalle pyynnön saada vahvistus siitä onko onnistunut vaihto tapahtunut. Jos asiakas ei vahvista vaihdon onnistumista 30 työpäivän kuluessa, vaihdon katsotaan epäonnistuneen, jolloin asiakkaan tietoja ei poisteta ja tilaus jatkuu hinnaston mukaisella tilaushinnalla. Kitsas Oy ilmoittaa asiakkaalle tilauksen päättymisestä ilman aiheetonta viivytystä, kun asiakas on ilmoittanut Kitsas Oy:lle vaihdon onnistuneen.
 
-
 #### 3. Vaihtomaksut
 
-Vaihtoprosessiin liittyvästä neuvonnasta ja teknisestä tuesta peritään 50 % hinnaston ({{<relref "hinnasto">}}https://kitsas.fi/hinnat</a>) mukaisesta tuntityöveloituksesta. Rajapinnan käytöstä ei peritä erillisiä maksuja.
+Vaihtoprosessiin liittyvästä neuvonnasta ja teknisestä tuesta peritään 50 % [https://kitsas.fi/hinnat](https://kitsas.fi/hinnat</a>) mukaisesta tuntityöveloituksesta. Rajapinnan käytöstä ei peritä erillisiä maksuja.
 
 #### 4. Vaihtoprosessin käynnistäminen
 
