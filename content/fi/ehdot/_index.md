@@ -150,9 +150,9 @@ Asiakkaan ilmoitukset Kitsas Oy:lle lähetetään osoitteeseen kitsas@kitsas.fi 
 
 #### 1. Tekniset rajoitteet datapalveluntarjoajan vaihdolle ja vaihdon tuomat riskit palveluiden saatavuudelle
 
-Tiedot mahdollisista palvelua koskevista datasäädöksen tarkoittamista yhteensopivuutta tukevistas eritelmistä tai yhdenmukaistetuista yhteentoimivuutta koskevista syandardeista on saatavilla osoitteessa {{<relref "datakuvaus">}}https://kitsas.fi/ehdot/datakuvaus</a> 
+Tiedot mahdollisista palvelua koskevista datasäädöksen tarkoittamista yhteensopivuutta tukevista eritelmistä tai yhdenmukaistetuista yhteentoimivuutta koskevista standardeista ovat saatavilla osoitteessa [https://kitsas.fi/ehdot/datakuvaus](https://kitsas.fi/ehdot/datakuvaus)
 
-Edellämainitusta osoitteesta ovat saatavilla myös kuvaus teknisistä rajoitteista datapalveluntarjoajan vaihdolle ja vaihdon tuomista riskeistä palvelujen saatavuudelle.
+Edellämainitusta osoitteesta on saatavilla myös kuvaus teknisistä rajoitteista datapalveluntarjoajan vaihdolle ja vaihdon tuomista riskeistä palvelujen saatavuudelle.
 
 #### 2. Tilauksen päättyminen
 
@@ -168,7 +168,7 @@ Vaihtoprosessi katsotaan onnistuneeksi, kun asiakas ilmoittaa Kitsas Oy:lle vaih
 
 #### 3. Vaihtomaksut
 
-Vaihtoprosessiin liittyvästä neuvonnasta ja teknisestä tuesta peritään 50 % [https://kitsas.fi/hinnat](https://kitsas.fi/hinnat</a>) mukaisesta tuntityöveloituksesta. Rajapinnan käytöstä ei peritä erillisiä maksuja.
+Vaihtoprosessiin liittyvästä neuvonnasta ja teknisestä tuesta peritään 50 % hinnaston ([https://kitsas.fi/hinnat](https://kitsas.fi/hinnat</a>)) mukaisesta tuntityöveloituksesta. Rajapinnan käytöstä ei peritä erillisiä maksuja.
 
 #### 4. Vaihtoprosessin käynnistäminen
 
@@ -208,7 +208,7 @@ vain siltä osin kuin se on tarpeen vaihtoprosessin loppuun saattamiseksi sovitu
 
 Asiakas tai asiakkaan valtuuttama kolmas osapuoli voi noutaa siirrettävissä olevat tiedot Kitsas Oy:n tarjoaman rajapinnan kautta. Suurelta osin sama JSON-muotoinen data on haettavissa tiedostoina lataamalla Kitsas-työpöytäohjelmasta kirjanpito-arkisto. Lisäksi osa datasta on saatavilla Kitsas-ohjelmasta CSV-muotoisina raportteina.
 
-Luettelo siirrettävissä olevasta datasta tietoluokittain on saatavilla osoitteessa < a href={{<relref "datakuvaus">}}https://kitsas.fi/ehdot/datakuvaus</a> 
+Luettelo siirrettävissä olevasta datasta tietoluokittain on saatavilla osoitteessa [https://kitsas.fi/ehdot/datakuvaus](https://kitsas.fi/ehdot/datakuvaus) 
 
 Hakuajan päätyttyä ja jos vaihtoprosessi on saatettu päätökseen onnistuneesti, Kitsas Oy sitoutuu poistamaan kaikki vietävät tiedot, jotka asiakas on tuottanut tai liittyvät suoraan asiakkaaseen ja vahvistamaan asiakkaalle, tehneensä näin, lukuun ottamatta mahdollisia sellaisia tietoja, jotka Kitsas Oy on velvollinen säilyttämään EU:n tai paikallisen lainsäädännön nojalla.
 
@@ -222,6 +222,7 @@ poistaa tai kiertää.
 
 
 {{%  blocks/lead color=light %}}
+
 <h1>Käyttöehdot 11.9.2025 asti</h1>
 <p class="lead">Nämä käyttöehdot koskevat Kitsas Oy:n tarjoamia maksullisia ja maksuttomia verkkopalveluita Kitsas -kirjanpito-ohjelmistoon liittyen.
 </p>
@@ -230,7 +231,7 @@ poistaa tai kiertää.
 
 
 {{% blocks/section color="white" %}}
-<div class="col">
+
 
 
 ### 1. Palveluun liittyminen
