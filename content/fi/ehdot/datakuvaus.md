@@ -4,11 +4,13 @@ linkTitle: "Datakuvaus"
 description: "Datasäädöksen muakainen siirrettävissä olevan datan kuvaus ja muita datan siirtämiseen liittyviä tietoja"
 ---
 
-{{%  blocks/lead color=light %}}
+{{% blocks/lead color="light" %}}
 <h1>Tietojen siirtäminen</h1>
 <p class="lead">Datasäädöksen mukainen kuvaus Kitsaan pilvipalveluista siirrettävissä olevasta datasta ja sen tietorakenteista. Tiedot ovat noudettavissa avoimen rajapinnan (API) kautta JSON-muodossa. Rajapinnan dokumentaation saa pyydettäessä osoitteesta kitsas@kitsas.fi 
 Osa tiedoista on myös ladattavissa suoraan ohjelmasta JSON- tai CSV-muodossa.
 </p>
+
+{{% /blocks/lead %}}
 
 {{% blocks/section color="white" %}}
 <div class="col">
