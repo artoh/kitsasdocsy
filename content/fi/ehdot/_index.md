@@ -221,16 +221,22 @@ tunnistamaan epäonnistuneen vaihdon syyt ja neuvomaan, miten havaitut esteet vo
 poistaa tai kiertää.
 
 
-{{%  blocks/lead color=light %}}
+</div>
+{{% /blocks/section %}}
+
+{{% blocks/section color="primary" %}}
+<div class="col">
 
 <h1>Käyttöehdot 11.9.2025 asti</h1>
 <p class="lead">Nämä käyttöehdot koskevat Kitsas Oy:n tarjoamia maksullisia ja maksuttomia verkkopalveluita Kitsas -kirjanpito-ohjelmistoon liittyen.
 </p>
 <p><a href={{<relref "../docs/lisenssi/">}} class="btn btn-sm btn-primary"><i class="fas fa-info-circle"></i> Kitsas-ohjelmiston lisenssi</a></p>
-{{% /blocks/lead %}}
-
+</div>
+{{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
+
+<div class="col">
 
 
 
