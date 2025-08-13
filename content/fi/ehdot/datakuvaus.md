@@ -37,7 +37,9 @@ Kirjanpidosta on rajapinnan kautta saatavilla kaikki asiakkaan tallentamat tiedo
 Kitsas-ohjelmasta on mahdollista ladata suuri osa tiedoista JSON-muodossa muodostamalla kirjanpitoaineisto. Osa tiedoista on ladattavissa suoraan Kitsas-ohjelmasta CSV-muodossa. Näiden tiedot täydennetään luetteloon elokuun aikana.
 
 ### Tilikaudet
+
 Kirjanpidon tilikausista on saatavilla seuraavat tiedot:
+
 * Tilikauden tunniste (*)
 * Tilikauden alkupäivä (*)
 * Tilikauden loppupäivä (*)
@@ -45,7 +47,9 @@ Kirjanpidon tilikausista on saatavilla seuraavat tiedot:
 
 
 ### Tililuettelo
+
 Tililuettelon tileistä on saatavilla seuraavat tiedot, sikäli kuin tileille on ne tallennettuna
+
 * Tilin numero (*)
 * Tilin nimi (*)
   * suomeksi (*)
@@ -55,7 +59,9 @@ Tililuettelon tileistä on saatavilla seuraavat tiedot, sikäli kuin tileille on
 * IBAN-numero (*)
 
 ### Kohdennukset
+
 Kohdennuksista on saatavilla seuraavat tiedot:
+
 * tunniste, jolla kohdennus on merkitty kirjauksiin (*)
 * nimi (*)
   * suomeksi (*)
@@ -67,7 +73,9 @@ Kohdennuksista on saatavilla seuraavat tiedot:
 * määräaikaisen kohdennuksen loppupäivä (*)
 
 ### Tuotteet
+
 Tuotteista on saatavilla seuraavat tiedot:
+
 * tunniste (*)
 * tuotekoodi (*)
 * nimi
@@ -98,10 +106,6 @@ Sisältää myös laskut.
 ### Tositteiden lokitiedot
 
 ### Raportit
-
-## Metatiedot
-
-Rajapinnan kautta ovat saatavilla myös kirjanpidon asetukset ja tiedot oikeuksista kirjanpitoon. Kitsas Pro:ta käyttävien tilitoimistojen osalta on saatavilla myös tilitoimistotason asetuksia ja yhteenvetotietoja.
 
 ### Kirjanpidon asetukset
 
