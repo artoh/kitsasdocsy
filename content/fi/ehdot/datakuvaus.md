@@ -13,8 +13,6 @@ Osa tiedoista on myös ladattavissa suoraan ohjelmasta JSON- tai CSV-muodossa.
 {{% /blocks/lead %}}
 
 {{% blocks/section color="white" %}}
-<div class="col">
-
 
 ## Siirrettävään tietoon sovellettavat eritelmät tai standardit
 
@@ -114,6 +112,5 @@ Rajapinnan kautta ovat saatavilla myös kirjanpidon asetukset ja tiedot oikeuksi
 ### Käyttöoikeudet
 
 ### Toimistotason tiedot
-
 
 {{% /blocks/section %}}
