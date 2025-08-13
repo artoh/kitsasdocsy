@@ -14,6 +14,8 @@ Osa tiedoista on myös ladattavissa suoraan ohjelmasta JSON- tai CSV-muodossa.
 
 {{% blocks/section color="white" %}}
 
+<div class="col">
+
 ## Siirrettävään tietoon sovellettavat eritelmät tai standardit
 
 Taloushallinnon ohjelmistoille ei ole julkaistu (tilanne 12.8.2025) datasäädöksen tarkoittamia yhteensopivuuuta tukevia avoimia eritelmiä tai yhdenmukaistettuja yhteentoimivuutta koskevia standardeja.  
@@ -112,5 +114,7 @@ Sisältää myös laskut.
 ### Käyttöoikeudet
 
 ### Toimistotason tiedot
+
+</div>
 
 {{% /blocks/section %}}
