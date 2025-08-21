@@ -6,19 +6,40 @@ description: >
   Työntekijän perustaminen
 ---
 
-Palkansaajantiedot lisätään kohdasta **Työntekijät Kaikki työntekijät**, **Uusi työntekijä+** painikkeesta.
+Uusi työntekijä lisätään valitsemalla:
+
+**Työntekijät → Kaikki työntekijät → Uusi työntekijä**
 
 ![](/img/fi/lisaosa/palkat/ut1.png)
 
-![](/img/fi/lisaosa/palkat/ut2.png)
+### Henkilötiedot
 
-![](/img/fi/lisaosa/palkat/ut3.png)
+Täytä työntekijän perustiedot:
+
+- Nimi
+- Henkilötunnus
+- Yhteystiedot
+
+![](/img/fi/lisaosa/palkat/ut2.png)
 
 Palkanmaksutavaksi voidaan valita myös **maksetaan Palkkaus-palvelun ulkopuolella**, jolloin tilinumerotietoa ei tarvitse lisätä. Tilinumerotietoa ei tällöin saa maksuraportille.
 
+### Työsuhteen tiedot
+
+Määrittele:
+
+- Työsuhteen tyyppi (esim. toistaiseksi voimassa oleva, määräaikainen)
+- Aloituspäivä
+- Työaika (esim. kokoaikainen, osa-aikainen)
+
+![](/img/fi/lisaosa/palkat/ut3.png)
+
+Seuraavassa kohdassa pääset määrittämäät tarvittavat oletuspalkkarivit.
 
 ![](/img/fi/lisaosa/palkat/ut4.png)
 
-![](/img/fi/lisaosa/palkat/ut5.png)
+### Verokortti
 
-![](/img/fi/lisaosa/palkat/ut6.png)
+Lisää työntekijän verokorttitiedot.
+
+![](/img/fi/lisaosa/palkat/ut5.png)

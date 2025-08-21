@@ -3,10 +3,20 @@ title: "Kitsas Palkat"
 linkTitle: "Palkat"
 weight: 80
 description: >
-  Palkkojen laskeminen tilitoimistoille
+    Kitsas Pro Palkat
 ---
-**Lisäosa on tällä hetkellä rajoitetussa testikäytössä. Lisäosa tulee saataville ainoastaan Kitsas Pro -tilitoimistoille.**
 
-Kitsas-palkat-lisäosalla voit laskea asiakkaasi yrittäjä- ja työntekijäpalkat ja palkanlaskennasta muodostuva kirjanpitoaineisto siirtyy kirjanpitoon yhdellä klikkauksella. Tulorekisteri-ilmoituksesta ei veloiteta erikseen eli maksat vain asiakaskohtaisen palkkalisäosahinnan sekä mahdollisen transaktiokulun verkkopalkoista.
+Kitsas Pro Palkat -lisäosalla voit laskea asiakkaasi **yrittäjä- ja työntekijäpalkat** helposti suoraan Kitsas Prossa. Palkanlaskennasta muodostuva kirjanpitoaineisto siirtyy kirjanpitoon yhdellä klikkauksella (_tai automaattisesti_) ja tulorekisteri-ilmoituksissa hyödynnetään tilitoimiston omaa varmennetta. 
+
+Tulorekisteri-ilmoituksesta ei veloiteta erikseen.
+
+Jos haluat aktivoida nykyiseen Kitsas Pro tilaukseesi Kitsas Pro Palkat, olethan yhteydessä helpdeskiimme (kitsas.helpdesk@taopa.fi)
+
+**Hinnoittelu:**
+- 20 € / kk, sisältää 5 asiakasyrityksen palkanlaskennan
+- Lisäasiakkaat: 4 € / kpl / kk
+- Verkkopalkkalaskelmat: 1 € / kpl
+
+_Lisäosa on saatavilla vain Kitsas Pro tilauksiin._
 
 
