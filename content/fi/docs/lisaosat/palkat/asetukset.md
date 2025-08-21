@@ -6,15 +6,23 @@ description: >
   Palkanlaskennan asetukset
 ---
 
-Kohdasta **Asetukset Palkanmaksuasetukset** voit valita tavan tulorekisten kuukausittaiselle ilmoittamiselle, 
+Palkanlaskennan asetukset löytyvät Kitsas Pro Palkkojen violetin yläpalkin valikosta **Asetukset → Palkanmaksuasetukset**.
+
+### Tulorekisteri-ilmoitukset
+
+Valitse, miten usein tulorekisteri-ilmoitukset lähetetään. Suositeltava valinta on kuukausittain.
 
 ![](/img/fi/lisaosa/palkat/asetus1.png)
 
-sekä palkkalaskelman toimitustavan
+### Palkkalaskelman toimitustapa
+
+Valitse, miten palkkalaskelmat toimitetaan työntekijöille. Vaihtoehtoina ovat sähköpostitoimitus tai verkkopalkka (verkkopalkkalaskelman veloitus 1 € / kpl).
 
 ![](/img/fi/lisaosa/palkat/asetus2.png)
 
-Vakuutustiedot pääset lisäämään kohdasta **Asetukset Vakuutukset**.
+### Vakuutustiedot
+
+Vakuutustiedot lisätään kohdassa **Asetukset → Vakuutukset**. 
 
 ![](/img/fi/lisaosa/palkat/asetus3.png)
 
