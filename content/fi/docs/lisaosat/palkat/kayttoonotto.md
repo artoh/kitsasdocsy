@@ -28,6 +28,10 @@ Lisäosan poiskytkeminen ei päätä palkanlaskentapalvelun käyttöä. Asiakask
 
 Kun siirryt palkanlaskennan palvelun käyttöönottoon ensimmäistä kertaa, tulee palvelun käyttäjän allekirjoittaa Tilitoimistovaltakirja:
 
+![](/img/fi/lisaosa/palkat/aloitus2.png)
+
+* Paina asiakaskohtaisen lisäosan näkymästä painiketta **Tilitoimistovaltakirja**
+* Avautuneesta näkymästä, painetaan painiketta **Siirry asetuksiin**
 * Täydennä tiedot (Huom. Valtakirjan allekirjoittajalla tulee olla tilitoimiston nimenkirjoitusoikeus) 
 * Hyväksy käyttöehdot ja henkilötietojen käsittelyehdot (kertaluonteinen) 
 * Paina **Hyväksy** ja suorita vahva tunnistautuminen ja **allekirjoita tilitoimistovaltakirja**
@@ -45,9 +49,9 @@ Saat verottajalta turvasähköpostin, josta löytyvät **Siirtotunnus** ja **Ker
  
 ## Varmenteen asetus Kitsaaseen
 
-Pääset asettamaan siirtotunnuksen ja kertakäyttösalasanan kitsaaseen asiakaskohtaisen lisäosan alta, kohdasta **Tilitoimistovarmenne** ja täytä varmenteen tiedot varmenteen hallintanäkymässä.
+Pääset asettamaan siirtotunnuksen ja kertakäyttösalasanan kitsaaseen asiakaskohtaisen lisäosan alta, kohdasta **Tilitoimistovarmenne** → **Siirry asetuksiin**  ja täytä varmenteen tiedot varmenteen hallintanäkymässä.
 
-![](/img/fi/lisaosa/palkat/aloitus2.png)
+![](/img/fi/lisaosa/palkat/aloitus3.png)
 
 Tilitoimistovarmenteen voi asettaa käyttäjä, jolla on toimintokohtaiset oikeudet **Lisäosien asetukset** ja **Sertifikaattien hallinta**. Varmenteen hallintaan riittävät siis oikeudet, kun käyttäjälle on asetettu kirjanpito- tai tilitoimistotasolle roolit "kirjanpitäjä" ja "pääkäyttäjä".
 
@@ -59,11 +63,10 @@ Pääset laskemaan palkkoja kohdasta **Siirry laskemaan palkkoja**.
 
 Palkkatoimintoihin pääsy edellyttää, että käyttäjälle on asetettu kirjanpito- tai tilitoimistokohtainen rooli **Palkanlaskija**.
 
-![](/img/fi/lisaosa/palkat/aloitus3.png)
+![](/img/fi/lisaosa/palkat/aloitus4.png)
 
 ## Kirjanpidon tositteiden muodostaminen
 
 Palkanlaskennan kirjanpidon tositteet voi:
 * Noutaa manuaalisesti kohdasta **Palkkojen noutaminen kirjanpitoon**
 * Tai asettaa automaattisesti muodostumaan kuukauden 5. päivänä
-
