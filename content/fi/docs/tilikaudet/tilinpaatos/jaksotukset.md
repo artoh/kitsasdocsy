@@ -27,7 +27,7 @@ Kirjanpidon jaksotukset tehdään siirtovelat ja siirtosaamiset -kirjanpitotilei
 
 ### Automaattiset jaksotukset
 
-Kitsas pystyy jaksottamaan tilinpäätöksen yhteydessä ne menot, jotka kirjaamisvaiheessa on merkitty jaksotetttaviksi. Samalla tehdään mahdollinen negatiivisen verovelan kirjaaminen tilinpäätöksessä verosaamisena.
+Kitsas pystyy jaksottamaan tilinpäätöksen yhteydessä ne menot, jotka kirjaamisvaiheessa on merkitty jaksotettaviksi. Samalla tehdään mahdollinen negatiivisen verovelan kirjaaminen tilinpäätöksessä verosaamisena.
 
 Tee jaksotukset **Kirjaa jaksotukset** -painikkeella. Painike ei ole näkyvissä, mikäli tilikaudelle ei ole tulossa kirjattavia jaksotuksia.
 
