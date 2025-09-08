@@ -45,7 +45,7 @@ Rajapinnan käyttöön tarvitaan myös uudempaa, mm. autentikoinnista huolehtiva
 
 Kitsas-ohjelmasta on mahdollista ladata suuri osa tiedoista JSON-muodossa muodostamalla [kirjanpitoarkisto](https://kitsas.fi/docs/tilikaudet/arkisto/). 
 
-Osa tiedoista on ladattavissa suoraan Kitsas-ohjelmasta CSV-muotoisina raportteina. Kitsas-työpöytäohjelmiston raportit luodaan ohjelmistossa itsessään eikä palvelimella. Siksi raportit eivät ole saatavissa rajapinnan kautta. 
+Osa tiedoista on ladattavissa suoraan Kitsas-ohjelmasta (PDF- ja) CSV-muotoisina raportteina. Kitsas-työpöytäohjelmiston raportit luodaan ohjelmistossa itsessään eikä palvelimella. Siksi valmiit raportit eivät ole saatavissa rajapinnan kautta. Tilinpäätös on saatavilla rajapinnan kautta PDF-tiedostona. 
 
 
 </div>
