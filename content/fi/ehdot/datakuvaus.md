@@ -41,11 +41,11 @@ Kirjanpitoon tallennetut tiedot voidaan noutaa ohjelmistorajapinnan kautta. Raja
 Rajapinnan käyttöön tarvittava autentikointirajapinta on osa uudempaa rajapintaa. Tämä rajapintaon suppeampi. Täysi kuvaus rajapinnasta on saatavilla pyynnöstä osoitteesta [kitsas@kitsas.fi](mailto:kitsas@kitsas.fi). 
 
 
-Rajapinnan käyttöön tarvitaan myös uudempaa, mm. autentikoinnista huolehtivaa rajapintaa. Tämä rajapinta on vanhaa suppeampi. Ohjelmistojen rinnakkaiseen käyttöön uosittelemme käyttämään uudempaa rajapintaa aina kun haettava tieto on saatavilla sen kautta. Uudemman rajapinnan käyttöä varten on saatavilla myös javascript-kirjasto. Kaikkien kirjanpidon tietojen hakeminen siirtoa varten edellyttää kuitenkin myös vanhemman rajapinnan käyttöä. Kirjanpidon käyttöoikeustiedot (käyttäjien nimet, sähköpostiosoitteet ja oikeudet) ovat saatavilla vain uudesta rajapinnasta. Uuden rajapinnan dokumentaatio on saatavilla pyynnnöstä osoitteesta [kitsas@kitsas.fi](mailto:kitsas@kitsas.fi)
+Tämän rajapinnan käyttöön tarvitaan myös uudempaa, autentikoinnista huolehtivaa rajapintaa. Uusi rajapinta on vanhaa suppeampi. Ohjelmistojen rinnakkaiseen käyttöön uosittelemme käyttämään uudempaa rajapintaa aina kun haettava tieto on saatavilla sen kautta. Uudemman rajapinnan käyttöä varten on saatavilla myös javascript-kirjasto. Kaikkien kirjanpidon tietojen hakeminen siirtoa varten edellyttää kuitenkin myös vanhemman rajapinnan käyttöä. Kirjanpidon käyttöoikeustiedot (käyttäjien nimet, sähköpostiosoitteet ja oikeudet) ovat saatavilla vain uudesta rajapinnasta. Uuden rajapinnan dokumentaatio on saatavilla pyynnnöstä osoitteesta [kitsas@kitsas.fi](mailto:kitsas@kitsas.fi)
 
 Kitsas-ohjelmasta on mahdollista ladata suuri osa tiedoista JSON-muodossa muodostamalla [kirjanpitoarkisto](https://kitsas.fi/docs/tilikaudet/arkisto/). 
 
-Osa tiedoista on ladattavissa suoraan Kitsas-ohjelmasta (PDF- ja) CSV-muotoisina raportteina. Kitsas-työpöytäohjelmiston raportit luodaan ohjelmistossa itsessään eikä palvelimella. Siksi valmiit raportit eivät ole saatavissa rajapinnan kautta. Tilinpäätös on saatavilla rajapinnan kautta PDF-tiedostona. 
+Osa tiedoista on ladattavissa suoraan Kitsas-ohjelmasta (PDF- ja) CSV-muotoisina raportteina. Kitsas-työpöytäohjelmiston raportit luodaan ohjelmistossa itsessään eikä palvelimella. Siksi valmiit raportit eivät ole saatavissa rajapinnan kautta. Työpöytäohjelmalla laaditut tilinpäätökset on saatavilla rajapinnan kautta PDF-tiedostona. 
 
 
 </div>
