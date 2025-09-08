@@ -38,9 +38,10 @@ Kirjanpitoon tallennetut tiedot voidaan noutaa ohjelmistorajapinnan kautta. Raja
 
 **API-dokumentaatio:** [Ote Kitsaan vanhemmasta rajapinnasta - Kirjanpidon tietojen noutaminen](/api-docs.html)
 
-Täysi kuvaus rajapinnasta ja rajapinnan käyttöön tarvittavan autentikointirjapainnan kuvaus ovat saatavissa pyynnöstä osoitteesta kitsas@kitsas.fi 
+Rajapinnan käyttöön tarvittava autentikointirajapinta on osa uudempaa rajapintaa. Tämä rajapintaon suppeampi. Täysi kuvaus rajapinnasta on saatavilla pyynnöstä osoitteesta [kitsas@kitsas.fi](mailto:kitsas@kitsas.fi). 
 
-Lisäksi on saatavilla uudempi, suppeampi rajapinta. Ohjelmistojen rinnakkaiseen käyttöön uosittelemme käyttämään uudempaa rajapintaa aina kun haettava tieto on saatavilla sen kautta. Uudemman rajapinnan käyttöä varten on saatavilla myös javascript-kirjasto. Kaikkien kirjanpidon tietojen hakeminen siirtoa varten edellyttää kuitenkin vanhemman rajapinnan käyttöä. Uuden rajapinnan dokumentaatio on saatavilla pyynnnöstä osoitteesta kitsas@kitsas.fi
+
+Rajapinnan käyttöön tarvitaan myös uudempaa, mm. autentikoinnista huolehtivaa rajapintaa. Tämä rajapinta on vanhaa suppeampi. Ohjelmistojen rinnakkaiseen käyttöön uosittelemme käyttämään uudempaa rajapintaa aina kun haettava tieto on saatavilla sen kautta. Uudemman rajapinnan käyttöä varten on saatavilla myös javascript-kirjasto. Kaikkien kirjanpidon tietojen hakeminen siirtoa varten edellyttää kuitenkin myös vanhemman rajapinnan käyttöä. Kirjanpidon käyttöoikeustiedot (käyttäjien nimet, sähköpostiosoitteet ja oikeudet) ovat saatavilla vain uudesta rajapinnasta. Uuden rajapinnan dokumentaatio on saatavilla pyynnnöstä osoitteesta [kitsas@kitsas.fi](mailto:kitsas@kitsas.fi)
 
 Kitsas-ohjelmasta on mahdollista ladata suuri osa tiedoista JSON-muodossa muodostamalla [kirjanpitoarkisto](https://kitsas.fi/docs/tilikaudet/arkisto/). 
 
