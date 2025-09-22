@@ -34,9 +34,9 @@ Lataa Kitsas maksutta tietokoneellesi
       <div class="container">
         <h1><i class="fab fa-windows"></i></h1>
         <h4>Windows 10, 11</h4>      
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.9</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.10</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.9/kitsas-5.9-asennus.exe" class="btn btn-lg btn-primary latausnappi">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v.5.10/kitsas-5.10-asennus.exe class="btn btn-lg btn-primary latausnappi">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>            
         <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
