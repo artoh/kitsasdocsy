@@ -6,11 +6,26 @@ description: >
   Maksamisen valtakirjat ja ohjeet
 ---
 
+### Maksujen vahvistamisen valtakirja
+
+
+Tällä [valtakirjalla](/files/Kitsas_pro_maksujen_vahvistamisen_valtakirja.docx) valtuutetaan Kitsas Helpdesk lisäämään valtakirjaan määritellyille käyttäjille maksujen vahvistamisen oikeudet 
+
+_Valtuutus koskee pankkieriin liittyvää toimintaa, jossa valtuutetut voivat hyväksyä yrityksen puolesta luotuja maksuaineistoja, jotka toimitetaan asiakkaan puolesta pankkiin_
+
+**Täytä valtakirjaan:** 
+* Yrityksen nimi
+* Y-tunnus
+* Pankkitili(t)
+* Valtuutetun nimi, Kitsas-tunnuksiin linkitetty sähköpostiosoite ja puhelinnumero, johon maksun vahvistuskoodi toimitetaan
+
+Allekirjoitettu valtakirja toimitetaan Kitsaan helpdeskille (kitsas.helpdesk@taopa.fi)
+
 ### Osuuspankki
 
-Ohje OP: maksuliikennevaltakirjan täyttöön
+Ohje OP:n maksuliikennevaltakirjan täyttöön
 
-* Lataa OP:n [maksuliikenneyhteysvaltuutuslomake](https://www.op.fi/documents/20556/33463797/Pankkiyhteysvaltuutuslomake/c2e6ad3d-dd00-8540-7120-cb8c9b66ffaf) 
+* Lataa OP:n [Pankkiyhteysvaltuutuslomake](https://www.op.fi/documents/20556/33463797/Pankkiyhteysvaltuutuslomake/c2e6ad3d-dd00-8540-7120-cb8c9b66ffaf) 
 * **Täydennä lomakkeelle** valtuuttavan yrityksen ja aineistonhoitajan (Talouden Ohjelmistopalvelut Finland Oy) tiedot, sekä tarvittavat maksuliikennepalvelut.
 
     * Valtuutuksen **allekirjoittajan** tulee olla pankkitilin omistavan yrityksen nimenkirjoitusoikeuden mukainen. 
