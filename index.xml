@@ -17,6 +17,7 @@
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
 &lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.10</title><link>/blog/2025/10/08/kitsas-5.10/</link><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid>/blog/2025/10/08/kitsas-5.10/</guid><description>
 &lt;p>Kitsas 5.10 tuo Kitsaaseen useita korjauksia ja tuen maksun luomiselle tulevaa laskujen maksamisen mahdollistavaa lisäosaa varten. Tämä tilitoimistokäyttäjille suunnattu lisäosa on tulossa saataville Kitsas Pro -tilaajille.&lt;/p>
+&lt;p>Versio 5.10 on ladattavissa &lt;a href="https://kitsas.fi/lataa">sivuiltamme&lt;/a> Windows- ja Mac-koneille. Linuxille tänmä versio julkaistaan lokakuun aikana.&lt;/p>
 &lt;h4 id="korjauksia">Korjauksia&lt;/h4>
 &lt;ul>
 &lt;li>Arvonlisäverollisen laskun kopioiminen alv-velvollisuuden päättymisen jälkeiselle päivämäärälle&lt;/li>
