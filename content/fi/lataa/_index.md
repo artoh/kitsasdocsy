@@ -69,17 +69,17 @@ Lataa Kitsas maksutta tietokoneellesi
       <div class="container">     
         <h1><i class="fab fa-linux"></i></h1>
         <h4>Linux</h4>
-        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.9</h4>
+        <h4 class="variaatio" style="margin-top: 2ex;">Kitsas 5.10</h4>
         <p>
-          <a href="https://github.com/artoh/kitupiikki/releases/download/v5.9/Kitsas-5.9-x86_64.AppImage" class="btn btn-lg btn-primary">
+          <a href="https://github.com/artoh/kitupiikki/releases/download/v.5.10/Kitsas-5.10-x86_64.AppImage">
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>           
         64-bittinen Linux graafisella työpöydällä, esimerkiksi Ubuntu 22.04 ja uudemmat       
         <ol style="text-align: left;">
           <li>Lataa asennustiedosto</li>
           <li>Merkitse tiedosto suoritettavaksi. Useimpien Linux-versioiden tiedostonhallinnassa se tehdään klikkaamalla tiedostoa hiiren oikealla napilla ja valitsemalla <b>Ominaisuudet</b>, ja ruksaamalla <b>Oikeudet</b>-välilehdeltä <b>Suoritettava</b>. Komentorivillä onnistuu komennolla <code>chmod u+x Kitsas*.AppImage</code></li>
-          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.9-x86_64.AppImage</code></li>
-          <li>Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.9-x86_64.AppImage</code><br/> tai käytä valitsinta <code>--noweb</code>.          
+          <li>Käynnistä ohjelma klikkaamalla tiedostoa tai komennolla <code>./Kitsas-5.10-x86_64.AppImage</code></li>
+          <li>Jos ohjelma kaatuu NSS-tietokannan alustamisen virheeseen, käynnistä komennolla <code>LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu/nss" ./Kitsas-5.10-x86_64.AppImage</code><br/> tai käytä valitsinta <code>--noweb</code>.          
 </li>          
         </ol>    
       </div>      
