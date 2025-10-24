@@ -39,9 +39,9 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 <article class="pro">
 
 <div class="kampanja">
-<h2>Tilitoimisto, nyt saat kitsaspron ilmaiseksi loppuvuodeksi
+<h2>Tilitoimisto, nyt voit saada Kitsas Pron veloituksetta jopa koko kevääksi!
 </h2>
-Kun teet Kitsas Pro -ohjelmistosopimuksen ajalla 1.6. - 30.9., saat Kitsas Pron veloituksetta käyttöösi 31.12. saakka. Loppuvuoden kampanja on voimassa 1.6. - 30.9.2025. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti. Kampanja koskee tilitoimistoja.
+Kun teet Kitsas Pro -ohjelmistosopimuksen ajalla 1.10. - 31.12. ja sinulla on 10 kirjanpitoa Kitsaassa 28.2. mennessä, ohjelmiston käyttö ei maksa sinulle mitään kevään aikana. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti. Kampanja koskee tilitoimistoja.
 
 </div> 
 
@@ -160,12 +160,12 @@ muutamalle olemmekin jo suositelleet!
 
 <h3>Kitsas Pron hyödyt tilitoimistolle</h3>
 
-- Edullinen ja yksinkertainen hinnoittelu
-- Ei erillisiä käyttäjäveloituksia tai käyttäjämäärärajoituksia
-- Helppo ja nopea käyttöönotto
-- Sähköiset ominaisuudet hyödynnettävissä asiakkaiden tarpeeen mukaan
-- Kahdensuuntainen rajanpinta verottajan suuntaan
-- Mahdollistaa perinteisten asiakkaiden kirjanpidon tehostamisen
+- Kustannustehokas, joustava ja tilitoimistoille suunniteltu
+- Ei käyttäjä- tai tositemääriin perustuvia kustannuksia
+- Hinnoiteltu läpinäkyvästi ja Kitsaasti
+- Nopea käyttöönotto ja sopivan yksinkertainen ymmärtää
+- Tehokas perinteisempiin asiakkaisiin, edulliset sähköisen asiakkaan työkalut
+- Lisäosia tarpeen mukaan (Holvi, Palkanlaskenta, Pankkiyhteys, eTasku)
 
 <h3>Kitsas Pron ominaisuuksia</h3>
 
@@ -178,9 +178,9 @@ muutamalle olemmekin jo suositelleet!
 - Ohjattu toiminto tilinpäätöksen laatimiseen
 - Sähköinen kirjanpitoarkisto
 - Helppo aineistojen sisäänluku
-- Tilitapahtumien tunnistaminen pdf- tai csv -tiedostosta
-  - Alkusaldojen ja vientien csv -tuonti
-  - Asiakkaiden, toimittajien ja tuotetietojen csv -tuonti
+- Tilitapahtumien tunnistaminen PDF -tiedostosta
+- Web Services -maksuliikenne
+- Palkanlaskennan toiminnallisuudet
 - Tarvittavat kirjanpidon raportit
 </article>
 
@@ -265,6 +265,10 @@ muutamalle olemmekin jo suositelleet!
       <td class="default"><span class="txt-l">1,00</span> <span class="txt-top">&euro;/kk</span></td>
     </tr>        
    <tr>
+     <td>Web Services -maksuliikenneyhteys, pankkitiliä kohden</td>
+      <td class="default"><span class="txt-l">5,00</span> <span class="txt-top">&euro;/kk</span></td>
+    </tr>        
+   <tr>
      <td>Kirjanpitoaineiston noutaminen Holvista</td>
       <td class="default"><span class="txt-l">5,00</span> <span class="txt-top">&euro;/kk</span></td>
     </tr>        
@@ -272,9 +276,27 @@ muutamalle olemmekin jo suositelleet!
    <tr>
      <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
       <td class="default">
-        <span class="txt-l">1,00</span><span class="txt-top">&euro;/kk</span>
+        <span class="txt-l">1,00</span> <span class="txt-top">&euro;/kk</span>
       </td>
-    </tr>        
+    </tr>
+    <tr>
+     <td>Palkanlaskennan toiminnallisuudet Kitsas Pro tilaukseen (sis. 5 asiakkaan palkat)</td>
+      <td class="default">
+        <span class="txt-l">20,00</span> <span class="txt-top">&euro;/kk</span>
+      </td>
+    </tr>
+    <tr>
+     <td>Lisäasikakkaat</td>
+      <td class="default">
+        <span class="txt-l">4,00</span> <span class="txt-top">&euro;/kpl</span>
+      </td>
+    </tr>
+    <tr>
+     <td>Verkkopalkkalaskelma</td>
+      <td class="default">
+        <span class="txt-l">1,00</span> <span class="txt-top">&euro;/kpl</span>
+      </td>
+    </tr>
   </tbody>
 </table>
 
