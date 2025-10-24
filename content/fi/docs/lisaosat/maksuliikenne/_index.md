@@ -13,8 +13,17 @@ Aineiston siirrosta Kitsas Pron ja pankkitilin välillä, sovitaan pankin kanssa
 **Hinnoittelu:**
 - 5 € / pankkitili / kk
 
+**Tuetut pankit:**
+
+- Osuuspankki
+- Nordea
+- Holvi
+
+_Seuraavaksi kehitämme yhteyttä Danske Bankin ja OmaSP:n kanssa_
+
 Kun haluat aktivoida Kitsas Pro Maksuliikenteen lisäosan maksuja varten, toimita Kitsaan helpdeskiin (kitsas.helpdesk@taopa.fi) vahvalla tunnistautumisella allekirjoitettu Maksujen vahvistamisen valtakirja. Maksamisen toiminnot ovat käytettävissä Kitsaan versiosta 5.10 eteenpäin.
 
-_Lisäosa on saatavilla vain Kitsas Pro tilauksiin_
+_Lisäosa on saatavilla vain Kitsas Pro tilauksiin._<br/>
+_Lisäosan poiskytkentä ei riitä passivoimaan pankkiyhteyttä, vaan poistopyynnöt tulee toimittaa helpdeskille._
 
 Ohjeet pankkien maksuliikennesopimuksien täyttöön, sekä maksujen vahvistamisen valtakirjan löydät [täältä](/docs/lisaosat/maksuliikenne/valtakirjat)
