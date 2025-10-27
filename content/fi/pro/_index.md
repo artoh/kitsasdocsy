@@ -286,7 +286,7 @@ muutamalle olemmekin jo suositelleet!
       </td>
     </tr>
     <tr>
-     <td>Lisäasikakkaat</td>
+     <td>Lisäasiakkaat</td>
       <td class="default">
         <span class="txt-l">4,00</span> <span class="txt-top">&euro;/kpl</span>
       </td>
