@@ -139,7 +139,7 @@ muutamalle olemmekin jo suositelleet!
   <div class="lomakealue__info col col-lg-4 col-sm-12">
    <h3 class="violetti">Kerromme mielellämme lisää!</h3>
    <p><span class="fa fa-phone"></span> <a class="violetti" href="tel:+358447270637">044 727 0637</a></p>
-   <p><span class="fa fa-envelope"></span> <a class="violetti" href="mailto:kitsas.helpdesk@taopa.fi">kitsas.helpdesk@taopa.fi</a></p>
+   <p><span class="fa fa-envelope"></span> <a class="violetti" href="mailto:kitsas@taopa.fi">kitsas@taopa.fi</a></p>
    <p>Kitsas Pron jälleenmyy <a class="violetti" href="https://www.taloudenohjelmistopalvelut.fi/tilitoimistolle">Talouden Ohjelmistopalvelut Finland</a></p>
 
   </div>
