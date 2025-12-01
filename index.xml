@@ -15,7 +15,18 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.10</title><link>/blog/2025/10/08/kitsas-5.10/</link><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid>/blog/2025/10/08/kitsas-5.10/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kirjeiden hinnat nousevat</title><link>/blog/2025/12/01/kirjeiden-hinnat-nousevat/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>/blog/2025/12/01/kirjeiden-hinnat-nousevat/</guid><description>
+&lt;h3 id="paperipostina-lähetettävien-laskujen-hinnat-nousevat-112026">Paperipostina lähetettävien laskujen hinnat nousevat 1.1.2026&lt;/h3>
+&lt;p>Postituspalveluiden tarjoajan nostaessa hintojaan, nousevat Kitsaan paperipostissa lähetettävien laskujen hinnat (silloin kun käytettävissä on verkkolaskutus Kitsaan hinnaston mukaisesti)&lt;/p>
+&lt;p>Hinnat nousevat 1.1.2026 alkaen lähetettävissä laskuissa&lt;/p>
+&lt;h3 id="kotimaan-kirjeet">Kotimaan kirjeet&lt;/h3>
+&lt;p>Lähettäminen Priority-kirjeenä &lt;strong>3,12&lt;/strong> € (nykyisin 3,42 €)
+Lähettäminen Economy-kirjeenä &lt;strong>2,37&lt;/strong> € (nykyisin 2,21 €)&lt;/p>
+&lt;h3 id="ulkomaan-kirjeet">Ulkomaan kirjeet&lt;/h3>
+&lt;p>Eurooppa &lt;strong>3,46&lt;/strong> € (nykyisin 3,13 €)
+Muu maailma &lt;strong>3,71&lt;/strong> € (nykyisin 3,38 €)
+Lisäsivu, Eurooppa ja muu maailma &lt;strong>0,34&lt;/strong> € (nykyisin 0,33 €)&lt;/p>
+&lt;p>Verkkolaskujen hinnat eivät nouse, vaan lähtevä ja saapuva verkkolasku maksaa edelleen &lt;strong>0,50&lt;/strong> € / kappale.&lt;/p></description></item><item><title>Blog: Kitsas 5.10</title><link>/blog/2025/10/08/kitsas-5.10/</link><pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate><guid>/blog/2025/10/08/kitsas-5.10/</guid><description>
 &lt;p>Kitsas 5.10 tuo Kitsaaseen useita korjauksia ja tuen maksun luomiselle tulevaa laskujen maksamisen mahdollistavaa lisäosaa varten. Tämä tilitoimistokäyttäjille suunnattu lisäosa on tulossa saataville Kitsas Pro -tilaajille.&lt;/p>
 &lt;p>Versio 5.10 on ladattavissa &lt;a href="https://kitsas.fi/lataa">sivuiltamme&lt;/a> Windows- ja Mac-koneille. Linuxille tänmä versio julkaistaan lokakuun aikana.&lt;/p>
 &lt;p>Päivitys 21.10: Nyt myös Linux-versio ladattavissa sivuiltammme.&lt;/p>
@@ -823,37 +834,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item><item><title>Blog: Koneiden ja laitteiden korotetut poistot</title><link>/blog/2021/01/17/koneiden-ja-laitteiden-korotetut-poistot/</link><pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate><guid>/blog/2021/01/17/koneiden-ja-laitteiden-korotetut-poistot/</guid><description>
 &lt;p>&lt;a href="https://www.vero.fi/syventavat-vero-ohjeet/ohje-hakusivu/82959/koneiden-ja-laitteiden-korotetut-poistot-verovuosina-2020-2023/">Verottajan ohjeessa&lt;/a> on kerrottu, kuinka koneista, kalustoista, laitteista ja niihin verrattavasta irtaimesta käyttöomaisuudesta voidaan verovuosina 2020-2023 tehdä normaalin verrattuna kaksinkertaiset poistot, eli poistaa enintään 50 % menojäännöksestä. Korotettua poistoa saa soveltaa ainoastaan tällä ajalla uutena hankittu ja tällä ajanjaksolla otettu käyttöön.&lt;/p>
 &lt;p>Näiden ehtojen takia Kitsas ei pysty käsittelemään automaattisesti korotettuja poistoja. Tee Kitsaalla ensin tavalliseen tapaan poistolaskelma, jolloin ohjelma laskee 25% menojäännöspoiston. Tee tämän jälkeen toinen tosite poiston korotusta varten, jolle kirjaat käsin 25 % poiston sille osalle menojäännöstä, jota korotetut poistot koskevat.&lt;/p>
-&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/mustangjoe-2162920/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1236578">MustangJoe&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1236578">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.2 beta</title><link>/blog/2020/12/29/kitsas-2.2-beta/</link><pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate><guid>/blog/2020/12/29/kitsas-2.2-beta/</guid><description>
-&lt;h1 id="kitsas-22-beta-vaiheessa">Kitsas 2.2 BETA-vaiheessa&lt;/h1>
-&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
-&lt;p>Ohjelman päivittämisen jälkeen tilikartta on myös päivitettävä erikseen ohjelman antamien ohjeiden mukaisesti&lt;/p>
-&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.2-beta/kitsas-2.2-beta.exe">Kitsas 2.2 BETA Windows&lt;/a>&lt;br>
-Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
-&lt;h2 id="mac-versio">Mac-versio&lt;/h2>
-&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-v2.2-beta/Kitsas-2.2-beta.dmg">Kitsas 2.1 BETA Mac&lt;/a>&lt;br>
-Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
-&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.2-beta/Kitsas-2.2-beta-x86_64.AppImage">Kitsas 2.1 BETA Linux&lt;/a>&lt;br>
-Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
-&lt;h2 id="muutamia-parannuksia-ohjelmaan">Muutamia parannuksia ohjelmaan&lt;/h2>
-&lt;ul>
-&lt;li>Selauksessa on nyt valittavissa kuukausittain ja tilikausittain selaus&lt;/li>
-&lt;li>Maksutapojen järjestys on valittavissa&lt;/li>
-&lt;li>Rekisterissä voidaan yhdistään tuplamerkintöjä&lt;/li>
-&lt;li>Raportin voi kopioida uuden pohjaksi&lt;/li>
-&lt;li>Tallennettaessa varotus, jos sama tosite vaikuttaa olevan tallennettu aiemmin&lt;/li>
-&lt;/ul>
-&lt;h2 id="företagkontoplan-rapporter-och-bokslut-även-på-svenska">Företagkontoplan, rapporter och bokslut även på svenska&lt;/h2>
-&lt;ul>
-&lt;li>Du kan göra företagets bokslut och skriva ut rapporter på svenska. Tack för översättningen till Holger Koroleff!&lt;/li>
-&lt;/ul>
-&lt;h2 id="korjauksia-ohjelmaan">Korjauksia ohjelmaan&lt;/h2>
-&lt;ul>
-&lt;li>Siirto-tositteiden kohdennuksen tallentuminen&lt;/li>
-&lt;li>Tilikauden päättymispäivän muokkaaminen&lt;/li>
-&lt;li>Laskun muuttaminen käteislaskuksi&lt;/li>
-&lt;li>Ääkköset lähtevän sähköpostin otsikossa&lt;/li>
-&lt;/ul>
-&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Kuva &lt;a href="https://pixabay.com/fi/users/mustangjoe-2162920/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1236578">MustangJoe&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1236578">Pixabaystä&lt;/a>&lt;/p></description></item></channel></rss>
