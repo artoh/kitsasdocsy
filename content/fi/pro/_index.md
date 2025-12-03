@@ -220,42 +220,43 @@ muutamalle olemmekin jo suositelleet!
     </tr>   
     <tr>
       <td>Kotimaa, Priority</td>
-       <td class="">
+       <td>
        <span class="txt-l">3,12</span> <span class="txt-top">&euro;/kpl</span>
-       <!-- <p>1.10. alkaen 3,1  &euro;/kpl</p> -->
+        <p>1.1.2026 alkaen 3,42  &euro;/kpl</p>
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
-        <td class="">
-        <span class="txt-l">2,21</span> <span class="txt-top">&euro;/kpl</span> 
-        <!-- <p>1.8. alkaen 2,21 &euro;/kpl</p> -->
+        <td>        
+        <span class="txt-l">2,21</span> <span class="txt-top">&euro;/kpl</span>
+        <p>1.1.2026 alkaen 2,37 &euro;/kpl</p>
         </td>
       </tr>  
       <tr>
-      <tr>
         <td>Kotimaa, lisäsivu</td>
-         <td><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
+         <td class=""><span class="txt-l">0,23</span> <span class="txt-top">&euro;/sivu</span></td>
        </tr>  
        <tr>
          <td>Väritulostelisä</td>
-        <td><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
+        <td class=""><span class="txt-l">0,09</span> <span class="txt-top">&euro;/sivu</span></td>
       </tr>  
-      <td>Eurooppa</td>
+      <tr>
+        <td>Eurooppa</td>
+         <td class="">
+        <span class="txt-l">3,13</span> <span class="txt-top">&euro;/kpl</span>  
+        <p>1.1.2026 alkaen 3,46 &euro;/kpl</p>
+       </tr>         
+      <tr>
+        <td>Muu maailma</td>
        <td class="">
-       <span class="txt-l">3,13</span> <span class="txt-top">&euro;/kpl</span>   
-       <!-- <p>1.8. alkaen 3,13 &euro;/kpl</p> -->
-     </tr>         
-    <tr>
-      <td>Muu maailma</td>
-     <td class="">
-     <span class="txt-l">3,38</span> <span class="txt-top">&euro;/kpl</span>    
-    <!-- <p>1.10. alkaen 3,38 &euro;/kpl</p> -->
-   </tr>  
-   <tr>
-     <td>Eurooppa ja muu maailma, lisäsivu</td>
-     <td class="">
-     <span class="txt-l">0,33</span> <span class="txt-top">&euro;/kpl</span>               
+       <span class="txt-l">3,38</span> <span class="txt-top">&euro;/kpl</span>
+       <p>1.1.2026 alkaen 3,71 &euro;/kpl</p> 
+     </tr>  
+     <tr>
+       <td>Eurooppa ja muu maailma, lisäsivu</td>
+       <td class="">
+       <span class="txt-l">0,33</span> <span class="txt-top">&euro;/kpl</span> 
+       <p>1.1.2026 alkaen 0,34 &euro;/kpl</p>               
   </tr>    
   <tr>
     <td colspan="2" class="sep"><i class="fa fa-puzzle-piece"></i> Lisäosat</td>
