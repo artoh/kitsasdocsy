@@ -108,8 +108,8 @@ nimenkirjoittajan yhteystiedot
 Monivalintakohtaan valitaan halutut palvelut:
 
 * Yrityksen maksut -palvelu 
-* Konekielinen tiliote
-* Saapuvat viitemaksut (jos tehdään myyntilaskutusta, niin hyvä ottaa käyttöön) 
+* Konekielinen tiliote (XML)
+* Saapuvat viitemaksut (XML, jos tehdään myyntilaskutusta, niin hyvä ottaa käyttöön)
 * Saldo ja tapahtumaote 
 
 
