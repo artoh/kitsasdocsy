@@ -21,9 +21,12 @@ Aineiston siirrosta Kitsas Pron ja pankkitilin välillä, sovitaan pankin kanssa
 
 _Seuraavaksi kehitämme yhteyttä Danske Bankin ja OmaSP:n kanssa_
 
-Kun haluat aktivoida Kitsas Pro Maksuliikenteen lisäosan maksuja varten, toimita Kitsaan helpdeskiin (kitsas.helpdesk@taopa.fi) vahvalla tunnistautumisella allekirjoitettu Maksujen vahvistamisen valtakirja. Maksamisen toiminnot ovat käytettävissä Kitsaan versiosta 5.10 eteenpäin.
+Kun haluat aktivoida Kitsas Pro Maksuliikenteen lisäosan maksuja varten, toimita Kitsaan helpdeskiin (kitsas.helpdesk@taopa.fi) vahvalla tunnistautumisella allekirjoitettu Maksujen vahvistamisen valtakirja. Mikäli haluat Maksuliikenne -lisäosan käyttöön **vain tiliotteiden noutoa varten**, toimitathan Kitsaan helpdeskiin tiedon kirjanpidoista, joihin kyseinen ominaisuus aktivoidaan. Huomioithan, että myös tiliotteiden noutoa varten avattu pankkiyhteyskanava tarvitsee maksuliikennevaltakirjan.
+ 
+Asiakkaan allekirjoittamaa valtakirjaa maksujen vahvistamista varten ei tarvita tiliotteiden noutoon. Jotta tiliotteiden nouto onnistuu ongelmitta, muistathan lisätä pankkitilin IBAN-numeron myös kirjanpitotilin taakse Kitsaan asetuksissa.
 
-_Lisäosa on saatavilla vain Kitsas Pro tilauksiin._<br/>
-_Lisäosan poiskytkentä ei riitä passivoimaan pankkiyhteyttä, vaan poistopyynnöt tulee toimittaa helpdeskille._
+* Maksamisen toiminnot ovat käytettävissä Kitsaan versiosta 5.10 eteenpäin.
+* Lisäosa on saatavilla vain Kitsas Pro tilauksiin.
+* Lisäosan poiskytkentä ei riitä passivoimaan pankkiyhteyttä, vaan poistopyynnöt tulee toimittaa helpdeskille.
 
 Ohjeet pankkien maksuliikennesopimuksien täyttöön, sekä maksujen vahvistamisen valtakirjan löydät [täältä](/docs/lisaosat/maksuliikenne/valtakirjat)

@@ -9,7 +9,7 @@ description: >
 ### Maksujen vahvistamisen valtakirja
 
 
-Tällä [valtakirjalla](/files/Kitsas_pro_maksujen_vahvistamisen_valtakirja.docx) valtuutetaan Kitsas Helpdesk lisäämään valtakirjaan määritellyille käyttäjille maksujen vahvistamisen oikeudet 
+Tällä [valtakirjalla](/files/Kitsas_pro_valtakirja_maksujen_vahvistamiseen.docx) valtuutetaan Kitsas Helpdesk lisäämään valtakirjaan määritellyille käyttäjille maksujen vahvistamisen oikeudet 
 
 _Valtuutus koskee pankkieriin liittyvää toimintaa, jossa valtuutetut voivat hyväksyä yrityksen puolesta luotuja maksuaineistoja, jotka toimitetaan asiakkaan puolesta pankkiin_
 
@@ -26,7 +26,7 @@ Allekirjoitettu valtakirja toimitetaan Kitsaan helpdeskille (kitsas.helpdesk@tao
 Ohje OP:n maksuliikennevaltakirjan täyttöön
 
 * Lataa OP:n [Pankkiyhteysvaltuutuslomake](https://www.op.fi/documents/20556/33463797/Pankkiyhteysvaltuutuslomake/c2e6ad3d-dd00-8540-7120-cb8c9b66ffaf) 
-* **Täydennä lomakkeelle** valtuuttavan yrityksen ja aineistonhoitajan (Talouden Ohjelmistopalvelut Finland Oy) tiedot, sekä tarvittavat maksuliikennepalvelut.
+* **Täydennä lomakkeelle** valtuuttavan yrityksen ja aineistonhoitajan (Talouden Ohjelmistopalvelut Taopa Oy) tiedot, sekä tarvittavat maksuliikennepalvelut.
 
     * Valtuutuksen **allekirjoittajan** tulee olla pankkitilin omistavan yrityksen nimenkirjoitusoikeuden mukainen. 
 
@@ -49,7 +49,7 @@ Valtuuttajan ja aineistonhoitajan tiedot
 |Pankkitilinumero(t) |Täytä|
 |Nimenkirjoitusoikeudellisen sähköpostiosoite|Täytä|
 |**Aineistonhoitajan tiedot**|| 
-|Yrityksen nimi|Talouden Ohjelmistopalvelut Finland Oy|
+|Yrityksen nimi|Talouden Ohjelmistopalvelut Taopa Oy|
 |Y-tunnus|3117100-5| 
 |Yhteyshenkilön nimi|Kitsas Helpdesk / Nadina Hakkarainen| 
 |Puhelinnumero|010 397 6710|
@@ -79,7 +79,7 @@ Ohje Nodean maksuliikennevaltakirjan täyttöön
 
 
 * Avaa [Digitaalinen maksuliikevaltakirja | Nordea](https://www.nordea.fi/yritysasiakkaat/palvelumme/verkko-mobiilipalvelut/maksuliikevaltakirja.html) 
-* **Täydennä** siihen valtuuttavan yrityksen ja aineistonhoitajan (Talouden Ohjelmistopalvelut Finland Oy) tiedot, sekä tarvittavat maksuliikepalvelut. 
+* **Täydennä** siihen valtuuttavan yrityksen ja aineistonhoitajan (Talouden Ohjelmistopalvelut Taopa Oy) tiedot, sekä tarvittavat maksuliikepalvelut. 
     * Digitaalinen maksuliikevaltakirja on käytettävissä yhtiömuotojen Oy, Tmi, Ay ja Ky -kohdalla. 
     * Rekisteröityjen yhtiöiden, säätiöiden ja taloyhtiöiden kohdalla täytetään PDF-muotoinen valtakirja (löydät PDF-muotoisen valtakirjan ja siihen liittyvät ohjeet [täältä](https://www.nordea.fi/yritysasiakkaat/palvelumme/verkko-mobiilipalvelut/valtakirja.html)). 
 
@@ -91,7 +91,7 @@ nimenkirjoittajan yhteystiedot
 
 |Valtuutettu välittäjä|| 
 |--|--|
-|Valtuutetun välittäjän nimi|Talouden Ohjelmistopalvelut Finland Oy|
+|Valtuutetun välittäjän nimi|Talouden Ohjelmistopalvelut Taopa Oy|
 |Y-tunnus|3117100-5| 
 |Yhteyshenkilö|Kitsas Helpdesk / Nadina Hakkarainen| 
 |Puhelinnumero|010 397 6710|

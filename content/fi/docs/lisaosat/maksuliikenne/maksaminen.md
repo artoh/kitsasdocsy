@@ -14,7 +14,7 @@ description: >
 
 Yllä listatut, tarvittavat toimintokohtaiset oikeudet ovat oletuksena _kirjanpitäjä_-roolissa (pl. erillinen maksun vahvistaja -oikeus)
 
-**Maksujen vahvistamisen oikeuksia hallitaan Kitsaan helpdeskin toimesta** ja oikeudet myönnetään vain Maksujen vahvistamisen [valtakirjaan](/files/Kitsas_pro_maksujen_vahvistamisen_valtakirja.docx) määritellyille henkilöille.
+**Maksujen vahvistamisen oikeuksia hallitaan Kitsaan helpdeskin toimesta** ja oikeudet myönnetään vain Maksujen vahvistamisen [valtakirjaan](/files/Kitsas_pro_valtakirja_maksujen_vahvistamiseen.docx) määritellyille henkilöille.
 
 Maksun vahvistaminen edellyttää, että käyttäjällä on käytössään **kaksivaiheinen tunnistautuminen**.
 
