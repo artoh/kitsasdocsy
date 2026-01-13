@@ -39,9 +39,10 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 <article class="pro">
 
 <div class="kampanja">
-<h2>Tilitoimisto, nyt voit saada Kitsas Pron veloituksetta jopa koko kevääksi!
+<h2>TILITOIMISTO, NYT VOIT KÄYTTÄÄ KITSAS PROTA VELOITUKSETTA KEVÄÄN LOPPUUN SAAKKA!
 </h2>
-Kun teet Kitsas Pro -ohjelmistosopimuksen ajalla 1.10. - 31.12. ja sinulla on 10 kirjanpitoa Kitsaassa 28.2. mennessä, ohjelmiston käyttö ei maksa sinulle mitään kevään aikana. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti. Kampanja koskee tilitoimistoja.
+Saat Kitsas Pron käyttöösi ilman kuukausimaksua 30.4.2026 asti. Laskutus alkaa vasta 1.5.2026. Jos sinulla on 10 kirjanpitoa Kitsaassa 30.4. mennessä, laskutus käynnistyy vasta 1.6.2026.
+Tämä kampanja koskee tilitoimistoja. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti.
 
 </div> 
 
@@ -221,15 +222,13 @@ muutamalle olemmekin jo suositelleet!
     <tr>
       <td>Kotimaa, Priority</td>
        <td>
-       <span class="txt-l">3,12</span> <span class="txt-top">&euro;/kpl</span>
-        <p>1.1.2026 alkaen 3,42  &euro;/kpl</p>
+       <span class="txt-l">3,42</span> <span class="txt-top">&euro;/kpl</span>
        </td>      
      </tr>  
      <tr>
        <td>Kotimaa, Economy</td>
         <td>        
-        <span class="txt-l">2,21</span> <span class="txt-top">&euro;/kpl</span>
-        <p>1.1.2026 alkaen 2,37 &euro;/kpl</p>
+        <span class="txt-l">2,37</span> <span class="txt-top">&euro;/kpl</span>
         </td>
       </tr>  
       <tr>
@@ -243,20 +242,17 @@ muutamalle olemmekin jo suositelleet!
       <tr>
         <td>Eurooppa</td>
          <td class="">
-        <span class="txt-l">3,13</span> <span class="txt-top">&euro;/kpl</span>  
-        <p>1.1.2026 alkaen 3,46 &euro;/kpl</p>
+        <span class="txt-l">3,46</span> <span class="txt-top">&euro;/kpl</span>
        </tr>         
       <tr>
         <td>Muu maailma</td>
        <td class="">
-       <span class="txt-l">3,38</span> <span class="txt-top">&euro;/kpl</span>
-       <p>1.1.2026 alkaen 3,71 &euro;/kpl</p> 
+       <span class="txt-l">3,71</span> <span class="txt-top">&euro;/kpl</span>
      </tr>  
      <tr>
        <td>Eurooppa ja muu maailma, lisäsivu</td>
        <td class="">
-       <span class="txt-l">0,33</span> <span class="txt-top">&euro;/kpl</span> 
-       <p>1.1.2026 alkaen 0,34 &euro;/kpl</p>               
+       <span class="txt-l">0,34</span> <span class="txt-top">&euro;/kpl</span>
   </tr>    
   <tr>
     <td colspan="2" class="sep"><i class="fa fa-puzzle-piece"></i> Lisäosat</td>
