@@ -30,13 +30,12 @@ Tilinumerot ovat linkkejä, joista pääsee tilin pääkirjanäkymään. Tositte
 
 Tilikausittaiset arkistot voit viedä _Tilikaudet_-välilehden **Vie arkisto**-painikkeella.
 
-![](/img/fi/kaudet/vie.png)
-
-**Vie hakemistoon** kopioi koko arkiston valitsemaasi hakemistoon. Arkistoon pääset avaamalla hakemistoon kopioidun **index.html**-tiedoston selaimellasi. Huomaa, että arkistohakemistossa voi olla todella paljon tiedostoja, joten sitä varten kannattaa ehkä luoda uusi hakemistonsa.
+Toiminto kopioi koko arkiston valitsemaasi hakemistoon. Arkistoon pääset avaamalla hakemistoon kopioidun **index.html**-tiedoston selaimellasi. Huomaa, että arkistohakemistossa voi olla todella paljon tiedostoja, joten sitä varten kannattaa ehkä luoda uusi hakemistonsa.
 
 Tällä toiminnolla voit siirtää yhden vuoden arkiston esim. suoraan USB-muistitikulle.
 
-**Vie zip-tiedostona** tallentaa koko arkiston yhdeksi pakatuksi tiedostoksi. [ZIP-arkiston](https://fi.wikipedia.org/wiki/ZIP) saa avattua suoraan nykyisillä Windows-, Linux- ja macOS-tietokoneilla.
+Linux-koneilla voit valita hakemistoon viemisen ja zip-tiedostoon viemisen välillä.
+**Vie zip-tiedostona** tallentaa koko arkiston yhdeksi pakatuksi tiedostoksi. [ZIP-arkiston](https://fi.wikipedia.org/wiki/ZIP) saa avattua suoraan nykyisillä Windows-, Linux- ja macOS-tietokoneilla. Tämä toiminnallisuus o
 
 Kirjanpitoaineiston voi tallentaa pdf-muotoon **Aineisto**-painikkeella.
 
