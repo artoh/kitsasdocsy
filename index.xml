@@ -15,7 +15,9 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.11</title><link>/blog/2025/12/11/kitsas-5.11/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>/blog/2025/12/11/kitsas-5.11/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.11.1</title><link>/blog/2026/01/23/kitsas-5.11.1/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/2026/01/23/kitsas-5.11.1/</guid><description>
+&lt;p>Kitsas 5.11.1 korjaa version 5.11 alv-päivitysten mukanaan tuomat ongelmat arvonlisäverottomien kirjanpitojen laskutuksessa ja tuoterekisterissä.&lt;/p>
+&lt;p>Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p></description></item><item><title>Blog: Kitsas 5.11</title><link>/blog/2025/12/11/kitsas-5.11/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>/blog/2025/12/11/kitsas-5.11/</guid><description>
 &lt;p>Kitsas 5.11 tuo tuen 13,5 %:n arvonlisäverokannalle. Tammikuun alussa 14 prosentin alv-kanta kevennetään 13,5 prosenttiin. Ohjelmiston tilikartassa olevia tilien arvonlisäveroprosentteja tai tuotteiden alv-kantoja ei tarvitse tässä yhteydessä muokata, vaan ohjelmisto ehdottaa uutta arvonlisäveroprosenttia päivämäärän mukaisesti. Toisin sanoen kirjauspäivän ollessa 1.1.2026 tai sen jälkeen, ehdottaa ohjelma 14%:n arvonlisäverokannan sijaan 13,5%:n arvonlisäverokantaa.&lt;/p>
 &lt;p>Kirjanpitäjältä tarvitaan huolellisuutta, sillä muutosvaiheessa verokanta määräytyy ensisijaisesti toimituspäivän mukaisesti, katso tarkemmin &lt;a href="https://vero.fi/tietoa-verohallinnosta/uutishuone/verotuksen_muutoksia/alv-kannan-aleneminen/">Verohallinnon ohjeista&lt;/a>. Molemmat arvonlisäverokannat ovat siis käyttäjällä aina valittavissa.&lt;/p>
 &lt;p>Versio 5.11 sisältää myös korjaukset Debian Trixie -Linuxin käyttäjiä vaivanneeseen verkkoyhteysongelmaan ja ohjelman kaatumisiin NVIDIAn näytönohjaimilla varustetuilla Linux-koneilla.&lt;/p>
@@ -823,18 +825,4 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
 &lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
 &lt;img src="/img/versions/23esikko.png">
-&lt;p>Version 2.3 tunnuskukkana on esikko, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.2 julkaistu</title><link>/blog/2021/01/18/kitsas-2.2-julkaistu/</link><pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate><guid>/blog/2021/01/18/kitsas-2.2-julkaistu/</guid><description>
-&lt;h1 id="kitsas-22">Kitsas 2.2&lt;/h1>
-&lt;p>Päivitystä suositellaan kaikille Kitsaan käyttäjille. Suosittelemme myös ohjelman päivittämisen jälkeen päivittämään tilikartat, jos ohjelma tarjoaa siihen mahdollisuutta.&lt;/p>
-&lt;p>Ohjelma on ladattavissa osoitteesta &lt;a href="https://kitsas.fi/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p>
-&lt;h3 id="företag--och-förningkontoplan-rapporter-och-bokslutet-även-på-svenska">Företag- och förningkontoplan, rapporter och bokslutet även på svenska&lt;/h3>
-&lt;p>Du kan göra företagets bokslut och skriva ut rapporter på svenska. Tack för översättningen till Holger Koroleff!&lt;/p>
-&lt;h3 id="käyttöliittymän-parannuksia">Käyttöliittymän parannuksia&lt;/h3>
-&lt;p>Selauksessa saat nopeasti valittua kuukauden tai koko tilikauden kirjaukset. Tallennettaessa ohjelma varoittaa, jos olet jo tallentanut täysin samanlaisen tositteen. Jos rekisteriin on sujahtanut sama asiakas usemanpaan kertaan, voit nyt yhdistää nämä. Pääset myös tilikausia muokkaamalla korjaamaan kirjanpitoa aloitettaessa väärin syötetyt tilikaudet.&lt;/p>
-&lt;h3 id="valmiina-uuteen-vuoteen">Valmiina uuteen vuoteen&lt;/h3>
-&lt;p>Ohjelma on valmiina laskemaan isommat alarajahuojennukset vuodesta 2021 alkaneille uusille tilikausille. Pystyt nyt täydentämään liitteillä myös niitä tositteita, joista on jo annettu alv-ilmoitus.&lt;/p>
-&lt;h3 id="korjauksia">Korjauksia&lt;/h3>
-&lt;p>Ohjelmassa ja tilikartoissa on tehty myös joukko korjauksia, liittyen mm. tositteiden kohdennukseen, merkkausten käyttöön ja tasaeräpoistoihin.&lt;/p>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.2">Täysi muutosluettelo julkaisutiedoissa&lt;/a>&lt;/p>
-&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Version 2.3 tunnuskukkana on esikko, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item></channel></rss>
