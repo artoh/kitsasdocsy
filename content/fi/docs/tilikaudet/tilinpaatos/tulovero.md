@@ -25,12 +25,12 @@ Tilinpäätöstyökalun **Kirjaa tulovero** -painikkeella avautuu tuloveron lask
 Ohjelman tekemä laskelma on täsmälleen oikea vain kaikkein yksinkertaisimmissa tilanteissa. Jatka täyttämään tämä laskelma vasta kun olet tarkastanut kirjanpitosi ja selvittänyt sen pohjalta veroilmoituksessa tarvittavat tiedot.
 {{</alert>}}
 
-Merkitse laskelmaan **verotettava tulo yhteensä** sekä **vähennyskelpoiset kulut ilman Yle-veroa**. Tarkista, että Yle-vero on laskettu oikein.
+Merkitse laskelmaan **verotettava tulo yhteensä** sekä **vähennyskelpoiset kulut**. Vähennyskelpoisiin kuluihin lasketaan myös YLE-vero. YLE-vero tulisi verottajan nykyisten ohjeiden mukaan vähentää tuloverotuksessa ensisijaisesti sen vuoden menona, jonka aikana YLE-vero on maksuunpantu. 
 
 Tarkasta myös, että **tuloveron määrä** ja **maksetut ennakkoverot** on merkitty oikein.
 
 {{<alert title="Eri tulolähteet">}}
-Vuonna 2020 päättyvien tilikausien verotuksessa osakeyhtiöillä ja osuuskunnilla (jotka eivät harjoita maataloutta) on pääsääntöisesti vain yksi tulonlähde. Esimerkiksi veroa maksavilla yhdistyksillä voi olla yhä useampia erikseen verotettavia tulolähteitä. Täydennä aina ohjelman laskelma!
+Osakeyhtiöillä ja osuuskunnilla (jotka eivät harjoita maataloutta) on pääsääntöisesti vain yksi tulonlähde. Esimerkiksi veroa maksavilla yhdistyksillä voi olla yhä useampia erikseen verotettavia tulolähteitä. Täydennä aina ohjelman laskelma!
 {{</alert>}}
 
 Kun laskelma on valimis, paina **Ok**. Ohjelma tekee tuloverojen jaksotuskirjaukset. Liitä veroilmoitus ja mahdolliset laskelmat kirjanpitoaineistoon.
