@@ -63,20 +63,3 @@ Painamalla **Tallenna kirjanpitoon** Kitsas muodostaa tapahtumista tositteet kir
 Tallentaminen voi kestää jonkin aikaa. Tallentaminen jatkuu, vaikka poistuisit tästä kirjanpidosta - voit siis siirtyä tekemään toista kirjanpitoa sillä aikaa, kun aineistoa ladataan.
 
 ![](/img/fi/lisaosa/holvi/haeok.png)
-
-
-## Aineiston siirtäminen Dropboxin kautta
-
-Jos suoraa yhdistämistä ei voida käyttää, voidaan Holvin aineistoa tuoda Kitsaaseen myös Dropboxin kautta. Aineisto viedään Holvin verkkopankissa **Raportit** > **Vientitiedostot** > **Dropbox**. 
-
-### Yhdistäminen Dropboxiin
-
-Kitsaan Holvi-lisäosassa valitse ensin **Lataa Dropboxista**. Yhdistä Kitsas samaan Dropbox-tiliin, jota käytetään aineiston viennissä. 
-
-![](/img/fi/lisaosa/holvi/drop1.png)
-
-Valitse, ketkä pääsevät käyttämään tätä Dropbox-yhteyttä. Jos käytätte yhtä Dropbox-tiliä toimiston kaikille kirjanpidoille, liitä valtuutus toimiston kaikkiin kirjanpitoihin.
-
-### Asetukset
-
-Määritä IBAN-tilinumerot ja Holvin käyttämät tiliöinnit [kuten edellä](#asetukset)
