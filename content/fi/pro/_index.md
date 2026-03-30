@@ -39,9 +39,9 @@ Kehitystyö aidosti kirjanpitäjien tarpeista
 <article class="pro">
 
 <div class="kampanja">
-<h2>TILITOIMISTO, NYT VOIT KÄYTTÄÄ KITSAS PROTA VELOITUKSETTA KEVÄÄN LOPPUUN SAAKKA!
+<h2>TILITOIMISTO, NYT VOIT KÄYTTÄÄ KITSAS PROTA VELOITUKSETTA SYKSYYN SAAKKA!
 </h2>
-Saat Kitsas Pron käyttöösi ilman kuukausimaksua 30.4.2026 asti. Laskutus alkaa vasta 1.5.2026. Jos sinulla on 10 kirjanpitoa Kitsaassa 30.4. mennessä, laskutus käynnistyy vasta 1.6.2026.
+Saat Kitsas Pron käyttöösi ilman kuukausimaksua 30.6.2026 asti. Laskutus alkaa vasta 1.7.2026. Jos sinulla on 10 kirjanpitoa Kitsaassa 30.6. mennessä, laskutus käynnistyy vasta 1.9.2026.
 Tämä kampanja koskee tilitoimistoja. Kampanjan jälkeen hinnoittelu jatkuu <a class="violetti" href="#hinnasto">hinnaston</a> mukaisesti.
 
 </div> 
