@@ -15,7 +15,12 @@
 &lt;p>Arvonlisäveroilmoituksen voi tehdä Kitsaasta tuttuun tapaan sähköisesti suoraan verottajan järjestelmään. 24 ja 25,5 prosentin arvonlisäverot ilmoitetaan verottajan ohjeen mukaisesti yhtenä lukuna.&lt;/p>
 &lt;img src="/img/screenshots/alvilmo.png" class="img-responsive"/>
 &lt;p>&lt;strong>Muutokset vaativat Kitsaan työpöytäohjelmiston päivittämisen&lt;/strong>. Kitsaan versio 5.6 on &lt;a href="/lataa">nyt ladattavissa&lt;/a>&lt;/p>
-&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Kitsas 5.11.1</title><link>/blog/2026/01/23/kitsas-5.11.1/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/2026/01/23/kitsas-5.11.1/</guid><description>
+&lt;p>&lt;em>Päivitetty 7.8.2024&lt;/em>&lt;/p></description></item><item><title>Blog: Käyttökatko Kitsas Pro Maksuissa 15.4.</title><link>/blog/2026/04/10/k%C3%A4ytt%C3%B6katko-kitsas-pro-maksuissa-15.4./</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>/blog/2026/04/10/k%C3%A4ytt%C3%B6katko-kitsas-pro-maksuissa-15.4./</guid><description>
+&lt;p>Kitsas Pro:n &lt;a href="/docs/lisaosat/maksuliikenne/">Maksuliikenteessä&lt;/a> on päivityksiä varten käyttökatko keskiviikkona 15.4.2026 noin kello 06.00 - 12.00.&lt;/p>
+&lt;p>Käyttökatko ei koske PSD2-pankkiyhteyttä vaan ainoastaan Kitsas Pro:ssa WebService-pankkiyhteyttä joka on käytössä alle 0,5 % kirjanpidoista.&lt;/p>
+&lt;p>Ennen käyttökatkoa pankkiin lähtetyt maksuaineistot ovat edelleen voimassa, mutta näistä maksuista ei saada maksupalautetta eli tietoa maksun suorittamisesta tai virheestä Kitsaaseen. Maksut tulevat toki näkyviin aikanaan tiliotteilla.&lt;/p>
+&lt;p>Käyttökatkon jälkeen siirrymme maksatuksessa uuteen aikatauluun, jossa maksuja välitetään pankkeihin kahden tunnin välein arkisin kello 9 - 15. Jos maksu lähetetään kello 15:n jälkeen, se käsitellään vasta seuraavana pankkipäivänä.&lt;/p>
+&lt;p>Aineistojen määrän kasvamisen takia kaikkea tiliote- ja viiteaineistoa ei ole saata haettua Kitsaaseen. Käyttökatkon jälkeen teemme täydentävän noudon 1.4. muodostuneelle aineistolle (maaliskuun kuukausitiliotteet). Päivityksessä siirrymme tekemään pankkiaineistojen noudot erillisillä eräajoilla, jotka kestävät suurempia aineistomääriä. Häiriöön liittyen ei WebService-pankkiyhteyden käytöstä laskuteta maaliskuun 2026 osalta.&lt;/p></description></item><item><title>Blog: Kitsas 5.11.1</title><link>/blog/2026/01/23/kitsas-5.11.1/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/2026/01/23/kitsas-5.11.1/</guid><description>
 &lt;p>Kitsas 5.11.1 korjaa version 5.11 alv-päivitysten mukanaan tuomat ongelmat arvonlisäverottomien kirjanpitojen laskutuksessa ja tuoterekisterissä.&lt;/p>
 &lt;p>Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitteesta &lt;a href="/lataa">kitsas.fi/lataa&lt;/a>.&lt;/p></description></item><item><title>Blog: Kitsas 5.11</title><link>/blog/2025/12/11/kitsas-5.11/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>/blog/2025/12/11/kitsas-5.11/</guid><description>
 &lt;p>Kitsas 5.11 tuo tuen 13,5 %:n arvonlisäverokannalle. Tammikuun alussa 14 prosentin alv-kanta kevennetään 13,5 prosenttiin. Ohjelmiston tilikartassa olevia tilien arvonlisäveroprosentteja tai tuotteiden alv-kantoja ei tarvitse tässä yhteydessä muokata, vaan ohjelmisto ehdottaa uutta arvonlisäveroprosenttia päivämäärän mukaisesti. Toisin sanoen kirjauspäivän ollessa 1.1.2026 tai sen jälkeen, ehdottaa ohjelma 14%:n arvonlisäverokannan sijaan 13,5%:n arvonlisäverokantaa.&lt;/p>
@@ -776,52 +781,6 @@ Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai
 &lt;li>Maksumuistuksen lähettämisessä on korjattu tiliöintivirhe (koskee yhdistyskirjanpitoja)&lt;/li>
 &lt;/ul>
 &lt;p>Tarkemmat tiedot muutoksista löytyvät &lt;a href="https://github.com/artoh/kitupiikki/releases/tag/v2.3">julkaisun tiedoista GitHubista&lt;/a>&lt;/p>
-&lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
-&lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
-&lt;img src="/img/versions/23esikko.png">
-&lt;p>Version 2.3 tunnuskukkana on esikko, kuva &lt;a href="https://pixabay.com/fi/users/8926-8926/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">8926&lt;/a> &lt;a href="https://pixabay.com/fi/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1385960">Pixabaystä&lt;/a>&lt;/p></description></item><item><title>Blog: Kitsas 2.3 beta</title><link>/blog/2021/02/04/kitsas-2.3-beta/</link><pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate><guid>/blog/2021/02/04/kitsas-2.3-beta/</guid><description>
-&lt;h1 id="kitsas-23-esikko-beta-vaiheessa">Kitsas 2.3 &amp;ldquo;Esikko&amp;rdquo; BETA-vaiheessa&lt;/h1>
-&lt;p>Kitsaan uusin version on nyt yleisesti testattavissa. Voit ladata beta-version tältä sivulta.&lt;/p>
-&lt;p>Ohjelman päivittämisen jälkeen tilikartta on myös päivitettävä erikseen ohjelman antamien ohjeiden mukaisesti.&lt;/p>
-&lt;p>Beta-version uusia ominaisuuksia ei ole vielä päivitetty ohjelman ohjeisiin.&lt;/p>
-&lt;h3 id="windows-versio">Windows-versio&lt;/h3>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.3-beta/kitsas-2.3-beta.exe">Kitsas 2.3 BETA Windows&lt;/a>&lt;br>
-Windows-versio on suoritettava ohjelmatiedosto (ei siis tarvitse asentaa). Voit käyttää tätä toisen version rinnalla.&lt;/p>
-&lt;h3 id="mac-versio">Mac-versio&lt;/h3>
-&lt;p>&lt;a href="https://github.com/petriaarnio/kitupiikki/releases/download/mac-2.3-beta/Kitsas-2.3-beta.dmg">Kitsas 2.3 BETA Mac&lt;/a>&lt;br>
-Huomaa, että uudemmilla käyttöjärjestelmän versioilla sovelluskaupan ulkopuolisen ohjelman suorittaminen on sallittava erikseen.&lt;/p>
-&lt;h3 id="linux-versio">Linux-versio&lt;/h3>
-&lt;p>&lt;a href="https://github.com/artoh/kitupiikki/releases/download/v2.3-beta/Kitsas-2.3-beta-x86_64.AppImage">Kitsas 2.3 BETA Linux&lt;/a>&lt;br>
-Suoraan käynnistettävä AppImage-tiedosto. Vaatii esimerkiksi Ubuntu 18.04 tai uudemman.&lt;/p>
-&lt;h2 id="uusia-ominaisuuksia">Uusia ominaisuuksia&lt;/h2>
-&lt;h3 id="kirjanpitoaineiston-muodostamisen-valinnat">Kirjanpitoaineiston muodostamisen valinnat&lt;/h3>
-&lt;img src="/img/screenshots/aineistodlg.png" class="img-responsive"/>
-&lt;p>Kirjanpitoaineistoa muodostettaessa voit valita, mitä kaikkea aineistoon sisällytetään. Pääset myös säätämään tositteiden kuvanlaatua (parempi laatu tuottaa isomman tiedoston).&lt;/p>
-&lt;p>&lt;strong>Aiemmissa versioissa on havaittu ongelmia kirjanpitoaineiston muodostamisesta Maceillä ja toivomme erityisesti palautetta siitä, onko näistä ongelmista päästy tämän päivityksen myötä eroon.&lt;/strong>&lt;/p>
-&lt;h3 id="tositekooste-sähköisistä-tositteista">Tositekooste sähköisistä tositteista&lt;/h3>
-&lt;img src="/img/screenshots/tositekooste.png" class="img-responsive"/>
-&lt;p>Kirjanpidosta voi tulostaa koosteen sähköisistä tositteista tietyltä aikaväliltä, kohdennukselta tai tililtä. Näin yhdistyksten on helppo poimia avustusselvitykseen kaikki tiettyä hanketta koskevat kuitit.&lt;/p>
-&lt;h3 id="poistetun-tositteen-palauttaminen">Poistetun tositteen palauttaminen&lt;/h3>
-&lt;img src="/img/screenshots/poistettuja.png" class="img-responsive"/>
-&lt;p>Ohjelmassa pääsee selaamaan myös poistettuja tositteita ja vahingossa poistetun tositteen voi palauttaa kirjanpitoon.&lt;/p>
-&lt;h3 id="huomiomerkin-asettaminen-tositteeseen">Huomiomerkin asettaminen tositteeseen&lt;/h3>
-&lt;img src="/img/screenshots/huomiomerkit.png" class="img-responsive"/>
-&lt;p>Tositteelle voi asettaa huomiomerkin muistuttamaan siitä, että tositteelle pitää vielä tehdä jotain. Selauksessa saa helposti poimittua kaikki huomiomerkillä merkityt tositteet.&lt;/p>
-&lt;h3 id="tositteiden-kommentointi-vain-pilvessä">Tositteiden kommentointi (vain pilvessä)&lt;/h3>
-&lt;img src="/img/screenshots/kommentti.png" class="img-responsive"/>
-&lt;p>Pilveen tallennettuihin tositteisiin voidaan lisätä kommentteja. Kommentin voi lisätä myös lukitulle tilikaudelle, jota ei muuten pääse muokkaamaan.&lt;/p>
-&lt;h3 id="mahdollisuus-kirjata-arvonlisävero-maksettava-arvonlisävero--tilin-kautta">Mahdollisuus kirjata arvonlisävero Maksettava arvonlisävero -tilin kautta&lt;/h3>
-&lt;p>Ohjelmaan on lisätty vaihtoehto, jossa arvonlisäveroilmoituksen yhteydessä alv kirjataan Maksettava arvonlisävero-tilille, josta käyttäjä kirjaa sen OmaVero-tilityksen yhteydessä verovelkojen tilille. Menetelmän avulla voi paremmin seuraa OmaVero-tilin saldoa kirjanpidossa.&lt;/p>
-&lt;h2 id="korjauksia-ohjelmaan">Korjauksia ohjelmaan&lt;/h2>
-&lt;ul>
-&lt;li>Tuloverojen kirjausdialogia on korjattu (Yle-vero)&lt;/li>
-&lt;li>Kitupiikistä tuominen toimii jälleen&lt;/li>
-&lt;li>Tiliotteen muokkaaminen säilyttää maksuperusteisen arvonlisäveron erityisviennit&lt;/li>
-&lt;li>Laskutuksessa marginaalimyynnin verotiedoissa kirjautuu myös oletusalv-prosentti&lt;/li>
-&lt;li>Alv-ilmoituksessa negatiivisten bruttokirjausten oikaisut näkyvät oikein&lt;/li>
-&lt;li>Alv:n alarajahuojennuksen kirjautuminen valitun alv-kirjaustavan mukaisesti&lt;/li>
-&lt;li>Y-tunnuksen muoto valvotaan tarkemmin&lt;/li>
-&lt;/ul>
 &lt;h2 id="palaute-tervetullutta">Palaute tervetullutta&lt;/h2>
 &lt;p>Otamme mielellämme palautetta vastaan osoitteessa &lt;a href="mailto:palaute@kitsas.fi">palaute@kitsas.fi&lt;/a>&lt;/p>
 &lt;img src="/img/versions/23esikko.png">
