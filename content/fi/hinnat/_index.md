@@ -230,7 +230,7 @@ Ennen tilauksen tekemistä ehdit siis varmistua, että palvelu todella vastaa od
 
 <h3>Verkkolaskut</h3>
 
-Kitsaassa on mahdollista käyttää myös omaa verkkolaskutussopimusta suoraan verkkolaskuoperaattorin kanssa. Tällöin verkkolaskutusoperaattori laskuttaa suoraan käyttäjää oman hinnastonsa mukaisesti. Oman operaattorin käyttämistä ei ole integroitu yhtä hyvin kuin ohjelmiston kautta käyttöön otettua Kitsaan verkkolaskutusta. Katso tarkemmin [verkkolaskutuksen ohjeista](docs/asetukset/verkkolaskut/).
+Kitsaassa on mahdollista käyttää myös omaa verkkolaskutussopimusta suoraan verkkolaskuoperaattorin kanssa. Tällöin verkkolaskutusoperaattori laskuttaa suoraan käyttäjää oman hinnastonsa mukaisesti. Oman operaattorin käyttämistä ei ole integroitu yhtä hyvin kuin ohjelmiston kautta käyttöön otettua Kitsaan verkkolaskutusta. Katso tarkemmin [verkkolaskutuksen ohjeista](../docs/asetukset/verkkolaskut/).
 
 Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kautta ja käytetään Kitsaan hinnoittelua
 
