@@ -17,7 +17,7 @@ Nämä ohjeet koskevat kirjanpitokohtaista varmennetta. [Ohjeet tilitoimistolle 
 
 ### Vero API ja rajapintahakemus
 
-Arvonlisäveroilmoituksen sähköinen antaminen Kitsaassa käyttää Verohallinnon **Vero API** ‑rajapintapalvelua. Kirjaudu [Verohallinnon varmennepalveluun](https://varmennepalvelu.vero.fi/tuotanto/kirjaudu?lang=fi), tunnistaudu ja valitse yritys. Tarkista **ensimmäiseltä näytöltä**, mitkä **rajapinnat** ovat käytössä. Jos **Vero API** puuttuu käytöstä yritykselläsi, tee **rajapintahakemus** ennen kuin tilaat varmenteen. Rajapintahakemuksen tekeminen edellyttää nimenkirjoitusoikeutta tai Suomi.fi-valtuutusta.
+Arvonlisäveroilmoituksen sähköinen antaminen Kitsaassa käyttää Verohallinnon **Vero API** ‑rajapintapalvelua. Kirjaudu [Verohallinnon varmennepalveluun](https://varmennepalvelu.vero.fi/tuotanto/kirjaudu?lang=fi) ja valitse yritys. Tarkista **ensimmäiseltä näytöltä**, mitkä **rajapinnat** ovat käytössä. Jos **Vero API** puuttuu käytöstä yritykselläsi, tee **rajapintahakemus** ennen kuin tilaat varmenteen. Rajapintahakemuksen tekeminen edellyttää nimenkirjoitusoikeutta tai Suomi.fi-valtuutusta.
 
 ### Varmenteen hankkiminen
 
