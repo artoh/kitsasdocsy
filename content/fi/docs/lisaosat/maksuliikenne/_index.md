@@ -18,8 +18,8 @@ Aineiston siirrosta Kitsas Pron ja pankkitilin välillä, sovitaan pankin kanssa
 - Osuuspankki
 - Nordea
 - Holvi
-
-_Seuraavaksi kehitämme yhteyttä Danske Bankin ja OmaSP:n kanssa_
+- Danske Bank
+- OmaSP
 
 Kun haluat aktivoida Kitsas Pro Maksuliikenteen lisäosan maksuja varten, toimita Kitsaan helpdeskiin (kitsas.helpdesk@taopa.fi) vahvalla tunnistautumisella allekirjoitettu Maksujen vahvistamisen valtakirja. Mikäli haluat Maksuliikenne -lisäosan käyttöön **vain tiliotteiden noutoa varten**, toimitathan Kitsaan helpdeskiin tiedon kirjanpidoista, joihin kyseinen ominaisuus aktivoidaan. Huomioithan, että myös tiliotteiden noutoa varten avattu pankkiyhteyskanava tarvitsee maksuliikennevaltakirjan.
  
