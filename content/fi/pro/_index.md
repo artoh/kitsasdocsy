@@ -165,7 +165,7 @@ muutamalle olemmekin jo suositelleet!
 - Hinnoiteltu läpinäkyvästi ja Kitsaasti
 - Nopea käyttöönotto ja sopivan yksinkertainen ymmärtää
 - Tehokas perinteisempiin asiakkaisiin, edulliset sähköisen asiakkaan työkalut
-- Lisäosia tarpeen mukaan (Holvi, Palkanlaskenta, Pankkiyhteys, eTasku)
+- Lisäosia tarpeen mukaan (Holvi, Palkanlaskenta, Pankkiyhteys, Finago eTasku)
 
 <h3>Kitsas Pron ominaisuuksia</h3>
 
@@ -270,7 +270,7 @@ muutamalle olemmekin jo suositelleet!
     </tr>        
   </tbody>
    <tr>
-     <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
+     <td>Kirjanpitoaineiston noutaminen Finago eTaskusta</td>
       <td class="default">
         <span class="txt-l">1,00</span> <span class="txt-top">&euro;/kk</span>
       </td>

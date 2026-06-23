@@ -312,7 +312,7 @@ Verkkolaskujen hinnat, kun verkkolaskutus on otettu käyttöön ohjelmiston kaut
       <td class="default"><span class="txt-l">5,00</span> <span class="txt-top">&euro;/kk</span></td>
     </tr> 
        <tr>
-     <td>Kirjanpitoaineiston noutaminen eTaskusta</td>
+     <td>Kirjanpitoaineiston noutaminen Finago eTaskusta</td>
       <td class="default">
       <span class="txt-l">1,00</span> <span class="txt-top">&euro;/kk</span>
       </td>
