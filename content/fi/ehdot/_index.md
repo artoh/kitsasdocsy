@@ -360,7 +360,7 @@ Kitsas Oy noutaa pankkien tilitapahtumat [GoCardless](https://gocardless.com/)in
 
 ### Lainkäyttöalue
 
-Kitsaan pilvipalvelut käyttävät Googlen datakeskuksia Haminassa ja Eemshavenissa Alankomaissa. Haminan osalta infrastruktuuri on Suoomen ja EU:n lainsäädännön alaista ja Eemshavenin osalta Alankomaiden ja EU:n lainsäädönnön alaista.
+Kitsaan pilvipalvelut käyttävät Google Irelandin datakeskuksia Haminassa ja Eemshavenissa Alankomaissa. Google Ireland on Irlannin ja sen myötä EU:n lainsäädännön alainen yritys. Haminan osalta infrastruktuuri on Suoomen ja EU:n lainsäädännön alaista ja Eemshavenin osalta Alankomaiden ja EU:n lainsäädönnön alaista. 
 
 ### Toimenpiteet kolmannen maan viranomaisten laittoman pääsyn estämiseksi
 
@@ -372,7 +372,7 @@ Pääsy tietoihin on rajattu käyttöoikeuksin. Asiakkaille tarjotaan mahdollisu
 
 Kaikki asiakkaiden palvelimille tallentamat tiedot säilytetään salattuina. Salauksesta huolehtii palveluntarjoajamme Google. 
 
- Google ei ollut vielä 12.8.2025 antanut omaa datasäädöksen mukaista ilmoitustaan toimista kolmannen maan viranomaisten laittoman pääsyn estämiseksi. Seuraamme tilannetta.
+Google Ireland [ilmoittaa](https://policies.google.com/terms/information-requests) että se luovuttaa tietoja vain jos luvuttaminen noudattaa Irlannin lakeja ja kaikkea Irlannissa voimassaolevaa EU-lainsäädäntöä.
 
 
 </div>
