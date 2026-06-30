@@ -187,7 +187,7 @@ Vaohtoprosessi alkaa siirtymäajalla, jonka aikana Kitsas Oy tarjoaa asiakkaalle
 Jos siirto ei olisi teknisesti toteutettavissa normaalin siirtymäajan jälkeen, Kitsas Oy voi pidentää siirtymäaikaa, kuitenkin enintään seitsemän kuukauden pituiseksi. Tässä tapauksessa Kitsas Oy:n on ilmoitettava asiakkaalle viivästyksestä ja sen perusteluista 14 työpäivän kuluessa vaihtoilmoituksen vastaanottamisesta. 
 
 
-#### 5. Palveluntarjoajan velvollisuudet vaihtoprosessin aikana
+#### 6. Palveluntarjoajan velvollisuudet vaihtoprosessin aikana
 
 Palveluntarjoaja (Kitsas Oy) sitoutuu antamaan kohtuullista apua asiakkaalle ja asiakkaan valtuuttamille kolmansille osapuolille koko vaihtoprosessin keston ajan, jotta asiakas voi vaihtaa pakollisen siirtymäajan kuluessa. Tätä varten palveluntarjoajan on
 erityisesti
@@ -197,14 +197,14 @@ erityisesti
 tietojen turvallisuuden osalta niiden siirron aikana. 
 
 
-#### 6. Asiakkaan velvollisuudet
+#### 7. Asiakkaan velvollisuudet
 
 1. Asiakas sitoutuu toteuttamaan kaikki kohtuulliset toimenpiteet tehokkaan vaihdon toteuttamiseksi. Asiakas sitoutuu vastaamaan Datan viemisestä omiin järjestelmiinsä tai kohdepalveluntarjoajan järjestelmiin.
 2. Asiakas tai hänen valtuuttamansa kolmannet osapuolet, mukaan lukien määränpään palveluntarjoaja, sitoutuvat kunnioittamaan vaihtoprosessissa toimitetun aineiston immateriaalioikeuksia sekä palveluntarjoajan liikesalaisuuksia. Asiakas sitoutuu antamaan pääsyn näiden aineistojen käyttöön kolmansille osapuolille tai määränpääpalveluntarjoajalle
 vain siltä osin kuin se on tarpeen vaihtoprosessin loppuun saattamiseksi sovitun siirtymäkauden loppuun, mukaan lukien vaihtoehtoinen siirtymäkausi, noudattaen samalla luottamuksellisuussitoumuksia sekä sopimuskumppanin myöntämiä teollis- ja tekijänoikeuksia.
 
 
-#### 7. Tietojen hakeminen ja poisto
+#### 8. Tietojen hakeminen ja poisto
 
 Asiakas tai asiakkaan valtuuttama kolmas osapuoli voi noutaa siirrettävissä olevat tiedot Kitsas Oy:n tarjoaman rajapinnan kautta. Suurelta osin sama JSON-muotoinen data on haettavissa tiedostoina lataamalla Kitsas-työpöytäohjelmasta kirjanpito-arkisto. Lisäksi osa datasta on saatavilla Kitsas-ohjelmasta CSV-muotoisina raportteina.
 
@@ -213,7 +213,7 @@ Luettelo siirrettävissä olevasta datasta tietoluokittain on saatavilla osoitte
 Hakuajan päätyttyä ja jos vaihtoprosessi on saatettu päätökseen onnistuneesti, Kitsas Oy sitoutuu poistamaan kaikki vietävät tiedot, jotka asiakas on tuottanut tai liittyvät suoraan asiakkaaseen ja vahvistamaan asiakkaalle, tehneensä näin, lukuun ottamatta mahdollisia sellaisia tietoja, jotka Kitsas Oy on velvollinen säilyttämään EU:n tai paikallisen lainsäädännön nojalla.
 
 
-#### 8. Vaihtoprosessin epäonnistuminen
+#### 9. Vaihtoprosessin epäonnistuminen
 
 Jos vaihtoprosessin loppuun saattaminen ei onnistu, asiakkaan ja palveluntarjoajan on tehtävä vilpittömässä mielessä yhteistyötä selvittääkseen ja ratkaistakseen tilanteen vaihtoprosessin parantamiseksi tavoitteena vaihtoprosessin onnistunut loppuunsaattaminen, oikea-aikainen tiedonsiirto ja jatkuvuuden säilyttäminen.
 Palvelut. Palveluntarjoajan on erityisesti asiakkaan pyynnöstä tuettava asiakasta 
