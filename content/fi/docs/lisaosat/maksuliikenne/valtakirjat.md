@@ -64,7 +64,7 @@ Valtuuttajan ja aineistonhoitajan tiedot
 |**Aineistonhoitajan tiedot**|| 
 |Yrityksen nimi|Talouden Ohjelmistopalvelut Taopa Oy|
 |Y-tunnus|3117100-5| 
-|Yhteyshenkilön nimi|Kitsas Helpdesk / Nadina Hakkarainen| 
+|Yhteyshenkilön nimi|Kitsas Helpdesk| 
 |Puhelinnumero|010 397 6710|
 |Aineistonsiirtokanavan käyttäjätunnus|1000078638| 
 |Jos aiempia käyttöoikeuksia halutaan samalla poistaa|Ruksitaan kohta _Aiempien aineistonhoitajien käyttöoikeudet poistetaan_ ja täytetään vanhan aineistonhoitajan nimi + poistopäivä| 
@@ -106,7 +106,7 @@ nimenkirjoittajan yhteystiedot
 |--|--|
 |Valtuutetun välittäjän nimi|Talouden Ohjelmistopalvelut Taopa Oy|
 |Y-tunnus|3117100-5| 
-|Yhteyshenkilö|Kitsas Helpdesk / Nadina Hakkarainen| 
+|Yhteyshenkilö|Kitsas Helpdesk| 
 |Puhelinnumero|010 397 6710|
 |Sähköpostiosoite|kitsas.helpdesk@taopa.fi|
 |Aineiston välityskanava|Web Services|
