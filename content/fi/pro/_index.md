@@ -65,7 +65,7 @@ Kitsas Pron hinnoittelu on yksinkertaista ja läpinäkyvää - perinteisten asia
         <p class="hinnat__kk">/kk + alv 25,5% </p>
       </div>
       <div class="hintapro__info">
-        Totutuneet tapahtumamaksut veloitetaan hinnaston mukaisesti
+        Toteutuneet tapahtumamaksut veloitetaan hinnaston mukaisesti
       </div>
     </div>
   </div>

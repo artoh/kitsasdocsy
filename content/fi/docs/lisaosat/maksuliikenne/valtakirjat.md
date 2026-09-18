@@ -123,7 +123,6 @@ Monivalintakohtaan valitaan halutut palvelut:
 * Yrityksen maksut -palvelu 
 * Konekielinen tiliote (XML)
 * Saapuvat viitemaksut (XML, jos tehdään myyntilaskutusta, niin hyvä ottaa käyttöön)
-* Saldo ja tapahtumaote 
 
 
 **Palveluiden käyttöönotto** = päivämäärä, jolloin palvelu toivotaan käyttöön  
