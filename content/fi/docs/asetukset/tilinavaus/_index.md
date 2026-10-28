@@ -29,6 +29,8 @@ Jos tilikarttaa on Kitupiikkiin siirryttäessä muutettu, pitäisi tilinavaukset
 
 Samalla näytöllä syötetään myös **henkilöstön keskimäärä** edellisen tilikauden aikana. Tämä lukumäärä tulostuu vertailutietona tilinpäätöksen liitetietoihin sekä vaikuttaa siihen, voiko tilinpäätöksessä soveltaa mikro- tai pienyrityssääntöjä.
 
+Tilinavaus-työkalu tukee maksimissaan 5-numeroisia tilejä.
+
 {{<alert title="Tilinpäätös ei ole vielä valmis?">}}
 
 Voit aloittaa kirjaamisen, vaikka edellisen tilikauden tilinpäätös ei olisi valmis eikä tilinavausta olisi tehty. Taseesta tehtävät tulosteet ovat kuitenkin virheellisiä kunnes tilinavaus on tehty.

@@ -13,7 +13,7 @@ description: >
 
 ### Työntekijät
 
-Voit lisätä työntekijäksi uuden käyttäjän. (Vanhoille käyttäjille voi tilitoimistonäkymästä vain myöntää oikeuksia hyllyihin ja kirjanpitoihin.) Lisätävälle käyttäjälle voi samalla määritellä toimistotason roolin. Roolit yksittäisiin hyllyihin ja mahdolliset roolien lisälksi uelvat yksittäiset oikeudet voi määritellä kyseisen hyllyn oikeuksien sivulla. 
+Voit lisätä työntekijäksi uuden käyttäjän. (Vanhoille käyttäjille voi tilitoimistonäkymästä vain myöntää oikeuksia hyllyihin ja kirjanpitoihin.) Lisättävälle käyttäjälle voi samalla määritellä toimistotason roolin. Roolit yksittäisiin hyllyihin ja mahdolliset roolien lisälksi uelvat yksittäiset oikeudet voi määritellä kyseisen hyllyn oikeuksien sivulla. 
 
 Pääset tarkastelemaan työntekijän oikeuksia tarkemmin klikkaamalla työntekijän nimeä listassa. 
 
